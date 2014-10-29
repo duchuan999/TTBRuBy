@@ -1,0 +1,120 @@
+en:
+  # control
+  yes: "Yes"
+  no: "No"
+  save: "Save"
+  new: "Add new"
+  back: "Return"
+  edit: "Edit"
+  delete: "Delete"
+  will_paginate:
+    page_gap: "&hellip;"
+    previous_label: "Prev"
+    next_label: "Next"
+  # end control
+  # navbar
+  business: "Professional management"
+  categories: "Categories"
+  manage_users: "Users management"
+  settings: "Settings"
+  languages: "Languages"
+  # end navbar
+
+  # left menu categories
+  group: "Group"
+  navigation: "Navigation"
+  other: "Other"
+
+  # end left menu categories
+
+  category:
+    slidebar:
+       nhombaocao: "Group reports"
+       nhomin: "Nhóm in"
+       nhomnuoc: "Nhóm nước sản xuất"
+       nhomhangsx: "Nhóm nhà cung cấp"
+       nhomnhacc: "Mhóm nhà cung cấp"
+
+
+  dmnhomnuocsxes:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm nước sản xuất"
+    new:
+      header: "Thêm mới nhóm nước sản xuất"
+    edit:
+      header: "Cập nhật nhóm nước sản xuất: "
+    delete:
+      header: "Xác nhận xóa"
+  dmnhomhangsxes:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm hãng sản xuất"
+    new:
+      header: "Thêm mới nhóm hãng sản xuất"
+    edit:
+      header: "Cập nhật nhóm hãng sản xuất: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhomnhaccs:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm nhà cung cấp"
+    new:
+      header: "Thêm mới nhóm nhà cung cấp"
+    edit:
+      header: "Cập nhật nhóm nhà cung cấp"
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhomins:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm in"
+    new:
+      header: "Thêm mới nhóm in"
+    edit:
+      header: "Cập nhật nhóm in: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhombcs:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm "
+    new:
+      header: "Thêm mới nhóm "
+    edit:
+      header: "Cập nhật nhóm : "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnuocsx:
+   stt: "STT"
+   ten: "Tên Nước SX"
+   dmnhomnuocsx_id: "Nhóm"
+   keysearch: "Ex: Viet Nam, USA..."
+   promt: "Chọn nhóm..."
+   question: "Bạn có muốn xóa thông tin  Nước SX: "
+   index:
+    header: "Danh sách  Nước SX"
+   new:
+     header: "Thêm mới  Nước SX"
+   delete:
+     header: "Xác nhận xóa"

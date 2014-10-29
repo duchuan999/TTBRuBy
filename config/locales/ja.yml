@@ -1,0 +1,28 @@
+ja:
+  # control
+  yes: "はい"
+  no: "いいえ"
+  new: "新しい"
+  back: "バック"
+  edit: "編集"
+  delete: "削除"
+  save: "保存"
+  will_paginate:
+    page_gap: "&hellip;"
+    previous_label: "前の"
+    next_label: "次の"
+  # end control
+  # navbar
+  employees: "人的資源"
+  categories: "カテゴリー"
+  manage_users: "ユーザー管理"
+  settings: "設定"
+  languages: "言語"
+  # end navbar
+
+  # left menu categories
+  group: "Nhóm"
+  navigation: "Danh mục"
+  other: "Khác"
+  # end left menu categories
+

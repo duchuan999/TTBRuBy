@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="232483504">
+    <data-source source="LOCAL" name="Rails TTBRuBy: development" uuid="f80bbbd3-90d4-4374-81d0-40ab4065b685">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5433/cyber_amg_ror</jdbc-url>
+      <user-name>medisoft</user-name>
+      <user-password>dfc6dfc3dfc4dfc1dfd9df9bdf93df98df9a</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails TTBRuBy: test" uuid="6c1e83d7-d87a-4c6c-9706-8a57b2bfaac6">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:TTBRuBy_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails TTBRuBy: production" uuid="14cbe9b1-b48e-4356-8bcd-da2ec344e998">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:TTBRuBy_production</jdbc-url>
+      <user-name>TTBRuBy</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedffedfe8dff8dfffdfe8dff3dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

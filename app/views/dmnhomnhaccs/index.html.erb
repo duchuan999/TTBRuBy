@@ -1,0 +1,23 @@
+  <h1 class="pull-left"><%= t "dmnhomnhaccs.index.header" %></h1>
+  <%= link_to new_dmnhomnhacc_path ,  remote: true,class: "btn btn-primary pull-right" do %>
+      <i class="glyphicon glyphicon-plus-sign"></i> <%= t('new') %>
+  <% end %>
+  <div class="clearfix"></div>
+<div class="new-form"></div>
+<table class="table table-hover ta">
+  <thead>
+  <tr>
+    <th style="width: 150px;"><%= t "dmnhomnhaccs.stt" %></th>
+    <th><%= t "dmnhomnhaccs.ten" %></th>
+    <td style="width: 60px;">&nbsp;</td>
+  </tr>
+  </thead>
+  <tbody class="form-index">
+  <%= render "index" %>
+  </tbody>
+</table>
+<div id="form-modal" class="modal fade">
+  <div class="modal-dialog">
+    <div id="inner-form-modal" class="modal-content"></div>
+  </div>
+</div>

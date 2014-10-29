@@ -1,0 +1,150 @@
+vi:
+  # control
+  yes: "Đồng ý"
+  no: "Không"
+  new: "Thêm mới"
+  back: "Trở về"
+  edit: "Cập nhật"
+  delete: "Xóa"
+  save: "Lưu"
+  will_paginate:
+    page_gap: "&hellip;"
+    previous_label: "Trước"
+    next_label: "Sau"
+  # end control
+  # navbar
+  business: "Quản lý nghiệp vụ"
+  categories: "Quản lý danh mục"
+  manage_users: "Quản lý người dùng"
+  settings: "Cấu hình hệ thống"
+  languages: "Ngôn ngữ"
+  # end navbar
+
+  # left menu categories
+  group: "Nhóm"
+  navigation: "Danh mục"
+  other: "Khác"
+
+   # end left menu categories
+
+  category:
+    slidebar:
+      nhombaocao: "Nhóm báo cáo"
+      nhomin: "Nhóm in"
+      nhomnuoc: "Nhóm nước sản xuất"
+      nhomhangsx: "Nhóm hãng sản xuất"
+      nhomnhacc: "Mhóm nhà cung cấp"
+      nuocsx: "Nước sản xuất"
+      hangsx: "Hãng sản xuất"
+      nhacungcap: "Nhà cung cấp"
+      nguon: "Nguồn"
+      nhom: "Nhóm"
+      kho: "Kho"
+      donvitinh: "Đơn vị tính"
+      loaiphieu: "Loại phiếu"
+      khoaphong: "Khoa phòng"
+      trangthietbi: "Trang thiết bị"
+      dmnx: "Nhập xuất"
+      phamchat: "Phẩm chất"
+      nguongoc: "Nguồn gốc"
+      tinhtrang: "Tình trạng"
+      noisc: "Nơi sửa chữa"
+      lydoxuat: "Lý do xuất"
+      lydohoantra: "Lý do hoàn trả"
+      khaibaogoi: "Khai báo gói trang thiết bị"
+
+  dmnhomnuocsxes:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm nước sản xuất"
+    new:
+      header: "Thêm mới nhóm nước sản xuất"
+    edit:
+      header: "Cập nhật nhóm nước sản xuất: "
+    delete:
+      header: "Xác nhận xóa"
+  dmnhomhangsxes:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm hãng sản xuất"
+    new:
+      header: "Thêm mới nhóm hãng sản xuất"
+    edit:
+      header: "Cập nhật nhóm hãng sản xuất: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhomnhaccs:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm nhà cung cấp"
+    new:
+      header: "Thêm mới nhóm nhà cung cấp"
+    edit:
+      header: "Cập nhật nhóm nhà cung cấp"
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhomins:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm in"
+    new:
+      header: "Thêm mới nhóm in"
+    edit:
+      header: "Cập nhật nhóm in: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhombcs:
+    stt: "Stt"
+    ma: "Mã nhóm"
+    ten: "Tên nhóm"
+    question: "Bạn có muốn xóa nhóm  này: "
+    index:
+      header: "Danh sách nhóm "
+    new:
+      header: "Thêm mới nhóm "
+    edit:
+      header: "Cập nhật nhóm : "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnuocsx:
+   stt: "STT"
+   ten: "Tên Nước SX"
+   dmnhomnuocsx_id: "Nhóm"
+   keysearch: "Ví dụ: Việt Nam, USA..."
+   promt: "Chọn nhóm..."
+   question: "Bạn có muốn xóa thông tin  Nước SX: "
+   index:
+    header: "Danh sách  Nước SX"
+   new:
+     header: "Thêm mới  Nước SX"
+   delete:
+     header: "Xác nhận xóa"
+  dmhangsx:
+    stt: "STT"
+    ten: "Tên Hãng SX"
+    dmnhomnhangsx_id: "Nhóm"
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin  Hãng SX: "
+    index:
+     header: "Danh sách  Hãng SX"
+    new:
+      header: "Thêm mới  Hãng SX"
+    delete:
+      header: "Xác nhận xóa"

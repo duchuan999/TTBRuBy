@@ -38,7 +38,7 @@ vi:
       hangsx: "Hãng sản xuất"
       nhacungcap: "Nhà cung cấp"
       nguon: "Nguồn"
-      nhom: "Nhóm"
+      nhom: "Nhóm trang thiết bị"
       kho: "Kho"
       donvitinh: "Đơn vị tính"
       loaiphieu: "Loại phiếu"
@@ -130,11 +130,15 @@ vi:
    promt: "Chọn nhóm..."
    question: "Bạn có muốn xóa thông tin  Nước SX: "
    index:
-    header: "Danh sách  Nước SX"
+     header: "Danh sách  Nước SX"
    new:
      header: "Thêm mới  Nước SX"
+   edit:
+      header: "Cập nhật  Nước SX"
    delete:
      header: "Xác nhận xóa"
+
+
   dmhangsx:
     stt: "STT"
     ten: "Tên Hãng SX"
@@ -143,28 +147,82 @@ vi:
     promt: "Chọn nhóm..."
     question: "Bạn có muốn xóa thông tin  Hãng SX: "
     index:
-     header: "Danh sách  Hãng SX"
+      header: "Danh sách  Hãng SX"
     new:
       header: "Thêm mới  Hãng SX"
+    edit:
+      header: "Cập nhật hãng SX"
     delete:
       header: "Xác nhận xóa"
 
   dmnhacc:
-      stt: "STT"
-      ma: "Mã"
-      ten: "Tên nhà cung cấp"
-      diachi: "Địa chỉ"
-      mst: "Mã số thuế"
-      dt: "Điện thoại"
-      stk: "Số TK"
-      daidien: "Đại diện"
-      dmnhomnhacc_id: "Nhóm"
-      keysearch: "Ví dụ: ...."
-      promt: "Chọn nhóm..."
-      question: "Bạn có muốn xóa thông tin  nhà cung cấp: "
-      index:
-       header: "Danh sách  nhà cung cấp"
-      new:
-        header: "Thêm mới  nhà cung cấp"
-      delete:
-        header: "Xác nhận xóa"
+    stt: "STT"
+    ma: "Mã"
+    ten: "Tên nhà cung cấp"
+    diachi: "Địa chỉ"
+    mst: "Mã số thuế"
+    dt: "Điện thoại"
+    stk: "Số TK"
+    daidien: "Đại diện"
+    dmnhomnhacc_id: "Nhóm"
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin  nhà cung cấp: "
+    index:
+      header: "Danh sách  nhà cung cấp"
+    new:
+      header: "Thêm mới  nhà cung cấp"
+    edit:
+      header: "Cập nhật nhà cung cấp"
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnguon:
+    stt: "Stt"
+    ma: "Mã nguồn"
+    ten: "Tên nguồn"
+    question: "Bạn có muốn xóa nguồn  này: "
+    index:
+      header: "Danh sách nguồn"
+    new:
+      header: "Thêm mới nguồn"
+    edit:
+      header: "Cập nhật nguồn: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmnhom:
+    stt: "STT"
+    ma: "Mã"
+    ten: "Tên nhóm trang thiết bị "
+    dmnhomin_id: "Nhóm in"
+    dmnhombc_id: "Nhóm báo cáo"
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin nhóm trang thiết bị: "
+    index:
+      header: "Danh sách  nhóm trang thiết bị"
+    new:
+      header: "Thêm mới  nhóm trang thiết bị"
+    edit:
+      header: "Cập nhật nhóm trang thiết bị"
+    delete:
+      header: "Xác nhận xóa"
+
+  dmkho:
+    stt: "STT"
+    ten: "Tên kho "
+    dmloaikho_id: "Nhóm "
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin kho: "
+    index:
+      header: "Danh sách kho"
+    new:
+      header: "Thêm mới  kho"
+    edit:
+      header: "Cập nhật kho"
+    delete:
+      header: "Xác nhận xóa"
+
+

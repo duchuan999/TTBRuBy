@@ -1,17 +1,15 @@
-
-  <h1 class="pull-left"><%= t "dmnuocsx.index.header" %></h1>
-  <%= link_to new_dmnuocsx_path, remote: true, class: "btn btn-primary pull-right" do %>
+  <h1 class="pull-left"><%= t "dmnhom.index.header" %></h1>
+  <%= link_to new_dmnhom_path, remote: true, class: "btn btn-primary pull-right" do %>
       <i class="glyphicon glyphicon-plus-sign"></i> <%= t('new') %>
   <% end %>
   <div class="clearfix"></div>
-
 <div class="new-form"></div>
-<%= form_tag dmnuocsxes_path, :method => 'get', :id => "ajax_search" do %>
+<%= form_tag dmnhoms_path, :method => 'get', :id => "ajax_search" do %>
     <div class="row">
       <div class="col-lg-6">
         <div class="input-group">
           <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
-          <%= text_field_tag :search, params[:search], :placeholder => t('dmnuocsx.keysearch'), :class => "form-control" %>
+          <%= text_field_tag :search, params[:search], :placeholder => t('dmnhom.keysearch'), :class => "form-control" %>
         </div>
       </div>
     </div>

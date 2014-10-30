@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
 
-
-
   scope ":locale", locale: /#{I18n.available_locales.join("|")}/ do
     root to: 'pages#home'
     resources :dmnhomnuocsxes do
@@ -28,6 +26,16 @@ Rails.application.routes.draw do
     resources :dmnhaccs do
       get "delete"
     end
+    resources :dmnguons do
+      get "delete"
+    end
+    resources :dmnhoms do
+      get "delete"
+    end
+    resources :dmkhos do
+      get "delete"
+    end
+
     get 'pages/about'
 
   end

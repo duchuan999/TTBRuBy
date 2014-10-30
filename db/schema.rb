@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141030034326) do
+ActiveRecord::Schema.define(version: 20141030082828) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -28,6 +28,36 @@ ActiveRecord::Schema.define(version: 20141030034326) do
   end
 
   add_index "dmhangsxes", ["dmnhomhangsx_id"], name: "index_dmhangsxes_on_dmnhomhangsx_id", using: :btree
+
+  create_table "dmkhos", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.integer  "dmloaikho_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "dmkhos", ["dmloaikho_id"], name: "index_dmkhos_on_dmloaikho_id", using: :btree
+
+  create_table "dmloaikho", force: true do |t|
+    t.string   "ten",    limit: 30
+    t.datetime "ngayud",            default: "now()"
+  end
+
+  create_table "dmloaikhos", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "dmnguons", force: true do |t|
+    t.string   "stt"
+    t.string   "ten"
+    t.string   "nhom"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "dmnhaccs", force: true do |t|
     t.integer  "stt"
@@ -79,6 +109,18 @@ ActiveRecord::Schema.define(version: 20141030034326) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "dmnhoms", force: true do |t|
+    t.string   "stt"
+    t.string   "ten"
+    t.integer  "dmnhombc_id"
+    t.integer  "dmnhomin_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "dmnhoms", ["dmnhombc_id"], name: "index_dmnhoms_on_dmnhombc_id", using: :btree
+  add_index "dmnhoms", ["dmnhomin_id"], name: "index_dmnhoms_on_dmnhomin_id", using: :btree
 
   create_table "dmnuocsxes", force: true do |t|
     t.integer  "stt"

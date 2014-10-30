@@ -33,7 +33,7 @@ vi:
       nhomin: "Nhóm in"
       nhomnuoc: "Nhóm nước sản xuất"
       nhomhangsx: "Nhóm hãng sản xuất"
-      nhomnhacc: "Mhóm nhà cung cấp"
+      nhomnhacc: "Nhóm nhà cung cấp"
       nuocsx: "Nước sản xuất"
       hangsx: "Hãng sản xuất"
       nhacungcap: "Nhà cung cấp"
@@ -148,3 +148,23 @@ vi:
       header: "Thêm mới  Hãng SX"
     delete:
       header: "Xác nhận xóa"
+
+  dmnhacc:
+      stt: "STT"
+      ma: "Mã"
+      ten: "Tên nhà cung cấp"
+      diachi: "Địa chỉ"
+      mst: "Mã số thuế"
+      dt: "Điện thoại"
+      stk: "Số TK"
+      daidien: "Đại diện"
+      dmnhomnhacc_id: "Nhóm"
+      keysearch: "Ví dụ: ...."
+      promt: "Chọn nhóm..."
+      question: "Bạn có muốn xóa thông tin  nhà cung cấp: "
+      index:
+       header: "Danh sách  nhà cung cấp"
+      new:
+        header: "Thêm mới  nhà cung cấp"
+      delete:
+        header: "Xác nhận xóa"

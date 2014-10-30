@@ -27,7 +27,7 @@ class DmhangsxesController < ApplicationController
   end
 
   def create
-    @dmnuocsxes = Dmhangsx.search(params[:search]).order(sort_column + " " + sort_direction).paginate(:page => params[:page], :per_page => 12)
+    @dmhangsxes = Dmhangsx.search(params[:search]).order(sort_column + " " + sort_direction).paginate(:page => params[:page], :per_page => 12)
     @dmhangsx =Dmhangsx.create(dmhangsx_params)
   end
 

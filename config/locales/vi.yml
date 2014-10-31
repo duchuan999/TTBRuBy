@@ -225,4 +225,33 @@ vi:
     delete:
       header: "Xác nhận xóa"
 
+  dmdvt:
+    stt: "STT"
+    ten: "Tên đơn vị tính"
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin đơn vị tính: "
+    index:
+      header: "Danh sách đơn vị tính"
+    new:
+      header: "Thêm mới  đơn vị tính"
+    edit:
+      header: "Cập nhật đơn vị tính"
+    delete:
+      header: "Xác nhận xóa"
 
+  dmphieu:
+    stt: "STT"
+    ten: "Tên phiếu"
+    dmloaiphieu_id: "Thuộc nhóm"
+    keysearch: "Ví dụ: ...."
+    promt: "Chọn nhóm..."
+    question: "Bạn có muốn xóa thông tin phiếu: "
+    index:
+      header: "Danh sách phiếu"
+    new:
+      header: "Thêm mới phiếu"
+    edit:
+      header: "Cập nhật phiếu"
+    delete:
+      header: "Xác nhận xóa"

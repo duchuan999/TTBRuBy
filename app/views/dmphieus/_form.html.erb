@@ -1,0 +1,33 @@
+<%= form_for @dmphieu, :data => {remote: true}, :html => {:class => "form-horizontal", role: "form"} do |f| %>
+    <div class="modal-body">
+      <div class="row">
+        <ul class="errors"></ul>
+      </div>
+      <div class="row">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-6">
+          <div class="form-group">
+            <label for="stt"><%= t "dmphieu.stt" %></label>
+            <%= f.text_field :stt, class: "form-control" %>
+          </div>
+          <div class="form-group">
+            <label for="ten"><%= t "dmphieu.ten" %></label>
+            <%= f.text_field :ten, class: "form-control" %>
+          </div>
+          <div class="form-group">
+            <label for="vungdialy_id"><%= t "dmphieu.dmloaiphieu_id" %></label>
+            <%= f.select(:dmloaiphieu_id, Dmloaiphieu.all.collect { |c| [c.ten, c.id] }, {:prompt => t('dmphieu.promt')}, {:class => "form-control"}) %>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary">
+          <i class="glyphicon glyphicon-floppy-save"></i> <%= t "save" %>
+        </button>
+        <%= link_to dmphieus_path, class: "btn btn-default", data: {dismiss: "modal"} do %>
+            <i class="glyphicon glyphicon-chevron-left"></i> <%= t "back" %>
+        <% end %>
+      </div>
+      <div class="col-lg-3"></div>
+    </div>
+<% end %>

@@ -11,13 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141030082828) do
+ActiveRecord::Schema.define(version: 20141030090607) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "edb_dblink_libpq"
   enable_extension "edb_dblink_oci"
   enable_extension "dblink"
+
+  create_table "dmdvts", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "dmhangsxes", force: true do |t|
     t.integer  "stt"
@@ -39,12 +46,14 @@ ActiveRecord::Schema.define(version: 20141030082828) do
 
   add_index "dmkhos", ["dmloaikho_id"], name: "index_dmkhos_on_dmloaikho_id", using: :btree
 
-  create_table "dmloaikho", force: true do |t|
-    t.string   "ten",    limit: 30
-    t.datetime "ngayud",            default: "now()"
+  create_table "dmloaikhos", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
-  create_table "dmloaikhos", force: true do |t|
+  create_table "dmloaiphieus", force: true do |t|
     t.integer  "stt"
     t.string   "ten"
     t.datetime "created_at"
@@ -131,5 +140,15 @@ ActiveRecord::Schema.define(version: 20141030082828) do
   end
 
   add_index "dmnuocsxes", ["dmnhomnuocsx_id"], name: "index_dmnuocsxes_on_dmnhomnuocsx_id", using: :btree
+
+  create_table "dmphieus", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.integer  "dmloaiphieu_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "dmphieus", ["dmloaiphieu_id"], name: "index_dmphieus_on_dmloaiphieu_id", using: :btree
 
 end

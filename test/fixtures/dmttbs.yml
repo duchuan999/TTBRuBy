@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: 1
+  ma: MyString
+  ten: MyString
+  model: MyString
+  hamluong: MyString
+  congsuat: MyString
+  tylekh: MyString
+  sodk: MyString
+  sothe: MyString
+  hinh: MyString
+  dmdvt_id: 
+  dmnhom_id: 
+  dmhangsx_id: 
+  dmnuocsx_id: 
+  dmnhombc_id: 
+  dmnhomin_id: 
+
+two:
+  stt: 1
+  ma: MyString
+  ten: MyString
+  model: MyString
+  hamluong: MyString
+  congsuat: MyString
+  tylekh: MyString
+  sodk: MyString
+  sothe: MyString
+  hinh: MyString
+  dmdvt_id: 
+  dmnhom_id: 
+  dmhangsx_id: 
+  dmnuocsx_id: 
+  dmnhombc_id: 
+  dmnhomin_id: 

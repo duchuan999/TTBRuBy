@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: 
+  ten: MyString
+  dmloaikho_id: 
+
+two:
+  stt: 
+  ten: MyString
+  dmloaikho_id: 

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: MyString
+  ten: MyString
+  dmnhombc_id: 
+  dmnhomin: 
+
+two:
+  stt: MyString
+  ten: MyString
+  dmnhombc_id: 
+  dmnhomin: 

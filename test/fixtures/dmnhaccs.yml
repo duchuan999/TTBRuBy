@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: 1
+  ten: MyString
+  diachi: MyString
+  masothue: MyString
+  dt: MyString
+  sotk: MyString
+  daidien: MyString
+  dmnhomnhacc_id: 
+
+two:
+  stt: 1
+  ten: MyString
+  diachi: MyString
+  masothue: MyString
+  dt: MyString
+  sotk: MyString
+  daidien: MyString
+  dmnhomnhacc_id: 

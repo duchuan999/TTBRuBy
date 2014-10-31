@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: MyString
+  ten: MyString
+  nhom: MyString
+
+two:
+  stt: MyString
+  ten: MyString
+  nhom: MyString

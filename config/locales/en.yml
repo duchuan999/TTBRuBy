@@ -118,3 +118,33 @@ en:
      header: "Thêm mới  Nước SX"
    delete:
      header: "Xác nhận xóa"
+
+  dmttb:
+   stt: "STT"
+   ma: "Mã"
+   ten: "Trang thiết bị "
+   hamluong: "Hàm lượng"
+   model: "Model"
+   congsuat: "Công suất"
+   tylekh: "Tỷ lệ KH"
+   loaikh: "%/Year"
+   hinh: "Chọn hình:"
+   sodk: "Số đăng ký"
+   dmdvt_id: "Đơn vị tính"
+   dmnhom_id: "Loại "
+   dmhangsx_id: "Hãng sản xuất"
+   dmnuocsx_id: "Nước sản xuất"
+   dmnhomin_id: "Nhóm in"
+   dmnhombc_id: "Nhóm báo cáo"
+   keysearch: "Ví dụ: ...."
+   promt: "Chọn nhóm..."
+   promtdvt: "Chọn "
+   question: "Bạn có muốn xóa thông tin trang thiết bị: "
+   index:
+     header: "Danh sách  trang thiết bị"
+   new:
+     header: "Thêm mới  trang thiết bị"
+   edit:
+     header: "Cập nhật trang thiết bị"
+   delete:
+     header: "Xác nhận xóa"

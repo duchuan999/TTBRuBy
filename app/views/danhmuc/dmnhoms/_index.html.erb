@@ -1,0 +1,38 @@
+<%= hidden_field_tag :direction, params[:direction] %>
+<%= hidden_field_tag :sort, params[:sort] %>
+
+<table class="table table-hover">
+  <thead>
+  <tr>
+    <th style="width: 150px;"><%= t "dmnhom.stt" %></th>
+    <th> <%= t('dmnhom.ten') %></th>
+    <th><%=  t('dmnhom.dmnhombc_id') %></th>
+    <th><%=  t('dmnhom.dmnhomin_id') %></th>
+    <td style="width: 60px;">&nbsp;</td>
+  </tr>
+  </thead>
+  <tbody>
+  <% @dmnhoms.each do |dmnhom| %>
+      <tr>
+        <td><%= dmnhom.stt %></td>
+        <td><%= dmnhom.ten %></td>
+        <td><%= dmnhom.dmnhombc.ten %></td>
+        <td><%= dmnhom.dmnhomin.ten %></td>
+        <td><%= link_to edit_danhmuc_dmnhom_path(dmnhom), data: {remote: true}, :title => t('edit') do %>
+              <i class="glyphicon glyphicon-edit"></i>
+          <% end %>
+          <%= link_to danhmuc_dmnhom_delete_path(dmnhom), data: {remote: true}, :title => t('delete') do %>
+              <i class="glyphicon glyphicon-trash"></i>
+          <% end %>
+        </td>
+      </tr>
+  <% end %>
+  </tbody>
+  <tfoot id="table_paginate">
+  <tr class="text-center">
+    <td colspan="4">
+      <%= will_paginate @dmnhoms, renderer: BootstrapPagination::Rails %>
+    </td>
+  </tr>
+  </tfoot>
+</table>

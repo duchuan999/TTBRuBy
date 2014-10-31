@@ -1,0 +1,14 @@
+<% @dmnhomnuocsxes.each do |dmnhomnuocsx| %>
+    <tr>
+      <td><%= dmnhomnuocsx.stt %></td>
+      <td><%= dmnhomnuocsx.ten %></td>
+      <td><%= link_to edit_danhmuc_dmnhomnuocsx_path(dmnhomnuocsx), data: {remote: true}, :title => t('edit') do %>
+            <i class="glyphicon glyphicon-edit"></i>
+        <% end %>
+        <%= link_to danhmuc_dmnhomnuocsx_delete_path(dmnhomnuocsx), data: {remote: true}, :title => t('delete') do %>
+            <i class="glyphicon glyphicon-trash"></i>
+        <% end %>
+      </td>
+
+    </tr>
+<% end %>

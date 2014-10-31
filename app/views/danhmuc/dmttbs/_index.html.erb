@@ -1,0 +1,50 @@
+<%= hidden_field_tag :direction, params[:direction] %>
+<%= hidden_field_tag :sort, params[:sort] %>
+
+<table class="table table-hover">
+  <thead>
+  <tr>
+    <th style="width: 50px;"><%= t "dmttb.stt" %></th>
+    <th> <%= t('dmttb.ma') %></th>
+    <th style="width: 200px;"> <%= t('dmttb.ten') %></th>
+    <th><%=  t('dmttb.dmdvt_id') %></th>
+    <th><%= t('dmttb.hamluong') %></th>
+    <th> <%= t('dmttb.congsuat') %></th>
+    <th> <%= t('dmttb.tylekh') %></th>
+    <th> <%= t('dmttb.dmnhom_id') %></th>
+    <th> <%= t('dmttb.dmhangsx_id') %></th>
+    <th> <%= t('dmttb.dmnuocsx_id') %></th>
+    <td style="width: 60px;">&nbsp;</td>
+  </tr>
+  </thead>
+  <tbody>
+  <% @dmttbs.each do |dmttb| %>
+      <tr>
+        <td><%= dmttb.stt %></td>
+        <td><%= dmttb.ma %></td>
+        <td><%= dmttb.ten %></td>
+        <td><%= dmttb.dmdvt.ten %></td>
+        <td><%= dmttb.hamluong %></td>
+        <td><%= dmttb.congsuat %></td>
+        <td><%= dmttb.tylekh %></td>
+        <td><%= dmttb.dmnhom.ten %></td>
+        <td><%= dmttb.dmhangsx.ten %></td>
+        <td><%= dmttb.dmnuocsx.ten %></td>
+        <td><%= link_to edit_danhmuc_dmttb_path(dmttb), data: {remote: true}, :title => t('edit') do %>
+              <i class="glyphicon glyphicon-edit"></i>
+          <% end %>
+          <%= link_to danhmuc_dmttb_delete_path(dmttb), data: {remote: true}, :title => t('delete') do %>
+              <i class="glyphicon glyphicon-trash"></i>
+          <% end %>
+        </td>
+      </tr>
+  <% end %>
+  </tbody>
+  <tfoot id="table_paginate">
+  <tr class="text-center">
+    <td colspan="4">
+      <%= will_paginate @dmttbs, renderer: BootstrapPagination::Rails %>
+    </td>
+  </tr>
+  </tfoot>
+</table>

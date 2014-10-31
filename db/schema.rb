@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141030090607) do
+ActiveRecord::Schema.define(version: 20141031035349) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -150,5 +150,33 @@ ActiveRecord::Schema.define(version: 20141030090607) do
   end
 
   add_index "dmphieus", ["dmloaiphieu_id"], name: "index_dmphieus_on_dmloaiphieu_id", using: :btree
+
+  create_table "dmttbs", force: true do |t|
+    t.integer  "stt"
+    t.string   "ma"
+    t.string   "ten"
+    t.string   "model"
+    t.string   "hamluong"
+    t.string   "congsuat"
+    t.string   "tylekh"
+    t.string   "sodk"
+    t.string   "sothe"
+    t.string   "hinh"
+    t.integer  "dmdvt_id"
+    t.integer  "dmnhom_id"
+    t.integer  "dmhangsx_id"
+    t.integer  "dmnuocsx_id"
+    t.integer  "dmnhombc_id"
+    t.integer  "dmnhomin_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "dmttbs", ["dmdvt_id"], name: "index_dmttbs_on_dmdvt_id", using: :btree
+  add_index "dmttbs", ["dmhangsx_id"], name: "index_dmttbs_on_dmhangsx_id", using: :btree
+  add_index "dmttbs", ["dmnhom_id"], name: "index_dmttbs_on_dmnhom_id", using: :btree
+  add_index "dmttbs", ["dmnhombc_id"], name: "index_dmttbs_on_dmnhombc_id", using: :btree
+  add_index "dmttbs", ["dmnhomin_id"], name: "index_dmttbs_on_dmnhomin_id", using: :btree
+  add_index "dmttbs", ["dmnuocsx_id"], name: "index_dmttbs_on_dmnuocsx_id", using: :btree
 
 end

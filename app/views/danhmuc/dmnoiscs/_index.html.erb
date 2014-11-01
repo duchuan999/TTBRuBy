@@ -1,0 +1,16 @@
+<% @dmnoiscs.each do |dmnoisc| %>
+    <tr>
+      <td><%= dmnoisc.stt %></td>
+      <td><%= dmnoisc.ma %></td>
+      <td><%= dmnoisc.ten %></td>
+      <td><%= dmnoisc.diachi %></td>
+      <td><%= link_to edit_danhmuc_dmnoisc_path(dmnoisc), data: {remote: true}, :title => t('edit') do %>
+            <i class="glyphicon glyphicon-edit"></i>
+        <% end %>
+        <%= link_to danhmuc_dmnoisc_delete_path(dmnoisc), data: {remote: true}, :title => t('delete') do %>
+            <i class="glyphicon glyphicon-trash"></i>
+        <% end %>
+      </td>
+
+    </tr>
+<% end %>

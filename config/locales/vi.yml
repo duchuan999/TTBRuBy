@@ -312,3 +312,18 @@ vi:
        header: "Cập nhật tình trạng: "
      delete:
        header: "Xác nhận xóa"
+
+  dmnoisc:
+      stt: "Stt"
+      ma: "Mã"
+      ten: "Tên"
+      diachi: "Địa chỉ"
+      question: "Bạn có muốn xóa : "
+      index:
+        header: "Danh sách nơi sửa chữa"
+      new:
+        header: "Thêm mới nơi sửa chữa"
+      edit:
+        header: "Cập nhật nơi sửa chữa: "
+      delete:
+        header: "Xác nhận xóa"

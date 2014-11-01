@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: 
+  ma: MyString
+  ten: MyString
+  diachi: MyString
+
+two:
+  stt: 
+  ma: MyString
+  ten: MyString
+  diachi: MyString

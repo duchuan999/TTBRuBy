@@ -285,3 +285,30 @@ vi:
      header: "Cập nhật trang thiết bị"
    delete:
      header: "Xác nhận xóa"
+
+
+  dmnguongoc:
+    stt: "Stt"
+    ten: "Tên"
+    question: "Bạn có muốn xóa : "
+    index:
+      header: "Danh sách nguồn gốc"
+    new:
+      header: "Thêm mới nguồn gốc"
+    edit:
+      header: "Cập nhật nguồn gốc: "
+    delete:
+      header: "Xác nhận xóa"
+
+  dmtinhtrang:
+     stt: "Stt"
+     ten: "Tên"
+     question: "Bạn có muốn xóa : "
+     index:
+       header: "Danh sách tình trạng"
+     new:
+       header: "Thêm mới tình trạng"
+     edit:
+       header: "Cập nhật tình trạng: "
+     delete:
+       header: "Xác nhận xóa"

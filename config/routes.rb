@@ -48,6 +48,12 @@ Rails.application.routes.draw do
       resources :dmttbs do
         get "delete"
       end
+      resources :dmnguongocs do
+        get "delete"
+      end
+      resources :dmtinhtrangs do
+        get "delete"
+      end
     end
     get 'pages/about'
 

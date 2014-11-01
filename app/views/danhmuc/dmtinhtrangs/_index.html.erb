@@ -1,0 +1,14 @@
+<% @dmtinhtrangs.each do |dmtinhtrang| %>
+    <tr>
+      <td><%= dmtinhtrang.stt %></td>
+      <td><%= dmtinhtrang.ten %></td>
+      <td><%= link_to edit_danhmuc_dmtinhtrang_path(dmtinhtrang), data: {remote: true}, :title => t('edit') do %>
+            <i class="glyphicon glyphicon-edit"></i>
+        <% end %>
+        <%= link_to danhmuc_dmtinhtrang_delete_path(dmtinhtrang), data: {remote: true}, :title => t('delete') do %>
+            <i class="glyphicon glyphicon-trash"></i>
+        <% end %>
+      </td>
+
+    </tr>
+<% end %>

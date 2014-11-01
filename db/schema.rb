@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141031035349) do
+ActiveRecord::Schema.define(version: 20141101043029) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -54,6 +54,13 @@ ActiveRecord::Schema.define(version: 20141031035349) do
   end
 
   create_table "dmloaiphieus", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "dmnguongocs", force: true do |t|
     t.integer  "stt"
     t.string   "ten"
     t.datetime "created_at"
@@ -150,6 +157,13 @@ ActiveRecord::Schema.define(version: 20141031035349) do
   end
 
   add_index "dmphieus", ["dmloaiphieu_id"], name: "index_dmphieus_on_dmloaiphieu_id", using: :btree
+
+  create_table "dmtinhtrangs", force: true do |t|
+    t.integer  "stt"
+    t.string   "ten"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "dmttbs", force: true do |t|
     t.integer  "stt"

@@ -327,3 +327,30 @@ vi:
         header: "Cập nhật nơi sửa chữa: "
       delete:
         header: "Xác nhận xóa"
+
+  dmlydoxuat:
+    stt: "Stt"
+    ten: "Tên"
+    question: "Bạn có muốn xóa : "
+    index:
+      header: "Danh sách lý do"
+    new:
+      header: "Thêm mới lý do"
+    edit:
+      header: "Cập nhật lý do: "
+    delete:
+      header: "Xác nhận xóa"
+
+
+  dmlydohoantra:
+    stt: "Stt"
+    ten: "Tên"
+    question: "Bạn có muốn xóa : "
+    index:
+      header: "Danh sách lý do"
+    new:
+      header: "Thêm mới lý do"
+    edit:
+      header: "Cập nhật lý do: "
+    delete:
+      header: "Xác nhận xóa"

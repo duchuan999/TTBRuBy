@@ -57,6 +57,13 @@ Rails.application.routes.draw do
       resources :dmnoiscs do
         get "delete"
       end
+      resources :dmlydoxuats do
+        get "delete"
+      end
+
+      resources :dmlydohoantras do
+        get "delete"
+      end
     end
     get 'pages/about'
 

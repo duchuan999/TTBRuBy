@@ -1,0 +1,14 @@
+<% @dmlydoxuats.each do |dmlydoxuat| %>
+    <tr>
+      <td><%= dmlydoxuat.stt %></td>
+      <td><%= dmlydoxuat.ten %></td>
+      <td><%= link_to edit_danhmuc_dmlydoxuat_path(dmlydoxuat), data: {remote: true}, :title => t('edit') do %>
+            <i class="glyphicon glyphicon-edit"></i>
+        <% end %>
+        <%= link_to danhmuc_dmlydoxuat_delete_path(dmlydoxuat), data: {remote: true}, :title => t('delete') do %>
+            <i class="glyphicon glyphicon-trash"></i>
+        <% end %>
+      </td>
+
+    </tr>
+<% end %>

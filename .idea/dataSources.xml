@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails TTBRuBy: development" uuid="f80bbbd3-90d4-4374-81d0-40ab4065b685">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5433/cyber_amg_ror</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5455/cyber_amg_ror</jdbc-url>
       <user-name>medisoft</user-name>
       <user-password>dfc6dfc3dfc4dfc1dfd9df9bdf93df98df9a</user-password>
       <libraries />

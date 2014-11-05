@@ -1,28 +1,29 @@
 
-  <h1 class="pull-left"><%= t "dmttb.index.header" %></h1>
+  <h4 class="pull-left"><%= t "dmttb.index.header" %></h4>
   <%= link_to new_danhmuc_dmttb_path, remote: true, class: "btn btn-primary pull-right" do %>
       <i class="glyphicon glyphicon-plus-sign"></i> <%= t('new') %>
   <% end %>
   <div class="clearfix"></div>
 
-<div class="new-form"></div>
-<%= form_tag danhmuc_dmttbs_path, :method => 'get', :id => "ajax_search" do %>
-    <div class="row">
-      <div class="col-lg-6">
-        <div class="input-group">
-          <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
-          <%= text_field_tag :search, params[:search], :placeholder => t('dmttb.keysearch'), :class => "form-control" %>
+  <div class="new-form"></div>
+  <%= form_tag danhmuc_dmttbs_path, :method => 'get', :id => "ajax_search" do %>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+            <%= text_field_tag :search, params[:search], :placeholder => t('dmttb.keysearch'), :class => "form-control" %>
+          </div>
+
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="form-index">
-        <%= render "index" %>
+      <div class="row">
+        <div class="form-index">
+          <%= render "index" %>
+        </div>
       </div>
+  <% end %>
+  <div id="form-modal" class="modal fade">
+    <div class="modal-dialog">
+      <div id="inner-form-modal" class="modal-content"></div>
     </div>
-<% end %>
-<div id="form-modal" class="modal fade">
-  <div class="modal-dialog">
-    <div id="inner-form-modal" class="modal-content"></div>
   </div>
-</div>

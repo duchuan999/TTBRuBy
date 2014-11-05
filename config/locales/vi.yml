@@ -25,6 +25,12 @@ vi:
   navigation: "Danh mục"
   other: "Khác"
 
+  # left menu categories admin
+  nhapkho: "Nhập kho"
+  xuatkho: "Xuất kho"
+  dutru: "Dự trù"
+  baocao: "Báo cáo"
+
    # end left menu categories
 
   category:
@@ -52,7 +58,9 @@ vi:
       lydoxuat: "Lý do xuất"
       lydohoantra: "Lý do hoàn trả"
       khaibaogoi: "Khai báo gói trang thiết bị"
-
+      admin:
+        nhapmoi: "Nhập mới"
+        tainhap: "Tái nhập"
   dmnhomnuocsxes:
     stt: "Stt"
     ma: "Mã nhóm"

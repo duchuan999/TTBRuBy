@@ -1,0 +1,165 @@
+<%= form_for [:admin, @nhapkho], :data => {:remote => true}, :html => {:class => "form-horizontal", :role => "form"} do |f| %>
+    <div class="col-md-12 col-xs-12">
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Số phiếu</label>
+            <div class="col-sm-8">
+              <%= f.text_field :sophieu, class: "form-control" %>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Ngày nhập</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :ngaynhap, class: "form-control datepicker" %>
+            </div>
+            <script type="text/javascript">
+                $(function () {
+                    $('.datepicker').datepicker({
+                        format: 'dd/mm/yyyy'
+                    });
+                });
+            </script>
+          </div>
+        </div>
+
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Số hóa đơn</label>
+            <div class="col-sm-8">
+              <%= f.text_field :sohoadon, class: "form-control" %>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Ngày hóa đơn</label>
+            <div class="col-sm-8">
+              <%= f.text_field :ngayhoadon, class: "form-control datepicker" %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Biên bản kiểm</label>
+            <div class="col-sm-8">
+              <%= f.text_field :sohoadon, class: "form-control" %>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Ngày kiểm</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :ngaykiem, class: "form-control datepicker" %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Nhà cung cấp</label>
+
+            <div class="col-sm-8">
+              <%= f.select(:dmnhacc_id, Dmnhacc.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Người giao</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :nguoigiao, class: "form-control" %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Nhập</label>
+
+            <div class="col-sm-8">
+               <select class="form-control">
+                <option>Nhập mới</option>
+                <option>Tái nhập</option>
+
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Nguồn</label>
+
+            <div class="col-sm-8">
+              <%= f.select(:dmnguon_id, Dmnguon.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Chiết khấu</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :chietkhau, class: "form-control" %>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Kho</label>
+
+            <div class="col-sm-8">
+              <%= f.select(:dmkho_id, Dmkho.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Tài khoản nợ</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :no, class: "form-control" %>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-6">
+          <div class="form-group">
+            <label for="stt" class="col-sm-4 control-label ">Tài khoản có</label>
+
+            <div class="col-sm-8">
+              <%= f.text_field :co, class: "form-control" %>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h5 class="text-center text-capitalize text-danger">Chi tiết phiếu</h5>
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary ">
+          <i class="glyphicon glyphicon-floppy-save bottom-right"></i> Lưu thông tin
+        </button>
+        <%= link_to "#", class: "btn btn-default" do %>
+            <i class="glyphicon glyphicon-chevron-left"></i> Bỏ qua
+        <% end %>
+      </div>
+    </div>
+<% end %>

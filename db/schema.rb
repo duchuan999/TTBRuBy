@@ -11,13 +11,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141101080517) do
+ActiveRecord::Schema.define(version: 20141104045706) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
-  enable_extension "edb_dblink_libpq"
-  enable_extension "edb_dblink_oci"
-  enable_extension "dblink"
 
   create_table "dmdvts", force: true do |t|
     t.integer  "stt"
@@ -215,5 +212,61 @@ ActiveRecord::Schema.define(version: 20141101080517) do
   add_index "dmttbs", ["dmnhombc_id"], name: "index_dmttbs_on_dmnhombc_id", using: :btree
   add_index "dmttbs", ["dmnhomin_id"], name: "index_dmttbs_on_dmnhomin_id", using: :btree
   add_index "dmttbs", ["dmnuocsx_id"], name: "index_dmttbs_on_dmnuocsx_id", using: :btree
+
+  create_table "nhapcts", force: true do |t|
+    t.integer  "stt"
+    t.integer  "dmttb_id"
+    t.string   "handung"
+    t.string   "losx"
+    t.decimal  "vat"
+    t.decimal  "soluong"
+    t.decimal  "dongia"
+    t.decimal  "sotien"
+    t.decimal  "giaban"
+    t.decimal  "giamua"
+    t.decimal  "tylekhauhao"
+    t.decimal  "cuocvanchuyen"
+    t.decimal  "chaythu"
+    t.string   "tailieu"
+    t.integer  "nhapll_id"
+    t.string   "namsx"
+    t.decimal  "baohanh"
+    t.integer  "dmnguongoc_id"
+    t.integer  "dmtinhtrang_id"
+    t.string   "sothe"
+    t.decimal  "chietkhau"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "nhapcts", ["dmnguongoc_id"], name: "index_nhapcts_on_dmnguongoc_id", using: :btree
+  add_index "nhapcts", ["dmtinhtrang_id"], name: "index_nhapcts_on_dmtinhtrang_id", using: :btree
+  add_index "nhapcts", ["dmttb_id"], name: "index_nhapcts_on_dmttb_id", using: :btree
+  add_index "nhapcts", ["nhapll_id"], name: "index_nhapcts_on_nhapll_id", using: :btree
+
+  create_table "nhaplls", force: true do |t|
+    t.string   "sophieu"
+    t.datetime "ngaynhap"
+    t.string   "sohoadon"
+    t.datetime "ngayhoadon"
+    t.string   "bbkiem"
+    t.datetime "ngaykiem"
+    t.string   "loai"
+    t.string   "nguoigiao"
+    t.integer  "dmnhacc_id"
+    t.integer  "dmkho_id"
+    t.integer  "dmnguon_id"
+    t.string   "no"
+    t.string   "co"
+    t.integer  "paid"
+    t.string   "lydo"
+    t.decimal  "chietkhau"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "nhaplls", ["dmkho_id"], name: "index_nhaplls_on_dmkho_id", using: :btree
+  add_index "nhaplls", ["dmnguon_id"], name: "index_nhaplls_on_dmnguon_id", using: :btree
+  add_index "nhaplls", ["dmnhacc_id"], name: "index_nhaplls_on_dmnhacc_id", using: :btree
 
 end

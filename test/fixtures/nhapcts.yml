@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stt: 1
+  dmttb_id: 
+  handung: MyString
+  losx: MyString
+  vat: 9.99
+  soluong: 9.99
+  dongia: 9.99
+  sotien: 9.99
+  giaban: 9.99
+  giamua: 9.99
+  tylekhauhao: 9.99
+  cuocvanchuyen: 9.99
+  chaythu: 9.99
+  tailieu: MyString
+  nhapll_id: 
+  namsx: MyString
+  baohanh: 
+  dmnguongoc_id: 
+  dmtinhtrang_id: 
+  sothe: MyString
+  chietkhau: 9.99
+
+two:
+  stt: 1
+  dmttb_id: 
+  handung: MyString
+  losx: MyString
+  vat: 9.99
+  soluong: 9.99
+  dongia: 9.99
+  sotien: 9.99
+  giaban: 9.99
+  giamua: 9.99
+  tylekhauhao: 9.99
+  cuocvanchuyen: 9.99
+  chaythu: 9.99
+  tailieu: MyString
+  nhapll_id: 
+  namsx: MyString
+  baohanh: 
+  dmnguongoc_id: 
+  dmtinhtrang_id: 
+  sothe: MyString
+  chietkhau: 9.99

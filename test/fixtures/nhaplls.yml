@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sophieu: MyString
+  ngaynhap: 2014-11-04 11:43:44
+  sohoadon: MyString
+  ngayhoadon: 2014-11-04 11:43:44
+  bbkiem: MyString
+  ngaykiem: 2014-11-04 11:43:44
+  loai: MyString
+  nguoigiao: MyString
+  dmnhacc_id: 
+  dmkho_id: 
+  dmnguon_id: 
+  'no': MyString
+  co: MyString
+  paid: 1
+  lydo: MyString
+  chietkhau: 9.99
+
+two:
+  sophieu: MyString
+  ngaynhap: 2014-11-04 11:43:44
+  sohoadon: MyString
+  ngayhoadon: 2014-11-04 11:43:44
+  bbkiem: MyString
+  ngaykiem: 2014-11-04 11:43:44
+  loai: MyString
+  nguoigiao: MyString
+  dmnhacc_id: 
+  dmkho_id: 
+  dmnguon_id: 
+  'no': MyString
+  co: MyString
+  paid: 1
+  lydo: MyString
+  chietkhau: 9.99

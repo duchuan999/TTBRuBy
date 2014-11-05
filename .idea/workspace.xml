@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba35172-d1fd-4c5d-af97-0c9ef9e43b21" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/_form_nhapmoi.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/_new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/general/_sidebar.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/_sidebar.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/_table_danhsachnhap.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/general/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/index.js.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/nhapkhos/new.js.erb" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\index.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="E:\TTBRuBy\app\views\dmlydohoantras\show.json.jbuilder" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Development__TTBRuBy.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__TTBRuBy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TTBRuBy.iml" afterPath="$PROJECT_DIR$/.idea/TTBRuBy.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmhangsxes/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmhangsxes/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmkhos/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmkhos/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhaccs/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhaccs/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhoms/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhoms/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnuocsxes/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnuocsxes/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmphieus/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmphieus/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmttbs/_index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmttbs/_index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_navigate_links.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_navigate_links.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/Dmnhomins/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/Dmnhomins/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmdvts/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmdvts/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmhangsxes/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmhangsxes/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmkhos/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmkhos/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmlydohoantras/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmlydohoantras/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmlydoxuats/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmlydoxuats/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnguongocs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnguongocs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnguons/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnguons/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhaccs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhaccs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhombcs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhombcs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhomhangsxes/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhomhangsxes/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhomnhaccs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhomnhaccs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhomnuocsxes/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhomnuocsxes/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnhoms/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnhoms/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnoiscs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnoiscs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmnuocsxes/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmnuocsxes/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmphieus/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmphieus/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmtinhtrangs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmtinhtrangs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/danhmuc/dmttbs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/danhmuc/dmttbs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/vi.yml" afterPath="$PROJECT_DIR$/config/locales/vi.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TTBRuBy.iws" />
@@ -144,8 +91,8 @@
       <file leaf-file-name="delete.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/admin/nhapkhos/delete.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.08415841" vertical-offset="0" max-vertical-offset="404">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -712,7 +659,11 @@
       <created>1414829977480</created>
       <updated>1414829977480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="them dm">
+      <created>1415180484830</created>
+      <updated>1415180484831</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -737,8 +688,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="936" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3110285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -748,13 +700,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30597016" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3804213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38136646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1171,8 +1122,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/nhapkhos/delete.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.08415841" vertical-offset="0" max-vertical-offset="404">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>

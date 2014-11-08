@@ -15,6 +15,8 @@ ActiveRecord::Schema.define(version: 20141104045706) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  enable_extension "edb_dblink_libpq"
+  enable_extension "edb_dblink_oci"
 
   create_table "dmdvts", force: true do |t|
     t.integer  "stt"

@@ -27,7 +27,7 @@ development:
   username: medisoft
   password: links1920
   host: localhost
-  port: 5455
+  port: 5433
   schema_search_path: medibv
 
   # The specified database role being used to connect to postgres.

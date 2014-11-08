@@ -1,6 +1,6 @@
 class Nhapct < ActiveRecord::Base
-  belongs_to :dmttb
-  belongs_to :nhapll
-  belongs_to :dmnguongoc
-  belongs_to :dmtinhtrang
+  belongs_to :dmttb, foreign_key: 'dmttb_id'
+  belongs_to :nhapll,foreign_key: 'nhapll_id'
+  belongs_to :dmnguongoc,foreign_key: 'dmnguongoc_id'
+  belongs_to :dmtinhtrang, :foreign_key => :dmtinhtrang_id
 end

@@ -1,0 +1,36 @@
+<h3 class="text-center text-capitalize text-danger"><%= t "nhapkho.dsphieu" %></h3>
+<table class="table table-hover ta">
+  <thead>
+  <tr class="alert-success">
+    <th style="width: 70px;"><%= t "nhapkho.sophieu" %></th>
+    <th><%= t "nhapkho.ngaynhap" %></th>
+    <th><%= t "nhapkho.sohoadon" %></th>
+    <th><%= t "nhapkho.ngayhoadon" %></th>
+    <th><%= t "nhapkho.nhacc" %></th>
+    <th><%= t "nhapkho.nguon" %></th>
+    <th><%= t "nhapkho.kho" %></th>
+    <th style="width: 60px;">&nbsp;</th>
+  </tr>
+  </thead>
+  <tbody class="form-index">
+  <% @nhaplls.each do |nhapll| %>
+      <tr>
+        <td><%= nhapll.sophieu %></td>
+        <td><%= nhapll.ngaynhap %></td>
+        <td><%= nhapll.sohoadon %></td>
+        <td><%= nhapll.ngayhoadon %></td>
+        <td><%= nhapll.dmnhacc.ten %></td>
+        <td><%= nhapll.dmnguon.ten %></td>
+        <td><%= nhapll.dmkho.ten %></td>
+        <td><%= link_to edit_admin_nhapll_path(nhapll), data: {remote: true}, :title => t('edit') do %>
+              <i class="glyphicon glyphicon-edit"></i>
+          <% end %>
+          <%= link_to "#", data: {remote: true}, :title => t('delete') do %>
+              <i class="glyphicon glyphicon-trash"></i>
+          <% end %>
+        </td>
+
+      </tr>
+  <% end %>
+  </tbody>
+</table>

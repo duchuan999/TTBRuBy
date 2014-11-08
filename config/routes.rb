@@ -1,30 +1,32 @@
 Rails.application.routes.draw do
 
   namespace :admin do
-  get 'nhapkhos/index'
+  get 'nhaplls/index'
   end
 
   namespace :admin do
-  get 'nhapkhos/new'
+  get 'nhaplls/new'
   end
 
   namespace :admin do
-  get 'nhapkhos/edit'
+  get 'nhaplls/edit'
   end
 
+
+
   namespace :admin do
-  get 'nhapkhos/delete'
+  get 'nhaplls/delete'
   end
 
   scope ":locale", locale: /#{I18n.available_locales.join("|")}/ do
     root to: 'pages#home'
-
+    match '/danhsachttb' => 'pages#danhsachttb', :via => :get, :format => :json
     namespace :admin do
       match "/" => "general#index", :via => [:get, :post]
 
       resources :nhapkhos
-
       resources :nhaplls
+      resources :nhapcts
 
     end
 

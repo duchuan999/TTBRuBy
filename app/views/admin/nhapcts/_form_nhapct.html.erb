@@ -1,0 +1,251 @@
+<%= form_for [:admin, @nhapct], :data => {:remote => true}, :html => {:class => "form-horizontal", :role => "form"} do |f| %>
+    <div class="col-md-12 col-xs-12">
+    <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title ">
+        <div class="text-success"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          <%= t "nhapkho.chitiet" %>
+        </a></div>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapsing">
+    <div class="panel-body">
+
+    <div class="row">
+      <ul class="errorsdetails text-danger"></ul>
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-xs-2">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.ma" %></label>
+          <%= f.hidden_field :dmttb_id %>
+          <div class="col-sm-8">
+            <input id="ma" type="text" class="form-control">
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5 col-xs-5">
+        <div class="form-group">
+          <label for="stt" class="col-sm-2 control-label "><%= t "nhapkho.nhapct.ten" %></label>
+
+          <div class="col-sm-10">
+            <input id="ten" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 col-xs-2">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.dvt" %></label>
+
+          <div class="col-sm-8">
+            <input id="dvt" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-xs-3">
+        <div class="form-group">
+          <label for="stt" class="col-sm-6 control-label "><%= t "nhapkho.nhapct.sl" %></label>
+
+          <div class="col-sm-6">
+            <%= f.text_field :soluong, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.dongia" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :dongia, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.thue" %></label>
+
+          <div class="col-sm-8">
+            <div class="input-group">  <%= f.text_field :vat, class: "form-control" %>
+              <span class="input-group-addon">%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-6 control-label "><%= t "nhapkho.nhapct.cuocvc" %></label>
+
+          <div class="col-sm-6">
+            <%= f.text_field :cuocvanchuyen, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.chaythu" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :chaythu, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.nguyengia" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :sotien, class: "form-control " %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-6 control-label "><%= t "nhapkho.nhapct.handung" %></label>
+
+          <div class="col-sm-6">
+            <%= f.text_field :handung, class: "form-control " %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.losx" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :losx, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.sothe" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :sothe, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-5 control-label "><%= t "nhapkho.nhapct.tyle" %></label>
+
+          <div class="col-sm-7">
+            <div class="input-group"> <%= f.text_field :tylekhauhao, class: "form-control" %>
+              <span class="input-group-addon">%/Năm</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.namsx" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :namsx, class: "form-control " %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.baohanh" %></label>
+
+          <div class="col-sm-8">
+            <div class="input-group"> <%= f.text_field :baohanh, class: "form-control " %>
+              <span class="input-group-addon">Tháng</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.tinhtrang" %></label>
+
+          <div class="col-sm-8">
+            <%= f.select(:dmtinhtrang_id, Dmtinhtrang.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.nguongoc" %></label>
+
+          <div class="col-sm-8">
+            <%= f.select(:dmnguongoc, Dmnguongoc.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.tailieu" %></label>
+
+          <div class="col-sm-8">
+            <%= f.text_field :tailieu, class: "form-control" %>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.hang" %></label>
+
+          <div class="col-sm-8">
+            <input id="hang" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.tongchuathue" %></label>
+
+          <div class="col-sm-8">
+            <input id="tongcothue" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.tongcothue" %></label>
+
+          <div class="col-sm-8">
+            <input id="tongchuathue" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-xs-4">
+        <div class="form-group">
+          <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.nuoc" %></label>
+
+          <div class="col-sm-8">
+            <input id="nuoc" type="text" class="form-control">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    </div>
+    <div class="modal-footer">
+      <button type="submit" class="btn btn-primary ">
+        <i class="glyphicon glyphicon-floppy-save bottom-right"></i> <%= t "save" %>
+      </button>
+      <%= link_to "#", class: "btn btn-default" do %>
+          <i class="glyphicon glyphicon-plus"></i> <%= t "new2" %>
+      <% end %>
+      <%= link_to "#", class: "btn btn-default" do %>
+          <i class="glyphicon glyphicon-chevron-left"></i> <%= t "pass" %>
+      <% end %>
+    </div>
+    </div>
+    </div>
+
+    </div>
+<% end %>

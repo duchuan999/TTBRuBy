@@ -2,7 +2,7 @@ class Admin::NhapllsController < ApplicationController
 
   def index
     @nhaplls = Nhapll.load
-    @nhapcts = Nhapct.all
+   # @nhapcts = Nhapct.all
     respond_to do |format|
       format.html
       format.js
@@ -12,9 +12,9 @@ class Admin::NhapllsController < ApplicationController
 
   def new
     @nhaplls = Nhapll.all
-    @nhapcts = Nhapct.all
+   # @nhapcts = Nhapct.all
     @nhapll = Nhapll.new
-    @nhapct= Nhapct.new
+   # @nhapct= Nhapct.new
     respond_to do |format|
       format.html
       format.js
@@ -24,7 +24,7 @@ class Admin::NhapllsController < ApplicationController
 
   def create
     @nhaplls=Nhapll.load
-    @nhapcts = Nhapct.all
+    #@nhapcts = Nhapct.all
 
     @nhapll = Nhapll.new(nhapll_params)
     @nhapll= Nhapll.create(nhapll_params)
@@ -33,23 +33,27 @@ class Admin::NhapllsController < ApplicationController
   end
 
   def edit
-    @nhapll= Nhapll.find(params[:id])
+    @nhaplls=Nhapll.load
+   # @nhapcts = Nhapct.all
+    @nhapll= Nhapll.edit_nhap(params[:id])
+   # @nhapct =Nhapct.find(params[:id])
   end
 
   def update
     @nhaplls= Nhapll.load
-    @nhapcts = Nhapct.all
+   # @nhapcts = Nhapct.all
     @nhapll=Nhapll.find(params[:id])
     @nhapll.update_attributes(nhapll_params)
 
   end
   def delete
     @nhapll=Nhapll.find(params[:nhapll_id])
+   # @nhapct=Nhapct.find(params[:nhapct_id])
 
   end
   def destroy
     @nhaplls= Nhapll.load
-    @nhapcts = Nhapct.all
+  #  @nhapcts = Nhapct.all
     @nhapll= Nhapll.find(params[:id])
     @nhapll.destroy
   end

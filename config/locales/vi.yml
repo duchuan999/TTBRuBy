@@ -388,6 +388,7 @@ vi:
     tkco: "Tài khoản có"
     chitiet: "Chi tiết phiếu nhập"
     nhapct:
+      stt: "STT"
       ma: "Mã"
       ten: "Tên"
       dvt: "ĐVT"

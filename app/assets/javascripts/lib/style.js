@@ -1,0 +1,124 @@
+function jsRoar(name) {
+    alert('I am ' + name + '. Hear me roar!');
+}
+function check(event,v_this){
+    if(event.keyCode =="9")
+    {
+        if(v_this.value=="")
+        {
+            alert("Nhap ma");
+            return;
+        }
+    }
+}
+function ganthongtin(id) {
+
+    var url="/find_ttb";
+    var data={ ten: $("#ten").val()};
+    gui_du_lieu(url,data,function(result)
+    {
+        if (result == 'null') {
+
+           alert(result.val());
+        }
+    });
+};
+
+function thong_tin_ttb(event,id) {
+  if(event.charCode=="32") {
+      var url = "/danhsachttb";
+      var keyvalue = "1~0";
+      var cols = "id~ten~ma~dvt~model~congsuat~hang~nuoc";
+
+      var tieude = "~Tên~Mã~Đơn vị tính~Model~Công suất~Hãng~Nước";
+
+      var content = $(id);
+      var data = {
+          idttb: $(id).val()
+      };
+      // hiển thị form gợi ý
+      form_goi_y(tieude, content);
+      gui_du_lieu(url, null, function (data) {
+          dien_du_lieu_dang_table(content, keyvalue, cols, data, function (self) {
+
+          });
+      });
+  }
+}
+
+
+function Insert_them_moi_doi_tuong()
+{
+    var data={
+        sotk: $("#sotk").val(),
+        tentk: $("#tentk").val(),
+        tentienganh: $("#tentienganh").val(),
+        dmnhomtk: $("#dmnhomtk").attr("key"),
+        tinhchat: $("#tinhchat").attr("key"),
+        diengiai: $("#diengiai").val()
+    };
+   if(validate_object_tk()==false)
+   {
+       var  url="/danhmuc/dmhethongtk/act_insert_tk";
+       gui_du_lieu(url,data,function(result)
+       { msg(result);
+           if (result != 'null') {
+
+               // Hủy các input có class borderRed
+               $("input").removeAttr('borderRed');
+           }
+       });
+
+   }
+    else
+   { msg("Hãy điền đầy đủ các trường có màu đỏ.");
+   }
+}
+    function validate_object_tk() {
+        var object = [$("#sotk"), $("#tentk"), $("#tentienganh"), $("#dmnhomtk"), $("#tinhchat"),
+            $("#diengiai")
+        ];
+        var err = 0;
+        for (var i = 0; i < object.length; i++) {
+            if (object[i].val().length < 1) {
+                object[i].css('border', 'solid 1px red');
+                err = 1;
+            }
+        };
+        return err;
+    }
+
+function msg(message) {
+    // Nội dung mesage
+    var dialog = '<div class="dialog-content"></div><div class="dialog"><div class="dialog-caption"><b>';
+    dialog +='</b></div><div class="dialog-message">' + message;
+    dialog += '</div><div class="dialog-footer"><button class="dialog-bt-cancel">Cancel</button></div></div>';
+    // Ghi vào document
+    $("#view-hidden").show().html(dialog);
+    var top = $(window).height() / 2 - $(".dialog").height() / 2;
+    var left = $(window).width() / 2 - $(".dialog").width() / 2;
+    //  Set póition
+    $(".dialog").css({
+        top: top,
+        left: left
+    });
+    // Set nút close
+    $(".dialog-bt-cancel").click(function(event) {
+        $("#view-hidden").html('');
+    });
+
+    //  Focus button trên dialog
+    $(".dialog-bt-cancel").focus();
+    // Sự kiện khi enter thì ẩn dialog
+    $(".dialog-bt-cancel").keyup(function(event) {
+        if (event.keyCode == 13) {
+            $(this).trigger('click');
+            $(currentIdFocus).focus();
+        }
+    });
+    // Drag box
+    $(".dialog").draggable({
+        handle: ".dialog-caption"
+    });
+    $(".dialog-bt-cancel").focusin();
+}

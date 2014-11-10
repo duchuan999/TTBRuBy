@@ -1,4 +1,4 @@
-<%= form_for [:admin, @nhapct], :data => {:remote => true}, :html => {:class => "form-horizontal", :role => "form"} do |f| %>
+<%= form_for [:admin, @nhapct], :html => {:class => "form-horizontal", :role => "form"} do |f| %>
     <div class="col-md-12 col-xs-12">
     <div class="panel panel-default">
     <div class="panel-heading">
@@ -20,7 +20,7 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.ma" %></label>
           <%= f.hidden_field :dmttb_id %>
           <div class="col-sm-8">
-            <input id="ma" type="text" class="form-control">
+            <input id="ma" type="text" class="form-control" disabled>
 
           </div>
         </div>
@@ -30,7 +30,7 @@
           <label for="stt" class="col-sm-2 control-label "><%= t "nhapkho.nhapct.ten" %></label>
 
           <div class="col-sm-10">
-            <input id="ten" type="text" class="form-control">
+            <input id="ten" type="text" class="form-control" onkeypress="thong_tin_ttb(event,this)" onblur="ganthongtin(this)">
           </div>
         </div>
       </div>
@@ -39,7 +39,7 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.dvt" %></label>
 
           <div class="col-sm-8">
-            <input id="dvt" type="text" class="form-control">
+            <input id="dvt" type="text" class="form-control" disabled>
           </div>
         </div>
       </div>
@@ -68,9 +68,10 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.thue" %></label>
 
           <div class="col-sm-8">
-            <div class="input-group">  <%= f.text_field :vat, class: "form-control" %>
-              <span class="input-group-addon">%</span>
-            </div>
+
+            <%= f.text_field :vat, class: "form-control" %>
+
+
           </div>
         </div>
       </div>
@@ -197,7 +198,7 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.hang" %></label>
 
           <div class="col-sm-8">
-            <input id="hang" type="text" class="form-control">
+            <input id="hang" type="text" class="form-control" disabled>
           </div>
         </div>
       </div>
@@ -226,7 +227,7 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.nuoc" %></label>
 
           <div class="col-sm-8">
-            <input id="nuoc" type="text" class="form-control">
+            <input id="nuoc" type="text" class="form-control" disabled>
           </div>
         </div>
       </div>
@@ -249,3 +250,4 @@
 
     </div>
 <% end %>
+

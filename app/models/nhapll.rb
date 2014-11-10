@@ -12,9 +12,15 @@ class Nhapll < ActiveRecord::Base
   validates :dmkho_id, :presence => true
 
 
-   def self.load
+  def self.load
     sl=" *,to_char(ngaynhap,'dd/mm/yyyy')as ngaynhap,to_char(ngayhoadon,'dd/mm/yyyy')as ngayhoadon"
     @nhaplls=Nhapll.select(sl).order("id")
   end
 
+  def self.edit_nhap(ma)
+
+    nhapll= Nhapll.find_by_sql(["select *,to_char(ngaynhap,'dd/mm/yyyy')as ngaynhap,to_char(ngayhoadon,'dd/mm/yyyy')as ngayhoadon,to_char(ngaykiem,'dd/mm/yyyy')as ngaykiem
+                                   from medibv.nhaplls where id=?",ma])
+    return nhapll.first
+  end
 end

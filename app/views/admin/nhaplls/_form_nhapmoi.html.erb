@@ -1,4 +1,4 @@
-<%= form_for [:admin, @nhapll], method: :create, :data => {:remote => true}, :html => {:class => "form-horizontal", :role => "form"} do |f| %>
+<%= form_for [:admin, @nhapll], :data => {:remote => true}, :html => {:class => "form-horizontal", :role => "form"} do |f| %>
     <div class="col-md-12 col-xs-12">
       <div class="row">
         <ul class="errors text-danger"></ul>
@@ -157,9 +157,15 @@
           </div>
         </div>
       </div>
-      <div class="row">
-        <%= render "admin/nhapcts/form_nhapct"%>
-      </div>
 
-     </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary ">
+          <i class="glyphicon glyphicon-floppy-save bottom-right"></i> <%= t "save" %>
+        </button>
+
+        <%= link_to admin_nhaplls_path, class: "btn btn-default" do %>
+            <i class="glyphicon glyphicon-chevron-left"></i> <%= t "pass" %>
+        <% end %>
+      </div>
+    </div>
 <% end %>

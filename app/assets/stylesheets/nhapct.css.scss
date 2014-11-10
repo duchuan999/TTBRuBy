@@ -1,3 +1,29 @@
-// Place all the styles related to the nhapct controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.TFtable {
+  width: 100%;
+  border-radius:4px;
+  border-collapse: collapse;
+}
+.TFtable th {
+  padding: 7px;
+  background: #66afe9;
+  border: #66afe9 1px solid;
+}
+.TFtable td {
+  padding: 7px;
+  border: #66afe9 0px solid;
+}
+
+
+.TFtable tr {
+  background:  #4e95f4;
+}
+
+
+.TFtable tr:nth-child(odd) {
+  background: mintcream;
+}
+
+
+.TFtable tr:nth-child(even) {
+  background: #dae5f4;
+}

@@ -1,0 +1,38 @@
+<div class="col-md-12 col-xs-12">
+  <table class="TFtable table-hover " border="1" style="border-color: #4e95f4">
+    <thead>
+    <tr>
+      <th style="width: 50px;"><%= t "nhapkho.nhapct.stt" %></th>
+      <th><%= t "nhapkho.nhapct.ten" %></th>
+      <th><%= t "nhapkho.nhapct.sl" %></th>
+      <th><%= t "nhapkho.nhapct.thue" %></th>
+      <th><%= t "nhapkho.nhapct.dvt" %></th>
+      <th><%= t "nhapkho.nhapct.dongia" %></th>
+      <th><%= t "nhapkho.nhapct.nguyengia" %></th>
+      <th style="width: 60px;">&nbsp;</th>
+    </tr>
+    </thead>
+
+    <tbody class="form-index">
+    <% @nhapcts.each do |nhapct| %>
+        <tr>
+          <td><%= nhapct.stt %></td>
+          <td><%= nhapct.dmttb.ten %></td>
+          <td><%= nhapct.soluong %></td>
+          <td><%= nhapct.vat %></td>
+          <td><%= nhapct.dmttb.dmdvt.ten %></td>
+          <td><%= nhapct.dongia %></td>
+          <td><%= nhapct.sotien %></td>
+          <td><%= link_to "#", data: {remote: true}, :title => t('edit') do %>
+                <i class="glyphicon glyphicon-edit"></i>
+            <% end %>
+            <%= link_to "#", data: {remote: true}, :title => t('delete') do %>
+                <i class="glyphicon glyphicon-trash"></i>
+            <% end %>
+          </td>
+
+        </tr>
+    <% end %>
+    </tbody>
+  </table>
+</div>

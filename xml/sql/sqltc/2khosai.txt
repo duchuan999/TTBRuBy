@@ -1,0 +1,214 @@
+-- Truong hop BN ngoai tru BHYT -->xuat kho -->phieu xuat --> co 2 kho
+select * from medibv1150210.bhytkb where mabn='09040087'
+select * from medibv1150210.bhytthuoc where id=100225000000233450
+update medibv1150210.bhytthuoc set makho=3 where id=100225000000233450 and mabd=6004
+update medibv1150210.bhytkb set quyenso=254, sobienlai=22261, idttrv=100225070028680106 where mabn='09040087'
+sobienlai=22261
+quyenso=254
+id=100225000000233450
+idttrv=100225070028680106
+select * from medibv1150210.d_thuocbhytct where id=100225000000233450
+update medibv1150210.d_thuocbhytct set makho=4 where id=100225000000233450 and mabd=6004
+
+update medibv1150110.v_tamung a set done=0,idttrv=0 where a.mabn='09771912' and  a.makp not in(035)
+
+select * from benhandt where mabn='98030342'
+
+select * from medibv1150110.d_xuatsdll a where to_char(a.ngay,'dd/mm/yyyy')='31/12/2009' a.makhoa='28' and a.phieu in(108,109)
+drop table a_tmp
+create table a_tmp as select a.makp,a.mabn,a.maql,b.macap from benhandt a, medibv1151209.sukien b where a.mabn=b.mabn(+) and substr(a.mabn,0,2)='98' 
+and to_char(b.ngayud,'dd/mm/yyyy')='02/01/2010'
+and b.makp='001'
+and b.mabn is null
+update medibv1151209.tiepdon a set a.makp=(select b.makp from a_tmp b where a.maql=b.maql) where a.maql in(select maql from a_tmp)
+
+select * from d_duockp  /24
+select * from d_loaiphieu where id=108
+select * from medibv1151209.d_duyet where makp in(24) and done=2
+select * from cdha_loai
+
+select * from medibv1150110.d_xuatsdll a, medibv1150110.d_xuatsdct b,d_loaiphieu c,  where a.makp in(24) and a.loai=1and a.id=b.id and a.phieu=c.id
+
+select c.id_loai,b.makp, sum(b.solan) as tong from medibv1151209.cdha_bnll a inner join medibv1151209.cdha_bnct b on a.id=b.id left join medibv115.cdha_kythuat c on b.makt=c.id where to_date(to_char(ngay, 'dd/mm/yy hh24:mi'), 'dd/mm/yy hh24:mi') between to_date('29/12/2009 07:00','dd/mm/yy hh24:mi') and to_date('30/12/2009 07:00','dd/mm/yy hh24:mi') group by b.makp,c.id_loai
+
+ select b1.loai,to_number(-99) as makp,a1.id, to_number(0) as tructiep, to_number(0) as thu20, to_number(0) as thubhyt, to_number(0) as tre6t, to_number(0) as mienphi, to_number(0) tamung, sum(a4.soluong*a4.dongia) as sotien, a1.tamung datamung, a1.mien, a1.bhyt, a1.nopthem, a1.thieu, a1.thua, a1.chenhlech from medibv1151209.v_ttrvll a1 inner join medibv1151209.v_ttrvct a4 on a1.id=a4.id left join btdkp_bv b1 on a4.makp=b1.makp where to_date(to_char(a1.ngay, 'dd/mm/yy hh24:mi'), 'dd/mm/yy hh24:mi') between to_date('29/12/2009 07:00','dd/mm/yy hh24:mi') and to_date('30/12/2009 07:00','dd/mm/yy hh24:mi')  and a4.madoituong not in(5) group by b1.loai,a1.id, a1.tamung, a1.mien, a1.bhyt, a1.nopthem, a1.thieu, a1.thua, a1.chenhlech
+
+mri:6,  ctg:8,lhn :9,dienco:10,dsa:11
+
+select * from DMphong a, dmgiuong b where a.makp='063' and a.id=b.idphong
+select * from DMGIUONG
+
+TNG-P-NT
+select * from medibv115.nhapkhoa where mabn='98050668'
+update medibv115.nhapkhoa set giuong='TNG-P10-9' where mabn='98050668'
+
+select * from dba_tables where lower(owner)='medibv1150110' and lower(table_name) like '%thuhoi%'
+select * from dmtables
+b4 - phong mo
+vo thi kim anh
+nhap pttt
+thuoc 
+
+select makp, count(*) as tong from (select distinct e.makp,d.ten, a.mabn from medibv1150110.xn_phieu a, medibv115010.xn_ketqua b, medibv115.xn_bv_chitiet c, medibv115.xn_bv_ten d, medibv1150110.v_chidinh e where a.id=b.id and b.id_ten= c.id and c.id_bv_ten= d.id and a.maql=e.maql and d.id_vienphi=e.mavp and to_date(to_char(a.ngay, 'dd/mm/yy'), 'dd/mm/yy') between to_date('04/01/2010','dd/mm/yy' ) and to_date('04/01/2010', 'dd/mm/yy'))xn  group by makp
+
+//maql : 91231102201747130
+//mavaovien : 91231102201523130
+select * from benhandt where mabn='98050835'
+select * from medibv1150110.v_tamung where mabn='98050835'
+select * from medibv1150110.v_ttrvll a,medibv1150110.v_ttrvct b,v_quyenso c,v_dlogin d where a.id=b.id and a.id=100104080001893341 and a.quyenso=c.id and a.userid=d.id
+select * from v_dlogin
+select * from nhomnhanvien
+
+select * from dmdiemthu
+select * from giayravien where maql in (select maql from benhandt where mabn='10800909')
+select * from dmbs 
+update giayravien set bskham='0082',kyrakhoa='0082' where maql in (select maql from benhandt where mabn='10800909')
+0082
+
+select * from v_giavp where chenhlech=1
+select * from d_dmkho where nhom=1
+select a.loai,c.ten,a.makhoa,a.id,a.phieu,a.done,to_char(a.ngay,'dd/mm/yyyy') as ngay,d.ten from medibv1150110.d_duyet a, medibv1150110.d_duyetkho b,d_loaiphieu c,d_duockp d  where a.makhoa=d.id and a.id=b.idduyet(+) and b.idduyet is null and a.phieu=c.id and 
+
+and a.phieu in(108,109,110,111,113,114) 
+and a.phieu in(101,102)
+ and a.phieu in(108,109,110,111,113,114) //khole
+ and a.phieu in(136,137,138,139) //khothan
+
+select 12 as makho,a.loai,c.ten,a.makhoa,a.id,a.phieu,a.done,to_char(a.ngay,'dd/mm/yyyy') as ngay,d.ten from medibv1150110.d_duyet a, medibv1150110.d_duyetkho b,d_loaiphieu c,d_duockp d  where a.makhoa=d.id and a.id=b.idduyet(+) and b.idduyet is null and a.phieu=c.id and a.phieu in(117) union all select 19 as makho,a.loai,c.ten,a.makhoa,a.id,a.phieu,a.done,to_char(a.ngay,'dd/mm/yyyy') as ngay,d.ten from medibv1150110.d_duyet a, medibv1150110.d_duyetkho b,d_loaiphieu c,d_duockp d  where a.makhoa=d.id and a.id=b.idduyet(+) and b.idduyet is null and a.phieu=c.id and a.phieu in(117) 
+
+select a.sophieu,b.* from medibv1151209.d_nhapll a,medibv1151209.d_nhapct b where a.id=b.id and to_char(a.ngaysp,'dd/mm/yyyy')='30/12/2009' and a.loai='T'  and b.giamua<>b.giaban and a.id=100102000001572103
+
+update medibv1151209.d_nhapct set giaban=giamua where id=100104000000027169 and giamua<>giaban
+select * from medibv115.bhyt where mabn='98050344'
+
+select * from medibv1150110.v_tamung  where mabn='10800418' and done=0
+
+select * from medibv1150110.v_hoantra a where mabn='10800418'  and a.sobienlai=472 and id=100102190000023341
+
+update medibv1150110.v_hoantra a set sobienlai=472 where mabn='10800418'   and id=100102190000023341 and a.sobienlai=472
+
+select case when a.done =1 then 0 else 1 end as chon, to_char(a.ngay,'dd/mm/yyyy hh24:mi') as ngay, b.sohieu, a.sobienlai,a.sotien,c.hoten||' ('||c.userid||')' as tenuser, a.done, a.id  from medibv1150110.v_tamung a left join v_quyenso b on a.quyenso=b.id  left join v_dlogin c on a.userid=c.id where a.mabn='10800418' and a.mavaovien=100102165744781069 union all select 1 as chon, to_char(a.ngay,'dd/mm/yyyy hh24:mi') as ngay, b.sohieu, a.sobienlai,-1*a.sotien as sotien,c.hoten||' ('||c.userid||')' as tenuser, 0 as done, a.id  from medibv1150110.v_hoantra a left join v_quyenso b on a.quyenso=b.id  left join v_dlogin c on a.userid=c.id where a.ghichu='2' and a.mabn='10800418' and a.mavaovien=100102165744781069 
+
+update medibv1150110.v_tamung set done=0,idttrv=0,idtonghop=0 where mabn='10800418' and id=100102191604049341
+
+select id from medibv1150110.v_ttrvll a where a.tamung=0 and diemthu in(7,5) and to_char(a.ngay,'dd/mm/yyyy')='04/01/2010'
+select * from medibv1150110.v_ttrvll  where id=100105140005396274
+update medibv1150110.v_tamung set done=0,idttrv=0 where idttrv=100105140005396274
+10800418
+select * from medibv1150110.v_ttrvll where id in(select idttrv from medibv1150110.v_tamung  where mabn='10800418')
+
+100102165744781069
+
+select * from medibv1150110.v_tamung  where mabn='10800418'
+da thanh toan : 1
+kiem tra so lieu : 2
+
+select * from medibv1150110.v_thvpll a,medibv1150110.v_thvpct b where a.mabn='98049957' and a.id=b.id
+select * from medibv1151209.v_vpkhoa a where a.mabn='98050816' 
+select * from medibv1150110.d_tienthuoc a where a.mabn='98047518' and a.makp=38
+select * from v_giavp where id=11762
+update medibv1150110.d_tienthuoc a set makp=16  where a.mabn='98047518' and a.makp=38
+
+select * from d_duockp
+
+select * from medibv1150110.v_ttrvll where sobienlai=21
+
+select * from medibv1150110.v_ttrvds a, medibv1150110.v_ttrvll b where a.id=b.id and a.mabn='10800781'
+
+select * from medibv1150110.v_tamung a,medibv1150110.v_hoantra b where a.quyenso=b.quyenso(+) and a.sobienlai=b.sobienlai(+) and  a.mabn='10800781'
+
+delete from medibv1150110.v_thvpll where maql in(select maql from benhandt a where  a.mabn='09771397')
+delete from medibv1150110.v_thvpct where id in( select id from medibv1150110.v_thvpll where maql in(select maql from benhandt a where  a.mabn='09771397'))
+delete xuatkhoa where id in(select id from nhapkhoa a where  a.mabn='09771397')
+
+delete from tables where mmyy in('1110','1210')
+
+select * from medibv1150110.v_ttrvll a,medibv1150110.v_hoantra b where a.id =100105170005687157 and a.quyenso=b.quyenso(+) and a.sobienlai=b.sobienlai(+)
+
+select * from medibv1150110.v_chidinh where mabn='09771397'
+select * from d_loaiphieu where loai=1         select * from d_duockp
+to_char(a.ngay,'dd/mm/yyyy')='01/01/2010' and a.phieu in(108) and a.makp=35
+
+select * from medibv1150110.d_xuatsdll a,medibv1150110.d_xuatsdct b where  a.id=b.id and b.mabd in(select id from d_dmbd where nhom=1  And ma='DUP001')
+
+select * from medibv1150110.d_xuatsdll a,medibv1150110.d_thucxuat b where a.id=b.id and b.mabd in(select id from d_dmbd where nhom=1  And ma='DUP001')
+
+delete from medibv1150110.d_thucxuat b where id in(100106000006343344) and mabd in(select id from d_dmbd where nhom=1 and ma='DUP001')
+
+delete from medibv1150110.d_tienthuoc a where  mabd in(select id from d_dmbd where nhom=1 and ma='DUP001') and soluong>0
+
+select * from medibv1150110.d_dutrull a, medibv1150110.d_dutruct b where a.id=b.id and mabd in(select id from d_dmbd where nhom=1 and ma='MOB001') and slthuc<>0
+
+update medibv1150110.d_dutruct set slthuc=0 where id in(100101000000037295,100104000000021329,100104000000260281,100105000000047329,100106000000280342) and mabd in(select id from d_dmbd where nhom=1 and ma='MOB001')
+
+
+select * from d_dlogin where lower(userid) like '%trung%'
+update d_dlogin set password_='115' where id in(120,121)
+
+
+
+
+select sum(sotien) from medibv1150210.v_tamung where mabn='10809998'
+select* from medibv1150210.v_tamung where mabn='10809998'
+update medibv1150210.v_tamung set done=0 where mabn='10809998' and sobienlai=7748
+
+update medibv1150210.v_tamung set mavaovien=100225114016041528,maql=100225114016041528 where mabn='09038850' and id=100225100423979341
+
+--1000000
+id=100225100423979341
+mavaovien=100225100301627434
+maql=100225100301627434
+
+
+---------
+-- Truong hop BN ngoai tru BHYT -->xuat kho -->phieu xuat --> co 2 kho
+-->kiem tra so lieu ton kho
+select * from medibv1150210.bhytkb where mabn='09040087'
+select * from medibv1150210.bhytthuoc where id=100225000000233450
+update medibv1150210.bhytthuoc set makho=3 where id=100225000000233450 and mabd=6004
+update medibv1150210.bhytkb set quyenso=254, sobienlai=22261, idttrv=100225070028680106 where mabn='09040087'
+sobienlai=22261
+quyenso=254
+id=100225000000233450
+idttrv=100225070028680106
+select * from medibv1150210.d_thuocbhytct where id=100225000000233450
+update medibv1150210.d_thuocbhytct set makho=4 where id=100225000000233450 and mabd=6004
+
+B?nh án ngo?i trú : F3 BA ngo?i trú :BHYTKB
+b?nh án ngo?i trú:
+select * from benhanngtr where mabn='09778899'       mavv:91226094557573211,maql:91226094557737211
+
+toa f3 benhan ngtr
+select * from medibv1151209.bhytkb where mabn='09778899'  :mavv=mavv benhanngtr,maql=maql benhanngtr,id=id bhytthuoc (d_bhytthuocll id=id d_bhytthuocct)
+
+F10 tai kham,
+select * from medibv1151209.benhanpk where mabn='09778899'     mavv=mangtr=maql benhanngtr,   maql benhanpk=maql bhytkb
+toa f3:
+select * from medibv1151209.bhytkb where mabn='09778899', mavv=maql benhanngtr,(n?u done=1.idttrv=..:dã thanh toán) ,maql benhanpk=maql bhytkb
+
+du tru linh:
+select * from medibv1151209.d_dutrull where mabn=09778899  ,mavv,maql=mavv,maql benhanngtr
+
+select * from medibv1151209.d_xuatsdll where mabn=09778899   (mavv,maql=mavv,maql benhanngtr)
+
+select * from medibv1151209.d_tienthuoc where mabn=09778899  (mavv,maql=mavv,maql benhanngtr)
+
+mavv benhan pk=mavv v_chidinh
+>>>>>>>>>>>>>>>>>>>>>>>>>
+benh an noi tru
+select * from medibv115.benhandt where mabn='98049242'     mvv:91231102308198130    maql:91231102308973130
+select * from medibv115.benhandt where mabn='09769127'    mvv:91217064709657069   maql:91224105928632181
+
+select * from medibv115.hiendien where mabn='09772016'
+
+select * from medibv1151209.d_dutrull where mabn=09769127
+update medibv1151209.d_dutrull set mavaovien=100101011348556179,maql=100101011348198179 where mabn=98050204
+select * from medibv1150110.d_xuatsdll where mabn=09769127
+update medibv1150110.d_xuatsdll set mavaovien=91231102308198130,maql=91231102308973130,mabn='98049242' where mabn=09769127
+select * from medibv1150110.d_tienthuoc where mabn=98050204
+update medibv1150110.d_tienthuoc set mavaovien=100101011348556179,maql=100101011348198179 where mabn=98050204
+
+select * from medibv1150110.v_chidinh where mabn='09769127'
+update medibv1150110.v_chidinh set mavaovien=91231102308198130,maql=91231102308973130,mabn='98049242' where mabn='09769127'
+
+

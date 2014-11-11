@@ -1,0 +1,17 @@
+select a.mavaovien, c.hoten,b.* from medibv1150310.v_ttrvds a left join medibv1150310.v_ttrvll b on a.id=b.id left join medibv115.btdbn c on a.mabn=c.mabn where a.mabn='10810531'
+
+delete from medibv1150310.v_ttrvct where id=100319160029967158
+delete from medibv1150310.v_ttrvdv where id=100319160029967158
+delete from medibv1150310.v_ttrvbhyt where id=100319160029967158
+delete from medibv1150310.v_ttrvll where id=100319160029967158
+delete from medibv1150310.v_ttrvds where id=100319160029967158
+
+update medibv1150310.v_tamung set done=0,idttrv=0,idtonghop=0 where mavaovien=100219124952444434;
+update medibv1150310.v_chidinh set paid=0,idttrv=0 where mavaovien=100219124952444434;
+update medibv1150310.d_tienthuoc set done=0,idttrv=0 where mavaovien=100219124952444434;
+update medibv1150210.v_tamung set done=0,idttrv=0,idtonghop=0 where mavaovien=100219124952444434;
+update medibv1150210.v_chidinh set paid=0,idttrv=0 where mavaovien=100219124952444434;
+update medibv1150210.d_tienthuoc set done=0,idttrv=0 where mavaovien=100219124952444434;
+
+update medibv1150310.v_thvpll set idttrv=0,done=0 where id=100319152335231490
+select * from medibv1150310.v_thvpll where mabn='10810531'

@@ -1,0 +1,245 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Số phiếu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lập phiếu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi chuyển tuyến :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nặng, xin về</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tử vong :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mổ cấp cứu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhập viện :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>V. XỬ TRÍ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổn thương khác :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chấn thương cột sống cổ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>điểm</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Glassgow :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chấn thương sọ não :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>IV. TÌNH TRẠNG THƯƠNG TÍCH :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mg/1 khí thở</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nồng độ cồn trong hơi thở :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mg/ml máu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đo nồng độ cồn trong máu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nếu có, hoặc không rõ : Theo cảm quan :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sử dụng rượu bia :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>III. THÔNG TIN VỀ SỬ DỤNG RƯỢU BIA :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại mũ bảo hiểm : Tên hãng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mũ bảo hiểm có bị vỡ không ?</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nếu có, khi đội có gài quai không ? :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đội mũ bảo hiểm :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>II. THÔNG TIN VỀ SỬ DỤNG MŨ BẢO HIỂM :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>I. THÔNG TIN CHUNG :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khác :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương tiện gây tai nạn :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương tiện giao thông sử dụng khi bị tai nạn :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương tiện đưa nạn nhân đến viện :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sơ cấp cứu ban đầu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến cấp cứu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xuất ra XML</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian xảy ra tai nạn :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa điểm xảy ra :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>NS :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thông tin tai nạn giao thông</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

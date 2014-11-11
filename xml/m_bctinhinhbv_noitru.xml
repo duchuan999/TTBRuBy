@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NOIDUNG" type="xs:string" minOccurs="0" />
+								<xs:element name="TONGSO" type="xs:int" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<STT>1</STT>
+		<NOIDUNG>Tổng số BN điều trị nội trú :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>2</STT>
+		<NOIDUNG>Tổng số ngày điều trị nội trú :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>3</STT>
+		<NOIDUNG>Kết quả điều trị </NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>4</STT>
+		<NOIDUNG>      - Tổng số điều trị khỏi :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>5</STT>
+		<NOIDUNG>      - Tổng số điều trị Đỡ/giảm :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>6</STT>
+		<NOIDUNG>      - Tổng số điều trị không thay đổi :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>7</STT>
+		<NOIDUNG>      - Tổng số điều trị nặng hơn :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>8</STT>
+		<NOIDUNG>               Trong đó :   - Xin về :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>9</STT>
+		<NOIDUNG>                             - Chuyển viện :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>10</STT>
+		<NOIDUNG>      - Tổng số xin về :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>11</STT>
+		<NOIDUNG>      - Tổng số chuyển viện :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>12</STT>
+		<NOIDUNG>Tổng số BN tử vong :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>13</STT>
+		<NOIDUNG>      - Trong vòng 24h nhập viện :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>14</STT>
+		<NOIDUNG>      - Sau 24h nhập viện :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>15</STT>
+		<NOIDUNG>Tổng số thủ thuật :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>16</STT>
+		<NOIDUNG>      - Loại I :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>17</STT>
+		<NOIDUNG>      - Loại II :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>18</STT>
+		<NOIDUNG>      - Loại III :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>19</STT>
+		<NOIDUNG>Tổng số phẩu thuật :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>20</STT>
+		<NOIDUNG>      - Loại I :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>21</STT>
+		<NOIDUNG>      - Loại II :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+	<Table>
+		<STT>22</STT>
+		<NOIDUNG>      - Loại III :</NOIDUNG>
+		<TONGSO>0</TONGSO>
+	</Table>
+</NewDataSet>

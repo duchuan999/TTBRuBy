@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MABN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MAKP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENKP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="QUYENSO" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="QUYENSO_TEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBIENLAI" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TAMUNG" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="SOTIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DICHVU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MIEN" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="MIENDV" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="MIENCS" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BHYT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THIEU" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="NOPTHEM" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CHENHLECH" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="THUA" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="DIEMTHU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DIEMTHU_TEN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="USERID" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID_TEN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TIENDINHDUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MABN>13039379</MABN>
+    <HOTEN>ĐẶNG THỊ KIM DUNG</HOTEN>
+    <MAKP>007</MAKP>
+    <TENKP>A2D</TENKP>
+    <QUYENSO>2107</QUYENSO>
+    <QUYENSO_TEN>TESTD</QUYENSO_TEN>
+    <SOBIENLAI>44</SOBIENLAI>
+    <NGAY>29/07/2013</NGAY>
+    <TAMUNG>1500000</TAMUNG>
+    <SOTIEN>3076104</SOTIEN>
+    <DICHVU>73000</DICHVU>
+    <MIEN>0</MIEN>
+    <MIENDV>0</MIENDV>
+    <MIENCS>0</MIENCS>
+    <BHYT>0</BHYT>
+    <THIEU>0</THIEU>
+    <NOPTHEM>0</NOPTHEM>
+    <CHENHLECH>0</CHENHLECH>
+    <THUA>0</THUA>
+    <DIEMTHU>0</DIEMTHU>
+    <DIEMTHU_TEN xml:space="preserve"> </DIEMTHU_TEN>
+    <USERID>0</USERID>
+    <USERID_TEN xml:space="preserve"> </USERID_TEN>
+    <TIENDINHDUONG>0</TIENDINHDUONG>
+  </Table>
+</NewDataSet>

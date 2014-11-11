@@ -1,0 +1,3 @@
+                CurrencyManager manager = (CurrencyManager)this.BindingContext[this.cbLoaidv_dd.DataSource];
+                DataView dv = (DataView)manager.List;
+                dv.RowFilter="loai like '%" + this.cbLoaidv_dd.SelectedValue.ToString()+"%'";

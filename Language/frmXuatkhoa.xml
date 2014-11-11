@@ -1,0 +1,620 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>PP điều trị</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lời dặn</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp của mẹ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trình độ VH của mẹ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp của bố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trình độ VH của bố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên mẹ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên bố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bỏ qua</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In thanh toán ra viện</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>toolStrip1</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tai biến</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>KS tử cung</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày đẻ (mổ đẻ) :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Chuyển chi phí thanh toán</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giai đoạn :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>M :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>N :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giải phẫu bệnh</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biến chứng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tai biến điều trị nội khoa</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CÁC LẦN VÀO KHOA :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>(Sinh,Sớm,Sẩy,Sống)</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiền thai (Para) :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhóm máu mẹ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quốc tịch :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/PXã :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi làm việc :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giai đoạn :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>M :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>N :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T.trạng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>TG bỏng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>TĐVH :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CÁC LẦN VÀO VIỆN :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày giờ vào khoa :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CĐ khoa điều trị :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CĐ KKB, Cấp cứu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CĐ Nơi chuyển đến :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số vào viện :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện thoại :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người nhà, quan hệ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lần thứ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi giới thiệu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhận từ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày giờ vào viện :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi chuyển :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>II. THÔNG TIN VÀO KHOA :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Para :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã mẹ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh/Tuổi :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp của bố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên bố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đẻ lần mấy :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tiếp</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>III. THÔNG TIN RA KHOA :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>I. HÀNH CHÍNH :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng số ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lưu trữ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ điều trị :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển đến :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển viện :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CĐ kèm theo :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nguyên nhân :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh chính :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết quả :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ph/giường :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày giờ &amp;ra khoa :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bệnh án :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa đến :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Medisoft</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

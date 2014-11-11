@@ -1,0 +1,205 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh>at :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>/10</Vviet>
+    <Vanh>/10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trái :</Vviet>
+    <Vanh>Left :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhãn áp phải :</Vviet>
+    <Vanh>Ocular tension    Right :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trái :</Vviet>
+    <Vanh>Left :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>/10</Vviet>
+    <Vanh>/10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thị lực phải :</Vviet>
+    <Vanh>Eyesight    Right  :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;CÁC LẦN KHÁM BỆNH :</Vviet>
+    <Vanh>&amp;Previous consultation(s)</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán :</Vviet>
+    <Vanh>Diagnosis :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bỏ qua</Vviet>
+    <Vanh>Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tiếp</Vviet>
+    <Vanh>&amp;Cont'</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>I. HÀNH CHÍNH :</Vviet>
+    <Vanh>I. DEMOGRAPHICS</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ khám :</Vviet>
+    <Vanh>Doctor :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xử trí :</Vviet>
+    <Vanh>Treatment :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh>Y.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khám :</Vviet>
+    <Vanh>Exam room :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khám bệnh lúc :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>II. THÔNG TIN VÀO KHÁM BỆNH :</Vviet>
+    <Vanh>II. CONSULTATION DATA</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H :</Vviet>
+    <Vanh>District :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh>Commune :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh>Street :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/PXã :</Vviet>
+    <Vanh>Abbrev.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh>Province :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh>Occupation:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh>Ethnic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quốc tịch :</Vviet>
+    <Vanh>Nationality :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh>House #:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>button1</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Medisoft</Vviet>
+    <Vanh>Registration</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

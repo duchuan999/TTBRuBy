@@ -1,0 +1,350 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>In kết quả tiếng Anh</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Về cuối</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tương phản</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phí BH :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tìm kiếm</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ID CLS tự động tăng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sau</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Trước</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In &amp;nhãn</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lượng phim :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã đĩa lưu :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Siêu âm</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phản ứng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết quả cuối</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhận KQ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phân loại :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Máy :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ID viện phí :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>LT :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CP :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BV chỉ định :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ID CLS :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn hình</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem trước khi in</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gây mê</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt trái :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt phải :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>KTV :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hẹn</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại  :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày trả kết quả lúc :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Vùng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BS chỉ định :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bỏ qua</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thay đổi</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Y Bác sĩ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ng nghiệp :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quốc tịch :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/PXã :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện thoại :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phiếu kết quả</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

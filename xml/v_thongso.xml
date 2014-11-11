@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <loai>1</loai>
+    <sohieu>2470</sohieu>
+    <c01>BHYT2008</c01>
+    <c02>1</c02>
+    <c03>0</c03>
+    <c04>0</c04>
+    <c05>0</c05>
+    <c06>0</c06>
+    <c07>Huỳnh Thị Nhĩ</c07>
+    <c08>Nguyễn Thị Hương</c08>
+    <c09>Huỳnh Thị Hoa</c09>
+    <c10>999</c10>
+    <c11>1</c11>
+    <c12>HCM 27/ĐT-VT.20VP</c12>
+    <c13>0302159861</c13>
+    <c14>0011000013193</c14>
+    <c15>338 Hai Bà Trưng - Quận 1</c15>
+    <c17>0</c17>
+    <c19>0</c19>
+    <c53>0</c53>
+    <c54>0</c54>
+    <c55>1</c55>
+    <c65>0</c65>
+    <c69>Vũ Thị Nhung</c69>
+    <c70>0</c70>
+    <c71>1</c71>
+    <c73>1</c73>
+    <c75>1</c75>
+    <c77>1</c77>
+    <c79>0</c79>
+    <c81>0</c81>
+    <c82>0</c82>
+    <c85>0</c85>
+    <c86>0</c86>
+    <hinh>D:\Medisoft200911g\hinhnen\vienphi.jpg</hinh>
+    <qsthuong>2470</qsthuong>
+    <thupk>1</thupk>
+    <thupl>1</thupl>
+    <thuntru>1</thuntru>
+    <thungtru>1</thungtru>
+    <thunhathuoc>1</thunhathuoc>
+    <qsdichvu>2744</qsdichvu>
+    <diemthu>0</diemthu>
+    <vienphidot>1</vienphidot>
+    <vpgdduyet />
+    <vpinnhom>0</vpinnhom>
+    <tmn_mien_cn>1</tmn_mien_cn>
+    <tmn_Toathuoctutruc>1</tmn_Toathuoctutruc>
+    <tmnTamung>0</tmnTamung>
+    <tmnXetKTV>1</tmnXetKTV>
+    <tmnThuoc50>0</tmnThuoc50>
+    <tmnThuoc50_dv>0</tmnThuoc50_dv>
+    <chkChihiennhungdichvuconsudung>1</chkChihiennhungdichvuconsudung>
+    <chkMienTheCanNgheo>0</chkMienTheCanNgheo>
+    <tmn_Luuin_Hoadon_Icon>0</tmn_Luuin_Hoadon_Icon>
+    <tmn_Xemtruockhiin_Icon>1</tmn_Xemtruockhiin_Icon>
+    <chkQuyetToanNgoaiTru>0</chkQuyetToanNgoaiTru>
+    <chkQuyetToanNoiTru>1</chkQuyetToanNoiTru>
+    <chkKhongTuLoadChiPhiCuaBenhNhan />
+  </Row>
+</Import>

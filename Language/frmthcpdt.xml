@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Tổng kết toàn viện</Vviet>
+    <Vanh>Whole hospital resuming</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh sách bệnh nhân còn thiếu tiền vượt :</Vviet>
+    <Vanh>Patients owned</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xin chờ đang tổng hợp danh sách bệnh nhân thừa thiếu tiền của khoa .. tính đến ngày ...</Vviet>
+    <Vanh>Doing report , Please wait....t</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tổng hợp lại</Vviet>
+    <Vanh>Re-calculate</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng hợp chi phí điều trị</Vviet>
+    <Vanh>Resuming hospital fee</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

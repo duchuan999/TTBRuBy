@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ten>\\S02\medisoft2009update\UPDATE MEDISOFT\Medisoft2009\CDHA2009</ten>
+  </Table1>
+  <path>
+    <srcPath>\\s02\Medisoft2009Update\UPDATE MEDISOFT\Medisoft2009</srcPath>
+  </path>
+  <para>
+    <module>Khomau</module>
+    <boolUpdate>1^1^0</boolUpdate>
+    <current>0</current>
+  </para>
+</NewDataSet>

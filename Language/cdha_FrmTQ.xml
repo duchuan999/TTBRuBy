@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Đề nghị</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết luận</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thoát</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phụ khoa</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cấu trúc CTC</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lòng tử cung</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Túi cùng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phần phụ</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội mạc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mm</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>DAP =</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>- Kích Thước:</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>- Tư thế:</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tử cung</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bụng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiền liệt tuyến</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dịch ổ bụng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thận phải</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thận trái</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mật</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>VĐ khác</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đường tiêu hoá</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ĐMC bụng</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bàng quang</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuỵ lách</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gan</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Siêu âm tổng quát</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

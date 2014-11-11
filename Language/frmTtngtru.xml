@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Xuất ra XML</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem trước khi in</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi ĐKKCB :</Vviet>
+    <Vanh>Reg. Resc.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán :</Vviet>
+    <Vanh>Diagnosis :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tiếp</Vviet>
+    <Vanh>&amp;Cont'</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ :</Vviet>
+    <Vanh>Add. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ :</Vviet>
+    <Vanh>SSN :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh>Y.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phiếu thanh toán ngoại trú</Vviet>
+    <Vanh>OP billing report</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

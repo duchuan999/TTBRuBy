@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <hinh>E:\Medisoft_links\picture\duoc.jpg</hinh>
+    <c00>HIEN</c00>
+    <c01>0</c01>
+    <c02>0</c02>
+    <c03>1</c03>
+    <c04 />
+    <c05>1</c05>
+    <c06>0</c06>
+    <c07 />
+    <c08 />
+    <c09 />
+    <c10>100</c10>
+    <c11>0</c11>
+    <c12>0</c12>
+    <c13>0</c13>
+    <c14>0</c14>
+    <c15 />
+    <c16 />
+    <c17>0</c17>
+    <c18>1</c18>
+    <c19>1</c19>
+    <c20>1</c20>
+    <c21>0</c21>
+    <c22>40.00</c22>
+    <c23>1</c23>
+    <c24>1</c24>
+    <c25>0</c25>
+    <c26>1</c26>
+    <c27>1</c27>
+    <c28>1</c28>
+    <c29>1</c29>
+    <c30>1</c30>
+    <c31>1</c31>
+    <c32 />
+    <c33>0</c33>
+    <c34>1</c34>
+    <c35>1</c35>
+    <c36>1</c36>
+    <c37>1</c37>
+    <c38>0</c38>
+    <c39>0</c39>
+    <c40>1</c40>
+    <c41>0</c41>
+    <c42>0</c42>
+    <sudung>30,12,6,7,10,11,13,16,38,17,18,19,20,21,22,31,23,24,25,26,33,27,28,29,34,32,35,37,40,41,43,44,45,46,47,48,58,49,50,51,54,55,56,60,61,63,64,65,66,67,68,69,39,70,71,72,73,74,75</sudung>
+    <maloai>13,20,</maloai>
+    <manhom>1,2,3,6,</manhom>
+    <sql>select * from d_error</sql>
+    <c95>0</c95>
+    <c96>0</c96>
+    <c97>0</c97>
+    <c101>1</c101>
+    <dbhyt>1</dbhyt>
+    <nhomkho>0</nhomkho>
+    <gianovat>0</gianovat>
+    <dmnx_kt>0</dmnx_kt>
+    <dgcstt>1</dgcstt>
+    <duyetcls>0</duyetcls>
+    <duyetnv>0</duyetnv>
+    <Kodichvu>1</Kodichvu>
+    <bbkn_ngayhd>1</bbkn_ngayhd>
+    <bbkn_ngaykiem>0</bbkn_ngaykiem>
+    <donchiphi>1</donchiphi>
+    <duyetpl>0</duyetpl>
+    <dlistcls>0</dlistcls>
+    <taohongcau>1</taohongcau>
+    <dbhytmpk>0</dbhytmpk>
+    <phatkhoct>1</phatkhoct>
+    <vpbhytkp>082,</vpbhytkp>
+    <duyetchuain>0</duyetchuain>
+    <duyetkin>1</duyetkin>
+    <duyetlist>0</duyetlist>
+    <duyetin>1</duyetin>
+    <dutruca>3</dutruca>
+    <dutrupp>0</dutrupp>
+    <Ngonngu>0</Ngonngu>
+    <TenChuTichHoiDong>BS.NGUYỄN NGỌC ANH</TenChuTichHoiDong>
+    <TenPhoChuNhiemKho>KS. QUÁCH TUẤN KHẢI</TenPhoChuNhiemKho>
+    <TenPhuTrachKho>NGUYỄN NGỌC SƯƠNG</TenPhuTrachKho>
+    <TenPhuTrachPhong>TRƯƠNG THỊ NGỌC QUYÊN</TenPhuTrachPhong>
+    <TenKetoan>TRẦN LỆ XUÂN</TenKetoan>
+    <TenThuKho>HÀ VĂN THOAN</TenThuKho>
+    <ChuTichHoiDong>Phó Giám Đốc</ChuTichHoiDong>
+    <PhoChuNhiemKho>Tr.Phòng VT-TBYT</PhoChuNhiemKho>
+    <PhuTrachKho>Tr.Phòng TCKT</PhuTrachKho>
+    <PhuTrachPhong>Kế toán</PhuTrachPhong>
+    <Ketoan>Thủ kho</Ketoan>
+    <ThuKho>Tiếp liệu</ThuKho>
+    <c1_id601>0</c1_id601>
+    <c2_id602>0</c2_id602>
+    <c3_id603>0</c3_id603>
+    <c4_id604>0</c4_id604>
+    <c5_id605>0</c5_id605>
+    <c6_id606>0</c6_id606>
+    <c7_id607>0</c7_id607>
+    <c8_id608>0</c8_id608>
+    <c11_id611>0</c11_id611>
+    <c12_id612>0</c12_id612>
+    <c13_id613>0</c13_id613>
+    <c14_id614>0</c14_id614>
+    <c15_id615>0</c15_id615>
+    <c16_id616>0</c16_id616>
+    <c17_id617>0</c17_id617>
+    <c18_id618>0</c18_id618>
+    <ten>c18_id618</ten>
+    <kho>Ngân hàng máu</kho>
+    <nhacungcap_mau>320</nhacungcap_mau>
+  </Row>
+</Import>

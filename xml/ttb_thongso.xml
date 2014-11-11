@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <c518 />
+    <c517>Thủ kho - Ủy viên</c517>
+    <c516>Kế toán - Ủy viên</c516>
+    <c515>Phụ trách phỏng TCKT - Ủy viên</c515>
+    <c514>Phụ trách khoa - Ủy viên</c514>
+    <c513>Phó CN kho - Phụ trách kho - Ủy viên</c513>
+    <c512 />
+    <c511>Chủ tịch hội đồng</c511>
+    <c507 />
+    <c506>ASDASD</c506>
+    <c505>ASD</c505>
+    <c504>SAD</c504>
+    <c503>SDAS</c503>
+    <c501>SD</c501>
+    <hinh>E:\Medisoft_links\picture\duoc.jpg</hinh>
+    <c00>HIEN</c00>
+    <c01>0</c01>
+    <c02>1</c02>
+    <c03>1</c03>
+    <c04 />
+    <c05>1</c05>
+    <c06>0</c06>
+    <c07>0</c07>
+    <c08>0</c08>
+    <c09>0</c09>
+    <c10>60</c10>
+    <c11>1</c11>
+    <c12>1</c12>
+    <c13>0</c13>
+    <c14>0</c14>
+    <c15>0</c15>
+    <c16>0</c16>
+    <c17>1</c17>
+    <c18>1</c18>
+    <c19>0</c19>
+    <c20>0</c20>
+    <c21>0</c21>
+    <c22>60</c22>
+    <c23>1</c23>
+    <c24>1</c24>
+    <c25>0</c25>
+    <c26>0</c26>
+    <c27>0</c27>
+    <c28>1</c28>
+    <c29>1</c29>
+    <c30>1</c30>
+    <c31>1</c31>
+    <c32>0</c32>
+    <c33>0</c33>
+    <c34>0</c34>
+    <c35>0</c35>
+    <c36>0</c36>
+    <c37>1</c37>
+    <c38>1</c38>
+    <c39>1</c39>
+    <c40>0</c40>
+    <c41>0</c41>
+    <c42>0</c42>
+    <sudung />
+    <maloai>13,20,</maloai>
+    <manhom>1,2,3,6,</manhom>
+    <sql>select * from medibvtbinh.ttb_error</sql>
+    <c95>1</c95>
+    <c96>1</c96>
+    <c97>1</c97>
+    <c101>1</c101>
+    <dbhyt>0</dbhyt>
+    <gianovat>0</gianovat>
+    <dmnx_kt>0</dmnx_kt>
+    <Kodichvu>0</Kodichvu>
+    <duyetnv>0</duyetnv>
+    <duyetcls>1</duyetcls>
+    <xuatdoituong_chkxuatsdct>1</xuatdoituong_chkxuatsdct>
+    <duyet_luuin>0</duyet_luuin>
+    <Ngonngu>0</Ngonngu>
+    <c56>0</c56>
+    <kho>Trang Thiết Bị</kho>
+  </Row>
+  <Row>
+    <c501 />
+  </Row>
+  <Row>
+    <c503 />
+  </Row>
+  <Row>
+    <c504 />
+  </Row>
+  <Row>
+    <c505 />
+  </Row>
+  <Row>
+    <c506 />
+  </Row>
+  <Row>
+    <c507 />
+  </Row>
+  <Row>
+    <c511>Chủ tịch hội đồng</c511>
+  </Row>
+  <Row>
+    <c512 />
+  </Row>
+  <Row>
+    <c513>Phó CN kho - Phụ trách kho - Ủy viên</c513>
+  </Row>
+  <Row>
+    <c514>Phụ trách khoa - Ủy viên</c514>
+  </Row>
+  <Row>
+    <c515>Phụ trách phỏng TCKT - Ủy viên</c515>
+  </Row>
+  <Row>
+    <c516>Kế toán - Ủy viên</c516>
+  </Row>
+  <Row>
+    <c517>Thủ kho - Ủy viên</c517>
+  </Row>
+  <Row>
+    <c518 />
+  </Row>
+</Import>

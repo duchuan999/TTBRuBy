@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>picCapturePro1</Vviet>
+    <Vanh>picCapturePro1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn thiết bị</Vviet>
+    <Vanh>Select equipment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mặc định</Vviet>
+    <Vanh>Default</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lưu</Vviet>
+    <Vanh>Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết nối</Vviet>
+    <Vanh>Connect</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hiệu ứng màu:</Vviet>
+    <Vanh>Color effects</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tín hiệu vào:</Vviet>
+    <Vanh>Signals in</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chế độ màu:</Vviet>
+    <Vanh>Color</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kênh:</Vviet>
+    <Vanh>Channel</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cấu hình</Vviet>
+    <Vanh>Configuration</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Độ phân giải:</Vviet>
+    <Vanh>Resolution</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thiết bị:</Vviet>
+    <Vanh>Equipment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cấu hình thiết bị siêu âm</Vviet>
+    <Vanh>Ultrasound device configuration</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

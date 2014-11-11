@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CHKDOCMAVACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKNAPLAIDSCHO" type="xs:string" minOccurs="0" />
+                <xs:element name="FONTSIZE" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXEMTRUOCKHIIN" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTPATHTHUMUC" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTPATHPHIM" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_KHOA" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_PHONG" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_SODIENTHOAI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONG_LOADLANCLS" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONG_LOADLANCLS_KHILUU" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGIN" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_HO" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_HOTENKHONGDAU" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_MABENHNHAN" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_TUOI" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_NAMSINH" type="xs:string" minOccurs="0" />
+                <xs:element name="MNFIND_KYTHUAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDUNGCHUNGVIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKIN_MOI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDCMT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDCVTKT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKHIENVIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKSETFONT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKHIENCAPTURE" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKUSEVIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKSETFONTKHAIBAO" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT560" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT55" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT52500" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT1060" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT1010" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT102500" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT2060" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT2020" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT202500" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT3060" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT3030" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT302500" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT4060" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT4040" type="xs:string" minOccurs="0" />
+                <xs:element name="TXT402500" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CHKDOCMAVACH>0</CHKDOCMAVACH>
+    <CHKNAPLAIDSCHO>1</CHKNAPLAIDSCHO>
+    <FONTSIZE>13</FONTSIZE>
+    <CHKXEMTRUOCKHIIN>1</CHKXEMTRUOCKHIIN>
+    <TXTPATHTHUMUC />
+    <TXTPATHPHIM />
+    <TXTLOCAL_KHOA>NỘI SOI</TXTLOCAL_KHOA>
+    <TXTLOCAL_PHONG>NỘI SOI</TXTLOCAL_PHONG>
+    <TXTLOCAL_SODIENTHOAI>08.38989080</TXTLOCAL_SODIENTHOAI>
+    <CHKTUDONG_LOADLANCLS>1</CHKTUDONG_LOADLANCLS>
+    <CHKTUDONG_LOADLANCLS_KHILUU>0</CHKTUDONG_LOADLANCLS_KHILUU>
+    <CHKTUDONGIN>1</CHKTUDONGIN>
+    <MNFIND_HO>0</MNFIND_HO>
+    <MNFIND_TEN>0</MNFIND_TEN>
+    <MNFIND_HOTENKHONGDAU>0</MNFIND_HOTENKHONGDAU>
+    <MNFIND_MABENHNHAN>1</MNFIND_MABENHNHAN>
+    <MNFIND_TUOI>0</MNFIND_TUOI>
+    <MNFIND_NAMSINH>0</MNFIND_NAMSINH>
+    <MNFIND_KYTHUAT>0</MNFIND_KYTHUAT>
+    <CHKDUNGCHUNGVIETTAT>0</CHKDUNGCHUNGVIETTAT>
+    <CHKIN_MOI>1</CHKIN_MOI>
+    <CHKDCMT>0</CHKDCMT>
+    <CHKDCVTKT>1</CHKDCVTKT>
+    <CHKHIENVIETTAT>1</CHKHIENVIETTAT>
+    <CHKSETFONT>1</CHKSETFONT>
+    <CHKHIENCAPTURE>0</CHKHIENCAPTURE>
+    <CHKUSEVIETTAT>0</CHKUSEVIETTAT>
+    <CHKSETFONTKHAIBAO>0</CHKSETFONTKHAIBAO>
+    <TXT560>60</TXT560>
+    <TXT55>5</TXT55>
+    <TXT52500>2500</TXT52500>
+    <TXT1060>60</TXT1060>
+    <TXT1010>10</TXT1010>
+    <TXT102500>2500</TXT102500>
+    <TXT2060>60</TXT2060>
+    <TXT2020>20</TXT2020>
+    <TXT202500>2500</TXT202500>
+    <TXT3060>60</TXT3060>
+    <TXT3030>30</TXT3030>
+    <TXT302500>2500</TXT302500>
+    <TXT4060>60</TXT4060>
+    <TXT4040>40</TXT4040>
+    <TXT402500>2500</TXT402500>
+  </Table>
+</NewDataSet>

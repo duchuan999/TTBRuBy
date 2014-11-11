@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Biểu đồ</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phường/Xã :</Vviet>
+		<Vanh>Commune :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quận/Huyện :</Vviet>
+		<Vanh>District :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/TP :</Vviet>
+		<Vanh>Province :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tìm</Vviet>
+		<Vanh>&amp;Find</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số liệu :</Vviet>
+		<Vanh>Data :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Độ tuổi :</Vviet>
+		<Vanh>Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoa/Phòng :</Vviet>
+		<Vanh>Dept. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dân tộc :</Vviet>
+		<Vanh>Ethnic</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp :</Vviet>
+		<Vanh>Occupation:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Biểu đồ :</Vviet>
+		<Vanh>Chart :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>đến ngày :</Vviet>
+		<Vanh>and :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày :</Vviet>
+		<Vanh>Between</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tổng hợp ARI</Vviet>
+		<Vanh>ARI report</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

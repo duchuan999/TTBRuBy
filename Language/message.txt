@@ -1,0 +1,498 @@
+B?n có s?a thông tin hành chính không ?	Do you want to update demographic data ?	1
+Ngày sinh không h?p l? !	Invalid date of birth!	2
+Nam sinh không h?p l? !	Invalid year of birth!	3
+Yêu c?u nh?p tu?i vào !	Please input age!	4
+Ngày không h?p l? !	Invalid date!	5
+Tên ngu?i dùng và m?t kh?u không tìm th?y !	Username and password not found !	6
+Không c?p nh?t du?c thông tin hành chính !	Can not update demographic data!	7
+Không c?p nh?t du?c thông tin dang ký !	Data can not be updated!	8
+Không c?p nh?t du?c thông tin b?o hi?m !	Can not update health insurance data!	9
+Yêu c?u nh?p Ngày và gi? khám b?nh !	Please input date and time of consultation!	10
+Ngày và gi? không h?p l? !	Date and time invalid!	11
+Ngày khám b?nh không h?p l? so v?i khai báo h? th?ng 	Invalid date , please check system setting	12
+S? biên lai vu?t quá trong kho?n t? :	Receit # is out of range.	13
+d?n	to	14
+Nh?p s? th? chua d? (>=13)!	Invalid health insurance code, please check number of characters!	15
+Nh?p mã b?nh nhân !	Please input patient ID!	16
+Nh?p h? tên b?nh nhân !	Please input patient name!	17
+Qu?c t?ch không h?p l? !	Invalid nationality!	18
+H? tên và gi?i tính không h?p l? !	Name and sex do not matched!	19
+Tu?i và nam sinh không h?p l?\nB?n có mu?n chuong trình tính l?i không ?	Age and YOB do not match, do you want to recalculate!	20
+Nh?p ngày vào khám b?nh !	Please input consultation date!	21
+Nh?p d?i tu?ng !	Please input patient class!	22
+Nh?p ngh? nghi?p !	Please input occupation!	23
+Ch?n t?nh/thành ph? !	Please select province!	24
+Ch?n qu?n/huy?n !	Please select district!	25
+Ch?n phu?ng xã !	Please select commun!	26
+Ch?n dân t?c 	Please select ethnic!	27
+Ch?n qu?c t?ch !	Please select nationality!	28
+Ch?n khoa/phòng !	Please select department!	29
+Ngh? nghi?p và d? tu?i không h?p l? !	Mismatch occupation and age !	30
+Ð? tu?i và phòng khám không h?p l? !	Mismatch age and outpatient unit!	31
+Ngày h?t h?n không du?c nh? hon ngày khám b?nh!	Invalid date !	32
+Nh?p mã ICD noi chuy?n d?n !	Please input ICD 10 of transferring resource	33
+Nh?p ch?n doán noi chuy?n d?n !	Please input diagnosis of transferring resource	34
+Mã ICD không h?p l? !	Invalid ICD 10	35
+Ch?n doán không h?p l? !	Invalid diagnosis	36
+Nh?p mã ICD b?nh chính !	Please input ICD 10!	37
+Không du?c h?y mã này !	Can not delete this code !	38
+B?n có mu?n l?y l?i thông tin c?a l?n nh?p sau cùng không ?	Do you want to take  last input data ?	39
+S? li?u không h?p l? !	Invalid data!	40
+Ð?ng ý h?y thông tin này ?	Do you really want to delete this?	41
+Ð?n ngày không du?c nh? hon t? ngày !	Invalid date	42
+Không có s? li?u !	No data !	43
+Có mu?n ch?n l?i danh sách ICD10 không ?	Do you want to reselect ICD 10 ?	44
+Có mu?n c?p nh?t l?i d? tu?i không ?	Do you want to update age group ?	45
+Không có s? li?u !	No data !	46
+Có mu?n ch?n l?i danh sách ICD10 không ?	Do you want to reselect ICD 10 list ?	47
+Ch?n b?nh án s? d?ng trong khoa !	Please select patient chart !	48
+Không c?p nh?t thông tin khoa !	Can not update department information !	49
+Không du?c h?y mã này !	Code cannot be deleted	50
+Khoa dã s? d?ng không th? hu? !	In use, can not be deleted !	51
+Ð?ng ý h?y thông tin này !	Do you really want to delete this !	52
+Mã này dã có !	Code already existed!	53
+Ch?n b?nh án s? d?ng trong khoa !	Please select patient chart !	54
+Không c?p nh?t thông tin khoa !	Can not update department information !	55
+Không c?p nh?t thông tin ngh? nghi?p !	Can not update occupation information !	56
+Ngh? nghi?p dã s? d?ng không th? hu? !	Occupation in use, can not be deleted !	57
+Không th? h?y ngh? nghi?p này du?c vì có s? d?ng b?nh án NHI,SO SINH,M?T (tr? em)!	Occupation n use, Can not be deleted !	58
+Không c?p nh?t thông tin phòng khám !	Can not update OP information !	59
+Không du?c h?y mã này !	This code can not be deleted !	60
+Phòng khám dã s? d?ng không th? hu? !	OP clinic in use, can not be deleted !	61
+Không c?p nh?t thông tin phòng khám !	Can not update OP clinic data !	62
+Yêu c?u nh?p mã !	Please input code !	63
+Yêu c?u nh?p tên !	Please input name !	64
+Mã phu?ng xã dã s? d?ng không th? hu? !	Commun code in use , can not be deleted	65
+Ð?ng ý h?y ?	Do you really want to delete this ?	66
+Yêu c?u nh?p mã !	Please input code !	67
+Mã qu?n/huy?n dã s? d?ng không th? hu? !	District code already in use, can not be deleted	68
+Ð?ng ý h?y ?	Do you really want to delete this !	69
+Mã t?nh/thành ph? dã s? d?ng không th? hu? !	Province code in use, can not be deleted !	70
+Không c?p nh?t thông tin vi?t t?t !	Can not update abbreviation	71
+Mã ICD10 này không có trong danh m?c !	Invalid ICD 10 !	72
+Nh?p khoa d?n !	Please input referral department !	73
+Ch?n doán chuy?n !	Please input referring diagnosis !	74
+Mã ICD không h?p l? !	Invalid ICD 10 !	75
+Ch?n doán không h?p l? !	Invalid diagnosis !	76
+Ð?ng ý h?y thông tin dang ch?n !	Dele selected data ?	77
+Khoa cu?i ph?i là :	Last department must be : 	78
+Ngày chuy?n khoa không du?c nh? hon ngày vào khoa !	Invalid referring date !	79
+Ngày chuy?n khoa không du?c l?n hon ngày ra vi?n !	Invalid referring date !	80
+Ngày chuy?n khoa không h?p l? so v?i khai báo h? th?ng (	Invalid referring date, check system setting !	81
+Không c?p nh?t thông tin co s? y t? !	Cannot update medical resource data !	82
+Co s? y t? dã s? d?ng không th? hu? !	Medical resource cannot be deleted !	83
+Co s? y t? dã s? d?ng không th? hu? !	Medical resource in use, cannot be deleted !	84
+Không c?p nh?t thông tin !	Cannot update data !	85
+Không th? thêm b?nh án 	Cannot add patient chart !	86
+ vì danh m?c ngh? nghi?p chua có tr? em !	No children in occupation list  !	87
+Không cho phép h?y, vì b?t bu?c ph?i còn b?nh án !	Patient chart must be existed, cannot be deleted !	88
+B?nh án này dã s? d?ng không th? h?y !	Patient chart in use , cannot be deleted !	89
+Không th? thêm b?nh án 	Cannot add patient chart !	90
+Không cho phép h?y, vì b?t bu?c ph?i còn b?nh án !	Cannot delete ,patient chart in use	91
+Không c?p nh?t du?c thông tin nhân viên !	Cannot update staff data !	92
+H? tên bác si dã s? d?ng không th? h?y !	Doctor name in use , cannot be deleted !	93
+Không th? h?y !	Cannot be deleted !	94
+H? tên này dã có !	Name already existed !	95
+Không c?p nh?t du?c thông tin phuong pháp vô c?m !	Cannot update anesthesiology method !	96
+Phuong pháp vô c?m dã s? d?ng không th? h?y !	Anesthesiology method in use , cannot be deleted !	97
+Không th? h?y !	Cannot delete data !	98
+Không c?p nh?t du?c thông tin nhóm máu !	Cannot update blood group !	100
+Nhóm máu dã s? d?ng không th? h?y !	Blood group in use, cannot be deleted !	101
+Không th? h?y !	Cannot delete data !	102
+B?n có mu?n h?y d? li?u này không ?	Do you really want to delete ?	103
+Chi?u dài chua d? !	String length not enough !	104
+Ba ký t? d?u ph?i là (	Three first characters must be !	105
+Y?u c?u nh?p h? tên !	Please input name !	106
+Y?u c?u nh?p tên login !	Please input login name !	107
+M?t kh?u c? không dúng !	Password not matched !	108
+Tên login dã có !	Login name already existed !	109
+Không phát hi?n l?i trong kho?ng th?i gian này !	No error found !	110
+Không có s? li?u !	No data !	111
+Yêu c?u nh?p ICD-10 !	Please input ICD 10 ! !	112
+ICD-10 không h?p l? !	Invali ICD 10 !	113
+Yêu c?u nh?p tên b?nh t?t !	Please input disease !	114
+Không cho phép h?y thông tin này !	Data cannot be deleted !	115
+Ð?ng ý h?y ICD-10 ?	Do you really want to delete ICD 10 !	116
+Mã ICD10 dã t?n t?i !	ICD 10 already existed !	117
+Thu nh?p s? li?u xong !	Done !	118
+Không tìm th?y File BC1.DBF c?n chuy?n !	File BC1.DBF cannot be found !	119
+Bi?u 01	Form 01	120
+Bi?u 02	Form 02	121
+Bi?u 031	Form 031	122
+Bi?u 04	Form 04	123
+Bi?u 05	Form 05	124
+Bi?u 06	Form 06	125
+Bi?u 07	Form 07	126
+Bi?u 08	Form 08	127
+Bi?u 091	Form 091	128
+Bi?u 101	Form 101	129
+Bi?u 1021	Form 1021	130
+Bi?u 1022	Form 1022	131
+Bi?u 103	Form 103	132
+Bi?u 11	Form 11	133
+Thu nh?p s? li?u xong !	Done	134
+Không c?p nh?t du?c thông tin nh?p vi?n !	Cannot update admission data !	135
+Thu nh?p s? li?u xong !	Done !	136
+Ð?ng ý g?i ra máy in ?	Send to printer !	137
+Ch?n icd c?n in	Please select ICD 10 to print !	138
+Thông báo	Warning !	139
+Yêu c?u nh?p mã !	Please input code !	140
+Yêu c?u nh?p tên ph?u thu?t - th? thu?t !	Please input procedure !	141
+Mã dang s? d?ng không th? h?y !	Code in use, cannot be deleted !	142
+Ð?ng ý h?y mã ph?u thu?t - th? thu?t ?	Do you really want to delete procedure code !	143
+Yêu c?u nh?p mã !	Please input code !	144
+Không h?p l? vì trùng v?i mã b?nh vi?n !	Hospital code already existed !	145
+Mã ICD10 này không có trong danh m?c !	Invalid ICD 10 !	146
+Ngày h?t h?n không du?c nh? hon ngày khám b?nh!	Invalid expired date  !	147
+Nh?p s? th? chua d? (>=13)!	Invalid character string length  !	148
+Mã ICD không h?p l? !	Invalid ICD 10  !	149
+Ch?n doán không h?p l? !	Invalid diagnosis  !	150
+Nh?p tên co quan y t? !	Please input medical resource  !	151
+Nh?p ngày sinh !	Please input date of birth  !	152
+Nh?p ngày vào khám b?nh !	Please input date of consultation  !	153
+Nh?p tr?c ti?p vào !	Patient type !	154
+Nh?p noi gi?i thi?u !	Please input referring resource !	155
+Ch?n t?nh/thành ph? !	Please select province !	156
+Ch?n dân t?c !	Please select ethnic !	157
+Nh?p x? trí khám b?nh !	Please input treatment at OP clinic !	158
+Nh?p ch?n doán b?nh chính !	Please input main diagnosis !	159
+Nh?p mã ICD b?nh kèm theo !	Please input ICD 10 of associated disease !	160
+Nh?p ch?n doán b?nh kèm theo !	Please input associated disease !	161
+Nh?p bác si di?u tr? !	Please input doctor in charge !	162
+Nh?p chuy?n vi?n !	Please input transfer to other hospital !	163
+Nh?p chuy?n d?n !	Please input transferring data !	164
+Ð? tu?i và phòng khám không h?p l? !	Age and OP clinic mismatched !	165
+Không c?p nh?t du?c thông tin vào vi?n !	Admission data cannot be updated !	166
+Không c?p nh?t du?c thông tin chuy?n d?n !	Cannot update referring data !	167
+Không c?p nh?t du?c thông tin ra vi?n !	Cannot update discharge data !	168
+Ngày khám b?nh không h?p l? so v?i khai báo h? th?ng (	Invalide consultation date , check system setting !	169
+Ngày gi? khám b?nh không du?c nh? ngày gi? ti?p dón !(	Invalide consultation date  !	170
+Tên ngu?i dùng và m?t kh?u không tìm th?y !	Username and password could not be found  !	171
+B?n có mu?n k?t thúc không ?	Do you want to exit ?  !	172
+B?n có mu?n sao luu s? li?u không ?	Do you want to save data ?  !	173
+Chua khai báo b?nh án s? d?ng !	Patient chart was not declared ?  !	174
+Không tìm th?y du?ng d?n d?n t?p tin tr? giúp.	Path of HELP FILE could not be found ?  !	175
+Tr? giúp	Help	176
+Không có m?ng n?i b? !	No local network !	177
+N?i dung này không cho phép xóa !	Cannot be deleted !	178
+Ð?ng ý h?y ?	Delete ?	179
+Thu nh?p xong !	Done !	180
+S? li?u không h?p l? vì trùng mã b?nh vi?n !	Invalid data , hospital code already existed !	181
+Ngày h?t h?n không du?c nh? hon ngày di?u tr?!	Invalid expired date !	182
+Yêu c?u nh?p Ngày và gi? ra vi?n !	Please input discharge date time !	183
+Ngày ra vi?n không du?c nh? hon ngày vào vi?n !	Invalid discharge date !	184
+Ngày ra vi?n không h?p l? so v?i khai báo h? th?ng (	Invalid discharge date, check system setting !	185
+Nh?p s? th? chua d? (>=13)!(	Health insurance number invalid  !	186
+Nh?p ngày vào vi?n !	Please input admission date !	187
+Nh?p mã ICD vào khoa khám b?nh !	Please input ICD 10 of OP clinic !	188
+Nh?p ch?n doán vào khoa khám b?nh !	Please input diagnosis of OP clinic !	189
+Nh?p k?t qu? di?u tr? !	Please input treatment results !	190
+Nh?p tình tr?ng ra vi?n !	Please input discharge status  !	191
+Nh?p s? luu tr? !	Please input storing number !	192
+Nh?p chuy?n vi?n !	Please input transferring data !	193
+Nh?p chuy?n d?n !	Please input transferring to !	194
+Ngày ra vi?n không du?c nh? hon ngày ph?u thu?t - th? thu?t !\n	Invalid discharge date, check procedure date !	195
+B?nh nhân dang di?u tr? trong khoa {	Patient is already in department !	196
+B?nh nhân dã du?c nh?p vi?n vào khoa {	Patient already admitted to department !	197
+Nh?p ngày ra vi?n !	Please input discharge date !	198
+Yêu c?u nh?p Ngày và gi? vào vi?n !	Please input admission date time !	199
+Ngày b?t d?u di?u tr? không du?c nh? hon ngày khám b?nh !	Invalid starting date, check consultation date !	200
+Ngày b?t d?u di?u tr? không h?p l? so v?i khai báo h? th?ng (	Invalid starting date, check system setting !	201
+Ngày h?t h?n không du?c nh? hon ngày vào vi?n!	Invalid expired date , check admission date !	202
+Nh?p s? th? chua d? (>=13)!(	Invalid health insurance number, check data length !	203
+Nh?p ngày vào vi?n !	Please input admission date 	204
+Nh?p vào vi?n do b?nh này l?n th? !	Time of admission of this disease !	205
+Nh?p s? vào vi?n !	Please input admision number !	206
+Nh?p ch?n doán vào khoa khám b?nh !	Please input diagnosis of OP clinic ! 	207
+Nh?p d? l?n m?y !	Number of delivery 	208
+Nh?p ti?n thai (Para) !	Please input PARA	209
+B?nh nhân này dã nh?p khoa không th? s?a ph?n vào khoa !	Patient already admitted, cannot fix data !	210
+Không có s? li?u !	No data !	211
+Nh?p s? vào vi?n !	Please admission number !	212
+S? vào vi?n này dã có !	Admission number already existed !	213
+Yêu c?u nh?p th?i gian b? b?ng !	Please input burn date time !	214
+Th?i gian b? b?ng không du?c l?n hon ngày vào khoa !	Burn date time invalid, check admittion date time !	215
+Th?i gian b? b?ng không h?p l? so v?i khai báo h? th?ng (	Burn date time invalid, check system setting !	216
+Ti?n thai (Para) không h?p l? !	Invalid PARA !	217
+Nh?p h? tên m? !	Please input mother's name!	218
+Yêu c?u nh?p Ngày và gi? vào vi?n !	Please input admission date time !	219
+B?nh nhân dang di?u tr? trong khoa {	Patient is being treated !	220
+B?nh nhân dã du?c nh?p vi?n vào khoa {	Patient already admitted !	221
+Ngày vào vi?n không h?p l? so v?i khai báo h? th?ng !	Invalid admission date, check system setting !	222
+Không c?p nh?t du?c thông tin ph?u thu?t / th? thu?t !	Cannot update data	223
+B?n không có quy?n ch?nh s?a thông tin !	You have no right to correct data !	224
+Thông tin hành chính không tìm th?y !	Demographic data not found !	225
+Mã ICD10 này không có trong danh m?c !	ICD 10 not existed !	226
+Nh?p s? phi?u ph?u thu?t / th? thu?t !	Please input procedure number !	227
+Ch?n doán tru?c ph?u thu?t / th? thu?t !	Please input pre-operation diagnosis !	228
+Mã ICD không h?p l? !	ICD 10 not valid !	229
+Ch?n doán không h?p l? !	Invalid diagnosis !	230
+Ch?n doán sau ph?u thu?t / th? thu?t !	Please input post op diagnosis !	231
+Phuong pháp ph?u thu?t / th? thu?t !	Please input procedure name !	232
+Mã ph?u thu?t - th? thu?t không h?p l? !	Invalid procedure code !	233
+Tên ph?u thu?t - th? thu?t không h?p l? !	Invalid procedure name !	234
+Mã ph?u thu?t / th? thu?t không tìm th?y trong danh m?c !	Procedure code not existed !	235
+Phuong pháp vô c?m !	Anesthesio. method !	236
+Ph?u thu?t / th? thu?t viên !	Surgeon !	237
+Ngày ph?u thu?t / th? thu?t không du?c l?n hon ngày ra vi?n !	Invalid procedure date !	238
+Yêu c?u nh?p lo?i ng? d?c !	Please input intoxication type !	239
+Ch?n t?nh/thành ph? !	Please select province !	240
+Ch?n qu?n/huy?n !	Please select district !	241
+Yêu c?u nh?p b? ph?n b? thuong tích !	Please input injured body part  !	242
+B?n không có quy?n ch?nh s?a thông tin !	You have no right to correct data !	243
+Yêu c?u nh?p Ngày và gi? tai n?n, thuong tích !	Please input date and time of accident ! 	244
+Ngày và gi? không h?p l? !	Invalid date and time !	245
+B?nh nhân này chua nh?p vi?n	Patient not yet admitted 	246
+B?nh nhân này chua nh?p vi?n !	Patient not yet admitted !	247
+B?nh nhân này chua du?c ch? d?nh vào khoa !	Patient was not assigned a department !	248
+Ngày sinh không h?p l? !	Invalid date of birth !	250
+Không dúng so v?i d?i tu?ng ban d?u\nB?n có mu?n l?y d?i tu?ng ban d?u ?	Not valid patient class , do you want to change ?	251
+S? li?u dã c?p nh?t không th? s?a !	Data already updated, cannot change !	252
+Ngu?i b?nh này dã nh?p !	Data existed !	253
+Ngu?i b?nh không h?p l? !	Invalid patient !	254
+H? tên ngu?i b?nh !	Please enter patient name !	255
+Không c?p nh?t du?c thông tin vi?n phí !	Unable to update hospital fee data !	256
+S? li?u dã c?p nh?t không th? h?y !	Cannot delete data !	257
+Ð?ng ý h?y ?	Do you really want to delete !	258
+Ngu?i b?nh này dã nh?p !	Patient existed !	259
+Không c?p nh?t du?c thông tin vi?n phí !	Cannot update  hospital fee data	260
+Ðang ký khám b?nh < Ngu?i c?p nh?t : 	Patient registration <User Name: 	261
+< Ngu?i c?p nh?t  :	< User :	262
+T?NG S? :	Total :	263
+T?NG S? HI?N DI?N :	Total :	264
+< Ngu?i c?p nh?t  :	< User	265
+Phòng luu < Ngu?i c?p nh?t :	Emergency room < User :	266
+Nh?n b?nh >	Admission \\	267
+< Ngu?i c?p nh?t :	< User :	268
+Nh?p khoa > 	Dept. admission >	269
+< Ngu?i c?p nh?t : 	<User :	270
+L?ch ph?u th? thu?t >	Procedure schedule >	271
+Ngày vào vi?n không h?p l? so v?i khai báo h? th?ng (	Invalid admitted date (	272
+Mã ICD10 này không có trong danh m?c !	ICD 10 not existed !	273
+Ngày h?t h?n không du?c nh? hon ngày vào vi?n!	Invalid date !	274
+Nh?p s? th? chua d? >=	Insuffisant length>=	275
+Nh?p tên co quan y t? !	Please enter medical resource name !	276
+Nh?p ngày sinh !	Please input YOB !	277
+Qu?c t?ch không h?p l? !	Invalid nationality !	278
+H? tên và gi?i tính không h?p l? !	Name and sex mismatched !	279
+Tu?i và nam sinh không h?p l?\nB?n có mu?n chuong trình tính l?i không ?	Age and YOB mismatched -  Recalculate them ?	280
+Nh?p ngày vào vi?n !	Please input admitted date !	281
+Nh?p tr?c ti?p vào !	Admitted directly !	282
+Nh?p noi gi?i thi?u !	Please input referring resource !	283
+Nh?p d?i tu?ng !	Please input patient class !	284
+Nh?p vào vi?n do b?nh này l?n th? !	Please input admitting times !	285
+Nh?p s? vào vi?n !	Please input admitting number !	286
+Nh?p mã ICD vào khoa khám b?nh !	Please input ICD 10 at OP clinic !	287
+Nh?p ch?n doán vào khoa khám b?nh !	Please input diagnosis of OP clinic !	288
+Nh?p bác si di?u tr? !	Please input Doctor's name !	289
+Nh?p mã m? !	Please input mother's ID !	290
+Nh?p tên m? !	Please input mother's name !	291
+Nh?p d? l?n m?y !	Please input child order # !	292
+Nh?p ti?n thai (Para) !	Please input PARA !	293
+Ngh? nghi?p và d? tu?i không h?p l? !	Occupation and age mismatched !	294
+Gi?i tính không h?p l? !	Invalid sex !	295
+B?nh nhân này dã nh?p khoa không th? s?a ph?n vào khoa !	This patient already admitted, cannot change data !	296
+Không c?p nh?t du?c thông tin hành chính !	Cannot change demographic data !	297
+Không c?p nh?t du?c thông tin vào vi?n !	Cannot change admitting data !	298
+Không c?p nh?t du?c thông tin b?o hi?m !	Cannot change health insurance data !	299
+Không c?p nh?t du?c thông tin chuy?n d?n !	Cannot change referring data !	300
+Nh?p s? vào vi?n !	Please input admitting number !	301
+S? vào vi?n này dã có !	Admitting number existed !	302
+Yêu c?u nh?p th?i gian b? b?ng !	Please input getting burn date time !	303
+Th?i gian b? b?ng không du?c l?n hon ngày vào khoa !	Invalid getting burn date time !	304
+Th?i gian b? b?ng không h?p l? so v?i khai báo h? th?ng (	Invalid getting burn date time (	305
+Ti?n thai (Para) không h?p l? !	Invalid PARA !	306
+Nam sinh không h?p l? !	Invalid YOB !	307
+Yêu c?u nh?p Ngày và gi? vào vi?n !	Please input admitting date time !	308
+Ngày và gi? không h?p l? !	Invalid date time !	309
+Ngu?i b?nh này chua qua dang ký khám b?nh !	Patient is not yet registered !	310
+B?nh nhân dang di?u tr? trong khoa {	Patient is now at dept. {	311
+B?nh nhân dã du?c nh?p vi?n vào khoa {	Patient has been admitted at dept. {	312
+Không h?p l? vì trùng v?i mã b?nh vi?n !	Hospital code invalid !	313
+B?nh nhân này dã nh?p khoa không th? s?a ph?n vào khoa !	Patient already admitted, cannot change admitting data !	314
+Không c?p nh?t du?c thông tin hành chính !	Cannot change demographic data !	315
+Không c?p nh?t du?c thông tin vào vi?n !	Cannot change admitting data !	316
+Nh?p mã m? !	Please input mother's ID !	317
+Nh?n b?nh >	Admission >	318
+< Ngu?i c?p nh?t :	< User :	319
+B?n có s?a thông tin hành chính không ?	Do you want to change demographic data !	320
+Không có s? li?u !	No data !	321
+Có s?a thông tin hành chánh không ?	Do you want to change demographic data !	322
+Thông báo	Message	323
+Nh?p nam sinh không phù h?p	Invalid YOB !	324
+Yêu c?u nh?p tu?i vào	Please input age !	325
+Thông Báo	Message	326
+Nh?p d?nh d?ng ngày không dúng	Invalid date time format !	327
+Nh?p ngày sinh không phù h?p	Invalid date of birth !	328
+Nh?p h? tên	PLease input full name !	329
+Nh?p tu?i	Please input age !	330
+Ch?n th?i gian khám	Please input consultation date time !	331
+Ch?n gi?i tính	Please input sex !	332
+Nh?p ngh? nghi?p	Please input occupation !	333
+Nh?p Bác Si	Please input doctor's name !	334
+Nh?p Phòng Khám	Please input OP clinic !	335
+Luu	Save 	336
+Nh?p gi? không dúng	Invalid date time !	337
+Có cu?c h?n trùng th?i gian này	Appointment cannot be added !	338
+Gi? h?n ph?i l?n hon gi? b?t d?u làm vi?c	Wrong appointment time !	339
+Gi? h?n ph?i nh? hon gi? ngh?	Wrong appointment time !	340
+Ðã có cu?c h?n v?i Bác Si này	Not available	341
+Không có d? li?u	No data !	342
+Có s?a thông tin hành chánh không ?	Do you want to change demographic data !	343
+Nh?p nam sinh không phù h?p	Invalid YOB !	344
+Nh?p tu?i không phù h?p	Invalid age !	345
+Ðã có mã Khoa Phòng này	Dept. code existed !	346
+Nh?p mã phòng khám	Please input dept. code !	347
+Nh?p tên phòng khám	Please input OP clinic !	348
+Không du?c phép hu?	Cannot delete !	349
+Ch?n phòng mu?n s?a t? danh sách	Please select OP clinic !	350
+Ð? ngh? nh?p H? tên B?nh nhân c?n tìm vào.	PLease input patient name !	351
+S? li?u t?n kho tháng 	In stock, month	352
+ nam 20	 year 20	353
+ chua t?o !	 not yet created !	354
+Ðã c?p nh?t !	Updated successfully !	355
+Không c?p nh?t du?c thông tin !	Cannot update data !	356
+Nh?p mã s? !	Please input drug code !	357
+Nh?p tên !	Please input drug name !	358
+Mã s? không h?p l? !	Drug code invalid !	359
+Nh?p s? lu?ng !	Please input quantity !	360
+S? lu?ng xu?t l?n hon s? lu?ng t?n !	Out of stock !	361
+Ð?ng ý h?y s? phi?u này ?	Do you want to delete this sheet n# ?	362
+Nh?ng m?t hàng sau không d? trong t?n \n	These items are not enough in stock !	363
+S? li?u t?n kho tháng 	In stock, month	364
+Không c?p nh?t du?c thông tin !	Cannot update data !	365
+Mã s? không h?p l? !	Invalid drug code !	366
+S? lu?ng xu?t l?n hon s? lu?ng t?n !	Invalid distributing quantity !	367
+Không có s? li?u !	No data !	368
+B?n có mu?n l?y l?i thông tin c?a l?n nh?p sau cùng không ?	Do you want to data from the last input !	369
+Ð?ng ý h?y thông tin này ?	Do you really want to delete ?	370
+S? li?u không h?p l? !	Invalid data !	371
+Ð?ng ý h?y thông tin này ?	Do you really want to delete ?	372
+S? li?u không h?p l? !	Invalid data !	373
+Ngày không h?p l? !	Invalid date !	374
+Ð?n ngày không du?c nh? hon t? ngày !	Invalid date !	375
+Có mu?n ch?n l?i danh sách ICD10 không ?	Do you want to re-select diseases from ICD 10  ?	376
+Có mu?n c?p nh?t l?i d? tu?i không ?	Do you want to update group of age ?	377
+Ngày không h?p l? !	Invalid date !	378
+Ch?n b?nh án s? d?ng trong khoa !	Please select patient chart !	379
+Không c?p nh?t thông tin khoa !	Cannot update dept. information ! 	380
+Không du?c h?y mã này !	Cannot delete this code !	381
+Khoa dã s? d?ng không th? hu? !	In use, cannot be deleted !	382
+Ð?ng ý h?y thông tin này !	Do you want to delete ?	383
+Mã này dã có !	Code already existed !	384
+Không c?p nh?t thông tin ngh? nghi?p !	Cannot update occupation !	385
+Ngh? nghi?p dã s? d?ng không th? hu? !	In use, cannot be deleted !	386
+Không th? h?y ngh? nghi?p này du?c vì có s? d?ng b?nh án NHI,SO SINH,M?T (tr? em)!	Cannot delete occupation !	387
+Không c?p nh?t thông tin phòng khám !	Cannot update OP data!	388
+Phòng khám dã s? d?ng không th? hu? !	In use, cannot be deleted !	389
+Khoa dã s? d?ng không th? hu? !	In use, cannot be deleted !	390
+Không c?p nh?t thông tin phòng m? !	Cannot update procedure information !	391
+Phòng m? dã s? d?ng không th? hu? !	In use, cannot be deleted	392
+Yêu c?u nh?p tên !	Please input name !	393
+Mã phu?ng xã dã s? d?ng không th? hu? !	Commun code in use, can not be deleted !	394
+S? li?u dã c?p nh?t không th? s?a !	Data updated, cannot be changed !	395
+Không c?p nh?t du?c thông tin ch? d?nh !	Cannot update data !	396
+Không c?p nh?t du?c thông tin ch? d?nh !	Cannot update data !	397
+S? li?u dã c?p nh?t không th? h?y !	Data updated, cannot be deleted !	398
+Ngu?i b?nh này dã nh?p. B?n có mu?n s?a không?	Patient existed, do you want to edit data !	399
+Chua ch?n kho d? trù !	Please select stock !	400
+S? li?u 	Data	401
+ tháng 	 month	402
+ chua t?o !	not yet created !	403
+S? li?u tháng 	Data for month 	404
+ nam 	 year 	405
+ dã khóa !	 is blocked !	406
+Ngày không h?p l? so v?i khai báo h? th?ng ("	Invalid date (	407
+Không c?p nh?t du?c thông tin vi?n phí !	Cannot update data !	408
+Không tìm th?y !	Not found !	409
+Ð? ngh? nh?p mã BN	Please input patient ID !	410
+Không c?p nh?t du?c thông tin d? ?ng thu?c !	Cannot update data !	411
+Ð?ng ý h?y ?	Do you really want to delete ?	412
+Không c?p nh?t du?c thông tin d? ?ng thu?c !	Cannot update data !	413
+Không c?p nh?t thông tin !	Cannot update data !	414
+Không c?p nh?t du?c thông tin phuong pháp vô c?m !	Cannot update data !	415
+Phuong pháp vô c?m dã s? d?ng không th? h?y !	In use, cannot delete !	416
+Không th? h?y !	Data cannot be deleted !	417
+Không c?p nh?t du?c thông tin nhóm máu !	Cannot update data !	418
+Nhóm máu dã s? d?ng không th? h?y !	Data in use, cannot be delete !	419
+Không th? h?y !	Data cannot be delete !	420
+Tên thu?c này dã nh?p !	Drug name already existed !	421
+Ð?i tu?ng dã s? d?ng không th? hu? !	In use, cannot be delete !	422
+Chi?u dài chua d? !	Length not enough !	423
+Ngu?i b?nh này dã nh?p !	Already done !	424
+Ngu?i b?nh \n	Patient \n	425
+\ndã thanh toán !	has already paid !	426
+\ndã xu?t vi?n !	has already been discharged	427
+Chuy?n s? li?u xu?ng kho ?	Send requests to stock !	428
+Không dúng so v?i d?i tu?ng ban d?u\nB?n có mu?n l?y d?i tu?ng ban d?u ?	Not match to the initial patient class \n Do you want to retake the initial patient class ?	429
+Ngu?i b?nh này dã nh?p !	Already done !	430
+Ngu?i b?nh không h?p l? !	Invalid patient !	431
+H? tên ngu?i b?nh !	Patient name , please !	432
+Ngu?i b?nh này dã nh?p thu?c ngày \n	Request was done on \n	433
+\nB?n có mu?n nh?p ti?p không ?	Do you want to make request again ?	434
+Mã s? không h?p l? !	Invalid drug code !	435
+Nh?p s? lu?ng !	Please input quantity !	436
+Ch?n d?i tu?ng !	Please select patient class !	437
+Tên thu?c và d?i tu?ng không h?p l? !	Drug name and patient class mismatched !	438
+S? lu?ng xu?t l?n hon s? lu?ng t?n !	Requested quantity is over in-stock quantity 	439
+\ndã xu?t vi?n !	\nwas discharged	440
+S? li?u dã du?c c?p nh?t b?n không có quy?n thay d?i !	Data is already updated, you can not change them !	441
+Yêu c?u nh?p Ngày và gi? l?y d?u sinh t?n !	Please input vital signs  date time !	442
+Ngày l?y d?u sinh t?n không du?c l?n hon ngày d? trù !	Invalid vital signs date time !	443
+Ngu?i b?nh này dã nh?p thu?c ngày \n	Request for this patient was done on \n	444
+Ngu?i b?nh này dã nh?p !	Request for this patient was done !	445
+Yêu c?u nh?p tên login !	Please input login name !	446
+M?t kh?u c? không dúng !	Wrong old password !	447
+Yêu c?u nh?p h? tên !	Please input full name !	448
+Yêu c?u nh?p tên login !	Please input login name !	449
+Tên login dã có !	Login name is already existed !	450
+Không phát hi?n l?i trong kho?ng th?i gian này !	Errors not found !	451
+Ngu?i b?nh này chua hoàn t?t th? t?c !	Formality not yet completed !	452
+Ch?n ký gi?y ra vi?n !	Please select person in charge !	453
+S? phi?u này dã nh?p !	Request was done	454
+Nh?p mã s? !	Please input drug code !	455
+Nh?p tên !	Please input drug name !	456
+Mã s? không h?p l? !	Drug code invalid !	457
+S? lu?ng xu?t l?n hon s? lu?ng t?n !(	Requeted quantity is over the quantity in-stock	458
+S? li?u dã du?c c?p nh?t b?n không có quy?n thay d?i !	Data already updated, cannot be changed !	459
+S? phi?u này dã nh?p !	Sheet number already existed !	460
+Chuy?n s? li?u xu?ng kho ?	Do you want to send request to stock ?	461
+S? phi?u này dã nh?p !	Sheet Number already existed !	462
+Ð?ng ý h?y s? phi?u này ?	Do you want to delete this request ?	463
+Nh?p lý do hoàn tr? !	Why return ?	464
+Ngày lãnh không du?c l?n hon ngày tr? !	Receiving and returning date mismatched !	465
+S? phi?u !	Request number ?	466
+Nh?p lý do hoàn tr? !	Why return ?	467
+ICD 10 không h?p l? !	Invalid ICD 10 !	468
+Ð?ng ý h?y ICD 10 ?	Delete ICD 10 ?	469
+Ch?n ICD 10 c?n in	Select ICD 10 to print !	470
+S? ngày in phi?u (	Number of days (	471
+Ð?ng ý h?y thông tin này ?	Do you want to delete ?	472
+Không c?p nh?t thông tin ký gi?y ra vi?n !	Cannot update data !	473
+Ðã s? d?ng không th? hu? !	In use, cannot be delete !	474
+Không có d? li?u	No data !	475
+Ch?n doán tru?c ph?u thu?t / th? thu?t !	Please input pre-op diagnosis !	476
+B?n không có quy?n ch?nh s?a thông tin !	Access denied !	477
+L?ch ph?u th? thu?t > 	Surgery schedule >	478
+Nh?p s? th? chua d? >=	Length must be >=	479
+Khoa nh?p vi?n !	Which department patient is admitted to !	480
+}\nKhông th? thêm du?c ph?i xu?t b?nh nhân này ra\nTru?c khi nh?p vi?n !	Patient must be discharge before re-admitted !	481
+Không tìm th?y b?nh nhân này !	Patient not found !	(null)
+Ngày h?t h?n không du?c nh? hon ngày vào khoa!	Expired health insurance !	(null)
+Ð? ngh? nh?p Mã s? B?nh nhân vào.	Please input patient ID !	(null)
+B?nh nhân này dã t?ng h?p r?i. B?n có mu?n t?ng h?p l?i không ?	Already done, Redo ?	(null)
+Ðã có mã tình tr?ng này	Code existed !	(null)
+Nh?p mã tình tr?ng h?n khám	Please enter code	(null)
+Nh?p tên tình tr?ng h?n khám	Please enter status !	(null)
+Ch?n m?t tình tr?ng mu?n s?a t? danh sách	Please enter an appointment status	(null)
+Không du?c phép hu? thông tin dã s? d?ng	In use, cannot be deleted	(null)
+Ch?n m?u tin mu?n xoá t? danh sách trên	Please select record to be deleted	(null)
+B?n mu?n xoá m?u tin này ?	Do you want to delete this record ?	(null)
+Nh?p tên tình tr?ng	Please enter a status !	(null)
+Không có s? li?u !	No data !	(null)
+Yêu c?u ch?n cách t?ng h?p s? li?u !	Please select report type !	(null)
+Nh?p mã nhóm	Please enter group code !	(null)
+Nh?p tên nhóm	Please enter group name !	(null)
+Nh?p mã nhóm b?ng ký t? s?	Must be numeric !	(null)
+Ðã có phòng thu?c nhóm phòng này. Không hu? du?c	In use, cannot be deleted !	(null)
+B?n mu?n hu? m?u tin này ?	Do you want to delete this record !	(null)

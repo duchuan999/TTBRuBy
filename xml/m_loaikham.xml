@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>500</ID>
+		<TEN>Toàn thân</TEN>
+	</Table>
+	<Table>
+		<ID>501</ID>
+		<TEN>Tuần hoàn</TEN>
+	</Table>
+	<Table>
+		<ID>502</ID>
+		<TEN>Hô hấp</TEN>
+	</Table>
+	<Table>
+		<ID>503</ID>
+		<TEN>Tiêu hóa</TEN>
+	</Table>
+	<Table>
+		<ID>504</ID>
+		<TEN>Thận - Tiết niệu - Sinh dục</TEN>
+	</Table>
+	<Table>
+		<ID>505</ID>
+		<TEN>Thần kinh</TEN>
+	</Table>
+	<Table>
+		<ID>506</ID>
+		<TEN>Cơ - Xương - Khớp</TEN>
+	</Table>
+	<Table>
+		<ID>507</ID>
+		<TEN>Tai - Mũi - Họng</TEN>
+	</Table>
+	<Table>
+		<ID>508</ID>
+		<TEN>Răng - Hàm - Mặt</TEN>
+	</Table>
+	<Table>
+		<ID>509</ID>
+		<TEN>Mắt</TEN>
+	</Table>
+	<Table>
+		<ID>510</ID>
+		<TEN>Nội tiết, dinh dưỡng và các bệnh lý khác</TEN>
+	</Table>
+	<Table>
+		<ID>511</ID>
+		<TEN>Da niêm mạc</TEN>
+	</Table>
+	<Table>
+		<ID>512</ID>
+		<TEN>Hạch</TEN>
+	</Table>
+	<Table>
+		<ID>513</ID>
+		<TEN>Vú</TEN>
+	</Table>
+	<Table>
+		<ID>514</ID>
+		<TEN>Da và mô dưới da</TEN>
+	</Table>
+</NewDataSet>

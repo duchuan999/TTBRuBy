@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>2175</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>1</STT>
+    <MA>D1</MA>
+    <TEN>Lactat Ringer chai</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>6789</GIA_TH>
+    <GIA_BH>6789</GIA_BH>
+    <GIA_DV>6789</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2176</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>2</STT>
+    <MA>D2</MA>
+    <TEN>Glucose = Destrose 5% 500ml</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>6751</GIA_TH>
+    <GIA_BH>6751</GIA_BH>
+    <GIA_DV>6751</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2177</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>3</STT>
+    <MA>D3</MA>
+    <TEN>Detrose 30% 500ml</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>13860</GIA_TH>
+    <GIA_BH>13860</GIA_BH>
+    <GIA_DV>13860</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2178</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>4</STT>
+    <MA>D4</MA>
+    <TEN>Sodium Chloride 500ml (NaCl 0.9%)</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>5831</GIA_TH>
+    <GIA_BH>5831</GIA_BH>
+    <GIA_DV>5831</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2179</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>5</STT>
+    <MA>D5</MA>
+    <TEN>Alvessin 500</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>68250</GIA_TH>
+    <GIA_BH>68250</GIA_BH>
+    <GIA_DV>68250</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2180</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>6</STT>
+    <MA>D6</MA>
+    <TEN>Avessin 250</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>42000</GIA_TH>
+    <GIA_BH>42000</GIA_BH>
+    <GIA_DV>42000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2181</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>7</STT>
+    <MA>D7</MA>
+    <TEN>Ống chích</TEN>
+    <DVT>Ống</DVT>
+    <GIA_TH>615</GIA_TH>
+    <GIA_BH>615</GIA_BH>
+    <GIA_DV>615</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2182</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>8</STT>
+    <MA>D8</MA>
+    <TEN>Dây truyền dịch</TEN>
+    <DVT>Sợi</DVT>
+    <GIA_TH>3360</GIA_TH>
+    <GIA_BH>3360</GIA_BH>
+    <GIA_DV>3360</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2183</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>9</STT>
+    <MA>D9</MA>
+    <TEN>Natri Cloride 10ml</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>749</GIA_TH>
+    <GIA_BH>749</GIA_BH>
+    <GIA_DV>749</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2184</ID>
+    <ID_LOAI>24</ID_LOAI>
+    <STT>10</STT>
+    <MA>D10</MA>
+    <TEN>Cloraxin Collyre 0.4%</TEN>
+    <DVT>ml</DVT>
+    <GIA_TH>778</GIA_TH>
+    <GIA_BH>778</GIA_BH>
+    <GIA_DV>778</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

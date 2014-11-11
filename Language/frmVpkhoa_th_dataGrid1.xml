@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa/phòng</Vviet>
+    <Vanh>Dept.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày</Vviet>
+    <Vanh>Date</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng</Vviet>
+    <Vanh>Pat. class</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dịch vụ</Vviet>
+    <Vanh>Service</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ĐVT</Vviet>
+    <Vanh>Unit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lượng</Vviet>
+    <Vanh>Qty</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đơn gía</Vviet>
+    <Vanh>Unit price</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Vật tư</Vviet>
+    <Vanh>Materials</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

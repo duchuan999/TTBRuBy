@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="NGAY" type="xs:string" minOccurs="0" />
+								<xs:element name="TENNGOITHAI" type="xs:string" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="T_PHAI" type="xs:string" minOccurs="0" />
+								<xs:element name="T_TINHTRANG" type="xs:string" minOccurs="0" />
+								<xs:element name="T_DITAT" type="xs:string" minOccurs="0" />
+								<xs:element name="CANNANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="PHAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TINHTRANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DITAT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_SS" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TENCACHTHUCDE" type="xs:string" minOccurs="0" />
+								<xs:element name="APGAR1" type="xs:decimal" minOccurs="0" />
+								<xs:element name="APGAR5" type="xs:decimal" minOccurs="0" />
+								<xs:element name="APGAR10" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CONTHU" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MASS" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DUTHANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="THANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TUAN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MANV1" type="xs:string" minOccurs="0" />
+								<xs:element name="MANV2" type="xs:string" minOccurs="0" />
+								<xs:element name="CACHTHUCDE" type="xs:decimal" minOccurs="0" />
+								<xs:element name="XULY" type="xs:string" minOccurs="0" />
+								<xs:element name="CAO" type="xs:decimal" minOccurs="0" />
+								<xs:element name="VONGDAU" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DITATBS" type="xs:string" minOccurs="0" />
+								<xs:element name="TENDITAT" type="xs:string" minOccurs="0" />
+								<xs:element name="NGOITHAI" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

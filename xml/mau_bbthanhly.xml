@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGUOICHO" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MABICHMAU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ID_NHOM" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHOMMAU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ID_LOAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOAIMAU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="VMAU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THETICH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYLAY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LYDOHUY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="KHOX" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ID_DMMAU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="STTT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="XETNGHIEM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="SOLUONG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="GIABAN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="GIAMUA" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>0</STT>
+    <ID_NHOM>0</ID_NHOM>
+    <ID_LOAI>0</ID_LOAI>
+    <VMAU>0</VMAU>
+  </Table>
+</NewDataSet>

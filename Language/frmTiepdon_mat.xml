@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Không kết xuất</Vviet>
+		<Vanh>Not send</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Màn hình</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Máy in</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>giờ :</Vviet>
+		<Vanh>time :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>F5 : Lấy dấu vân tay người bệnh</Vviet>
+		<Vanh>F5 :Take fingerprint</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;CÁC LẦN KHÁM BỆNH :</Vviet>
+		<Vanh>&amp;Previous consultation(s)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>diungthuoc</Vviet>
+		<Vanh>Allergy</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lịch hẹn</Vviet>
+		<Vanh>Appointment</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dị ứng thuốc</Vviet>
+		<Vanh>Drug allergy</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chỉ định dịch vụ</Vviet>
+		<Vanh>Ordering</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết thúc</Vviet>
+		<Vanh>Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ qua</Vviet>
+		<Vanh>Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tiếp</Vviet>
+		<Vanh>&amp;Cont'</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới tính :</Vviet>
+		<Vanh>Gender :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>I. HÀNH CHÍNH :</Vviet>
+		<Vanh>I. DEMOGRAPHICS</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi :</Vviet>
+		<Vanh>Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh :</Vviet>
+		<Vanh>Y.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Sinh ngày :</Vviet>
+		<Vanh>D.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ và tên :</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mã BN :</Vviet>
+		<Vanh>&amp;Pat. ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dân tộc :</Vviet>
+		<Vanh>Ethnic :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quốc tịch :</Vviet>
+		<Vanh>Nationality :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp :</Vviet>
+		<Vanh>Occupation :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Địa chỉ :</Vviet>
+		<Vanh>Address :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi làm :</Vviet>
+		<Vanh>Employer :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>T/Q/PXã :</Vviet>
+		<Vanh>P/D/C :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/TP :</Vviet>
+		<Vanh>Province :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quận/H :</Vviet>
+		<Vanh>District :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ph/Xã :</Vviet>
+		<Vanh>Commune :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>II. THÔNG TIN ĐĂNG KÝ  KHÁM BỆNH :</Vviet>
+		<Vanh>II. CONSULTATION DATA</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày :</Vviet>
+		<Vanh>Date :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng :</Vviet>
+		<Vanh>Pat. class :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số thẻ :</Vviet>
+		<Vanh>SSN :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đến ngày :</Vviet>
+		<Vanh>valid to :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>ĐKKCB :</Vviet>
+		<Vanh>Reg. fac.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ph. khám :</Vviet>
+		<Vanh>OP unit :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số phiếu :</Vviet>
+		<Vanh>QMS # :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khám :</Vviet>
+		<Vanh>Type :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Ký hiệu :</Vviet>
+		<Vanh>Serial# :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Số biên lai :</Vviet>
+		<Vanh>Receipt# :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Liệt kê tất cả</Vviet>
+		<Vanh>Show all</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Medisoft</Vviet>
+		<Vanh>Medisoft THIS</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

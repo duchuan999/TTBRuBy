@@ -1,0 +1,1001 @@
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\KhoTTB.exe
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\KhoTTB.pdb
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\KhoTTB.exe
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\KhoTTB.pdb
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibDuoc.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibLicense.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibMedi.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibTTB.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\Interop.VBIDE.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibTTB.pdb
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibMedi.pdb
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\LibDuoc.pdb
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\KhoTTB11g\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Interop.VBIDE.dll
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.FormattableTextBoxColumn.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.FolderTreeView.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmAbout.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmBangiao.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmBiendong.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmBieu08.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmBuhaophi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmButruc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmCauhinh.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChon1khoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonindmbd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonkho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonkhoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonkhong.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonmabd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonngay.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChonnguon.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmChuyennguon.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmCongno.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmCosotutruc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDanhgia.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDanhmuc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDenghi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDenghict.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbdgia.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbdkem.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbdkemtheo.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbdtd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmbhyt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmhang.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmkho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmloai.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmlydo.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnguon.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnhom.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnhomkho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnhomkt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnoisc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnuoc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmnx.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDmphieu.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDoingay.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDoituong.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDonthuoc_bacsy.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDSdutru_duyet.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmdsduyet.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDutru.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDutrucap.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDutrukho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDutruthang.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDuyet.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmDuyetcap.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmEvent.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmGiaonhan.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmhandung.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmHaophi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmHoantracstt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmHoantrathua.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frminctgs.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmIndmbd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmInphieu.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmInphieuxuat.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmKbtonct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmKbtutrucct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmKiemtra.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmKiemtrakhoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmKinhphi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmLoaiphieu.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmLogin.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmMain.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmMultikho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmMultikhoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNhap.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNhapct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNhomctd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNhomkhoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNxt_kho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNxt_khoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmNxt_ngay.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmPhieulanh.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmPhieuxuat.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmReport.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmRight.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmRight_BV.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmSuaNhap.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmSuastt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTangcstt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTaouser.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmThdutru.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTheodoi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmThkhoa.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmThongso.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmThuhoi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmThumuc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimbuhaophi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimbutruc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimcosotutruc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimdutru.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimhaophi.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimhoantrathua.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimkbtonkhoct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTimkbtutrucct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTscdlc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTscdsc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTuden.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTVuser.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmUser.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXchuyenkho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXemtonct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXemtonth.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXemtutrucct.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXemtutructh.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXhtncc.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXkhac.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmxkngay.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmXuatcstt.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.Properties.Resources.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBbkiemke.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBbkiemkec53.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBbknhap_hd.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBbthanhly.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBcngay.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBctheoloai.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBctheonhom.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptBkhoadon.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptKiemkekho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptNhap_th.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptNxt_CK.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptSochitiet.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptSoTSCD.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptThekho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptThpnhap.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptTh_chitiet.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptXuatkho.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.rptXuat_CT.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.SplashForm.resources
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+D:\C#\KhoTTB11g\KhoTTB2009\obj\Debug\Duoc.frmTTBkhoaphong.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibLicense.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\MultiColumnListBox.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.SQLDMO.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.VBIDE.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.HDSECOMPRESSION.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\VietKeyInput.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\DllCheckList.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.Office.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\dichso.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibZIP.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmAbout.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBangiao.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBiendong.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBieu08.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBuhaophi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmButruc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCauhinh.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChon1khoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonindmbd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhong.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonmabd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonngay.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonnguon.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChuyennguon.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCongno.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCosotutruc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhgia.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhmuc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghict.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdgia.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkem.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkemtheo.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdtd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbhyt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmhang.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmkho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmloai.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmlydo.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnguon.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhom.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnoisc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnuoc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnx.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmphieu.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoingay.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoituong.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDonthuoc_bacsy.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDSdutru_duyet.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmdsduyet.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutru.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrucap.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrukho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutruthang.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyet.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyetcap.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmEvent.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmGiaonhan.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmhandung.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHaophi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantracstt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantrathua.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frminctgs.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmIndmbd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieu.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieuxuat.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtonct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtutrucct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtra.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtrakhoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKinhphi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLoaiphieu.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLogin.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMain.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikhoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhap.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhapct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomctd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomkhoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_kho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_khoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_ngay.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieulanh.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieuxuat.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmReport.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight_BV.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuaNhap.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuastt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTangcstt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTaouser.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThdutru.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTheodoi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThkhoa.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThongso.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThuhoi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThumuc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbuhaophi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbutruc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimcosotutruc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimdutru.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhaophi.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhoantrathua.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtonkhoct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtutrucct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdlc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdsc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTTBkhoaphong.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTuden.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTVuser.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmUser.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXchuyenkho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonth.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutrucct.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutructh.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXhtncc.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXkhac.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmxkngay.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXuatcstt.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.Properties.Resources.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemke.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemkec53.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbknhap_hd.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbthanhly.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBcngay.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheoloai.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheonhom.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBkhoadon.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptKiemkekho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNhap_th.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNxt_CK.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSochitiet.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSoTSCD.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThekho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThpnhap.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptTh_chitiet.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuatkho.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuat_CT.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.SplashForm.resources
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.exe
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\MaskedTextBox.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibNetSend.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.exe
+C:\Linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibList.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Tienich.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibVienphi.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Toathuoc.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LTCControl.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Danhmuc.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Baocao.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\FtpLib.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Tienich.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\DLLPrintchidinh.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thanhtoanchiphi.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Chidinh.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Tuongtac.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\ChartControl.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Phonggiuong.dll
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibList.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Tienich.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibVienphi.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Toathuoc.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Danhmuc.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Baocao.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Tienich.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thanhtoanchiphi.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Chidinh.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Tuongtac.pdb
+C:\Linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Phonggiuong.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.exe
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmAbout.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBangiao.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBiendong.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBieu08.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBuhaophi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmButruc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCauhinh.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChon1khoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonindmbd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhong.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonmabd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonngay.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonnguon.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChuyennguon.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCongno.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCosotutruc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhgia.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhmuc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghict.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdgia.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkem.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkemtheo.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdtd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbhyt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmhang.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmkho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmloai.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmlydo.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnguon.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhom.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnoisc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnuoc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnx.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmphieu.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoingay.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoituong.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDonthuoc_bacsy.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDSdutru_duyet.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmdsduyet.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutru.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrucap.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrukho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutruthang.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyet.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyetcap.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmEvent.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmGiaonhan.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmhandung.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHaophi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantracstt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantrathua.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frminctgs.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmIndmbd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieu.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieuxuat.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtonct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtutrucct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtra.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtrakhoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKinhphi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLoaiphieu.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLogin.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMain.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikhoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhap.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhapct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomctd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomkhoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_kho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_khoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_ngay.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieulanh.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieuxuat.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmReport.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight_BV.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuaNhap.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuastt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTangcstt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTaouser.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThdutru.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTheodoi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThkhoa.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThongso.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThuhoi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThumuc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbuhaophi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbutruc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimcosotutruc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimdutru.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhaophi.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhoantrathua.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtonkhoct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtutrucct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdlc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdsc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTTBkhoaphong.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTuden.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTVuser.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmUser.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXchuyenkho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonth.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutrucct.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutructh.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXhtncc.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXkhac.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmxkngay.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXuatcstt.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.Properties.Resources.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemke.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemkec53.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbknhap_hd.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbthanhly.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBcngay.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheoloai.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheonhom.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBkhoadon.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptKiemkekho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNhap_th.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNxt_CK.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSochitiet.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSoTSCD.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThekho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThpnhap.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptTh_chitiet.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuatkho.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuat_CT.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.SplashForm.resources
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.exe
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibLicense.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LTCAccessdata.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\VietKeyInput.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Config.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LTCAccessdata.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Config.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.pdb
+D:\linh\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmTTB.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.exe
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.exe
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\TrangThietBi.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibLicense.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.MACAddress.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LTCAccessdata.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\VietKeyInput.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Config.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.License.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.MACAddress.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibDuoc.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibTTB.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LTCAccessdata.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\LibMedi.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Config.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\bin\Debug\Medisoft2009.License.pdb
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmAbout.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBangiao.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBiendong.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBieu08.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmBuhaophi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmButruc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCauhinh.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChon1khoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonindmbd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonkhong.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonmabd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonngay.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChonnguon.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmChuyennguon.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCongno.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmCosotutruc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhgia.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDanhmuc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDenghict.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmTTB.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdgia.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkem.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdkemtheo.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbdtd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmbhyt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmhang.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmkho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmloai.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmlydo.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnguon.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhom.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnhomkt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnoisc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnuoc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmnx.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDmphieu.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoingay.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDoituong.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDonthuoc_bacsy.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDSdutru_duyet.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmdsduyet.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutru.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrucap.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutrukho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDutruthang.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyet.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmDuyetcap.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmEvent.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmGiaonhan.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmhandung.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHaophi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantracstt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmHoantrathua.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frminctgs.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmIndmbd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieu.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmInphieuxuat.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtonct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKbtutrucct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtra.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKiemtrakhoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmKinhphi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLoaiphieu.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmLogin.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMain.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmMultikhoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhap.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhapct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomctd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNhomkhoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_kho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_khoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmNxt_ngay.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieulanh.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmPhieuxuat.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmReport.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmRight_BV.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuaNhap.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmSuastt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTangcstt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTaouser.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThdutru.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTheodoi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThkhoa.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThongso.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThuhoi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmThumuc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbuhaophi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimbutruc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimcosotutruc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimdutru.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhaophi.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimhoantrathua.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtonkhoct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTimkbtutrucct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdlc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTscdsc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTTBkhoaphong.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTuden.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmTVuser.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmUser.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXchuyenkho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtonth.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutrucct.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXemtutructh.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXhtncc.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXkhac.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmxkngay.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.frmXuatcstt.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.Properties.Resources.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemke.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbkiemkec53.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbknhap_hd.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBbthanhly.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBcngay.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheoloai.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBctheonhom.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptBkhoadon.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptKiemkekho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNhap_th.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptNxt_CK.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSochitiet.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptSoTSCD.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThekho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptThpnhap.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptTh_chitiet.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuatkho.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.rptXuat_CT.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\TTB.SplashForm.resources
+D:\Code\Medisoft2009_115\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+E:\TTB\KhoTTB2009\obj\Debug\TrangThietBi.exe
+E:\TTB\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+E:\TTB\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+E:\TTB\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+E:\TTB\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmAbout.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmBangiao.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmBiendong.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmBieu08.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmBuhaophi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmButruc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmCauhinh.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChon1khoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonindmbd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonkho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonkhoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonkhong.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonmabd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonngay.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChonnguon.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmChuyennguon.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmCongno.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmCosotutruc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDanhgia.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDanhmuc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDenghi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDenghict.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmTTB.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmbdgia.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmbdkem.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmbdkemtheo.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmbdtd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmbhyt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmhang.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmkho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmloai.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmlydo.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnguon.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnhom.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnhomkho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnhomkt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnoisc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnuoc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmnx.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDmphieu.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDoingay.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDoituong.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDonthuoc_bacsy.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDSdutru_duyet.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmdsduyet.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDutru.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDutrucap.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDutrukho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDutruthang.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDuyet.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmDuyetcap.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmEvent.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmGiaonhan.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmhandung.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmHaophi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmHoantracstt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmHoantrathua.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frminctgs.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmIndmbd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmInphieu.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmInphieuxuat.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmKbtonct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmKbtutrucct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmKiemtra.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmKiemtrakhoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmKinhphi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmLoaiphieu.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmLogin.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmMain.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmMultikho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmMultikhoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNhap.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNhapct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNhomctd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNhomkhoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNxt_kho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNxt_khoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmNxt_ngay.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmPhieulanh.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmPhieuxuat.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmReport.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmRight.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmRight_BV.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmSuaNhap.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmSuastt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTangcstt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTaouser.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmThdutru.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTheodoi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmThkhoa.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmThongso.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmThuhoi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmThumuc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimbuhaophi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimbutruc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimcosotutruc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimdutru.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimhaophi.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimhoantrathua.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimkbtonkhoct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTimkbtutrucct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTscdlc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTscdsc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTTBkhoaphong.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTuden.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmTVuser.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmUser.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXchuyenkho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXemtonct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXemtonth.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXemtutrucct.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXemtutructh.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXhtncc.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXkhac.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmxkngay.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.frmXuatcstt.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.Properties.Resources.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBbkiemke.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBbkiemkec53.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBbknhap_hd.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBbthanhly.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBcngay.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBctheoloai.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBctheonhom.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptBkhoadon.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptKiemkekho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptNhap_th.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptNxt_CK.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptSochitiet.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptSoTSCD.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptThekho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptThpnhap.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptTh_chitiet.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptXuatkho.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.rptXuat_CT.resources
+E:\TTB\KhoTTB2009\obj\Debug\TTB.SplashForm.resources
+E:\TTB\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+E:\TTB\KhoTTB2009\bin\Debug\TrangThietBi.exe
+E:\TTB\KhoTTB2009\bin\Debug\TrangThietBi.pdb
+E:\TTB\KhoTTB2009\bin\Debug\LibDuoc.dll
+E:\TTB\KhoTTB2009\bin\Debug\LibMedi.dll
+E:\TTB\KhoTTB2009\bin\Debug\LibTTB.dll
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.Config.dll
+E:\TTB\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+E:\TTB\KhoTTB2009\bin\Debug\LibTTB.pdb
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.MACAddress.dll
+E:\TTB\KhoTTB2009\bin\Debug\LTCAccessdata.dll
+E:\TTB\KhoTTB2009\bin\Debug\VietKeyInput.dll
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.License.dll
+E:\TTB\KhoTTB2009\bin\Debug\LibDuoc.pdb
+E:\TTB\KhoTTB2009\bin\Debug\LTCAccessdata.pdb
+E:\TTB\KhoTTB2009\bin\Debug\LibMedi.pdb
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.Config.pdb
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.dll
+E:\TTB\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.pdb
+E:\TTB\KhoTTB2009\bin\Debug\Medisoft2009.Usercontrol.pdb
+E:\TTB 11G\KhoTTB2009\obj\Debug\TrangThietBi.exe
+E:\TTB 11G\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TrangThietBi.exe
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TrangThietBi.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\TrangThietBi.exe
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\TrangThietBi.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\LibDuoc.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\LibMedi.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\LibTTB.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Medisoft2009.Config.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Interop.Shell32.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\LibTTB.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\ResolveAssemblyReference.cache
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\Interop.Shell32.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.ResolveComReference.cache
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmAbout.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmBangiao.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmBiendong.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmBieu08.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmBuhaophi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmButruc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmCauhinh.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChon1khoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonindmbd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonkho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonkhoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonkhong.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonmabd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonngay.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonnguon.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChuyennguon.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmCongno.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmCosotutruc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDanhgia.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDanhmuc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDenghi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDenghict.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmTTB.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmbdgia.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmbdkem.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmbdkemtheo.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmbdtd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmbhyt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmhang.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmkho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmloai.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmlydo.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnguon.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnhom.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnhomkho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnhomkt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnoisc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnuoc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmnx.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDmphieu.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDoingay.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDoituong.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDonthuoc_bacsy.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDSdutru_duyet.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmdsduyet.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDutru.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDutrucap.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDutrukho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDutruthang.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDuyet.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmDuyetcap.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmEvent.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmGiaonhan.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmhandung.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmHaophi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmHoantracstt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmHoantrathua.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frminctgs.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmIndmbd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmInphieu.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmInphieuxuat.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmKbtonct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmKbtutrucct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmKiemtra.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmKiemtrakhoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmKinhphi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmLoaiphieu.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmLogin.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmMain.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmMultikho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmMultikhoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNhap.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNhapct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNhomctd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNhomkhoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNxt_kho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNxt_khoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmNxt_ngay.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmPhieulanh.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmPhieuxuat.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmReport.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmRight.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmRight_BV.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmSuaNhap.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmSuastt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTangcstt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTaouser.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmThdutru.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTheodoi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmThkhoa.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmThongso.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmThuhoi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmThumuc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimbuhaophi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimbutruc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimcosotutruc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimdutru.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimhaophi.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimhoantrathua.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimkbtonkhoct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTimkbtutrucct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTscdlc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTscdsc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTTBkhoaphong.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTuden.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmTVuser.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmUser.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXchuyenkho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXemtonct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXemtonth.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXemtutrucct.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXemtutructh.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXhtncc.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXkhac.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmxkngay.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmXuatcstt.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.Properties.Resources.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBbkiemke.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBbkiemkec53.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBbknhap_hd.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBbthanhly.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBcngay.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBctheoloai.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBctheonhom.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptBkhoadon.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptKiemkekho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptNhap_th.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptNxt_CK.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptSochitiet.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptSoTSCD.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptThekho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptThpnhap.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptTh_chitiet.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptXuatkho.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.rptXuat_CT.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.SplashForm.resources
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\KhoTTB2009.csproj.GenerateResource.Cache
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Medisoft2009.License.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Medisoft2009.License.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\LibNetSend.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Medisoft2009.Thuoc.dll
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\bin\Debug\Duoc2009.Danhmuc.pdb
+E:\TTB Tong Hop\TTB 11G\KhoTTB2009\obj\Debug\TTB.frmChonkhoaTHTTB.resources

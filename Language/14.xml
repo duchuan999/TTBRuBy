@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>1875</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>1</STT>
+    <MA>F1</MA>
+    <TEN>Tạo hình thu nhỏ ngực, tái tạo ngực sau ung thu vú</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>5000000</GIA_TH>
+    <GIA_BH>5000000</GIA_BH>
+    <GIA_DV>5000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1876</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>2</STT>
+    <MA>F2</MA>
+    <TEN>Lấy mở bụng, mông, đuồi</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>4000000</GIA_TH>
+    <GIA_BH>4000000</GIA_BH>
+    <GIA_DV>4000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1877</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>3</STT>
+    <MA>F3</MA>
+    <TEN>Lấy Silicone vùng mặt</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>700000</GIA_TH>
+    <GIA_BH>700000</GIA_BH>
+    <GIA_DV>700000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1878</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>4</STT>
+    <MA>F4</MA>
+    <TEN>Căng da mặt</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>4000000</GIA_TH>
+    <GIA_BH>4000000</GIA_BH>
+    <GIA_DV>4000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1879</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>5</STT>
+    <MA>F5</MA>
+    <TEN>Nâng sống mũi bằng nhựa tổng hợp</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>1500000</GIA_TH>
+    <GIA_BH>1500000</GIA_BH>
+    <GIA_DV>1500000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1880</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>6</STT>
+    <MA>F6</MA>
+    <TEN>Nâng sống mũi bằng xương chậu, sụn</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>2000000</GIA_TH>
+    <GIA_BH>2000000</GIA_BH>
+    <GIA_DV>2000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1881</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>7</STT>
+    <MA>F7</MA>
+    <TEN>Tạo hình đầu mũi, cánh mũi</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>800000</GIA_TH>
+    <GIA_BH>800000</GIA_BH>
+    <GIA_DV>800000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1882</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>8</STT>
+    <MA>F8</MA>
+    <TEN>Mỗ lé (2 cơ, 4 cơ)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>2000000</GIA_TH>
+    <GIA_BH>2000000</GIA_BH>
+    <GIA_DV>2000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1883</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>9</STT>
+    <MA>F9</MA>
+    <TEN>Sụp mí (1 bên, 2 bên)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>1000000</GIA_TH>
+    <GIA_BH>1000000</GIA_BH>
+    <GIA_DV>1000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1884</ID>
+    <ID_LOAI>14</ID_LOAI>
+    <STT>10</STT>
+    <MA>F10</MA>
+    <TEN>Cắt mắt 2 mí, cắt da thừa 2 mí</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>1000000</GIA_TH>
+    <GIA_BH>1000000</GIA_BH>
+    <GIA_DV>1000000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

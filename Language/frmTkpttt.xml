@@ -1,0 +1,180 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mổ lại miễn phí</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mổ nội soi</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>checkBox1</Vviet>
+    <Vanh>checkBox1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người nhập :</Vviet>
+    <Vanh>User :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình hình :</Vviet>
+    <Vanh>Urgency :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương pháp vô cảm :</Vviet>
+    <Vanh>Anest. procedure :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tử vong :</Vviet>
+    <Vanh>Dead :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tai biến :</Vviet>
+    <Vanh>Accident :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>PTTT viên :</Vviet>
+    <Vanh>Surgeon :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại :</Vviet>
+    <Vanh>Type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tìm</Vviet>
+    <Vanh>&amp;Find</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương pháp PTTT :</Vviet>
+    <Vanh>Surgical procedure  :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kh./Phòng  :</Vviet>
+    <Vanh>Dept.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số VV :</Vviet>
+    <Vanh>Adm. # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh>Ethnic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh>Commune :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/Huyện :</Vviet>
+    <Vanh>District :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh>Province :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh>Occupation:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh>Street :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh>House # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến ngày :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh sách bệnh nhân phẫu thuật / thủ thuật</Vviet>
+    <Vanh>Operated patients</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Gia đình</Vviet>
+		<Vanh>Family</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>6:Gia đình bệnh khác(gia đình)</Vviet>
+		<Vanh>6: Other family history</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>5:Đái tháo đường(gia đình)</Vviet>
+		<Vanh>5:Diabetis (family)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh khác:</Vviet>
+		<Vanh>Other disease:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đái tháo đường:</Vviet>
+		<Vanh>Diabetis:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bản thân</Vviet>
+		<Vanh>ersonal history</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>4:Bệnh khác(bản thân)</Vviet>
+		<Vanh>4: Other disease</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>3:Đã điều trị với(bản thân)</Vviet>
+		<Vanh>3. Treated with:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh khác:</Vviet>
+		<Vanh>Other disease</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đã điều trị với:</Vviet>
+		<Vanh>Treated with:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Không liên tục</Vviet>
+		<Vanh>Discontinue</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điều trị liên tục</Vviet>
+		<Vanh>Continue</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phát hiện ĐTĐ từ năm:</Vviet>
+		<Vanh>Found out since:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh án</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

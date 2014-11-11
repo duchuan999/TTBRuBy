@@ -1,0 +1,234 @@
+
+09:38:56 AM Thursday, October 09, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+10:11:03 AM Thursday, October 09, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:11:03 AM Thursday, October 09, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:13:51 AM Thursday, October 09, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+10:39:42 AM Thursday, October 09, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+03:31:31 PM Monday, October 13, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+03:33:05 PM Monday, October 13, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+08:19:07 AM Tuesday, October 14, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+09:07:27 AM Tuesday, October 14, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+08:59:42 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12170: TNS:Connect timeout occurred
+
+09:00:04 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12170: TNS:Connect timeout occurred
+
+09:01:04 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12170: TNS:Connect timeout occurred
+
+09:01:14 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-01430: column being added already exists in table    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()alter table medibvtbinh.dmcomputer add key varchar2(254)
+
+09:01:14 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-01430: column being added already exists in table    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()alter table medibvtbinh.dmcomputer add value varchar2(254)
+
+10:03:00 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12170: TNS:Connect timeout occurred
+
+10:03:01 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-01430: column being added already exists in table    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()alter table medibvtbinh.dmcomputer add key varchar2(254)
+
+10:03:01 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-01430: column being added already exists in table    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()alter table medibvtbinh.dmcomputer add value varchar2(254)
+
+10:15:14 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException Connection request timed out    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()Connection request timed out
+
+10:15:20 AM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12170: TNS:Connect timeout occurred
+
+02:20:34 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:20:45 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:23:04 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:23:15 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:23:47 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:24:17 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:27:50 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:28:18 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:31:21 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:33:47 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:05:19 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:06:07 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:07:18 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:07:36 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:12:12 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+03:12:20 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+03:12:59 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:14:52 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:15:16 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+03:16:12 PM Friday, October 31, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified

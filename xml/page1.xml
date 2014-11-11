@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msprop:BaseTable.6="BTDQUAN" msprop:BaseTable.1="XUATVIEN" msprop:BaseTable.2="BTDBN" msprop:BaseTable.7="BTDPXA" msprop:BaseTable.4="BTDDT" msprop:BaseTable.11="CDNGUYENNHAN" msprop:BaseTable.3="BTDNN_BV" msprop:BaseTable.9="QUANHE" msprop:BaseTable.0="BENHANDT" msprop:BaseTable.8="BHYT" msprop:BaseTable.10="TENVIEN" msprop:BaseTable.5="BTDTT">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MAKP" msprop:OraDbType="126" msprop:BaseColumn="MAKP" type="xs:string" minOccurs="0" />
+                <xs:element name="SOLUUTRU" msprop:OraDbType="126" msprop:BaseColumn="SOLUUTRU" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYVV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYRV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="111" msprop:BaseColumn="PHAI" type="xs:short" minOccurs="0" />
+                <xs:element name="SONHA" msprop:OraDbType="126" msprop:BaseColumn="SONHA" type="xs:string" minOccurs="0" />
+                <xs:element name="THON" msprop:OraDbType="119" msprop:BaseColumn="THON" type="xs:string" minOccurs="0" />
+                <xs:element name="MATT" msprop:OraDbType="126" msprop:BaseColumn="MATT" type="xs:string" minOccurs="0" />
+                <xs:element name="MAQU" msprop:OraDbType="126" msprop:BaseColumn="MAQU" type="xs:string" minOccurs="0" />
+                <xs:element name="MAPHUONGXA" msprop:OraDbType="126" msprop:BaseColumn="MAPHUONGXA" type="xs:string" minOccurs="0" />
+                <xs:element name="MANN" msprop:OraDbType="126" msprop:BaseColumn="MANN" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNN" msprop:OraDbType="119" msprop:BaseColumn="TENNN" type="xs:string" minOccurs="0" />
+                <xs:element name="MADANTOC" msprop:OraDbType="126" msprop:BaseColumn="MADANTOC" type="xs:string" minOccurs="0" />
+                <xs:element name="TENDANTOC" msprop:OraDbType="119" msprop:BaseColumn="DANTOC" type="xs:string" minOccurs="0" />
+                <xs:element name="TENTT" msprop:OraDbType="119" msprop:BaseColumn="TENTT" type="xs:string" minOccurs="0" />
+                <xs:element name="TENQUAN" msprop:OraDbType="119" msprop:BaseColumn="TENQUAN" type="xs:string" minOccurs="0" />
+                <xs:element name="TENPXA" msprop:OraDbType="119" msprop:BaseColumn="TENPXA" type="xs:string" minOccurs="0" />
+                <xs:element name="CHOLAM" msprop:OraDbType="119" msprop:BaseColumn="CHOLAM" type="xs:string" minOccurs="0" />
+                <xs:element name="MADOITUONG" msprop:OraDbType="111" msprop:BaseColumn="MADOITUONG" type="xs:short" minOccurs="0" />
+                <xs:element name="SOTHE" msprop:OraDbType="126" msprop:BaseColumn="SOTHE" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="QH_HOTEN" msprop:OraDbType="119" msprop:BaseColumn="HOTEN" type="xs:string" minOccurs="0" />
+                <xs:element name="QH_DIENTHOAI" msprop:OraDbType="126" msprop:BaseColumn="DIENTHOAI" type="xs:string" minOccurs="0" />
+                <xs:element name="LANTHU" msprop:OraDbType="111" msprop:BaseColumn="LANTHU" type="xs:short" minOccurs="0" />
+                <xs:element name="NHANTU" msprop:OraDbType="111" msprop:BaseColumn="NHANTU" type="xs:short" minOccurs="0" />
+                <xs:element name="DENTU" msprop:OraDbType="111" msprop:BaseColumn="DENTU" type="xs:short" minOccurs="0" />
+                <xs:element name="LOAIBV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TENBV" msprop:OraDbType="119" msprop:BaseColumn="TENBV" type="xs:string" minOccurs="0" />
+                <xs:element name="TTLUCRV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHANDOANVV" msprop:OraDbType="119" msprop:BaseColumn="CHANDOAN" type="xs:string" minOccurs="0" />
+                <xs:element name="MAICDVV" msprop:OraDbType="126" msprop:BaseColumn="MAICD" type="xs:string" minOccurs="0" />
+                <xs:element name="CHANDOANRV" msprop:OraDbType="119" msprop:BaseColumn="CHANDOAN" type="xs:string" minOccurs="0" />
+                <xs:element name="MAICDRV" msprop:OraDbType="126" msprop:BaseColumn="MAICD" type="xs:string" minOccurs="0" />
+                <xs:element name="TAIBIEN" msprop:OraDbType="111" msprop:BaseColumn="TAIBIEN" type="xs:short" minOccurs="0" />
+                <xs:element name="BIENCHUNG" msprop:OraDbType="111" msprop:BaseColumn="BIENCHUNG" type="xs:short" minOccurs="0" />
+                <xs:element name="GIAIPHAU" msprop:OraDbType="111" msprop:BaseColumn="GIAIPHAU" type="xs:short" minOccurs="0" />
+                <xs:element name="KETQUA" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIAIPHAU1" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHANDOANNN" msprop:OraDbType="119" msprop:BaseColumn="CHANDOAN" type="xs:string" minOccurs="0" />
+                <xs:element name="MAICDNN" msprop:OraDbType="126" msprop:BaseColumn="MAICD" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MAKP>003</MAKP>
+    <NGAYVV>24/02/2011 09:47</NGAYVV>
+    <PHAI>1</PHAI>
+    <SONHA>226/21g</SONHA>
+    <THON>Thái Phiên</THON>
+    <MATT>701</MATT>
+    <MAQU>70121</MAQU>
+    <MAPHUONGXA>7012115</MAPHUONGXA>
+    <MANN>13</MANN>
+    <TENNN>Già</TENNN>
+    <MADANTOC>25</MADANTOC>
+    <TENDANTOC>*Kinh</TENDANTOC>
+    <TENTT>Tp.HCM</TENTT>
+    <TENQUAN>Quận 11</TENQUAN>
+    <TENPXA>Phường 8</TENPXA>
+    <MADOITUONG>1</MADOITUONG>
+    <SOTHE>GD794090010047294007</SOTHE>
+    <DENNGAY>31/05/2011</DENNGAY>
+    <LANTHU>1</LANTHU>
+    <NHANTU>1</NHANTU>
+    <DENTU>2</DENTU>
+    <LOAIBV>0</LOAIBV>
+    <TTLUCRV>0</TTLUCRV>
+    <CHANDOANVV>Xuất Huyết Tiêu Hoá (dạ Dày, Ruột)</CHANDOANVV>
+    <MAICDVV>K22.7</MAICDVV>
+    <KETQUA>0</KETQUA>
+  </Table>
+</NewDataSet>

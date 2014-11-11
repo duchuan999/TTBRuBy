@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ten" type="xs:string" minOccurs="0" />
+                <xs:element name="sodt" type="xs:string" minOccurs="0" />
+                <xs:element name="diachi" type="xs:string" minOccurs="0" />
+                <xs:element name="ngaybc" type="xs:string" minOccurs="0" />
+                <xs:element name="chucvu" type="xs:string" minOccurs="0" />
+                <xs:element name="sofax" type="xs:string" minOccurs="0" />
+                <xs:element name="kyten" type="xs:string" minOccurs="0" />
+                <xs:element name="dangbc" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <ten />
+    <sodt />
+    <diachi />
+    <ngaybc>16/02/2012</ngaybc>
+    <chucvu />
+    <kyten />
+    <dangbc>0</dangbc>
+  </Table1>
+</NewDataSet>

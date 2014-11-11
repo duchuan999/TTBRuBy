@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Chưa có kết quả</Vviet>
+    <Vanh>Result not yet available</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chưa có bác sĩ đọc kết quả</Vviet>
+    <Vanh>Result not yet read</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sỹ :</Vviet>
+    <Vanh>Doctor :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tất cả</Vviet>
+    <Vanh>All</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trả sau</Vviet>
+    <Vanh>Pay later</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Miễn</Vviet>
+    <Vanh>Free</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thu phí</Vviet>
+    <Vanh>Paid</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tất cả</Vviet>
+    <Vanh>All</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Không cản quang</Vviet>
+    <Vanh>No contrast</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cản quang</Vviet>
+    <Vanh>Contrast</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Máy :</Vviet>
+    <Vanh>Machine :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tìm</Vviet>
+    <Vanh>Search</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại  :</Vviet>
+    <Vanh>Modality :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tìm kiếm</Vviet>
+    <Vanh>Search</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

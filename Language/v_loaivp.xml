@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_NHOM" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+								<xs:element name="vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>6</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>3</STT>
+		<MA>XNSHHH</MA>
+		<TEN> Hematology, biochemistry lab test</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:51:27.0000000-08:00</NGAYUD>
+		<vanh>Lab test</vanh>
+	</Table>
+	<Table>
+		<ID>7</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>4</STT>
+		<MA>XNCTD</MA>
+		<TEN>Secretory substance</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:52:28.0000000-08:00</NGAYUD>
+		<vanh>Secretory substance</vanh>
+	</Table>
+	<Table>
+		<ID>8</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>5</STT>
+		<MA>XNNT</MA>
+		<TEN>Urine test</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:52:40.0000000-08:00</NGAYUD>
+		<vanh>Urine test</vanh>
+	</Table>
+	<Table>
+		<ID>9</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>6</STT>
+		<MA>XNP</MA>
+		<TEN>Stool test</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:52:58.0000000-08:00</NGAYUD>
+		<vanh>Stool test</vanh>
+	</Table>
+	<Table>
+		<ID>10</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>7</STT>
+		<MA>XNMD</MA>
+		<TEN>Immunological test</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:53:14.0000000-08:00</NGAYUD>
+		<vanh>Immunological test</vanh>
+	</Table>
+	<Table>
+		<ID>11</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>8</STT>
+		<MA>XNN</MA>
+		<TEN>Mycotic test</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:53:28.0000000-08:00</NGAYUD>
+		<vanh>Mycotic test</vanh>
+	</Table>
+	<Table>
+		<ID>12</ID>
+		<ID_NHOM>4</ID_NHOM>
+		<STT>10</STT>
+		<MA>VLTL</MA>
+		<TEN>Physiotherapy</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:54:20.0000000-08:00</NGAYUD>
+		<vanh>Physiotherapy</vanh>
+	</Table>
+	<Table>
+		<ID>16</ID>
+		<ID_NHOM>5</ID_NHOM>
+		<STT>12</STT>
+		<MA>XQ</MA>
+		<TEN>X-ray</TEN>
+		<USERID>3</USERID>
+		<NGAYUD>2004-12-07T12:56:25.0000000-08:00</NGAYUD>
+		<vanh>X-Ray</vanh>
+	</Table>
+</NewDataSet>

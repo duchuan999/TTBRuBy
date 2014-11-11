@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Tập tin liên kết :</Vviet>
+    <Vanh>Relation file</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Máy</Vviet>
+    <Vanh>Equip.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã đĩa</Vviet>
+    <Vanh>Disk code</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phim</Vviet>
+    <Vanh>Film</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Siêu âm</Vviet>
+    <Vanh>Ultrasound</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phản ứng</Vviet>
+    <Vanh>Reaction</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thống kê theo số mắt</Vviet>
+    <Vanh>Ststistics on  eyes</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gây mê</Vviet>
+    <Vanh>Anesth.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cản Quang</Vviet>
+    <Vanh>Contrast</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc</Vviet>
+    <Vanh>Drugs</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>KTV</Vviet>
+    <Vanh>Tech.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại viện  phí :</Vviet>
+    <Vanh>Billing type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Có hình</Vviet>
+    <Vanh>+image</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>&amp;Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội dung :</Vviet>
+    <Vanh>Item :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phân loại</Vviet>
+    <Vanh>Modalities</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

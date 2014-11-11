@@ -1,0 +1,27 @@
+
+hxoa bien lai hoan va thu vien phi
+
+select * from medibv1150410.v_ttrvds where mabn='10817726'
+select * from medibv1150410.v_ttrvll where id=100409100000001376
+100409100000001376
+select * from medibv1150410.v_ttrvct where id=100409100000001376
+select * from medibv1150410.v_ttrvdv where id=100409100000001376
+select * from medibv1150410.v_ttrvds where id=100409100000001376
+delete medibv1150410.v_ttrvct where id=100409100000001376
+delete medibv1150410.v_ttrvdv where id=100409100000001376
+delete medibv1150410.v_ttrvds where id=100409100000001376
+delete medibv1150410.v_ttrvbhyt where id=100409100000001376
+delete medibv1150410.v_ttrvll where id=100409100000001376
+update medibv1150410.v_thvpll set idttrv=0  where idttrv=100409100000001376
+select * from  medibv1150310.v_tamung where idttrv=100409100000001376
+
+
+
+select * from medibv1150410.v_hoantra where mabn='10817726'
+delete medibv1150410.v_hoantra where mabn='10817726'
+
+select * from medibv1150410.v_hoantract where id=100409110000003626
+
+delete  medibv1150410.v_hoantract where id=100409110000003626
+
+

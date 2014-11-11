@@ -1,0 +1,147 @@
+select * from medibv115.pttt_dm
+select * from medibv1150310.pttt
+select * from medibv115.dmbs
+select * from medibv115.dmpttt
+select * from medibv115.btdkp_bv
+select * from medibv1150310.pttt
+
+select * from medibv115.dmgiuong
+
+select * from medibv115.v_giavp
+select * from medibv115.v_loaivp
+select * from medibv115.bdtbn_add
+
+
+
+select * from medibv115.btdkp_bv
+
+select  * from medibv115.benhandt a,medibv115.btdkp_bv b where a.makp=013 and a.makp=b.makp
+
+select * from medibv115.tt
+select  c.idphong,c.ten,a.makp,a.tenkp,d.hoten 
+from medibv115.benhandt a,medibv115.btdkp_bv b,medibv115.dmgiuong c,medibv115.btdbn d 
+where a.makp=013 and a.makp=b.makp and a.mabn=d.mabn
+
+select * from medibv1150310.v_ttrvds where mabn=10811734
+select * from medibv1150310.v_ttrvll where id=100310100015456539
+select * from medibv1150210.v_ttrvll where sobienlai=018327 
+select * from medibv1150210.v_ttrvll where sobienlai=018317 
+select * from medibv115.v_dlogin where id=1747
+
+----
+yeu cau xoa chi dinh mavp=444 ngay 17/03/2010 chi Phuong 
+
+select a.*,b.ten from medibv1150310.v_chidinh a,medibv115.v_giavp b where a.mavp=b.id and a.mabn='10815705' and mavp=444 and to_char(ngay,'ddmmyy')='170310'
+select * from medibv1150310.v_chidinh where mabn='10815705' and mavp=444 and id=100317000005684397
+
+update medibv1150310.v_chidinh set soluong= 0 where mabn='10815705' and mavp=444 and id=100317000005684397
+select * from medibv115.btdkp_bv where makp in (10,003,031)
+
+
+---------------
+select * from medibv1150310.v_ttrvds where mabn='10000105'
+select * from medibv1150310.v_ttrvds where mabn='10817839'
+
+select * from medibv1150310.v_ttrvll where id=100330090000065196
+select * from medibv115.btdbn where mabn='10817823'
+select * from medibv115.benhandt where mabn='10817823'
+---
+capcuu mabn: 10818667 sobienlaidv : 1590   sotien21000
+mabn: 10818689 sbldv:1638 21000
+select * from medibv1150410.v_ttrvds where mabn='10819219'
+select * from medibv1150410.benhancc  where mabn='10819219'
+
+
+select * from medibv1150410.v_chidinh where mabn='10819219' and madoituong=7 and idkhoa=0 
+idttrv=100402130013204098
+update medibv1150410.v_chidinh set paid=0,idttrv=0 where mabn='10819219' and madoituong=7 and idkhoa=0  and mavp in (6864,6897,6899)
+select * from medibv1150310.v_ttrvds where mabn='10818667' 
+select * from medibv1150410.v_ttrvll where id=100402160000004639
+update medibv1150410.v_ttrvll set sotien=21000,bhyt=0 where id=100402160000004639
+update medibv1150310.v_ttrvll set sobienlai=-1,sobienlaidv=1590,sotien=21000,bhyt=0 ,makp=999 where id=100331080000001639
+update medibv1150310.v_ttrvll set tamung=0 where id=100331080000001639
+update medibv1150310.v_tamung set done=0,idttrv=0  where idttrv=100331080000001639
+select * from medibv1150310.v_ttrvct where id=100331080000001639
+select * from medibv1150310.v_thvpll where mabn='10818689'
+select * from medibv1150310.v_thvpct where id=100330190124567114 and madoituong=7
+select * from medibv1150310.v_thvpbhyt where id=100330190124567114 
+delete medibv1150310.v_ttrvdv where id=100331080000001639
+insert into medibv1150310.v_ttrvdv select * from medibv1150310.v_ttrvct where id=100331080000001639
+
+update medibv1150310.v_chidinh set paid=0,idttrv=0 where mabn='10818667' and mavp not in (6864,6897,6899)
+update medibv1150310.d_tienthuoc set done=0,idttrv=0 where mabn='10818667'
+select * from medibv1150310.d_tienthuoc where mabn='10818667'
+
+--------
+
+
+select * from medibv1150310.v_ttrvds where mabn='10818689'
+
+select * from medibv1150310.v_chidinh where mabn='10818689' and madoituong=7 and idkhoa=0 
+
+select * from medibv1150310.v_ttrvll where id=100331080000008215
+update medibv1150310.v_ttrvll set makp= 999 where id=100331080000008215
+update medibv1150310.d_tienthuoc set done=0,idttrv=0  where mabn='10818689'
+update medibv1150310.v_chidinh set paid=0,idttrv=0 where mabn='10818689' and mavp not in (6864,6897,6899)
+--vao database -->v_ttrvct -->tim id -->xoa bot
+delete medibv1150310.v_ttrvdv where id=100331080000002639
+insert into medibv1150310.v_ttrvdv select * from medibv1150310.v_ttrvct where id=100331080000002639
+select * from medibv1150310.v_ttrvll where id=100331080000002639
+update medibv1150310.v_ttrvll set sobienlai=-1,sobienlaidv=1638 where id=100331080000002639
+update medibv1150310.v_ttrvll set tamung=0 where id=100331080000001639
+update medibv1150310.v_tamung set done=0,idttrv=0  where idttrv=100331080000002639
+update  medibv1150310.v_ttrvll set quyenso=304 where id=100331080000002639
+update medibv1150310.v_ttrvll set sotien=21000,bhyt=0 ,userid=1825 ,diemthu=2,makp=999 ,loai =4 where id=100331080000002639
+update medibv1150310.v_chidinh set paid=0,idttrv=0 where mabn='10818689' and mavp not in (6864,6897,6899)
+update medibv1150310.d_tienthuoc set done=0,idttrv=0 where mabn='10818667'
+select * from medibv1150310.v_thvpll where id=100331080000002639
+
+
+
+-------------------------------------------
+
+select * from medibv1150310.d_xtutrucll where mabn='09003710'
+select * from medibv1150310.d_xtutrucct where id=100331000000008639
+delete medibv1150310.d_xtutrucct where id=100331000000008639
+select * from medibv115.d_dmbd where id=5657
+
+
+-----------------
+
+select * from medibv1150310.v_ttrvds where mabn='10818818'
+
+
+select sum(soluong*giaban)from medibv1150310.d_tienthuoc  where mabn='10818818' and mabd=6006
+mavv=100331093542853069
+maql=100331093542018069
+select * from medibv115.d_dmbd where ma='PER002'
+select sum(soluong*dongia) from medibv1150310.v_chidinh  where mabn='10818818'
+
+select * from medibv1150310.benhancc where mabn='10814238'
+mavv=100331093505774117
+maql=100331093505937117
+--
+select * from medibv1150310.v_chidinh where mabn='10814238' and mavp in (7374,4558,578,632) and makp=999
+update medibv1150310.v_chidinh set mavaovien=100331093505774117,maql=100331093505937117 where mabn='10814238' and mavp in (7374,4558,578,632) and makp=999
+and mavaovien=100309095220146069 and maql=100309095220787069 and to_char(ngay,'ddmmyy')='310310'
+select * from medibv1150310.v_ttrvds where mabn='10814238'
+select * from medibv1150310.v_ttrvll where id=100331090012653098
+select * from medibv1150310.v_ttrvct where id=100331090012653098 and mavp in (7374,4558,578,632)
+select a. *,b.ten from medibv1150310.v_chidinh a,medibv115.v_giavp b where a.mavp=b.id and a.mabn='10814238' and idkhoa=0 and madoituong=1 and to_char(ngay,'ddmmyy')='310310'
+and mavp in (7374,4558,578,632)
+
+
+
+
+-----------------
+select * from medibv1150110.v_tamung where mabn='10000492'
+mavv=91226103108563181
+maql=91226103108368181
+select * from medibv1150210.v_tamung where mabn='10000492'
+mavv=91226103108563181
+maql=91226103108368181
+select * from medibv1150310.v_tamung where mabn='10000492'
+mavv=
+select * from medibv115.benhandt where mabn='10000492'
+mavv=91226103108563181
+maql=91226103108368181

@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mật khẩu cũ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mật khẩu mới :</Vviet>
+    <Vanh>New password:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên Login :</Vviet>
+    <Vanh>Login name:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhóm :</Vviet>
+    <Vanh>Group :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chỉnh sửa mật khẩu</Vviet>
+    <Vanh>Change assword</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

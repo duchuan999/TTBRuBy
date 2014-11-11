@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>Patient ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên</Vviet>
+    <Vanh>Full name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>NS</Vviet>
+    <Vanh>D.O.B.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng</Vviet>
+    <Vanh>Patient class</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ</Vviet>
+    <Vanh>SSN</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giường</Vviet>
+    <Vanh>Bed</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ</Vviet>
+    <Vanh>From</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến</Vviet>
+    <Vanh>To</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

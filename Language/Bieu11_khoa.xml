@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>checkBox1</Vviet>
+    <Vanh>checkBox1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xem</Vviet>
+    <Vanh>&amp;View</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>2000</Vviet>
+    <Vanh>2000</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm :</Vviet>
+    <Vanh>Year :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chỉ xem có mục có số liệu phát sinh</Vviet>
+    <Vanh>View only existing data</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng hợp theo mẫu báo cáo</Vviet>
+    <Vanh>Report summary</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Báo cáo theo :</Vviet>
+    <Vanh>Report type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình hình bệnh tật,tử vong theo khoa</Vviet>
+    <Vanh>Morbidity report</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

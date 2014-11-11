@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>STT</Vviet>
+		<Vanh>Seq #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN</Vviet>
+		<Vanh>ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ Tên</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phái</Vviet>
+		<Vanh>Gender</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi</Vviet>
+		<Vanh>Age</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>K.Phòng</Vviet>
+		<Vanh>Department</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng</Vviet>
+		<Vanh>Pat. class</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BHYT</Vviet>
+		<Vanh>SSN #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ</Vviet>
+		<Vanh>Doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán</Vviet>
+		<Vanh>Diagnosis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết luận</Vviet>
+		<Vanh>Conclusion</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS CĐHA</Vviet>
+		<Vanh>Radiology doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Count CĐHA</Vviet>
+		<Vanh>Radiology #</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

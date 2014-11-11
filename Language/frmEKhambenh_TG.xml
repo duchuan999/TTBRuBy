@@ -1,0 +1,185 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán:</Vviet>
+		<Vanh>Diagnosis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mới</Vviet>
+		<Vanh>&amp;New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuyến giáp:</Vviet>
+		<Vanh>Thyroid:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hạch:</Vviet>
+		<Vanh>Lymph node:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mật độ:</Vviet>
+		<Vanh>Density:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bề mặt:</Vviet>
+		<Vanh>Surface:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Âm thổi:</Vviet>
+		<Vanh>Murmur:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Di động:</Vviet>
+		<Vanh>Mobile:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dấu sinh tồn:</Vviet>
+		<Vanh>Vital signs:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cân nặng:</Vviet>
+		<Vanh>Weight:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>kg</Vviet>
+		<Vanh>kg</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhịp thở:</Vviet>
+		<Vanh>RR:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mạch:</Vviet>
+		<Vanh>Pulse:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Huyết áp:</Vviet>
+		<Vanh>BP:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>lần/phút</Vviet>
+		<Vanh>/min</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhiệt độ:</Vviet>
+		<Vanh>Temperature</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>độ C</Vviet>
+		<Vanh>degree Celcius</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mmHg</Vviet>
+		<Vanh>mmHg</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>lần/phút</Vviet>
+		<Vanh>/min</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ:</Vviet>
+		<Vanh>Doctor:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày:</Vviet>
+		<Vanh>Date:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi chú:</Vviet>
+		<Vanh>Comments</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán hình ảnh</Vviet>
+		<Vanh>Imagery</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xét nghiệm khác</Vviet>
+		<Vanh>Other lab tests</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh án</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

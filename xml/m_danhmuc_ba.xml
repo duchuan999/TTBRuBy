@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="TABLE" type="xs:string" minOccurs="0" />
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<TEN>Chế độ ăn uống</TEN>
+		<TABLE>ba_dmchedoan</TABLE>
+		<ID>-201</ID>
+	</Table>
+	<Table>
+		<TEN>Bảng kiểm soát bệnh nhân mổ khẩn trước khi đưa lên phòng mổ</TEN>
+		<TABLE>ba_dmcongtaccc</TABLE>
+		<ID>-202</ID>
+	</Table>
+	<Table>
+		<TEN>Bảng kiểm soát bệnh nhân trước khi đưa lên phòng mổ</TEN>
+		<TABLE>ba_dmcongtac</TABLE>
+		<ID>-208</ID>
+	</Table>
+	<Table>
+		<TEN>Đặc điểm liên quan bệnh</TEN>
+		<TABLE>ba_dmdacdiem</TABLE>
+		<ID>-203</ID>
+	</Table>
+	<Table>
+		<TEN>Đường cho ăn</TEN>
+		<TABLE>ba_dmduongan</TABLE>
+		<ID>-204</ID>
+	</Table>
+	<Table>
+		<TEN>Loại thức ăn</TEN>
+		<TABLE>ba_dmloaian</TABLE>
+		<ID>-205</ID>
+	</Table>
+	<Table>
+		<TEN>Phương pháp thử phản ứng thuốc</TEN>
+		<TABLE>ba_dmppthu</TABLE>
+		<ID>-206</ID>
+	</Table>
+	<Table>
+		<TEN>Kỹ thuật Anti HIV</TEN>
+		<TABLE>ba_dmkythuat</TABLE>
+		<ID>-207</ID>
+	</Table>
+	<Table>
+		<TEN>Y lệnh</TEN>
+		<TABLE>ba_dmylenh</TABLE>
+		<ID>-298</ID>
+	</Table>
+		<Table>
+		<TEN>Phiếu vận chuyển người bệnh</TEN>
+		<TABLE>ba_dmvanchuyen</TABLE>
+		<ID>-299</ID>
+	</Table>
+</NewDataSet>

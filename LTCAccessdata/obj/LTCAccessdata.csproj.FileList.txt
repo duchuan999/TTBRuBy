@@ -1,0 +1,8 @@
+bin\Debug\LTCAccessdata.dll
+bin\Debug\LTCAccessdata.pdb
+bin\Debug\Oracle.DataAccess.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LTCAccessdata.Properties.Resources.resources
+obj\Debug\LTCAccessdata.csproj.GenerateResource.Cache
+obj\Debug\LTCAccessdata.dll
+obj\Debug\LTCAccessdata.pdb

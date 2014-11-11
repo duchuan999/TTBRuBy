@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Công thức kính cũ</Vviet>
+		<Vanh>Old glass formula</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoảng cách</Vviet>
+		<Vanh>Distance</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khách quan</Vviet>
+		<Vanh>Subjective</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chủ quan</Vviet>
+		<Vanh>Objective</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Công thức kính điều chỉnh TG xa</Vviet>
+		<Vanh>Glass formula for far sight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap></Vphap>
+	</Language>
+	<Language>
+		<Vviet>Công thức kính điều chỉnh TG gần</Vviet>
+		<Vanh>Glass formula for near sight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khách quan</Vviet>
+		<Vanh>Subjective</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chủ quan</Vviet>
+		<Vanh>Objective</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thị lực</Vviet>
+		<Vanh>Eyesight</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chỉ định nhỏ thuốc :</Vviet>
+		<Vanh>Eye drop indication :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>từng mắt</Vviet>
+		<Vanh>each eye</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>từng mắt</Vviet>
+		<Vanh>each eye</Vanh>
+		<Vphap></Vphap>
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán khác :</Vviet>
+		<Vanh>Other diag. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khác :</Vviet>
+		<Vanh>Others :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lời dặn :</Vviet>
+		<Vanh>Comments :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chuyển :</Vviet>
+		<Vanh>Transf. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cấp đơn kính :</Vviet>
+		<Vanh>Eyesight report :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xử trí :</Vviet>
+		<Vanh>Treatment :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>KẾT QUẢ KHÁM KHÚC XẠ LẦN &amp;2</Vviet>
+		<Vanh>Refractory exem. result ( nd time)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>KẾT QUẢ KHÁM KHÚC XẠ LẦN &amp;1</Vviet>
+		<Vanh>Refractory exem. result (1st time)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MT</Vviet>
+		<Vanh>L.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MP</Vviet>
+		<Vanh>R.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoảng cách đồng tử  gần toàn bộ :</Vviet>
+		<Vanh>Total near iris distance</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoảng cách đồng tử  xa toàn bộ :</Vviet>
+		<Vanh>Total far iris distance</Vanh>
+		<Vphap></Vphap>
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MP</Vviet>
+		<Vanh>R.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MT</Vviet>
+		<Vanh>L.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MP</Vviet>
+		<Vanh>R.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MT</Vviet>
+		<Vanh>L.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>/10</Vviet>
+		<Vanh>/10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MP</Vviet>
+		<Vanh>R.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MT</Vviet>
+		<Vanh>L.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quận/H :</Vviet>
+		<Vanh>District :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hẹn</Vviet>
+		<Vanh>Appointment</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>II. THÔNG TIN CHUYÊN MÔN :</Vviet>
+		<Vanh>II. OPHTHALMOLOGY DAT</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>0</Vviet>
+		<Vanh>0</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi chú :</Vviet>
+		<Vanh>Comments :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Y Bác sỹ :</Vviet>
+		<Vanh>Doctor :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>diungthuoc</Vviet>
+		<Vanh>diungthuoc</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán :</Vviet>
+		<Vanh>Diagnosis :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới tính :</Vviet>
+		<Vanh>Gender :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết thúc</Vviet>
+		<Vanh>Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ qua</Vviet>
+		<Vanh>Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tiếp</Vviet>
+		<Vanh>&amp;Continue</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>I. HÀNH CHÍNH :</Vviet>
+		<Vanh>I. DEMOGRAPHICS :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi :</Vviet>
+		<Vanh>Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh :</Vviet>
+		<Vanh>Y.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Sinh ngày :</Vviet>
+		<Vanh>D.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ và tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mã BN :</Vviet>
+		<Vanh>ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày :</Vviet>
+		<Vanh>Date :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng :</Vviet>
+		<Vanh>Pat. class :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi giới thiệu :</Vviet>
+		<Vanh>Ref. resource :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Người bệnh :</Vviet>
+		<Vanh>Patient type :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ng nghiệp :</Vviet>
+		<Vanh>Occupation :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dân tộc :</Vviet>
+		<Vanh>Ethnic :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quốc tịch :</Vviet>
+		<Vanh>Nationality :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số nhà :</Vviet>
+		<Vanh>House #:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thôn, phố :</Vviet>
+		<Vanh>Street</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>T/Q/PXã :</Vviet>
+		<Vanh>Abbrev. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/TP :</Vviet>
+		<Vanh>Province :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phường/Xã :</Vviet>
+		<Vanh>Commune :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thói quen :</Vviet>
+		<Vanh>Habits :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MT</Vviet>
+		<Vanh>L.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MP</Vviet>
+		<Vanh>R.E.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Medisoft</Vviet>
+		<Vanh>Medisoft 2007</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

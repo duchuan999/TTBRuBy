@@ -1,0 +1,23 @@
+update medibv1150410.d_nhapct set giaban=7593,giabancu=7593 where mabd in(6251) and giaban>7593
+update medibv1150310.d_nhapct set giaban=7593,giabancu=7593 where mabd in(6251) and giaban>7593
+update medibv1150210.d_nhapct set giaban=7593,giabancu=7593 where mabd in(6251) and giaban>7593
+update medibv1150110.d_nhapct set giaban=7593,giabancu=7593 where mabd in(6251) and giaban>7593
+
+update medibv1150410.d_theodoi set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150310.d_theodoi set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150210.d_theodoi set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150110.d_theodoi set giaban=7593 where mabd in(6251) and giaban>7593;
+
+update medibv1150410.d_tienthuoc set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150310.d_tienthuoc set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150210.d_tienthuoc set giaban=7593 where mabd in(6251) and giaban>7593;
+update medibv1150110.d_tienthuoc set giaban=7593 where mabd in(6251) and giaban>7593;
+
+update medibv1150410.bhytthuoc set giaban=7593 where id in ( select b.id from medibv1150410.bhytkb a inner join medibv1150410.bhytthuoc b on a.id=b.id 
+where a.sobienlai=0 and b.mabd in (6251) and b.giaban>7593);
+update medibv1150310.bhytthuoc set giaban=7593 where id in ( select b.id from medibv1150310.bhytkb a inner join medibv1150310.bhytthuoc b on a.id=b.id 
+where a.sobienlai=0 and b.mabd in (6251) and b.giaban>7593);
+update medibv1150210.bhytthuoc set giaban=7593 where id in ( select b.id from medibv1150210.bhytkb a inner join medibv1150210.bhytthuoc b on a.id=b.id 
+where a.sobienlai=0 and b.mabd in (6251) and b.giaban>7593);
+update medibv1150110.bhytthuoc set giaban=7593 where id in ( select b.id from medibv1150110.bhytkb a inner join medibv1150110.bhytthuoc b on a.id=b.id 
+where a.sobienlai=0 and b.mabd in (6251) and b.giaban>7593);

@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SOGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="SOHS" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYNHAN" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DVYC" type="xs:string" minOccurs="0" />
+                <xs:element name="BSYC" type="xs:string" minOccurs="0" />
+                <xs:element name="CDLS" type="xs:string" minOccurs="0" />
+                <xs:element name="THONGTINLIENQUAN" type="xs:string" minOccurs="0" />
+                <xs:element name="HADT" type="xs:string" minOccurs="0" />
+                <xs:element name="HAVT" type="xs:string" minOccurs="0" />
+                <xs:element name="NHUOMDB" type="xs:decimal" minOccurs="0" />
+                <xs:element name="COANH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ANH" type="xs:string" minOccurs="0" />
+                <xs:element name="STTT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LCDGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="BANLUAN" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYTRA" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="BACSIDOC" type="xs:string" minOccurs="0" />
+                <xs:element name="TRUONGKHOA" type="xs:string" minOccurs="0" />
+                <xs:element name="SOGPB1" type="xs:string" minOccurs="0" />
+                <xs:element name="MAVTST" type="xs:string" minOccurs="0" />
+                <xs:element name="MAGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="MASTTT" type="xs:string" minOccurs="0" />
+                <xs:element name="TENVTST" type="xs:string" minOccurs="0" />
+                <xs:element name="MAKP" type="xs:string" minOccurs="0" />
+                <xs:element name="TENKP" type="xs:string" minOccurs="0" />
+                <xs:element name="KEHOACH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THUCKE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAKPBO" type="xs:string" minOccurs="0" />
+                <xs:element name="MABA" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAVP" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOAIVP" type="xs:string" minOccurs="0" />
+                <xs:element name="MUCVP" type="xs:string" minOccurs="0" />
+                <xs:element name="VIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTENBN" type="xs:string" minOccurs="0" />
+                <xs:element name="TUOIBN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIOITINH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DIACHI" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Table2">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SOGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="MAVTST" type="xs:string" minOccurs="0" />
+                <xs:element name="MAHMMD" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DUONGTINH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CUONGDO" type="xs:string" minOccurs="0" />
+                <xs:element name="MUCDO" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GHICHU" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHMMD" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <SOGPB>A00001</SOGPB>
+    <SOHS>05000001</SOHS>
+    <NGAYNHAN>2005-11-29T00:00:00.0000000+07:00</NGAYNHAN>
+    <DVYC>03</DVYC>
+    <BSYC>0055</BSYC>
+    <CDLS>anh hu2ng</CDLS>
+    <HADT>zx</HADT>
+    <HAVT>xvxc</HAVT>
+    <NHUOMDB>1</NHUOMDB>
+    <COANH>0</COANH>
+    <STTT>1</STTT>
+    <LCDGPB>cvb</LCDGPB>
+    <BANLUAN>cvb</BANLUAN>
+    <NGAYTRA>2005-11-29T00:00:00.0000000+07:00</NGAYTRA>
+    <BACSIDOC>8</BACSIDOC>
+    <TRUONGKHOA>186</TRUONGKHOA>
+    <SOGPB1>A00001</SOGPB1>
+    <MAVTST>C15.5</MAVTST>
+    <MAGPB>8000/0</MAGPB>
+    <MASTTT>8010/3</MASTTT>
+    <TENVTST>1/3 dưới thực quản</TENVTST>
+    <MAKP>03</MAKP>
+    <TENKP>Dịch Vụ Trung Tâm</TENKP>
+    <KEHOACH>20</KEHOACH>
+    <THUCKE>20</THUCKE>
+    <MAKPBO>18</MAKPBO>
+    <MABA>05,11,13,15,20,22</MABA>
+    <LOAI>0</LOAI>
+    <MAVP>0</MAVP>
+    <VIETTAT>03</VIETTAT>
+    <HOTENBN>LÊ QUỐC HUY</HOTENBN>
+    <TUOIBN>3</TUOIBN>
+    <GIOITINH>0</GIOITINH>
+    <DIACHI>HCKXKX</DIACHI>
+  </Table1>
+  <Table2>
+    <SOGPB>A00001</SOGPB>
+    <MAVTST>C15.5</MAVTST>
+    <MAHMMD>65</MAHMMD>
+    <DUONGTINH>1</DUONGTINH>
+    <CUONGDO>Trung Bình</CUONGDO>
+    <MUCDO>4</MUCDO>
+    <GHICHU>vbn</GHICHU>
+    <TENHMMD>CD138</TENHMMD>
+  </Table2>
+</NewDataSet>

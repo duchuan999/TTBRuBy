@@ -1,0 +1,590 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Xuất ra XML</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phân biệt :</Vviet>
+    <Vanh>Differ. diag.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc đã sử dụng</Vviet>
+    <Vanh>Drugs used</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tiếp</Vviet>
+    <Vanh>&amp;Cont'</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In chi phí</Vviet>
+    <Vanh>&amp;Print bill</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển viện</Vviet>
+    <Vanh>Transfer.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Phiếu khám</Vviet>
+    <Vanh>&amp;Exam sheet</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bỏ qua</Vviet>
+    <Vanh>Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gọi lại</Vviet>
+    <Vanh>Recall</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Gọi</Vviet>
+    <Vanh>&amp;Call</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số :</Vviet>
+    <Vanh>Number :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tìm</Vviet>
+    <Vanh>Search</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biến chứng</Vviet>
+    <Vanh>Complication</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Qua đăng ký khám bệnh</Vviet>
+    <Vanh>Reg. at registration</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú :</Vviet>
+    <Vanh>Comments :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian :</Vviet>
+    <Vanh>Duration :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>I. HÀNH CHÍNH :</Vviet>
+    <Vanh>DEMOGRAPHICS</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>To dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giải phẫu bệnh</Vviet>
+    <Vanh>Pathology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tai biến nội khoa</Vviet>
+    <Vanh>Medical accident</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xử trí :</Vviet>
+    <Vanh>Treatment :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Triệu chứng lâm sàng ban đầu</Vviet>
+    <Vanh>Signs and symptoms</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>kg</Vviet>
+    <Vanh>kg</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nặng :</Vviet>
+    <Vanh>Weight :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T° :</Vviet>
+    <Vanh>T° :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>HA :</Vviet>
+    <Vanh>BP :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cao :</Vviet>
+    <Vanh>Height :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mạch :</Vviet>
+    <Vanh>Pulse :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>l/p</Vviet>
+    <Vanh>/min.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>°C</Vviet>
+    <Vanh>°C</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mmHg</Vviet>
+    <Vanh>mmHg</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>cm</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Para :</Vviet>
+    <Vanh>Para :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày sanh :</Vviet>
+    <Vanh>C.birth date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kinh cuối</Vviet>
+    <Vanh>L. period</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>II. THÔNG TIN VÀO KHÁM BỆNH :</Vviet>
+    <Vanh>ENCOUNTER</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh>At :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>/10</Vviet>
+    <Vanh>/10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhãn áp T :</Vviet>
+    <Vanh>O.T. left</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhãn áp P :</Vviet>
+    <Vanh>O.T. right</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt T :</Vviet>
+    <Vanh>L eye :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>/10</Vviet>
+    <Vanh>/10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt P :</Vviet>
+    <Vanh>R eye :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhận từ :</Vviet>
+    <Vanh>Pat. type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CĐ chuyển :</Vviet>
+    <Vanh>Ref. diag. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số khám :</Vviet>
+    <Vanh>QMS # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện thoại :</Vviet>
+    <Vanh>NOK Phone:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ :</Vviet>
+    <Vanh>NOK Add. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>NOK Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người thân :</Vviet>
+    <Vanh>NOK :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến ngày :</Vviet>
+    <Vanh>valid to :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ :</Vviet>
+    <Vanh>SSN :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. Class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi giới thiệu :</Vviet>
+    <Vanh>Ref. from :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày khám :</Vviet>
+    <Vanh>Visit date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>P. khám :</Vviet>
+    <Vanh>Exam room :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên :</Vviet>
+    <Vanh>by :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khám :</Vviet>
+    <Vanh>Type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người bệnh :</Vviet>
+    <Vanh>Pat. type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quốc tịch :</Vviet>
+    <Vanh>Nationality :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H :</Vviet>
+    <Vanh>District :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chỗ làm :</Vviet>
+    <Vanh>Employer:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh>Province :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/PXã :</Vviet>
+    <Vanh>Abbrev. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh>Commune :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh>Street :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh>House # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh>Ethnic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh>Occupation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In kèm toa thuốc</Vviet>
+    <Vanh>Print with prescription</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem trước khi in</Vviet>
+    <Vanh>Print preview</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>toolStrip1</Vviet>
+    <Vanh>toolStrip1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú :</Vviet>
+    <Vanh>Comments :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lưu trữ :</Vviet>
+    <Vanh>Storing # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>III. THÔNG TIN RA VIỆN :</Vviet>
+    <Vanh>VISIT DATA :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh kèm theo :</Vviet>
+    <Vanh>Ass. diseases :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bệnh chính :</Vviet>
+    <Vanh>&amp;Main disease :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ điều trị :</Vviet>
+    <Vanh>Physician :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển đến :</Vviet>
+    <Vanh>To hosp. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển viện :</Vviet>
+    <Vanh>Transferred to :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh>Y.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh án :</Vviet>
+    <Vanh>Chart :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Medisoft 2007 -  Khám bệnh</Vviet>
+    <Vanh>Medisoft 2007 - Outpatient</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>MSBN</Vviet>
+    <Vanh>ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ Tên</Vviet>
+    <Vanh>Name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>N.Sinh</Vviet>
+    <Vanh>D.O.B.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa</Vviet>
+    <Vanh>Dept.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc</Vviet>
+    <Vanh>Drugs</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>VT-YTế</Vviet>
+    <Vanh>Disposable</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xét Nghiệm</Vviet>
+    <Vanh>Lab.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giường</Vviet>
+    <Vanh>Bed</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khác</Vviet>
+    <Vanh>Others</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CP trong ngày</Vviet>
+    <Vanh>Payment/day</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng CP</Vviet>
+    <Vanh>Total payment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BN Tạm ứng</Vviet>
+    <Vanh>Advance payment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BN Nộp trước</Vviet>
+    <Vanh>Deposit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BN Nợ</Vviet>
+    <Vanh>Owned</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BN Nộp trước</Vviet>
+    <Vanh>Deposit</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

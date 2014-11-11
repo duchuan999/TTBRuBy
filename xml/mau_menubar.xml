@@ -1,0 +1,180 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <TEN>Phiếu nhập kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Công nợ</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Đề nghị chi trả</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Chi trả</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Duyệt cấp theo người bệnh</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Duyệt hoàn trả theo người bệnh</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu hoàn trả</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu xuất ngoại viện</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu xuất chuyển kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Duyệt cấp theo dự trù ngoại viện</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu xuất máu - chế phẩm máu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu đổi máu - chế phẩm máu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu dự trù cấp ngoại viện</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tổng hợp phiếu dự trù</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Báo cáo nhập -xuất - tồn</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Báo cáo nhập - xuất - tồn theo nhóm xét nghiệm</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Báo cáo nhập/xuất theo khoa</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu nhập tổng hợp</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tổng hợp phiếu xuất</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phiếu xuất chuyển kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Báo cáo máu - chế phẩm hết hạn dùng</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Biên bản kiểm kê </TEN>
+  </Table1>
+  <Table1>
+    <TEN>Nội trú</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Ngoại trú</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Thanh lý, huỷ</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tồn kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tổng hợp phiếu xuất theo khoa</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Máu - Chế phẩm máu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Nhóm quản lý</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Nhóm máu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Loại</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Nguồn</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Đơn vị tính</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Loại phiếu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Khoa/phòng</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Ngoại viện</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Lý do hoàn trả</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Danh mục nhân viên</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Bảo hiểm y tế chi trả</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Kết quả xét nghiệm</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Thể tích bịch máu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tồn kho chi tiết</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tồn kho tổng hợp</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Kiểm tra tồn đầu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Khai báo tồn đầu kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Kiểm tra số liệu tồn kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Khóa/mở số liệu tháng</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Cập nhật số liệu kiểm kê</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Tìm kiếm trong phát máu nội viện</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Khai báo: lệnh xuất kho</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Cấu hình thông số hệ thống</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Phân quyền sử dụng</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Thay đổi mật khẩu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Truy vấn theo câu lệnh SQL</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Đổi ngày</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Danh sách dự trù,duyệt,in phiếu xuất</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Chỉnh sửa lại cấu trúc dữ liệu</TEN>
+  </Table1>
+  <Table1>
+    <TEN>Log Off Lê Thị Phương Nam</TEN>
+  </Table1>
+</NewDataSet>

@@ -1,0 +1,134 @@
+
+10:26:13 AM Monday, June 02, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:30:25 AM Monday, June 02, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:32:22 AM Monday, June 02, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:33:42 AM Monday, June 02, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+10:35:58 AM Monday, June 02, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+02:42:27 PM Wednesday, June 04, 2014
+System.TypeInitializationException: The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception. ---> Oracle.DataAccess.Client.OracleException The provider is not compatible with the version of Oracle client    at Oracle.DataAccess.Client.OracleInit.Initialize()
+   at Oracle.DataAccess.Client.OracleConnection..cctor()
+   --- End of inner exception stack trace ---
+   at Oracle.DataAccess.Client.OracleConnection..ctor(String connectionString)
+   at LTCAccessdata.LTCConnection..ctor(String connectionString)The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception.
+
+02:42:28 PM Wednesday, June 04, 2014
+System.TypeInitializationException: The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception. ---> Oracle.DataAccess.Client.OracleException The provider is not compatible with the version of Oracle client    at Oracle.DataAccess.Client.OracleInit.Initialize()
+   at Oracle.DataAccess.Client.OracleConnection..cctor()
+   --- End of inner exception stack trace ---
+   at Oracle.DataAccess.Client.OracleConnection..ctor(String connectionString)
+   at LTCAccessdata.LTCConnection..ctor(String connectionString)The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception.
+
+04:31:26 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+04:35:36 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:35:36 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:35:45 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:35:45 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:36:28 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:36:28 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:36:55 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+04:37:00 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:37:06 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+04:37:14 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+04:37:15 PM Friday, June 06, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+08:25:34 AM Saturday, June 07, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+08:25:34 AM Saturday, June 07, 2014
+Oracle.DataAccess.Client.OracleException ORA-1017: invalid username/password; logon denied    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-1017: invalid username/password; logon denied
+
+08:27:41 AM Saturday, June 07, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))

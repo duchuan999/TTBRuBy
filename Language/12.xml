@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>1862</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>1</STT>
+    <MA>E11</MA>
+    <TEN>Vận động (Tập)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>15000</GIA_TH>
+    <GIA_BH>15000</GIA_BH>
+    <GIA_DV>15000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1863</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>2</STT>
+    <MA>E12</MA>
+    <TEN>Chiếu đèn hồng ngoại tay, chân</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>15000</GIA_TH>
+    <GIA_BH>15000</GIA_BH>
+    <GIA_DV>15000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1864</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>3</STT>
+    <MA>E13</MA>
+    <TEN>Kỹ thuật kéo giản</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>15000</GIA_TH>
+    <GIA_BH>15000</GIA_BH>
+    <GIA_DV>15000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1865</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>4</STT>
+    <MA>E14</MA>
+    <TEN>Vật lý trị liệu chỉnh hình (10 phút)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>7000</GIA_TH>
+    <GIA_BH>7000</GIA_BH>
+    <GIA_DV>7000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1866</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>5</STT>
+    <MA>E15</MA>
+    <TEN>Vật lý trị liệu chống liệt</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>20000</GIA_TH>
+    <GIA_BH>20000</GIA_BH>
+    <GIA_DV>20000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1867</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>6</STT>
+    <MA>E16</MA>
+    <TEN>Massage cục bộ bằng tay</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>30000</GIA_TH>
+    <GIA_BH>30000</GIA_BH>
+    <GIA_DV>30000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1868</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>7</STT>
+    <MA>E17</MA>
+    <TEN>Bó êm cẳng tay (bột riêng)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>15000</GIA_TH>
+    <GIA_BH>15000</GIA_BH>
+    <GIA_DV>15000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1869</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>8</STT>
+    <MA>E18</MA>
+    <TEN>Bó êm cẳng chân (bột riêng)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>20000</GIA_TH>
+    <GIA_BH>20000</GIA_BH>
+    <GIA_DV>20000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1870</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>9</STT>
+    <MA>E19</MA>
+    <TEN>Bó êm đuồi (bột riêng)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>40000</GIA_TH>
+    <GIA_BH>40000</GIA_BH>
+    <GIA_DV>40000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1871</ID>
+    <ID_LOAI>12</ID_LOAI>
+    <STT>10</STT>
+    <MA>E110</MA>
+    <TEN>Bột bó</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>0</GIA_TH>
+    <GIA_BH>0</GIA_BH>
+    <GIA_DV>0</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

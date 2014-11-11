@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Theo người bệnh</Vviet>
+    <Vanh>Patient type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng hợp</Vviet>
+    <Vanh>Summary</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>6</Vviet>
+    <Vanh>6</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trẻ em &lt;=</Vviet>
+    <Vanh>Children &lt;=</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã ICD10</Vviet>
+    <Vanh>ICD 10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiếp đón &amp;&amp; phòng khám</Vviet>
+    <Vanh>Registration and OP clinic</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng khám (tiếp đón chỉ định)</Vviet>
+    <Vanh>OP clinic (assigned by registration)</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính</Vviet>
+    <Vanh>Gender</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Độ tuổi</Vviet>
+    <Vanh>Group of age</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa phương</Vviet>
+    <Vanh>Address</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhập viện</Vviet>
+    <Vanh>Admission</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh tật</Vviet>
+    <Vanh>Disease</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp</Vviet>
+    <Vanh>Occupation</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xử trí</Vviet>
+    <Vanh>Treatment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trẻ em</Vviet>
+    <Vanh>Children</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng</Vviet>
+    <Vanh>Patient class</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khám bệnh</Vviet>
+    <Vanh>Consultation</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiếp đón</Vviet>
+    <Vanh>Registration</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Truy vấn thông tin khám bệnh</Vviet>
+    <Vanh>Consultation data querry</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

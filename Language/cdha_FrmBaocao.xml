@@ -1,0 +1,170 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Loại</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BS.Đọc</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xuất XML</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giờ báo cáo</Vviet>
+    <Vanh>Report time</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kỹ thuật</Vviet>
+    <Vanh>Modality</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi</Vviet>
+    <Vanh>Age</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số ca</Vviet>
+    <Vanh>#</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Th&amp;oát</Vviet>
+    <Vanh>Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại BN</Vviet>
+    <Vanh>Patient type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trong giờ</Vviet>
+    <Vanh>Routine</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tìm</Vviet>
+    <Vanh>&amp;Search</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>KTV</Vviet>
+    <Vanh>Performer</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BS.ĐT</Vviet>
+    <Vanh>Doctor</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kỹ thuật</Vviet>
+    <Vanh>Modality</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người nhập</Vviet>
+    <Vanh>User</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa/P</Vviet>
+    <Vanh>Dept.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>P/Xã</Vviet>
+    <Vanh>Commune</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H</Vviet>
+    <Vanh>District</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP</Vviet>
+    <Vanh>State</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc</Vviet>
+    <Vanh>Ethnic</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>NN</Vviet>
+    <Vanh>Foreigner</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phái</Vviet>
+    <Vanh>Gender</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên</Vviet>
+    <Vanh>Name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>Pat. ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến</Vviet>
+    <Vanh>and</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ</Vviet>
+    <Vanh>Betw.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thống  kê danh sách bệnh nhân chẩn đoán hình ảnh</Vviet>
+    <Vanh>Imagery patients</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

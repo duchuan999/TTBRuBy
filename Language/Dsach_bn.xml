@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Phái</Vviet>
+		<Vanh>Gender</Vanh>
+		<Vphap></Vphap>
+	</Language>
+	<Language>
+		<Vviet>&amp;Số lưu trữ</Vviet>
+		<Vanh>Storing #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Sửa Tên BN</Vviet>
+		<Vanh>Change pat. name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tên</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tìm</Vviet>
+		<Vanh>Search</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh</Vviet>
+		<Vanh>Y.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ, tên đệm</Vviet>
+		<Vanh>Family name, middle name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ qua</Vviet>
+		<Vanh>Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Chọn</Vviet>
+		<Vanh>Select</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Danh sách bệnh nhân</Vviet>
+		<Vanh>Patient list</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

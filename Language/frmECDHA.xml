@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Chỉ định</Vviet>
+		<Vanh>&amp;Order</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Hình ảnh</Vviet>
+		<Vanh>&amp;Imagery</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kĩ Thuật:</Vviet>
+		<Vanh>Technique</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết Luận:</Vviet>
+		<Vanh>Conclusion :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết quả:</Vviet>
+		<Vanh>Result :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lần:</Vviet>
+		<Vanh>Times:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hình:</Vviet>
+		<Vanh>Image:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lượng:</Vviet>
+		<Vanh>Qty :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lượng:</Vviet>
+		<Vanh>Qty :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thuốc:</Vviet>
+		<Vanh>Drugs:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phim:</Vviet>
+		<Vanh>Film :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Loại KT:</Vviet>
+		<Vanh>Techn. type:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi Chú:</Vviet>
+		<Vanh>Comments:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán:</Vviet>
+		<Vanh>Diagnosis:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Đọc phim:</Vviet>
+		<Vanh>Read by :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Điều trị:</Vviet>
+		<Vanh>Doctor:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hình:</Vviet>
+		<Vanh>Image:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh án</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+</NewDataSet>

@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DVT" type="xs:string" minOccurs="0" />
+								<xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+								<xs:element name="vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>1857</ID>
+		<ID_LOAI>11</ID_LOAI>
+		<STT>1</STT>
+		<MA>C361</MA>
+		<TEN>Cạo tìm nấm</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>12000</GIA_TH>
+		<GIA_BH>12000</GIA_BH>
+		<GIA_DV>12000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Mycosis</vanh>
+	</Table>
+	<Table>
+		<ID>1858</ID>
+		<ID_LOAI>11</ID_LOAI>
+		<STT>2</STT>
+		<MA>C362</MA>
+		<TEN>Cấy nấm</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>20000</GIA_TH>
+		<GIA_BH>20000</GIA_BH>
+		<GIA_DV>20000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Mycosis/test</vanh>
+	</Table>
+</NewDataSet>

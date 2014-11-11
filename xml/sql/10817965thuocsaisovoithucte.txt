@@ -1,0 +1,22 @@
+
+select * from medibv115.d_dmbd where ma='MED002'
+select * from medibv1150410.d_xuatsdll where mabn='10817965'
+
+select a.*,b.phieu  from medibv1150310.d_dutrull a,medibv1150310.d_duyet b where a.idduyet=b.id and a.mabn='10817965'
+select a.*,b.phieu  from medibv1150410.d_dutrull a,medibv1150410.d_duyet b where a.idduyet=b.id and a.mabn='10817965'
+
+
+select * from medibv115.d_loaiphieu where id in (108,109,110)
+
+select * from medibv1150310.d_dutruct where id in (100329000000742374,100331000000810374,100407000001029354,100330000000780374,100327000000439246,100330000000801374)
+ AND MABD=6081
+
+select * from medibv1150410.d_dutruct where id in (100401000000843374,100402000000876374,100404000000682632,100405000000889374)
+ AND MABD=6081
+
+select * from medibv1150410.d_hoantrall where mabn='10817965'
+
+select * from medibv1150410.d_hoantract where id=100406000000919374 and mabd=6081
+
+select a.*,b.phieu  from medibv1150410.d_hoantrall a,medibv1150410.d_duyet b where a.idduyet=b.id and a.mabn='10817965'
+select * from medibv115.d_loaiphieu where id=71

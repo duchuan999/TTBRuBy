@@ -1,0 +1,230 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cách thức :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã số :</Vviet>
+    <Vanh>Code :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đủ tháng</Vviet>
+    <Vanh>Full term</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>điểm</Vviet>
+    <Vanh>point</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người đỡ 2 :</Vviet>
+    <Vanh>2nd deliverer</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người đỡ 1 :</Vviet>
+    <Vanh>1st deliverer</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuần</Vviet>
+    <Vanh>Week</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tháng</Vviet>
+    <Vanh>Month</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Con thứ :</Vviet>
+    <Vanh>Child #</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dị tật bẩm sinh :</Vviet>
+    <Vanh>Malformation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày để (mổ đẻ) :</Vviet>
+    <Vanh>Delivery date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên mẹ :</Vviet>
+    <Vanh>Mother name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thêm</Vviet>
+    <Vanh>&amp;Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>gram</Vviet>
+    <Vanh>gram</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cân nặng :</Vviet>
+    <Vanh>Weight :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dị tật :</Vviet>
+    <Vanh>Malformation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng :</Vviet>
+    <Vanh>Status :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngôi thai :</Vviet>
+    <Vanh>Presentation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày sinh :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Apgar</Vviet>
+    <Vanh>APGAR</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>1 phút</Vviet>
+    <Vanh>1 min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>điểm</Vviet>
+    <Vanh>point</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>5 phút</Vviet>
+    <Vanh>5 min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>điểm</Vviet>
+    <Vanh>point</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>10 phút</Vviet>
+    <Vanh>10 min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cao</Vviet>
+    <Vanh>Height</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>cm</Vviet>
+    <Vanh>cm</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Vòng đầu</Vviet>
+    <Vanh>Skull circ.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>cm</Vviet>
+    <Vanh>cm</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thông tin trẻ sơ sinh</Vviet>
+    <Vanh>Newborn data</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

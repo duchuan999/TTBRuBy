@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="MA_H" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="ROUTE" type="xs:string" minOccurs="0" />
+								<xs:element name="STT" type="xs:int" minOccurs="0" />
+								<xs:element name="VIETTAT" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<MA_H>4</MA_H>
+		<TEN>Bôi vết thương</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>1</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>22</MA_H>
+		<TEN>Phun sương mù</TEN>
+		<ROUTE>Inhal</ROUTE>
+		<STT>2</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>28</MA_H>
+		<TEN>Súc miệng</TEN>
+		<ROUTE>OS</ROUTE>
+		<STT>3</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>47</MA_H>
+		<TEN>Tiêm tại chổ</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>4</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>53</MA_H>
+		<TEN>Uống</TEN>
+		<ROUTE>O</ROUTE>
+		<STT>5</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>61</MA_H>
+		<TEN>Đắp ngoài da</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>6</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>49</MA_H>
+		<TEN>Tiêm tủy sống</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>7</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>43</MA_H>
+		<TEN>Tiêm nhãn cầu</TEN>
+		<ROUTE>M</ROUTE>
+		<STT>8</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>17</MA_H>
+		<TEN>Nhai</TEN>
+		<ROUTE>O</ROUTE>
+		<STT>9</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>12</MA_H>
+		<TEN>Hóa chất - Thuốc thử</TEN>
+		<ROUTE>HC-Test</ROUTE>
+		<STT>10</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>38</MA_H>
+		<TEN>Thụt hậu môn</TEN>
+		<ROUTE>R</ROUTE>
+		<STT>11</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>7</MA_H>
+		<TEN>Dán trên da</TEN>
+		<ROUTE>TD</ROUTE>
+		<STT>12</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>37</MA_H>
+		<TEN>Thở</TEN>
+		<ROUTE>Inhal</ROUTE>
+		<STT>13</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>39</MA_H>
+		<TEN>Tiêm  mắt</TEN>
+		<ROUTE>M</ROUTE>
+		<STT>14</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>54</MA_H>
+		<TEN>Xông mũi họng</TEN>
+		<ROUTE>Inhal</ROUTE>
+		<STT>15</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>41</MA_H>
+		<TEN>Tiêm bắp</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>16</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>14</MA_H>
+		<TEN>Khí dung</TEN>
+		<ROUTE>Inhal</ROUTE>
+		<STT>17</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>44</MA_H>
+		<TEN>Tiêm phúc mạc</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>18</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>55</MA_H>
+		<TEN>Xịt họng</TEN>
+		<ROUTE>Inhal</ROUTE>
+		<STT>19</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>59</MA_H>
+		<TEN>Xịt ngoài da (giảm đau, chống viêm)</TEN>
+		<ROUTE>X</ROUTE>
+		<STT>20</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>32</MA_H>
+		<TEN>Thoa nướu răng</TEN>
+		<ROUTE>OS</ROUTE>
+		<STT>21</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>36</MA_H>
+		<TEN>Thẩm phân phúc mạc</TEN>
+		<ROUTE>PD</ROUTE>
+		<STT>22</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>9</MA_H>
+		<TEN>Dùng ngoài</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>23</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>21</MA_H>
+		<TEN>Nhỏ tai</TEN>
+		<ROUTE>T</ROUTE>
+		<STT>24</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>26</MA_H>
+		<TEN>Rửa tai</TEN>
+		<ROUTE>T</ROUTE>
+		<STT>25</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>30</MA_H>
+		<TEN>Thoa ngoài da</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>26</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>48</MA_H>
+		<TEN>Tiêm tĩnh mạch</TEN>
+		<ROUTE>P_IV</ROUTE>
+		<STT>27</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>56</MA_H>
+		<TEN>Xịt mũi</TEN>
+		<ROUTE>N</ROUTE>
+		<STT>28</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>63</MA_H>
+		<TEN>Đặt âm đạo</TEN>
+		<ROUTE>V</ROUTE>
+		<STT>29</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>50</MA_H>
+		<TEN>Tiêm tủy xương</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>30</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>40</MA_H>
+		<TEN>Tiêm bàng quang</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>31</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>57</MA_H>
+		<TEN>Xịt mũi họng</TEN>
+		<ROUTE>N</ROUTE>
+		<STT>32</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>46</MA_H>
+		<TEN>Tiêm truyền</TEN>
+		<ROUTE>P_IV</ROUTE>
+		<STT>33</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>8</MA_H>
+		<TEN>Dùng cho  nha khoa</TEN>
+		<ROUTE>OS</ROUTE>
+		<STT>34</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>35</MA_H>
+		<TEN>Thẩm phân máu</TEN>
+		<ROUTE>BD</ROUTE>
+		<STT>35</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>62</MA_H>
+		<TEN>Đặt (tra) hậu môn</TEN>
+		<ROUTE>R</ROUTE>
+		<STT>36</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>15</MA_H>
+		<TEN>Ngậm</TEN>
+		<ROUTE>O</ROUTE>
+		<STT>37</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>19</MA_H>
+		<TEN>Nhỏ mũi</TEN>
+		<ROUTE>N</ROUTE>
+		<STT>38</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>27</MA_H>
+		<TEN>Rửa vết thương</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>39</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>31</MA_H>
+		<TEN>Thoa nơi tổn thương</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>40</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>52</MA_H>
+		<TEN>Tra mắt</TEN>
+		<ROUTE>M</ROUTE>
+		<STT>41</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>58</MA_H>
+		<TEN>Xịt ngoài da</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>42</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>51</MA_H>
+		<TEN>Tiêm động mạch</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>43</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>42</MA_H>
+		<TEN>Tiêm dưới da</TEN>
+		<ROUTE>P</ROUTE>
+		<STT>44</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>6</MA_H>
+		<TEN>Cấy dưới da</TEN>
+		<ROUTE>IMP</ROUTE>
+		<STT>45</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>25</MA_H>
+		<TEN>Rửa mũi</TEN>
+		<ROUTE>N</ROUTE>
+		<STT>46</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>10</MA_H>
+		<TEN>Dùng trong phẫu thuật</TEN>
+		<ROUTE>SU</ROUTE>
+		<STT>47</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>13</MA_H>
+		<TEN>Khác</TEN>
+		<ROUTE>Z</ROUTE>
+		<STT>48</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>23</MA_H>
+		<TEN>Qua nội khí quản</TEN>
+		<ROUTE>IT</ROUTE>
+		<STT>49</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>2</MA_H>
+		<TEN>Băng vết thương</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>50</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>18</MA_H>
+		<TEN>Nhỏ mắt</TEN>
+		<ROUTE>M</ROUTE>
+		<STT>51</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>20</MA_H>
+		<TEN>Nhỏ niệu đạo</TEN>
+		<ROUTE>UR</ROUTE>
+		<STT>52</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>3</MA_H>
+		<TEN>Bôi ngoài da</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>53</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>33</MA_H>
+		<TEN>Thoa trong miệng</TEN>
+		<ROUTE>OS</ROUTE>
+		<STT>54</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>11</MA_H>
+		<TEN>Gội đầu</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>55</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>60</MA_H>
+		<TEN>Xịt nơi tổn thương</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>56</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>5</MA_H>
+		<TEN>Bơm trực tràng (enema)</TEN>
+		<ROUTE>R</ROUTE>
+		<STT>57</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>24</MA_H>
+		<TEN>Qua sonde dạ dày</TEN>
+		<ROUTE>G</ROUTE>
+		<STT>58</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>16</MA_H>
+		<TEN>Ngậm dưới lưới</TEN>
+		<ROUTE>SL</ROUTE>
+		<STT>59</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>29</MA_H>
+		<TEN>Thoa hậu môn</TEN>
+		<ROUTE>R</ROUTE>
+		<STT>60</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>34</MA_H>
+		<TEN>Thoa âm hộ</TEN>
+		<ROUTE>V</ROUTE>
+		<STT>61</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+	<Table>
+		<MA_H>1</MA_H>
+		<TEN>Bỏng</TEN>
+		<ROUTE>D</ROUTE>
+		<STT>62</STT>
+		<VIETTAT></VIETTAT>
+	</Table>
+</NewDataSet>

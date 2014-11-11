@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Tất cả</Vviet>
+    <Vanh>All</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>/</Vviet>
+    <Vanh>/</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>1</Vviet>
+    <Vanh>1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số liệu :</Vviet>
+    <Vanh>Data :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đồng ý</Vviet>
+    <Vanh>OK</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phiếu :</Vviet>
+    <Vanh>Sheet :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn thông số</Vviet>
+    <Vanh>Parameters</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="text" type="xs:string" minOccurs="0" />
+                <xs:element name="tag" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <text>Nội khoa</text>
+    <tag>p01</tag>
+    <makp>80</makp>
+  </Table>
+  <Table>
+    <text>Ngoại khoa</text>
+    <tag>p02</tag>
+    <makp>81</makp>
+  </Table>
+  <Table>
+    <text>Mắt</text>
+    <tag>p03</tag>
+    <makp>82</makp>
+  </Table>
+  <Table>
+    <text>Khám răng</text>
+    <tag>p04</tag>
+    <makp>83</makp>
+  </Table>
+  <Table>
+    <text>Tai mũi họng</text>
+    <tag>p05</tag>
+    <makp>84</makp>
+  </Table>
+  <Table>
+    <text>Sản phụ khoa</text>
+    <tag>p06</tag>
+    <makp>85</makp>
+  </Table>
+  <Table>
+    <text>Kết luận</text>
+    <tag>p07</tag>
+    <makp>80</makp>
+  </Table>
+</NewDataSet>

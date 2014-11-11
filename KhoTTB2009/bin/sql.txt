@@ -1,0 +1,7 @@
+﻿insert into ttb_dmnhomkho (id,ten,loai) values (0,'Trang Thiết Bị',2)
+
+insert into ttb_nhomkho (id,ten) values (0,'Có Giá Bán')
+insert into ttb_nhomkho (id,ten) values (1,'Không Có Giá Bán')
+
+insert into ttb_loaikho (id,ten) values (0,'Thuốc Vật Tư Y Tế')
+insert into ttb_loaikho (id,ten) values (1,'Tài Sản')

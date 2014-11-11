@@ -1,0 +1,1 @@
+time.Text=lan.Change_language_MessageText("Gi? báo cáo")+" "+m.sGiobaocao;

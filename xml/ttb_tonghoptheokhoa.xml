@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MABD" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="SL" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAKP" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="MAKHO" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="MANGUON" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="TENNGUON" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NHOMCC" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="MODEL" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOTHE" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOTIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NAMSX" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMSD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TRANGTHIETBI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CONGSUAT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNUOC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNHACC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENKP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MA" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="IDDUYET" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TINHTRANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MABD>959</MABD>
+    <SL>2</SL>
+    <MAKP>9</MAKP>
+    <MAKHO>201</MAKHO>
+    <MANGUON>1</MANGUON>
+    <TENNGUON>Bệnh viện</TENNGUON>
+    <NHOMCC>1</NHOMCC>
+    <SOTIEN>1111</SOTIEN>
+    <TRANGTHIETBI>BU LÔNG </TRANGTHIETBI>
+    <DVT>Cái</DVT>
+    <TENHANG>Không xác định</TENHANG>
+    <TENNUOC>Không xác địhn</TENNUOC>
+    <TENNHACC>Công ty QTC</TENNHACC>
+    <TENKP>Khoa Nội TM</TENKP>
+    <MA>BUL001</MA>
+    <IDDUYET>0</IDDUYET>
+    <TINHTRANG>Đang sử dụng</TINHTRANG>
+  </Table>
+  <Table>
+    <MABD>959</MABD>
+    <SL>2</SL>
+    <MAKP>9</MAKP>
+    <MAKHO>201</MAKHO>
+    <MANGUON>2</MANGUON>
+    <TENNGUON>Liên doanh Phuơng Đông</TENNGUON>
+    <NHOMCC>1</NHOMCC>
+    <SOTIEN>0</SOTIEN>
+    <TRANGTHIETBI>BU LÔNG </TRANGTHIETBI>
+    <DVT>Cái</DVT>
+    <TENHANG>Không xác định</TENHANG>
+    <TENNUOC>Không xác địhn</TENNUOC>
+    <TENNHACC>Công ty QTC</TENNHACC>
+    <TENKP>Khoa Nội TM</TENKP>
+    <MA>BUL001</MA>
+    <IDDUYET>0</IDDUYET>
+    <TINHTRANG>Mới 100%</TINHTRANG>
+  </Table>
+  <Table>
+    <MABD>959</MABD>
+    <SL>40</SL>
+    <MAKP>9</MAKP>
+    <MAKHO>201</MAKHO>
+    <MANGUON>1</MANGUON>
+    <TENNGUON>Bệnh viện</TENNGUON>
+    <NHOMCC>1</NHOMCC>
+    <SOTIEN>220</SOTIEN>
+    <TRANGTHIETBI>BU LÔNG </TRANGTHIETBI>
+    <DVT>Cái</DVT>
+    <TENHANG>Không xác định</TENHANG>
+    <TENNUOC>Không xác địhn</TENNUOC>
+    <TENNHACC>Công ty QTC</TENNHACC>
+    <TENKP>Khoa Nội TM</TENKP>
+    <MA>BUL001</MA>
+    <IDDUYET>1410141447109268806</IDDUYET>
+    <TINHTRANG>Hỏng pin</TINHTRANG>
+  </Table>
+</NewDataSet>

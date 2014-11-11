@@ -1,0 +1,73 @@
+select * from medibv115.d_dmnguon where nhom=2 order by stt
+select * from medibv115.d_dmnx where nhom=2 order by stt
+select * from medibv115.d_dmkho where nhom=2
+select * from medibv115.d_dmkho where nhom=2 order by stt
+select rownum as stt,d.ten as tennguon,b.ma,trim(b.ten)||' '||b.hamluong as ten,b.dang,t.handung,t.losx,a.tondau+a.slnhap-a.slxuat as soluong,
+t.giamua,t.giaban,b.id,b.mahc,t.manguon,t.nhomcc,b.manhom,b.tenhc,a.stt as sttt  
+from medibv1150510.d_tonkhoct a,medibv115.d_dmbd b,medibv115.d_dmkho c,medibv115.d_dmnguon d,medibv115.d_dmnhom e,medibv1150510.d_theodoi t where a.stt=t.id and a.mabd=b.id and b.manhom=e.id and a.makho=c.id and t.manguon=d.id and a.makho=5 
+order by b.ten
+-------
+select mmyy from medibv115.tables where substr(mmyy,3,2)||substr(mmyy,1,2)>'1005'
+--------
+select a.stt,a.makho,a.mabd,t.manguon,sum(a.slxuat) soluong 
+from medibv1150510.d_tonkhoct a,medibv115.d_dmbd b,medibv115.d_dmnhom c,medibv1150529.d_theodoi t 
+where a.stt=t.id and a.mabd=b.id and b.manhom=c.id and a.slxuat>0 and a.makho=5 
+group by a.stt,a.makho,a.mabd,t.manguon
+-------------------------
+select '0001' as sophieu,3 as stt,a.mabd,b.ma,trim(b.ten)||' '||b.hamluong as ten,b.tenhc,b.dang,c.ten as tennguon,' ' as tennhom,
+t.handung,t.losx,a.soluong,t.giamua as dongia,a.soluong*t.giamua as sotien,t.giaban,t.giamua,t.manguon,b.manhom,
+d.ten as tenhang,e.ten as tennuoc,t.sothe,0 as c_1,1 as lanin  
+from medibv1150510.d_xuatct a,medibv115.d_dmbd b,medibv115.d_dmnguon c,medibv115.d_dmhang d,medibv115.d_dmnuoc e,medibv1150510.d_theodoi t 
+where a.sttt=t.id and a.mabd=b.id and t.manguon=c.id and b.mahang=d.id and b.manuoc=e.id and a.id=100504000000490124 order by a.stt
+------------------
+select * from medibv1150510.d_theodoi 
+select * from medibv115.d_dmnx
+
+select * from medibv1150510.d_xuatll where nhom=2
+select id,sophieu,to_char(ngay,'dd/mm/yyyy') as ngay,khox,lydo,idduyet as khon 
+from medibv1150510.d_xuatll 
+where loai='XK' and nhom=2 and khon=0 order by id
+---------
+select a.stt,a.sttt,a.mabd,b.ma,trim(b.ten)||' '||b.hamluong as ten,b.tenhc,b.dang,c.ten as tennguon,d.ten as tennhomcc,t.handung,t.losx,a.soluong,t.giamua as dongia,a.soluong*t.giamua as sotien,
+a.giaban,t.giamua,t.manguon,t.nhomcc,e.ten as tennuoc,t.sothe,a.mabs,'' as tenbs,a.hotenbn  
+from medibv1150510.d_xuatct a,medibv115.d_dmbd b,medibv115.d_dmnguon c,medibv115.d_dmnx d,medibv115.d_dmnuoc e,medibv1150510.d_theodoi t 
+where a.sttt=t.id and a.mabd=b.id and t.manguon=c.id and t.nhomcc=d.id and b.manuoc=e.id and a.id=100504000000490124 order by a.stt
+-----------------------------
+select mmyy from tables where substr(mmyy,3,2)<='10'and to_number(substr(mmyy,0,2))<05 order by substr(mmyy,3,2) desc, substr(mmyy,0,2) desc
+
+ select distinct chon, idnhacc,tenncc 
+ from ( 
+  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150510.d_thanhtoan a,medibv1150510.d_thanhtoanct b, medibv1150510.d_nhapll c, medibv115.d_dmnx d  
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M' and c.nhom=2 
+  and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  
+  and c.paid=1 group by d.id,d.ten,d.stt  
+  union all  
+  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150410.d_thanhtoan a,medibv1150410.d_thanhtoanct b, medibv1150410.d_nhapll c, medibv115.d_dmnx d
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 a
+  nd to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  
+  and c.paid=1
+  group by d.id,d.ten,d.stt  
+  union all  
+  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150310.d_thanhtoan a,medibv1150310.d_thanhtoanct b, medibv1150310.d_nhapll c, medibv115.d_dmnx d 
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and 
+  to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  
+  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150210.d_thanhtoan a,medibv1150210.d_thanhtoanct b, medibv1150210.d_nhapll c, medibv115.d_dmnx d 
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') 
+  between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1
+  group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150110.d_thanhtoan a,medibv1150110.d_thanhtoanct b, medibv1150110.d_nhapll c, medibv115.d_dmnx d 
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy')
+  between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1
+  group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150409.d_thanhtoan a,medibv1150409.d_thanhtoanct b, medibv1150409.d_nhapll c, medibv115.d_dmnx d 
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') 
+  etween to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1
+  group by d.id,d.ten,d.stt
+  union all  select 0 as chon, d.id idnhacc,d.ten tenncc 
+  from medibv1150309.d_thanhtoan a,medibv1150309.d_thanhtoanct b, medibv1150309.d_nhapll c, medibv115.d_dmnx d 
+  where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150209.d_thanhtoan a,medibv1150209.d_thanhtoanct b, medibv1150209.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150109.d_thanhtoan a,medibv1150109.d_thanhtoanct b, medibv1150109.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150404.d_thanhtoan a,medibv1150404.d_thanhtoanct b, medibv1150404.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150302.d_thanhtoan a,medibv1150302.d_thanhtoanct b, medibv1150302.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150202.d_thanhtoan a,medibv1150202.d_thanhtoanct b, medibv1150202.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150102.d_thanhtoan a,medibv1150102.d_thanhtoanct b, medibv1150102.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1group by d.id,d.ten,d.stt  union all  select 0 as chon, d.id idnhacc,d.ten tenncc from medibv1150300.d_thanhtoan a,medibv1150300.d_thanhtoanct b, medibv1150300.d_nhapll c, medibv115.d_dmnx d where a.id=b.id(+) and a.id=c.id and c.madv=d.id and c.loai='M'  and c.nhom=2 and to_date(to_char(b.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('27/05/2010','dd/mm/yyyy') and to_date('27/05/2010','dd/mm/yyyy')  and c.paid=1 
+ group by d.id,d.ten,d.stt )

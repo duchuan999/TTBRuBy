@@ -1,0 +1,370 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNhomVTST" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNhomVTST" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MaNhomVTST>C00</MaNhomVTST>
+    <TenNhomVTST>Môi</TenNhomVTST>
+    <Name>Lip</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C01</MaNhomVTST>
+    <TenNhomVTST>Đáy lưỡi</TenNhomVTST>
+    <Name>Base of tongue</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C02</MaNhomVTST>
+    <TenNhomVTST>Các phần không xác định và các phần khác của lưỡi</TenNhomVTST>
+    <Name>Other and unspecified parts of tongue</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C03</MaNhomVTST>
+    <TenNhomVTST>Lợi</TenNhomVTST>
+    <Name>Gum</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C04</MaNhomVTST>
+    <TenNhomVTST>Sàn miệng</TenNhomVTST>
+    <Name>Floor of mouth</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C05</MaNhomVTST>
+    <TenNhomVTST>Khẩu cái</TenNhomVTST>
+    <Name>Palate</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C06</MaNhomVTST>
+    <TenNhomVTST>Các phần không xác định và các phần khác của miệng</TenNhomVTST>
+    <Name>Other and unspecified parts of mouth</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C07</MaNhomVTST>
+    <TenNhomVTST>Tuyến mang tai</TenNhomVTST>
+    <Name>Parotid gland</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C08</MaNhomVTST>
+    <TenNhomVTST>Các tuyến nước bọt chính khác không xác định được </TenNhomVTST>
+    <Name>Other and unspecified major salivary glands</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C09</MaNhomVTST>
+    <TenNhomVTST>Amydal </TenNhomVTST>
+    <Name>Tonsil</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C10</MaNhomVTST>
+    <TenNhomVTST>Họng miệng ( khẩu hầu)</TenNhomVTST>
+    <Name>Oropharynx</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C11</MaNhomVTST>
+    <TenNhomVTST>Vòm</TenNhomVTST>
+    <Name>Nasopharynx</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C12</MaNhomVTST>
+    <TenNhomVTST>Xoang lê</TenNhomVTST>
+    <Name>Pyriform sinus</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C13</MaNhomVTST>
+    <TenNhomVTST>Hạ họng</TenNhomVTST>
+    <Name>Hypopharynx</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C14</MaNhomVTST>
+    <TenNhomVTST>Các vị trí khác và ranh giới không rõ của môi khoa</TenNhomVTST>
+    <Name>Other and ill-defined sites in lip, oral cavity an</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C15</MaNhomVTST>
+    <TenNhomVTST>Thực quản</TenNhomVTST>
+    <Name>Esophagus</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C16</MaNhomVTST>
+    <TenNhomVTST>Dạ dày</TenNhomVTST>
+    <Name>Stomach</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C17</MaNhomVTST>
+    <TenNhomVTST>Ruột non</TenNhomVTST>
+    <Name>Small intestine</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C18</MaNhomVTST>
+    <TenNhomVTST>Đại tràng</TenNhomVTST>
+    <Name>Colon</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C19</MaNhomVTST>
+    <TenNhomVTST>Vùng nối đại tràng sigma trực tràng</TenNhomVTST>
+    <Name>Rectosigmoid junction</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C20</MaNhomVTST>
+    <TenNhomVTST>Trực tràng</TenNhomVTST>
+    <Name>Rectum</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C21</MaNhomVTST>
+    <TenNhomVTST>Hậu môn và ống hậu môn</TenNhomVTST>
+    <Name>Anus and anal canal</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C22</MaNhomVTST>
+    <TenNhomVTST>Gan và các ống mật trong gan</TenNhomVTST>
+    <Name>Liver and intrahepatic bile ducts</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C23</MaNhomVTST>
+    <TenNhomVTST>Túi mật</TenNhomVTST>
+    <Name>Gallbladder</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C24</MaNhomVTST>
+    <TenNhomVTST>Các phần khác và không xác định được của đường mật</TenNhomVTST>
+    <Name>Other and unspecified parts of biliary tract</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C25</MaNhomVTST>
+    <TenNhomVTST>Tuỵ</TenNhomVTST>
+    <Name>Pancreas</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C26</MaNhomVTST>
+    <TenNhomVTST>Các cơ quan tiêu hóa khác không xác định rõ</TenNhomVTST>
+    <Name>Other and ill- defined digestive organs</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C30</MaNhomVTST>
+    <TenNhomVTST>Hốc mũi và tai giữa</TenNhomVTST>
+    <Name>Nasal cavity and middle ear</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C31</MaNhomVTST>
+    <TenNhomVTST>Các xoang </TenNhomVTST>
+    <Name>Accessory sinuses</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C32</MaNhomVTST>
+    <TenNhomVTST>Thanh  quản</TenNhomVTST>
+    <Name>Larynx</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C33</MaNhomVTST>
+    <TenNhomVTST>Khí quản</TenNhomVTST>
+    <Name>Trachea</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C34</MaNhomVTST>
+    <TenNhomVTST>Phế quản và phổi</TenNhomVTST>
+    <Name>Bronchus and lung</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C37</MaNhomVTST>
+    <TenNhomVTST>Tuyến ức</TenNhomVTST>
+    <Name>Thymus</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C38</MaNhomVTST>
+    <TenNhomVTST>Tim, trung thất và màng phổi</TenNhomVTST>
+    <Name>Heart, mediastinum, and pleura</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C39</MaNhomVTST>
+    <TenNhomVTST>Các vị trí khác không xác định rõ của hệ hô hấp và</TenNhomVTST>
+    <Name>Other and ill- defined sites within respiratory sy</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C40</MaNhomVTST>
+    <TenNhomVTST>Xương, khớp và sụn khớp của các chi</TenNhomVTST>
+    <Name>Bones, joints and articular cartilage of limbs</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C41</MaNhomVTST>
+    <TenNhomVTST>Xương, khớp và sụn khớp ở các vị trí không xác địn</TenNhomVTST>
+    <Name>Bones,joints and articular cartilage of other and </Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C42</MaNhomVTST>
+    <TenNhomVTST>Hệ thống lưới nội mô và tạo máu</TenNhomVTST>
+    <Name>Hematopoietic and reticuloendothelial systems</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C44</MaNhomVTST>
+    <TenNhomVTST>Da</TenNhomVTST>
+    <Name>Skin</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C47</MaNhomVTST>
+    <TenNhomVTST>Dây thần kinh ngoại vi và hệ thống thần kinh tự độ</TenNhomVTST>
+    <Name>Peripheral nerves and autonomic nervous system</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C48</MaNhomVTST>
+    <TenNhomVTST>Sau phúc mạc và phúc mạc</TenNhomVTST>
+    <Name>Retroperitoneum and peritoneum</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C49</MaNhomVTST>
+    <TenNhomVTST>Các mô liên kết, dưới da và mô mềm khác</TenNhomVTST>
+    <Name>Connective, subcutaneous and other soft tissues</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C50</MaNhomVTST>
+    <TenNhomVTST>Vú</TenNhomVTST>
+    <Name>Breast</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C51</MaNhomVTST>
+    <TenNhomVTST>Âm hộ</TenNhomVTST>
+    <Name>Vulva</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C52</MaNhomVTST>
+    <TenNhomVTST>Âm đạo</TenNhomVTST>
+    <Name>Vagina</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C53</MaNhomVTST>
+    <TenNhomVTST>Cổ tử cung</TenNhomVTST>
+    <Name>Cervix uteri</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C54</MaNhomVTST>
+    <TenNhomVTST>Thân tử cung</TenNhomVTST>
+    <Name>Corpus uteri</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C55</MaNhomVTST>
+    <TenNhomVTST>Tử cung nói chung</TenNhomVTST>
+    <Name>Uterus, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C56</MaNhomVTST>
+    <TenNhomVTST>Buồng trứng</TenNhomVTST>
+    <Name>Ovary</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C57</MaNhomVTST>
+    <TenNhomVTST>Các cơ quan sinh dục nữ khác hoặc không xác định đ</TenNhomVTST>
+    <Name>Other and unspecified female genital organs</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C58</MaNhomVTST>
+    <TenNhomVTST>Rau thai</TenNhomVTST>
+    <Name>Placenta</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C60</MaNhomVTST>
+    <TenNhomVTST>Dương vật</TenNhomVTST>
+    <Name>Penis</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C61</MaNhomVTST>
+    <TenNhomVTST>Tuyến tiền liệt</TenNhomVTST>
+    <Name>Prostate gland</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C62</MaNhomVTST>
+    <TenNhomVTST>Tinh hoàn</TenNhomVTST>
+    <Name>Testis</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C63</MaNhomVTST>
+    <TenNhomVTST>Các cơ quan sinh dục nam không xác định khác </TenNhomVTST>
+    <Name>Other and unspecified male genital organs</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C64</MaNhomVTST>
+    <TenNhomVTST>Thận</TenNhomVTST>
+    <Name>Kidney</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C65</MaNhomVTST>
+    <TenNhomVTST>Đài bể thận</TenNhomVTST>
+    <Name>Renal pelvis</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C66</MaNhomVTST>
+    <TenNhomVTST>Niệu quản</TenNhomVTST>
+    <Name>Ureter</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C67</MaNhomVTST>
+    <TenNhomVTST>Bàng quang</TenNhomVTST>
+    <Name>Bladder</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C68</MaNhomVTST>
+    <TenNhomVTST>Các cơ quan tiết niệu không xác định khác</TenNhomVTST>
+    <Name>Other and unspecified urinary organs</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C69</MaNhomVTST>
+    <TenNhomVTST>Mắt và phần phụ</TenNhomVTST>
+    <Name>Eye and adnexa</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C70</MaNhomVTST>
+    <TenNhomVTST>Màng não</TenNhomVTST>
+    <Name>Meninges</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C71</MaNhomVTST>
+    <TenNhomVTST>Não</TenNhomVTST>
+    <Name>Brain</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C72</MaNhomVTST>
+    <TenNhomVTST>Tuỷ sống, dây thần kinh sọ và các phần khác của hệ</TenNhomVTST>
+    <Name>Spinal cord, cranial nerves, and other parts of ce</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C73</MaNhomVTST>
+    <TenNhomVTST>Tuyến giáp</TenNhomVTST>
+    <Name>Thyroid gland</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C74</MaNhomVTST>
+    <TenNhomVTST>Tuyến thượng thận</TenNhomVTST>
+    <Name>Adrenal gland</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C75</MaNhomVTST>
+    <TenNhomVTST>Các tuyến nội tiết khác và các cấu trúc liên quan</TenNhomVTST>
+    <Name>Other endocrine glands and related structures</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C76</MaNhomVTST>
+    <TenNhomVTST>Các vị trí ranh giới không rõ và các vị trí khác</TenNhomVTST>
+    <Name>Other and ill- defined sites</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C77</MaNhomVTST>
+    <TenNhomVTST>Hạch limphô</TenNhomVTST>
+    <Name>Lymph nodes</Name>
+  </Table>
+  <Table>
+    <MaNhomVTST>C80</MaNhomVTST>
+    <TenNhomVTST>Vị trí nguyên phát không xác định1</TenNhomVTST>
+    <Name>Unknown primary site</Name>
+  </Table>
+</NewDataSet>

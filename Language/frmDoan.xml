@@ -1,0 +1,190 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>In tất cả kết quả trong đơn vị</Vviet>
+    <Vanh>Print all results for organisation</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In tất cả kết quả trong đoàn</Vviet>
+    <Vanh>Print all results for a group</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Excel</Vviet>
+    <Vanh>Exp. to Excel</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xoá</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thêm</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xoá</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thêm</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xoá</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thêm</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xoá</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thêm</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại :</Vviet>
+    <Vanh>Type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú :</Vviet>
+    <Vanh>Comments</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người liên hệ :</Vviet>
+    <Vanh>Contact person :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã số thuế :</Vviet>
+    <Vanh>Tax # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Email :</Vviet>
+    <Vanh>Email :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Fax :</Vviet>
+    <Vanh>Fax :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện thoại :</Vviet>
+    <Vanh>Phone :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ :</Vviet>
+    <Vanh>Add. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số hợp đồng :</Vviet>
+    <Vanh>Contract # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>04123456</Vviet>
+    <Vanh>04123456</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh mục đoàn</Vviet>
+    <Vanh>Health checkup groups</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

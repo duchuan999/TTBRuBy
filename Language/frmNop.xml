@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Hồ sơ bệnh án</Vviet>
+    <Vanh>Patient chart</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu thống kê</Vviet>
+    <Vanh>Summarizing report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hồ sơ bệnh án</Vviet>
+    <Vanh>Patient chart</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu thống kê</Vviet>
+    <Vanh>Summarizing report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hồ sơ bệnh án</Vviet>
+    <Vanh>Patient chart</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu thống kê</Vviet>
+    <Vanh>Summarizing report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hồ sơ bệnh án</Vviet>
+    <Vanh>Patient chart</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu thống kê</Vviet>
+    <Vanh>Summarizing report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu 11 :</Vviet>
+    <Vanh>Form 11 :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu 04 :</Vviet>
+    <Vanh>Form 04 :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu 031 :</Vviet>
+    <Vanh>Form 031 :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biểu 02 :</Vviet>
+    <Vanh>Form 02 :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gởi File</Vviet>
+    <Vanh>Send files</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm :</Vviet>
+    <Vanh>Year :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>2000</Vviet>
+    <Vanh>2000</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kỳ hạn báo cáo :</Vviet>
+    <Vanh>Term :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thư mục :</Vviet>
+    <Vanh>Directory :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đồng ý</Vviet>
+    <Vanh>OK</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết xuất số liệu nộp Sở, Bộ Y Tế</Vviet>
+    <Vanh>Export data for MOH, PHB</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

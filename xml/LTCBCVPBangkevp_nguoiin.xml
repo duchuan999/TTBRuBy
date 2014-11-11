@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="GIATRI" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>-1</ID>
+    <TEN>Cơ quan chủ quản:</TEN>
+    <GIATRI>Sở Y Tế TP.  Hồ Chí Minh</GIATRI>
+  </Table>
+  <Table>
+    <ID>-2</ID>
+    <TEN>Tên bệnh viện:</TEN>
+    <GIATRI>Benh vien nhan dan 115</GIATRI>
+  </Table>
+  <Table>
+    <ID>0</ID>
+    <TEN>Giám đốc:</TEN>
+    <GIATRI />
+  </Table>
+  <Table>
+    <ID>1</ID>
+    <TEN>Trưởng phòng TCKT:</TEN>
+    <GIATRI />
+  </Table>
+  <Table>
+    <ID>2</ID>
+    <TEN>Tổ trưởng tổ VP:</TEN>
+    <GIATRI />
+  </Table>
+  <Table>
+    <ID>3</ID>
+    <TEN>Kế toán viện phí:</TEN>
+    <GIATRI />
+  </Table>
+  <Table>
+    <ID>4</ID>
+    <TEN>Ngày in:</TEN>
+    <GIATRI>Ngày 17 Tháng 12 Năm 2013</GIATRI>
+  </Table>
+  <Table>
+    <ID>5</ID>
+    <TEN>Người in:</TEN>
+    <GIATRI>Administrator</GIATRI>
+  </Table>
+</NewDataSet>

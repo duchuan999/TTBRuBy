@@ -1,0 +1,317 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true">
+            <xs:complexType>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element name="Table">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                                <xs:element name="NOIDUNG" type="xs:string" minOccurs="0" />
+                                <xs:element name="TONGSO" type="xs:int" minOccurs="0" />
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:choice>
+            </xs:complexType>
+        </xs:element>
+    </xs:schema>
+    <Table>
+        <ID>1</ID>
+        <STT>1</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số người khám bệnh :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>2</ID>
+        <STT>2</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số lần khám bệnh :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>3</ID>
+        <STT>3</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số lần khám sức khoẻ :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>4</ID>
+        <STT>4</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số khám chuyên khoa :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>5</ID>
+        <STT>5</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Khám răng :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>6</ID>
+        <STT>6</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Khám Tai, mũi họng :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>7</ID>
+        <STT>7</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Khám thường :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>8</ID>
+        <STT>8</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Khám nội soi :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>9</ID>
+        <STT>9</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số chuyển viện :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>10</ID>
+        <STT>10</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số trường hợp chụp XQ :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>11</ID>
+        <STT>11</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>12</ID>
+        <STT>12</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>13</ID>
+        <STT>13</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số trường hợp siêu âm :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>14</ID>
+        <STT>14</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>15</ID>
+        <STT>15</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>16</ID>
+        <STT>16</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số trường hợp điện tim :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>17</ID>
+        <STT>17</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>18</ID>
+        <STT>18</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>19</ID>
+        <STT>19</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số trường hợp nội soi dạ dày :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>20</ID>
+        <STT>20</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>21</ID>
+        <STT>21</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>22</ID>
+        <STT>22</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số XN Sinh hoá :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>23</ID>
+        <STT>23</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>24</ID>
+        <STT>24</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>25</ID>
+        <STT>25</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số XN Huyết học :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>26</ID>
+        <STT>26</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>27</ID>
+        <STT>27</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>28</ID>
+        <STT>28</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số XN Vi sinh :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>29</ID>
+        <STT>29</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>30</ID>
+        <STT>30</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>31</ID>
+        <STT>31</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  XN Lam máu sốt rét :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>32</ID>
+        <STT>32</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số đo lưu huyết não :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>33</ID>
+        <STT>33</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Ngoại trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>34</ID>
+        <STT>34</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>        -  Nội trú :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>35</ID>
+        <STT>35</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số lượng máu truyền :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>36</ID>
+        <STT>36</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số lần chỉ đạo tuyến :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+    <Table>
+        <ID>37</ID>
+        <STT>37</STT>
+        <DK>
+        </DK>
+        <NOIDUNG>Tổng số sai sót chuyên môn :</NOIDUNG>
+        <TONGSO>0</TONGSO>
+    </Table>
+</NewDataSet>

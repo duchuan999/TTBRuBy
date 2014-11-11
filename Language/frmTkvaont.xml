@@ -1,0 +1,155 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>checkBox1</Vviet>
+    <Vanh>checkBox1</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giờ báo cáo :</Vviet>
+    <Vanh>Report time :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ng nhập :</Vviet>
+    <Vanh>Entered by :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tìm</Vviet>
+    <Vanh>&amp;Search</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>&amp;Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trực tiếp vào :</Vviet>
+    <Vanh>Pat. type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi giới thiệu :</Vviet>
+    <Vanh>Ref. resource :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã ICD :</Vviet>
+    <Vanh>ICD 10 :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số vào viện :</Vviet>
+    <Vanh>Admit. # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh>Ethnic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh>Commune :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/Huyện :</Vviet>
+    <Vanh>District :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh>Province :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp :</Vviet>
+    <Vanh>Occupation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh>Street :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh>House #:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh sách bệnh nhân điều trị ngoại trú</Vviet>
+    <Vanh>Admitted recurrent patients</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

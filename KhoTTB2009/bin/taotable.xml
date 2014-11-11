@@ -1,0 +1,327 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ten" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ten>CREATE TABLE medibv.dmhuyet(id numeric(7, 0) DEFAULT 0,stt numeric(7, 0) DEFAULT 0,ten text,mabs varchar(4),maicd varchar(9),noidung text,userid numeric(5, 0) DEFAULT 0,ngayud timestamp DEFAULT now(),CONSTRAINT pk_dmhuyet PRIMARY KEY (id) USING INDEX TABLESPACE medi_index) WITH OIDS TABLESPACE medi_data;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE medibv.bsnghi(mabs varchar2(4),tu timestamp NOT NULL,den timestamp NOT NULL,ghichu text,mabsc varchar2(4),userid numeric(5),ngayud timestamp DEFAULT now(),  CONSTRAINT pk_bsnghi PRIMARY KEY (mabs, tu, den) USING INDEX TABLESPACE medi_index) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE medibv.m_thongso_tim(controlname varchar(128) NOT NULL, controltext text, loai varchar(128), ngayud timestamp DEFAULT now(), CONSTRAINT pk_m_thongso_tim PRIMARY KEY (controlname)) WITHOUT OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE medibv.d_thongso_tim(controlname varchar(128) NOT NULL, controltext text, loai varchar(128), ngayud timestamp DEFAULT now(), CONSTRAINT pk_d_thongso_tim PRIMARY KEY (controlname)) WITHOUT OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_thvpll ALTER maicd TYPE text;</ten>
+  </Table>
+  <Table>    
+    <ten>ALTER TABLE medibv.d_dmbd add column donvidung text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_tienthuoc add column gianovat numeric(24,10) NOT NULL DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_suamadt add column gianovat numeric(24,10) NOT NULL DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_suamadt add column kpmoi text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_dmkho add column dongy numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.d_dmbhyt ALTER chitra TYPE numeric(7, 2);</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.d_dmbd ALTER bhyt TYPE numeric(7, 2);</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.v_giavp ALTER bhyt TYPE numeric(7, 2);</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.v_giavp add column giavtth numeric(10) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.btdkp_bv add column giavtth numeric(10) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.btdkp_add add column giavtth numeric(10) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE xxx.v_ttrvdv(id numeric(18) NOT NULL DEFAULT 0,stt numeric(5) NOT NULL DEFAULT 0,ngay timestamp,makp varchar(2),madoituong numeric(2) DEFAULT 0,mavp numeric(7) DEFAULT 0,soluong numeric(12,4) DEFAULT 0,dongia numeric(24,10) DEFAULT 0,vat numeric(3) DEFAULT 0,vattu numeric(10) DEFAULT 0,sotien numeric(15,4) DEFAULT 0,sothe varchar(20),ngayud timestamp DEFAULT now(),CONSTRAINT pk_v_ttrvdv PRIMARY KEY (id, stt) USING INDEX TABLESPACE medi_index,CONSTRAINT fk_v_ttrvdv_v_ttrvll FOREIGN KEY (id) REFERENCES xxx.v_ttrvll (id) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE SET NULL) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_ttrvll ADD COLUMN quyensodv numeric(7, 0) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_ttrvll ADD COLUMN sobienlaidv numeric(10, 0) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_ngtrull add column songay numeric(5) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvct add column giamua numeric(24,10) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvdv add column giamua numeric(24,10) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_huybienlai add column sotien numeric(15,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_thvpct add column idttrv numeric(18) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_dmbd add column choduyet numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_dutruct add column choduyet numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.d_suamadt ALTER madoituong TYPE numeric(2);</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytthuoc add column gia_bh numeric(18,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE xxx.v_vienphidv(id numeric(18) NOT NULL DEFAULT 0,stt numeric(3) NOT NULL DEFAULT 0,madoituong numeric(2) DEFAULT 0,mavp numeric(7) DEFAULT 0,ten text,soluong numeric(12,4) DEFAULT 0,dongia numeric(15,4) DEFAULT 0,vat numeric(7,2) default 0,mien numeric(15,4) DEFAULT 0,thieu numeric(15,4) DEFAULT 0,vattu numeric(10) DEFAULT 0,mabs varchar(4),makp varchar(2),tra numeric(15,4) default 0,ngaytra timestamp,lanin numeric(2) default 0,done numeric(1) default 0,useridtra numeric(5) default 0,ngayud timestamp DEFAULT now(),CONSTRAINT pk_v_vienphidv PRIMARY KEY (id, stt) USING INDEX TABLESPACE medi_index, CONSTRAINT fk_v_vienphidv_v_vienphill FOREIGN KEY (id) REFERENCES xxx.v_vienphill (id) MATCH SIMPLE  ON UPDATE NO ACTION ON DELETE SET NULL) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_vienphill ADD COLUMN quyensodv numeric(7, 0) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_vienphill ADD COLUMN sobienlaidv numeric(10, 0) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vienphict add column vat numeric(7,2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.v_giavp add column vat numeric(7,2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytthuoc add column bhytduyet numeric(1) default 1;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytcls add column bhytduyet numeric(1) default 1;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvct add column bhytduyet numeric(1) default 1;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytkb add column bhytghichu text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvll add column bhytghichu text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vienphict add column idchidinh numeric(18) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vienphidv add column idchidinh numeric(18) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.bhyt add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhyt add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytkb add column traituyen numeric(1) default 0;</ten>
+  </Table>
+    <Table>
+    <ten>alter table xxx.v_bhyt add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_thvpbhyt add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvbhyt add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhyt add column sudung numeric(1) default 1;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.dmgiuong ALTER bhyt TYPE numeric(7, 2);</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.dausinhton alter nhietdo TYPE numeric(5,2);</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tainantt add column lydo text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tainantt add column chandoan text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tainantt add column dieutri text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tainantt add column lucvao text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tainantt add column lucra text;</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE xxx.v_tamungcd(id numeric(18) NOT NULL DEFAULT 0,mabn varchar(8), mavaovien numeric(18), maql numeric(18),idkhoa numeric(18), makp varchar(2),ngay timestamp,madoituong numeric(2),loai numeric(2), loaibn numeric(2),ten text,sotien numeric(12,2) DEFAULT 0, idduyet numeric(18) DEFAULT 0, done numeric(1) DEFAULT 0, userid numeric(5), ngayud timestamp DEFAULT now(), CONSTRAINT pk_v_tamungcd PRIMARY KEY (id) USING INDEX TABLESPACE medi_index,  CONSTRAINT fk_v_tamungcd_btdbn FOREIGN KEY (mabn)  REFERENCES medibv.btdbn (mabn) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE SET NULL,CONSTRAINT fk_v_tamungcd_btdkp_bv FOREIGN KEY (makp)  REFERENCES medibv.btdkp_bv (makp) MATCH SIMPLE  ON UPDATE NO ACTION ON DELETE SET NULL) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>create table medibv.d_toithieu(makho numeric(3),mabd numeric(7),soluong numeric(10) default 0,ngayud timestamp default now(),constraint pk_d_toithieu primary key(makho,mabd));</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvct add column bhyttra numeric(15,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvdv add column bhyttra numeric(15,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.cdha_bnll ALTER mabhyt TYPE varchar(20);</ten>
+  </Table>
+  <Table>
+    <ten>CREATE TABLE xxx.v_sophieucls(mabn varchar(8),mavaovien numeric(18, 0) DEFAULT 0,ngay timestamp,madoituong numeric(2, 0) DEFAULT 0,so numeric(5, 0) DEFAULT 0,lanin numeric(5, 0) DEFAULT 0,ghichu text,userid numeric(5, 0) DEFAULT 0,ngayud timestamp DEFAULT now(),CONSTRAINT pk_v_sophieucls PRIMARY KEY (mabn, mavaovien, ngay, madoituong) USING INDEX TABLESPACE medi_index) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_chidinh add column lan numeric(2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvct add column gia_bh numeric(18,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvdv add column gia_bh numeric(18,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE medibv.v_giavp_luu DROP CONSTRAINT pk_v_giavp_luu;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.v_chidinh ALTER soluong TYPE numeric(10,3);</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_thanhtoan add column lanin numeric(2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>create table xxx.d_thanhtoanct(id numeric(18),stt numeric(3),so varchar(50),ngay timestamp,no varchar(100),co varchar(50),sotien numeric(18,4) default 0,ghichu text,ketoan numeric(20) default 0,ngayct timestamp default now(),userid numeric(7) default 0,ngayud timestamp default now(),constraint pk_d_thanhtoanct primary key(id,stt) USING INDEX TABLESPACE medi_index,CONSTRAINT fk_d_thanhtoanct_d_thanhtoan FOREIGN KEY (id)      REFERENCES xxx.d_thanhtoan (id) MATCH SIMPLE ON UPDATE NO ACTION ON DELETE SET NULL) WITH OIDS;</ten>
+  </Table>
+  <Table>
+    <ten>ALTER TABLE xxx.d_thanhtoan DROP CONSTRAINT fk_d_thanhtoan_d_nhapll;</ten>
+  </Table>
+<Table>
+    <ten>alter table medibv.d_dmbd add column kcct numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_theodoi add column tyle_ggia numeric(5,2) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_theodoi add column st_ggia numeric(24,10) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_nhapct add column tyle_ggia numeric(5,2) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_nhapct add column st_ggia numeric(24,10) DEFAULT 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytcls add column bhyttra numeric(18,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.bhytthuoc add column bhyttra numeric(18,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vpkhoa add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_chidinh add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_thvpct add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_xuatsdll add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_tienthuoc add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_dutrull add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_xtutrucll add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_hoantrall add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_ttrvct add column traituyen numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_dmkho add column ngoaigio numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.v_giavp add column kcct numeric(1) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_dmnhom add khonhantra numeric(5) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_xuatsdct add sltra numeric(10,4) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_hoantract add idx numeric(20) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.d_hoantract add sttx numeric(5) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>create table medibv.d_capsotoa (id numeric(5), ngay datetime, loai numeric(1), sotoa numeric(12) default 0, userid numeric(7));</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.tiepdon add idchidinh numeric(20) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_chidinh add tylegiam numeric(5,2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_chidinh add stgiam numeric(18) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_chidinh add lydogiam text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vpkhoa add tylegiam numeric(5,2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vpkhoa add stgiam numeric(18) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.v_vpkhoa add lydogiam text;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.v_option_bcct alter column id type numeric(12);</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.pttt add tylegiam numeric(5,2) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table xxx.pttt add stgiam numeric(18) default 0;</ten>
+  </Table>
+  <Table>
+    <ten>alter table medibv.d_tscdkhoa add idduyet numeric(18) default 0;</ten>
+  </Table>
+ <Table>
+    <ten>alter table medibv.d_tscdsc add ngaynhanve timestamp;</ten>
+  </Table>
+</NewDataSet>

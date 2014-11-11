@@ -1,0 +1,285 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>giờ :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn hình</Vviet>
+    <Vanh>Select image</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem trước khi in</Vviet>
+    <Vanh>Preview</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Gây mê</Vviet>
+    <Vanh>Anes.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cản quang</Vviet>
+    <Vanh>Contrast agent</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc :</Vviet>
+    <Vanh>Drug :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt trái :</Vviet>
+    <Vanh>Left eye :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt phải :</Vviet>
+    <Vanh>Right eye :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Y tá phụ :</Vviet>
+    <Vanh>Assistant :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hẹn</Vviet>
+    <Vanh>Appointment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại :</Vviet>
+    <Vanh>Modality :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>II. THÔNG TIN CẬN LÂM SÀNG :</Vviet>
+    <Vanh>II. PARACLINIC DATA</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú :</Vviet>
+    <Vanh>Comments :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết quả :</Vviet>
+    <Vanh>Result :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội dung :</Vviet>
+    <Vanh>Data :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BS chỉ định :</Vviet>
+    <Vanh>Request. by :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;CÁC LẦN THỰC HIỆN</Vviet>
+    <Vanh>Previous procedures</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú :</Vviet>
+    <Vanh>Comments :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>diungthuoc</Vviet>
+    <Vanh>allergy</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đề nghị :</Vviet>
+    <Vanh>Proposal :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán :</Vviet>
+    <Vanh>Diagnosis :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính :</Vviet>
+    <Vanh>Gender :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bỏ qua</Vviet>
+    <Vanh>Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tiếp</Vviet>
+    <Vanh>Cont'</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>I. HÀNH CHÍNH :</Vviet>
+    <Vanh>I. DEMOGRAPHICS :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Y Bác sĩ :</Vviet>
+    <Vanh>Doctor :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuổi :</Vviet>
+    <Vanh>Age :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh :</Vviet>
+    <Vanh>Y.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Sinh ngày :</Vviet>
+    <Vanh>D.O.B. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mã BN :</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến từ :</Vviet>
+    <Vanh>Ref. from :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Người bệnh :</Vviet>
+    <Vanh>Visit type :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ng nghiệp :</Vviet>
+    <Vanh>Occupation :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dân tộc :</Vviet>
+    <Vanh>Ethnic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quốc tịch :</Vviet>
+    <Vanh>Nationality :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà :</Vviet>
+    <Vanh>House # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn, phố :</Vviet>
+    <Vanh>Street :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/PXã :</Vviet>
+    <Vanh>Abbrev. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP :</Vviet>
+    <Vanh>Province :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H :</Vviet>
+    <Vanh>District :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã :</Vviet>
+    <Vanh>Commune :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi làm việc :</Vviet>
+    <Vanh>Employer :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Medisoft</Vviet>
+    <Vanh>Radiology information system</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

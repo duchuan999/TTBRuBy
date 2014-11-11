@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày/giờ</Vviet>
+    <Vanh>Date/time</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ điều trị</Vviet>
+    <Vanh>Doctor</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mạch</Vviet>
+    <Vanh>Pulse</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhiệt độ</Vviet>
+    <Vanh>Temperature</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp</Vviet>
+    <Vanh>Blood pressure</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhịp thở</Vviet>
+    <Vanh>Resp. rythm</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cân nặng</Vviet>
+    <Vanh>Weight</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng</Vviet>
+    <Vanh>Room</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giường</Vviet>
+    <Vanh>Bed</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú</Vviet>
+    <Vanh>Comments</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

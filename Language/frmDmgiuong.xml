@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Đơn giá tính theo Block :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dịch vụ :</Vviet>
+    <Vanh>Service :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nước ngoài :</Vviet>
+    <Vanh>Foreigner :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chính sách :</Vviet>
+    <Vanh>Special :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bảo hiểm :</Vviet>
+    <Vanh>Insurance :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đơn giá :</Vviet>
+    <Vanh>Price :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chênh lệch</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dịch vụ :</Vviet>
+    <Vanh>Service :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BHYT chi trả :</Vviet>
+    <Vanh>Ins. covering :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nước ngoài :</Vviet>
+    <Vanh>Foreigner :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chính sách :</Vviet>
+    <Vanh>Special :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bảo hiểm :</Vviet>
+    <Vanh>Insurance :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đơn giá :</Vviet>
+    <Vanh>Price :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng :</Vviet>
+    <Vanh>Room :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh>0</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã số :</Vviet>
+    <Vanh>Code :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Stt :</Vviet>
+    <Vanh>Seq # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên :</Vviet>
+    <Vanh>Description :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh mục giường</Vviet>
+    <Vanh>Beds</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

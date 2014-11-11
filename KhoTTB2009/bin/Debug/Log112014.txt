@@ -1,0 +1,54 @@
+
+08:52:39 AM Saturday, November 01, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+08:54:14 AM Saturday, November 01, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+09:14:15 AM Saturday, November 01, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+11:53:58 AM Saturday, November 01, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+01:19:26 PM Saturday, November 01, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+04:36:22 PM Monday, November 03, 2014
+Oracle.DataAccess.Client.OracleException ORA-12541: TNS:no listener    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12541: TNS:no listener
+
+04:36:23 PM Monday, November 03, 2014
+Oracle.DataAccess.Client.OracleException ORA-12541: TNS:no listener    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12541: TNS:no listener
+
+11:03:36 AM Thứ Tư, Tháng Mười Một 05, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open()ORA-12154: TNS:could not resolve the connect identifier specified
+
+02:25:28 PM Thứ Sáu, Tháng Mười Một 07, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))

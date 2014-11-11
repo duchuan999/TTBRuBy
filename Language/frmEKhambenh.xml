@@ -1,0 +1,270 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>88:Mô tả chi tiết bệnh</Vviet>
+    <Vanh>88:Description in details</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mô tả chi tiết bệnh lý:</Vviet>
+    <Vanh>Description pathology in details</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>54:Các bệnh lý khác</Vviet>
+    <Vanh>54:Other pathologies</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>53:Nội tiết dinh dưỡng</Vviet>
+    <Vanh>53:Endocrinilogy, nutrition</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>52:Mắt</Vviet>
+    <Vanh>52:Ophthalmology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>51:Răng-Hàm-Mặt</Vviet>
+    <Vanh>51:Stomatology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>50:Tai-Mũi-Họng</Vviet>
+    <Vanh>50:Otorhinolaryngology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>49:Cơ xương khớp</Vviet>
+    <Vanh>49:Muscle-Bone-Joint</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>48:Thần kinh</Vviet>
+    <Vanh>48:Neurology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>47:Thận-Tiết niệu-Sinh dục</Vviet>
+    <Vanh>47:Kidney-Urological and Genital organs</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>46:Tiêu hoá</Vviet>
+    <Vanh>46:Digestive system</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>45:Hô hấp</Vviet>
+    <Vanh>45:Respiratory system</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>43:Tuần hoàn</Vviet>
+    <Vanh>43:Cardiovascular system</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tuần hoàn:</Vviet>
+    <Vanh>Vascular system</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội tiết dinh dưởng:</Vviet>
+    <Vanh>Endocrinology-Nutrition</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tai - Mũi - Họng:</Vviet>
+    <Vanh>Otorhinolaryngology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Răng - Màm - Mặt:</Vviet>
+    <Vanh>Stomatology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mắt:</Vviet>
+    <Vanh>Ophthalmology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cơ xương khớp:</Vviet>
+    <Vanh>Muscle-Bone-Joint</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thận - Tiết niệu - Sinh dục:</Vviet>
+    <Vanh>Kidney-Urological and Genital organs</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thần kinh:</Vviet>
+    <Vanh>Neurology</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hô hấp:</Vviet>
+    <Vanh>Respiratory</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiêu hoá:</Vviet>
+    <Vanh>Digestive</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Các bệnh lý khác:</Vviet>
+    <Vanh>Other pathologies</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>44:Toàn Thân</Vviet>
+    <Vanh>44:General</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày:</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dấu sinh tồn:</Vviet>
+    <Vanh>Vital signs</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhịp thở:</Vviet>
+    <Vanh>R.R.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mạch:</Vviet>
+    <Vanh>Pulse:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp:</Vviet>
+    <Vanh>B.P.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>lần/phút</Vviet>
+    <Vanh>/min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhiệt độ:</Vviet>
+    <Vanh>Temperature:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>độ C</Vviet>
+    <Vanh>C</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mmHg</Vviet>
+    <Vanh>mmHg</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>lần/phút</Vviet>
+    <Vanh>/min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cân nặng:</Vviet>
+    <Vanh>Weight:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>kg</Vviet>
+    <Vanh>kg</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Toàn thân:</Vviet>
+    <Vanh>General exem. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ:</Vviet>
+    <Vanh>Doctor :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>(ý thức, da niêm mạc, hệ thống hạch, tuyến giáp: vị trí, kích thước, số lượng, ...)</Vviet>
+    <Vanh>(Conciousness,skin,mucous membrane)</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Các ơn quan:</Vviet>
+    <Vanh>Other organs :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>Cancel</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xoá</Vviet>
+    <Vanh>Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>New</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh án</Vviet>
+    <Vanh>Chart</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

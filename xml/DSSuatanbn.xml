@@ -1,0 +1,587 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="mabn" type="xs:string" minOccurs="0" />
+                <xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="namsinh" type="xs:decimal" minOccurs="0" />
+                <xs:element name="giuong" type="xs:string" minOccurs="0" />
+                <xs:element name="mathucan" type="xs:string" minOccurs="0" />
+                <xs:element name="ma" type="xs:string" minOccurs="0" />
+                <xs:element name="tenkp" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+                <xs:element name="soluong" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <mabn>10828465</mabn>
+    <hoten>VÕ THỊ XONG</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826653</mabn>
+    <hoten>CHÂU MỸ VÂN</hoten>
+    <namsinh>1952</namsinh>
+    <giuong>A5HL-G2</giuong>
+    <mathucan>DD06-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10051367</mabn>
+    <hoten>TRẦN THỊ XUÂN</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5P9-G2</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826980</mabn>
+    <hoten>TRẦN THỊ ĐỊNH</hoten>
+    <namsinh>1931</namsinh>
+    <giuong>A5HL-G6</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827271</mabn>
+    <hoten>LƯU THỊ ĐÀNH</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10047311</mabn>
+    <hoten>VÕ THỊ HIỆP </hoten>
+    <namsinh>1921</namsinh>
+    <giuong>A5P7-G1</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10047311</mabn>
+    <hoten>VÕ THỊ HIỆP </hoten>
+    <namsinh>1921</namsinh>
+    <giuong>A5P7-G1</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826384</mabn>
+    <hoten>NGUYỄN VĂN CHƯA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10806457</mabn>
+    <hoten>NGUYỄN THỊ BẢY</hoten>
+    <namsinh>1940</namsinh>
+    <giuong>A5P11-G2</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10040904</mabn>
+    <hoten>LÝ THỊ VÀNG</hoten>
+    <namsinh>1963</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>BT01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828439</mabn>
+    <hoten>LÊ THỊ LIÊN</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5P6-G2</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827214</mabn>
+    <hoten>TRẦN LINH CỔ</hoten>
+    <namsinh>1929</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827271</mabn>
+    <hoten>LƯU THỊ ĐÀNH</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10824585</mabn>
+    <hoten>CHÂU VĂN SÁU</hoten>
+    <namsinh>1950</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10054739</mabn>
+    <hoten>PHAN THỊ TUYẾT MAI</hoten>
+    <namsinh>1957</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10823437</mabn>
+    <hoten>DƯƠNG VĂN MẢNH</hoten>
+    <namsinh>1955</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828439</mabn>
+    <hoten>LÊ THỊ LIÊN</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5P6-G2</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10040904</mabn>
+    <hoten>LÝ THỊ VÀNG</hoten>
+    <namsinh>1963</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>BT01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828225</mabn>
+    <hoten>HUỲNH THỊ XIẾU</hoten>
+    <namsinh>1928</namsinh>
+    <giuong>B2A-P15-G1</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10823437</mabn>
+    <hoten>DƯƠNG VĂN MẢNH</hoten>
+    <namsinh>1955</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10047311</mabn>
+    <hoten>VÕ THỊ HIỆP </hoten>
+    <namsinh>1921</namsinh>
+    <giuong>A5P7-G1</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10806457</mabn>
+    <hoten>NGUYỄN THỊ BẢY</hoten>
+    <namsinh>1940</namsinh>
+    <giuong>A5P11-G2</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828225</mabn>
+    <hoten>HUỲNH THỊ XIẾU</hoten>
+    <namsinh>1928</namsinh>
+    <giuong>B2A-P15-G1</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10824585</mabn>
+    <hoten>CHÂU VĂN SÁU</hoten>
+    <namsinh>1950</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10054739</mabn>
+    <hoten>PHAN THỊ TUYẾT MAI</hoten>
+    <namsinh>1957</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827214</mabn>
+    <hoten>TRẦN LINH CỔ</hoten>
+    <namsinh>1929</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826384</mabn>
+    <hoten>NGUYỄN VĂN CHƯA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10040904</mabn>
+    <hoten>LÝ THỊ VÀNG</hoten>
+    <namsinh>1963</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>BT01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828465</mabn>
+    <hoten>VÕ THỊ XONG</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826653</mabn>
+    <hoten>CHÂU MỸ VÂN</hoten>
+    <namsinh>1952</namsinh>
+    <giuong>A5HL-G2</giuong>
+    <mathucan>DD06-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10051367</mabn>
+    <hoten>TRẦN THỊ XUÂN</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5P9-G2</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828439</mabn>
+    <hoten>LÊ THỊ LIÊN</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5P6-G2</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827660</mabn>
+    <hoten>THÁI NGỌC THE</hoten>
+    <namsinh>1942</namsinh>
+    <giuong>A5P5-G1</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827660</mabn>
+    <hoten>THÁI NGỌC THE</hoten>
+    <namsinh>1942</namsinh>
+    <giuong>A5P5-G1</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827660</mabn>
+    <hoten>THÁI NGỌC THE</hoten>
+    <namsinh>1942</namsinh>
+    <giuong>A5P5-G1</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826980</mabn>
+    <hoten>TRẦN THỊ ĐỊNH</hoten>
+    <namsinh>1931</namsinh>
+    <giuong>A5HL-G6</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10031310</mabn>
+    <hoten>YNH VA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G9</giuong>
+    <mathucan>DD06-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10806457</mabn>
+    <hoten>NGUYỄN THỊ BẢY</hoten>
+    <namsinh>1940</namsinh>
+    <giuong>A5P11-G2</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10824585</mabn>
+    <hoten>CHÂU VĂN SÁU</hoten>
+    <namsinh>1950</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10051367</mabn>
+    <hoten>TRẦN THỊ XUÂN</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5P9-G2</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10823437</mabn>
+    <hoten>DƯƠNG VĂN MẢNH</hoten>
+    <namsinh>1955</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828465</mabn>
+    <hoten>VÕ THỊ XONG</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G4</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826653</mabn>
+    <hoten>CHÂU MỸ VÂN</hoten>
+    <namsinh>1952</namsinh>
+    <giuong>A5HL-G2</giuong>
+    <mathucan>DD06-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10828225</mabn>
+    <hoten>HUỲNH THỊ XIẾU</hoten>
+    <namsinh>1928</namsinh>
+    <giuong>B2A-P15-G1</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10054739</mabn>
+    <hoten>PHAN THỊ TUYẾT MAI</hoten>
+    <namsinh>1957</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827214</mabn>
+    <hoten>TRẦN LINH CỔ</hoten>
+    <namsinh>1929</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826980</mabn>
+    <hoten>TRẦN THỊ ĐỊNH</hoten>
+    <namsinh>1931</namsinh>
+    <giuong>A5HL-G6</giuong>
+    <mathucan>DD01-COM-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10827271</mabn>
+    <hoten>LƯU THỊ ĐÀNH</hoten>
+    <namsinh>1944</namsinh>
+    <giuong>A5HL-G5</giuong>
+    <mathucan>DD01-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10031310</mabn>
+    <hoten>YNH VA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G9</giuong>
+    <mathucan>DD06-CHAO-CHIEU</mathucan>
+    <ma>DD_CHIEU</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10031310</mabn>
+    <hoten>YNH VA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G9</giuong>
+    <mathucan>DD06-COM-SANG</mathucan>
+    <ma>DD_SANG</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+  <Table>
+    <mabn>10826384</mabn>
+    <hoten>NGUYỄN VĂN CHƯA</hoten>
+    <namsinh>1960</namsinh>
+    <giuong>A5HL-G8</giuong>
+    <mathucan>DD01-COM-TRUA</mathucan>
+    <ma>DD_TRUA</ma>
+    <tenkp>A5- Khoa Nội Tiết</tenkp>
+    <makp>011</makp>
+    <soluong>1</soluong>
+  </Table>
+</NewDataSet>

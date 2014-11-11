@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Biểu đồ</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số giường:</Vviet>
+		<Vanh>Bed# :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phái:</Vviet>
+		<Vanh>Gender :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN:</Vviet>
+		<Vanh>ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>20</Vviet>
+		<Vanh>20</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>40</Vviet>
+		<Vanh>40</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>60</Vviet>
+		<Vanh>60</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>80</Vviet>
+		<Vanh>80</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>100</Vviet>
+		<Vanh>100</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>120</Vviet>
+		<Vanh>120</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>140</Vviet>
+		<Vanh>140</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>160</Vviet>
+		<Vanh>160</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>180</Vviet>
+		<Vanh>180</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>200</Vviet>
+		<Vanh>200</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>220</Vviet>
+		<Vanh>220</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>240</Vviet>
+		<Vanh>240</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>260</Vviet>
+		<Vanh>260</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>280</Vviet>
+		<Vanh>280</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>300</Vviet>
+		<Vanh>300</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BIỂU ĐỒ HUYẾT ÁP</Vviet>
+		<Vanh>Blood pressure chart</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày, tháng</Vviet>
+		<Vanh>Date/time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Huyết áp</Vviet>
+		<Vanh>Blood pressure</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>(mmHg)</Vviet>
+		<Vanh>(mmHg)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>40</Vviet>
+		<Vanh>40</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>60</Vviet>
+		<Vanh>60</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>80</Vviet>
+		<Vanh>80</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>100</Vviet>
+		<Vanh>100</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>35</Vviet>
+		<Vanh>35</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>36</Vviet>
+		<Vanh>36</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>37</Vviet>
+		<Vanh>37</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>38</Vviet>
+		<Vanh>38</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>39</Vviet>
+		<Vanh>39</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>40</Vviet>
+		<Vanh>40</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>41</Vviet>
+		<Vanh>41</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>120</Vviet>
+		<Vanh>120</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>140</Vviet>
+		<Vanh>140</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>160</Vviet>
+		<Vanh>160</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhiệt</Vviet>
+		<Vanh>Temperature</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mạch</Vviet>
+		<Vanh>Pulse</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày, Tháng</Vviet>
+		<Vanh>Date/time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BIỂU ĐỒ MẠCH, NHIỆT ĐỘ</Vviet>
+		<Vanh>Pulse,Temperature chart</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>L/ph</Vviet>
+		<Vanh>/min</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>độ C</Vviet>
+		<Vanh>C</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ Tên:</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán:</Vviet>
+		<Vanh>Diagnosis :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày :</Vviet>
+		<Vanh>Between :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đến:</Vviet>
+		<Vanh>and :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi:</Vviet>
+		<Vanh>Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Biểu đồ dấu sinh tồn</Vviet>
+		<Vanh>Vital sign graphic chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

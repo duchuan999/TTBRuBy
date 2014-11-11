@@ -1,0 +1,6260 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNhomGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="MaGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="TenGPB" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MaNhomGPB>8000</MaNhomGPB>
+    <MaGPB>8000/0</MaGPB>
+    <TenGPB>U lành tính</TenGPB>
+    <Name>Neoplasm, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8</MaNhomGPB>
+    <MaGPB>8000/1</MaGPB>
+    <TenGPB>U không xác định lành hay ác</TenGPB>
+    <Name>Neoplasm, uncertain whether benign or malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8000</MaNhomGPB>
+    <MaGPB>8000/3</MaGPB>
+    <TenGPB>U ác tính</TenGPB>
+    <Name>Neoplasm, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8000</MaNhomGPB>
+    <MaGPB>8000/6</MaGPB>
+    <TenGPB>U di căn</TenGPB>
+    <Name>Neoplasm, metastatic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8000</MaNhomGPB>
+    <MaGPB>8000/9</MaGPB>
+    <TenGPB>U ác tính, không xác định nguyên phát hay di căn</TenGPB>
+    <Name>Neoplasm, malignant, uncertain whether primary or metastatic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8001</MaNhomGPB>
+    <MaGPB>8001/1</MaGPB>
+    <TenGPB>Tế bào u, không xác định lành hay ác tính</TenGPB>
+    <Name>Tumor cell, uncertain whether benign or malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8001</MaNhomGPB>
+    <MaGPB>8001/3</MaGPB>
+    <TenGPB>Tế bào u ác tính</TenGPB>
+    <Name>Tumor cells, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8002</MaNhomGPB>
+    <MaGPB>8002/3</MaGPB>
+    <TenGPB>U ác tính, típ tế bào nhỏ </TenGPB>
+    <Name>Malignant tumor, small cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8003</MaNhomGPB>
+    <MaGPB>8003/3</MaGPB>
+    <TenGPB>U ác tính, típ tế bào khổng lồ</TenGPB>
+    <Name>Malignant tumor, giant cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8004</MaNhomGPB>
+    <MaGPB>8004/3</MaGPB>
+    <TenGPB>U ác tính, típ tế bào hình thoi</TenGPB>
+    <Name>Malignant tumor, spindle cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8005</MaNhomGPB>
+    <MaGPB>8005/0</MaGPB>
+    <TenGPB>U tế bào sáng nói chung</TenGPB>
+    <Name>Clear cell tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8005</MaNhomGPB>
+    <MaGPB>8005/3</MaGPB>
+    <TenGPB>U ác tính, type tế bào sáng</TenGPB>
+    <Name>Malignant tumor, clear cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8010</MaNhomGPB>
+    <MaGPB>8010/0</MaGPB>
+    <TenGPB>U biểu mô lành tính</TenGPB>
+    <Name>Epithelial tumor, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8010</MaNhomGPB>
+    <MaGPB>8010/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tại chỗ, nói chung</TenGPB>
+    <Name>Carcinoma in situ, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8010</MaNhomGPB>
+    <MaGPB>8010/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nói chung</TenGPB>
+    <Name>Carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8010</MaNhomGPB>
+    <MaGPB>8010/6</MaGPB>
+    <TenGPB>Ung thư biểu mô di căn nói chung</TenGPB>
+    <Name>Carcinoma, metastatic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8010</MaNhomGPB>
+    <MaGPB>8010/9</MaGPB>
+    <TenGPB>Ung thư biểu mô di căn toàn thân</TenGPB>
+    <Name>Carcinomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8011</MaNhomGPB>
+    <MaGPB>8011/0</MaGPB>
+    <TenGPB>U biểu mô lành tính</TenGPB>
+    <Name>Epithelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8011</MaNhomGPB>
+    <MaGPB>8011/3</MaGPB>
+    <TenGPB>U biểu mô ác tính</TenGPB>
+    <Name>Epithelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8012</MaNhomGPB>
+    <MaGPB>8012/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào lớn nói chung</TenGPB>
+    <Name>Large cell carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8013</MaNhomGPB>
+    <MaGPB>8013/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thần kinh nội tiết tế bào lớn</TenGPB>
+    <Name>Large cell neuroendocrine carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8014</MaNhomGPB>
+    <MaGPB>8014/3</MaGPB>
+    <TenGPB>Ung thư biêủ mô tế bào lớn kiểu hình dạng u cơ vân</TenGPB>
+    <Name>Large cell carcinoma with rhabdoid phenotype</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8015</MaNhomGPB>
+    <MaGPB>8015/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào kính</TenGPB>
+    <Name>Glassy cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8020</MaNhomGPB>
+    <MaGPB>8020/3</MaGPB>
+    <TenGPB>Ung thư biểu mô không biệt hoá nói chung</TenGPB>
+    <Name>Carcinoma, undifferentiated, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8021</MaNhomGPB>
+    <MaGPB>8021/3</MaGPB>
+    <TenGPB>Ung thư biểu mô bất thục sản nói chung</TenGPB>
+    <Name>Carcinoma, anaplastic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8022</MaNhomGPB>
+    <MaGPB>8022/3</MaGPB>
+    <TenGPB>Ung thư biểu mô đa hình </TenGPB>
+    <Name>Pleomorphic carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8030</MaNhomGPB>
+    <MaGPB>8030/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào khổng lồ và tế bào hình thoi</TenGPB>
+    <Name>Giant cell and spindle cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8031</MaNhomGPB>
+    <MaGPB>8031/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào khổng lồ</TenGPB>
+    <Name>Giant cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8032</MaNhomGPB>
+    <MaGPB>8032/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào hình thoi nói chung</TenGPB>
+    <Name>Spindle cell carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8033</MaNhomGPB>
+    <MaGPB>8033/3</MaGPB>
+    <TenGPB>Ung thư biểu mô giả saccôm</TenGPB>
+    <Name>Pseudosarcomatous carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8034</MaNhomGPB>
+    <MaGPB>8034/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đa diện</TenGPB>
+    <Name>Polygonal cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8035</MaNhomGPB>
+    <MaGPB>8035/3</MaGPB>
+    <TenGPB>Ung thư biểu mô với các tế bào khổng lồ giống huỷ cốt bào</TenGPB>
+    <Name>Carcinoma with osteoclast- like giant cells</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8040</MaNhomGPB>
+    <MaGPB>8040/0</MaGPB>
+    <TenGPB>U nhỏ lành tính</TenGPB>
+    <Name>Tumorlet, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8040</MaNhomGPB>
+    <MaGPB>8040/1</MaGPB>
+    <TenGPB>U nhỏ nói chung</TenGPB>
+    <Name>Tumorlet, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8041</MaNhomGPB>
+    <MaGPB>8041/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhỏ nói chung</TenGPB>
+    <Name>Small cell carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8042</MaNhomGPB>
+    <MaGPB>8042/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào lúa mạch</TenGPB>
+    <Name>Oat cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8043</MaNhomGPB>
+    <MaGPB>8043/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhỏ, tế bào hình thoi</TenGPB>
+    <Name>Small cell carcinoma, fusiform cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8044</MaNhomGPB>
+    <MaGPB>8044/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhỏ, tế bào trung gian</TenGPB>
+    <Name>Small cell carcinoma, intermediate cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8045</MaNhomGPB>
+    <MaGPB>8045/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhỏ kết hợp</TenGPB>
+    <Name>Combined small cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8046</MaNhomGPB>
+    <MaGPB>8046/3</MaGPB>
+    <TenGPB>Ung thư biểu mô không phải tế bào nhỏ </TenGPB>
+    <Name>Non- small cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8050</MaNhomGPB>
+    <MaGPB>8050/0</MaGPB>
+    <TenGPB>U nhú nói chung</TenGPB>
+    <Name>Papilloma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8050</MaNhomGPB>
+    <MaGPB>8050/2</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú tại chỗ</TenGPB>
+    <Name>Papillary carcinoma in situ</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8050</MaNhomGPB>
+    <MaGPB>8050/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú nói chung</TenGPB>
+    <Name>Papillary carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8051</MaNhomGPB>
+    <MaGPB>8051/0</MaGPB>
+    <TenGPB>U nhú thể sần</TenGPB>
+    <Name>Verrucous papilloma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8051</MaNhomGPB>
+    <MaGPB>8051/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể sần nói chung</TenGPB>
+    <Name>Verrucous carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8052</MaNhomGPB>
+    <MaGPB>8052/0</MaGPB>
+    <TenGPB>U nhú tế bào vảy nói chung</TenGPB>
+    <Name>Squamous cell papilloma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8052</MaNhomGPB>
+    <MaGPB>8052/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy thể nhú, không xâm nhập</TenGPB>
+    <Name>Papillary squamous cell carcinoma, non- invasive</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8052</MaNhomGPB>
+    <MaGPB>8052/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy thể nhú</TenGPB>
+    <Name>Papillary squamous cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8053</MaNhomGPB>
+    <MaGPB>8053/0</MaGPB>
+    <TenGPB>U nhú tế bào vảy đảo ngược</TenGPB>
+    <Name>Squamous cell papilloma, inverted</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8060</MaNhomGPB>
+    <MaGPB>8060/0</MaGPB>
+    <TenGPB>Bệnh u nhú tế bào vảy</TenGPB>
+    <Name>Squamous papillomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8070</MaNhomGPB>
+    <MaGPB>8070/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy tại chỗ nói chung</TenGPB>
+    <Name>Squamous cell carcinoma in situ, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8070</MaNhomGPB>
+    <MaGPB>8070/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy nói chung</TenGPB>
+    <Name>Squamous cell carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8070</MaNhomGPB>
+    <MaGPB>8070/6</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy di căn nói chung</TenGPB>
+    <Name>Squamous cell carcinoma, metastatic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8071</MaNhomGPB>
+    <MaGPB>8071/3</MaGPB>
+    <TenGPB>Ung thư biểu mô vẩy sừng hoá nói chung</TenGPB>
+    <Name>Squamous cell carcinoma, keratinizing, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8072</MaNhomGPB>
+    <MaGPB>8072/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy, tế bào lớn, không sừng hoá nói chung</TenGPB>
+    <Name>Squamous cell carcinoma, large cell, nonkeratinizing, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8073</MaNhomGPB>
+    <MaGPB>8073/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy, tế bào nhỏ không sừng hoá</TenGPB>
+    <Name>Squamous cell carcinoma, small cell, nonkeratinizing</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8074</MaNhomGPB>
+    <MaGPB>8074/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy, tế bào hình thoi</TenGPB>
+    <Name>Squamous cell carcinoma, spindle cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8075</MaNhomGPB>
+    <MaGPB>8075/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy dạng tuyến</TenGPB>
+    <Name>Squamous cell carcinoma, adenoid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8076</MaNhomGPB>
+    <MaGPB>8076/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy tại chỗ không xác định xâm nhập mô đệm</TenGPB>
+    <Name>Squamous cell carcinoma in situ with questionable stromal invasion</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8076</MaNhomGPB>
+    <MaGPB>8076/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy, vi xâm nhập</TenGPB>
+    <Name>Squamous cell carcinoma, microinvasive</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8077</MaNhomGPB>
+    <MaGPB>8077/2</MaGPB>
+    <TenGPB>U nội biểu mô vảy, độ III</TenGPB>
+    <Name>Squamous intraepithelial neoplasia, grade III</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8078</MaNhomGPB>
+    <MaGPB>8078/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy có hình thành sừng</TenGPB>
+    <Name>Squamous cell carcinoma with horn formation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8080</MaNhomGPB>
+    <MaGPB>8080/2</MaGPB>
+    <TenGPB>Bệnh hồng sản Queyrat</TenGPB>
+    <Name>Queyrat erythroplasia (C60_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8081</MaNhomGPB>
+    <MaGPB>8081/2</MaGPB>
+    <TenGPB>Bệnh Bowen</TenGPB>
+    <Name>Bowen disease (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8082</MaNhomGPB>
+    <MaGPB>8082/3</MaGPB>
+    <TenGPB>Ung thư biểu mô limphô</TenGPB>
+    <Name>Lymphoepithelial carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8083</MaNhomGPB>
+    <MaGPB>8083/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy dạng tế bào đáy</TenGPB>
+    <Name>Basaloid squamous cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8084</MaNhomGPB>
+    <MaGPB>8084/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào vảy típ tế bào sáng</TenGPB>
+    <Name>Squamous cell carcinoma, clear cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8090</MaNhomGPB>
+    <MaGPB>8090/1</MaGPB>
+    <TenGPB>U tế bào đáy</TenGPB>
+    <Name>Basal cell tumor (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8090</MaNhomGPB>
+    <MaGPB>8090/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy nói chung</TenGPB>
+    <Name>Basal cell carcinoma, NOS (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8091</MaNhomGPB>
+    <MaGPB>8091/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy bề mặt nhiều ổ</TenGPB>
+    <Name>Multifocal superficial basal cell carcinoma (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8092</MaNhomGPB>
+    <MaGPB>8092/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy xâm nhập nói chung</TenGPB>
+    <Name>Infiltrating basal cell carcinoma, NOS (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8093</MaNhomGPB>
+    <MaGPB>8093/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy, xơ biểu mô</TenGPB>
+    <Name>Basal cell carcinoma, fibroepithelial (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8094</MaNhomGPB>
+    <MaGPB>8094/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy vảy</TenGPB>
+    <Name>Basosquamous carcinoma (C44_) </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8095</MaNhomGPB>
+    <MaGPB>8095/3</MaGPB>
+    <TenGPB>Ung thư biểu mô dị điển hình</TenGPB>
+    <Name>Metatypical carcinoma (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8096</MaNhomGPB>
+    <MaGPB>8096/0</MaGPB>
+    <TenGPB>U biểu mô nội thượng bì Jadassohn</TenGPB>
+    <Name>Intraepidermal epithelioma of Jadassohn (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8097</MaNhomGPB>
+    <MaGPB>8097/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy thể cục</TenGPB>
+    <Name>Basal cell carcinoma, nodular(C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8098</MaNhomGPB>
+    <MaGPB>8098/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào đáy dạng tuyến</TenGPB>
+    <Name>Adenoid basal carcinoma (C53_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8100</MaNhomGPB>
+    <MaGPB>8100/0</MaGPB>
+    <TenGPB>U biểu mô lông</TenGPB>
+    <Name>Trichoepithelioma (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8101</MaNhomGPB>
+    <MaGPB>8101/0</MaGPB>
+    <TenGPB>U nang lông</TenGPB>
+    <Name>Trichofolliculoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8102</MaNhomGPB>
+    <MaGPB>8102/0</MaGPB>
+    <TenGPB>U bao lông</TenGPB>
+    <Name>Trichilemmoma (C44_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8102</MaNhomGPB>
+    <MaGPB>8102/3</MaGPB>
+    <TenGPB>Ung thư biểu mô bao lông</TenGPB>
+    <Name>Trichilemmocarcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8103</MaNhomGPB>
+    <MaGPB>8103/3</MaGPB>
+    <TenGPB>U lông</TenGPB>
+    <Name>Pilar tumor (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8110</MaNhomGPB>
+    <MaGPB>8110/0</MaGPB>
+    <TenGPB>U mầm lông nói chung</TenGPB>
+    <Name>Pilomatrixoma, NOS (C44. _)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8110</MaNhomGPB>
+    <MaGPB>8110/3</MaGPB>
+    <TenGPB>Ung thư biểu mô mầm lông</TenGPB>
+    <Name>Pilomatrix carcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8120</MaNhomGPB>
+    <MaGPB>8120/0</MaGPB>
+    <TenGPB>U nhú tế bào chuyển tiếp lành tính</TenGPB>
+    <Name>Transitional cell papiliomas, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8120</MaNhomGPB>
+    <MaGPB>8120/1</MaGPB>
+    <TenGPB>U nhú biểu mô tiết niệu nói chung</TenGPB>
+    <Name>Urothelial papilloma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8120</MaNhomGPB>
+    <MaGPB>8120/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào chuyển tiếp tại chỗ</TenGPB>
+    <Name>Transitional cell carcinoma in situ</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8120</MaNhomGPB>
+    <MaGPB>8120/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào chuyển tiếp nói chung</TenGPB>
+    <Name>Transitional cell carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8121</MaNhomGPB>
+    <MaGPB>8121/0</MaGPB>
+    <TenGPB>U nhú Schneider nói chung</TenGPB>
+    <Name>Schneiderian papilloma, NOS(C30.0, C31._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8121</MaNhomGPB>
+    <MaGPB>8121/1</MaGPB>
+    <TenGPB>U nhú tế bào chuyển tiếp đảo ngược nói chung</TenGPB>
+    <Name>Transitional cell papilloma, inverted, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8121</MaNhomGPB>
+    <MaGPB>8121/3</MaGPB>
+    <TenGPB>Ungthư biểu mô Schneider</TenGPB>
+    <Name>Schneiderian carcinoma (C30.0, C31._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8122</MaNhomGPB>
+    <MaGPB>8122/3</MaGPB>
+    <TenGPB>U nhú tế bào chuyển tiếp , tế bào hình thoi</TenGPB>
+    <Name>Transitional cell carcinoma, spindle cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8123</MaNhomGPB>
+    <MaGPB>8123/3</MaGPB>
+    <TenGPB>Ung thư biểu mô dạng tế bào đáy</TenGPB>
+    <Name>Basaloid carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8124</MaNhomGPB>
+    <MaGPB>8124/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ổ nhớp</TenGPB>
+    <Name>Cloacogenic carcinoma (C21.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8130</MaNhomGPB>
+    <MaGPB>8130/1</MaGPB>
+    <TenGPB>U tế bào chuyển tiếp nhú, khả năng ác tính thấp</TenGPB>
+    <Name>Papillary transitional cell neoplasm of low malignant potential (C67_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8130</MaNhomGPB>
+    <MaGPB>8130/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào chuyển tiếp nhú không xâm lấn</TenGPB>
+    <Name>Papillary transitional cell carcinoma, non- invasive (C67._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8130</MaNhomGPB>
+    <MaGPB>8130/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào chuyển tiếp nhú</TenGPB>
+    <Name>Papillary transitional cell carcinoma (C67._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8131</MaNhomGPB>
+    <MaGPB>8131/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào chuyển tiếp, vi nhú</TenGPB>
+    <Name>Transitional cell carcinoma, micropapillary (C67._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8140</MaNhomGPB>
+    <MaGPB>8140/0</MaGPB>
+    <TenGPB>U tuyến nói chung</TenGPB>
+    <Name>Adenomas, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8140</MaNhomGPB>
+    <MaGPB>8140/1</MaGPB>
+    <TenGPB>U tuyến không điển hình</TenGPB>
+    <Name>Atypical adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8140</MaNhomGPB>
+    <MaGPB>8140/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tại chỗ nói chung</TenGPB>
+    <Name>Adenocarcinoma in situ, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8140</MaNhomGPB>
+    <MaGPB>8140/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nói chung</TenGPB>
+    <Name>Adenocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8140</MaNhomGPB>
+    <MaGPB>8140/6</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến di căn</TenGPB>
+    <Name>Adenocarcinoma, metastatic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8141</MaNhomGPB>
+    <MaGPB>8141/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến xơ cứng</TenGPB>
+    <Name>Scirrhous adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8142</MaNhomGPB>
+    <MaGPB>8142/3</MaGPB>
+    <TenGPB>Ung thư xơ cứng dạ dày</TenGPB>
+    <Name>Linitis plastica (C16._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8143</MaNhomGPB>
+    <MaGPB>8143/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến lan tràn bề mặt</TenGPB>
+    <Name>Superficial spreading adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8144</MaNhomGPB>
+    <MaGPB>8144/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến típ ruột</TenGPB>
+    <Name>Adenocarcinoma, intestinal type (C16._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8145</MaNhomGPB>
+    <MaGPB>8145/3</MaGPB>
+    <TenGPB>Ung thư biểu  mô tuyến típ lan toả</TenGPB>
+    <Name>Carcinoma, diffuse type (C16._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8146</MaNhomGPB>
+    <MaGPB>8146/0</MaGPB>
+    <TenGPB>U tuyến đơn hình</TenGPB>
+    <Name>Monomorphic adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8147</MaNhomGPB>
+    <MaGPB>8147/0</MaGPB>
+    <TenGPB>U tuyến tế bào đáy</TenGPB>
+    <Name>Basal cell adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8147</MaNhomGPB>
+    <MaGPB>8147/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào đáy</TenGPB>
+    <Name>Basal cell adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8148</MaNhomGPB>
+    <MaGPB>8148/2</MaGPB>
+    <TenGPB>U nội biểu mô tuyến độ II</TenGPB>
+    <Name>Glandular intraepithelial neoplasia, grade II</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8149</MaNhomGPB>
+    <MaGPB>8149/0</MaGPB>
+    <TenGPB>U tuyến thể ống</TenGPB>
+    <Name>Canalicular adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8150</MaNhomGPB>
+    <MaGPB>8150/0</MaGPB>
+    <TenGPB>U tuyến tế bào tiểu đảo</TenGPB>
+    <Name>Islet cell adenoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8150</MaNhomGPB>
+    <MaGPB>8150/1</MaGPB>
+    <TenGPB>U tế bào tiểu đảo nói chung</TenGPB>
+    <Name>Islet cell tumor, NOS (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8150</MaNhomGPB>
+    <MaGPB>8150/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào tiểu đảo</TenGPB>
+    <Name>Islet cell carcinoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8151</MaNhomGPB>
+    <MaGPB>8151/0</MaGPB>
+    <TenGPB>U insulin nói chung</TenGPB>
+    <Name>Insulinoma, NOS (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8151</MaNhomGPB>
+    <MaGPB>8151/3</MaGPB>
+    <TenGPB>U insulin, ác tính</TenGPB>
+    <Name>Insulinoma, malignant (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8152</MaNhomGPB>
+    <MaGPB>8152/1</MaGPB>
+    <TenGPB>U glucagon</TenGPB>
+    <Name>Glucagonoma, NOS (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8152</MaNhomGPB>
+    <MaGPB>8152/3</MaGPB>
+    <TenGPB>U glucagon, ác tính</TenGPB>
+    <Name>Glucagonoma, malignant (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8153</MaNhomGPB>
+    <MaGPB>8153/1</MaGPB>
+    <TenGPB>U gastrin nói chung</TenGPB>
+    <Name>Gastrinoma, NOS (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8153</MaNhomGPB>
+    <MaGPB>8153/3</MaGPB>
+    <TenGPB>U gastrin ác tính</TenGPB>
+    <Name>Gastrinoma, malignant </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8154</MaNhomGPB>
+    <MaGPB>8154/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào nội tiết và ngoại tiết hỗn hợp</TenGPB>
+    <Name>Mixed islet cell and exocrine adenocarcinoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8155</MaNhomGPB>
+    <MaGPB>8155/1</MaGPB>
+    <TenGPB>U chế VIP</TenGPB>
+    <Name>Vipoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8155</MaNhomGPB>
+    <MaGPB>8155/3</MaGPB>
+    <TenGPB>U chế VIP ác tính</TenGPB>
+    <Name>Vipoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8156</MaNhomGPB>
+    <MaGPB>8156/1</MaGPB>
+    <TenGPB>U somatostatin nói chung</TenGPB>
+    <Name>Somatostatinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8156</MaNhomGPB>
+    <MaGPB>8156/3</MaGPB>
+    <TenGPB>U somatostatin ác tính</TenGPB>
+    <Name>Somatostatinoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8157</MaNhomGPB>
+    <MaGPB>8157/1</MaGPB>
+    <TenGPB>U enteroglucagon nói chung</TenGPB>
+    <Name>Enteroglucagonoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8160</MaNhomGPB>
+    <MaGPB>8160/0</MaGPB>
+    <TenGPB>U tuyến ống mật</TenGPB>
+    <Name>Bile duct adenoma (C22.1, C24.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8160</MaNhomGPB>
+    <MaGPB>8160/3</MaGPB>
+    <TenGPB>Ung thư biểu mô đường mật</TenGPB>
+    <Name>Cholangiocarcinoma (C22.1, C24.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8161</MaNhomGPB>
+    <MaGPB>8161/0</MaGPB>
+    <TenGPB>U nang tuyến ống mật</TenGPB>
+    <Name>Bile duct cystadenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8161</MaNhomGPB>
+    <MaGPB>8161/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nang tuyến ống mật</TenGPB>
+    <Name>Bile duct cystadenocarcinoma (C22.1, C24.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8162</MaNhomGPB>
+    <MaGPB>8162/3</MaGPB>
+    <TenGPB>U Klatskin </TenGPB>
+    <Name>Klatskin tumor (C22.1, C24.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8170</MaNhomGPB>
+    <MaGPB>8170/0</MaGPB>
+    <TenGPB>U tuyến tế bào gan</TenGPB>
+    <Name>Liver cell adenoma (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8170</MaNhomGPB>
+    <MaGPB>8170/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan nói chung</TenGPB>
+    <Name>Hepatocellular carcinoma, NOS (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8171</MaNhomGPB>
+    <MaGPB>8171/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan thể xơ lá</TenGPB>
+    <Name>Hepatocellular carcinoma, fibrolamellar (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8172</MaNhomGPB>
+    <MaGPB>8172/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan, xơ cứng</TenGPB>
+    <Name>Hepatocellular carcinoma, scirrhous (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8173</MaNhomGPB>
+    <MaGPB>8173/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan, biến thể tế bào hình thoi</TenGPB>
+    <Name>Hepatocellular carcinoma, spindle cell variant (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8174</MaNhomGPB>
+    <MaGPB>8174/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan, típ tế bào sáng</TenGPB>
+    <Name>Hepatocellular carcinoma, clear cell type (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8175</MaNhomGPB>
+    <MaGPB>8175/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan típ đa hình</TenGPB>
+    <Name>Hepatocellular carcinoma, pleomorphic type (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8180</MaNhomGPB>
+    <MaGPB>8180/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào gan và đường mật hỗn hợp</TenGPB>
+    <Name>Combined hepatocellular carcinoma and cholangiocarcinoma (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8190</MaNhomGPB>
+    <MaGPB>8190/0</MaGPB>
+    <TenGPB>U tuyến thể bè</TenGPB>
+    <Name>Trabecular adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8190</MaNhomGPB>
+    <MaGPB>8190/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến thể bè</TenGPB>
+    <Name>Trabecular adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8191</MaNhomGPB>
+    <MaGPB>8191/0</MaGPB>
+    <TenGPB>U tuyến bào thai</TenGPB>
+    <Name>Embryonal adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8200</MaNhomGPB>
+    <MaGPB>8200/0</MaGPB>
+    <TenGPB>U trụ chân bì ngoại tiết</TenGPB>
+    <Name>Eccrine dermal cylindroma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8200</MaNhomGPB>
+    <MaGPB>8200/3</MaGPB>
+    <TenGPB>Ung thư biểu mô dạng tuyến nang</TenGPB>
+    <Name>Adenoid cystic carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8201</MaNhomGPB>
+    <MaGPB>8201/2</MaGPB>
+    <TenGPB>Ung thư biểu mô thể sàng tại chỗ</TenGPB>
+    <Name>Cribriform carcinoma in situ (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8201</MaNhomGPB>
+    <MaGPB>8201/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể sàng nói chung</TenGPB>
+    <Name>Cribriform carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8202</MaNhomGPB>
+    <MaGPB>8202/0</MaGPB>
+    <TenGPB>U tuyến vi nang</TenGPB>
+    <Name>Microcystic adenoma(C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8204</MaNhomGPB>
+    <MaGPB>8204/0</MaGPB>
+    <TenGPB>U tuyến tiết sữa</TenGPB>
+    <Name>Lactating adenoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8210</MaNhomGPB>
+    <MaGPB>8210/0</MaGPB>
+    <TenGPB>Pôlíp dạng u tuyến nói chung</TenGPB>
+    <Name>Adenomatous polyp, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8210</MaNhomGPB>
+    <MaGPB>8210/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tại chỗ trong pôlíp tuyến</TenGPB>
+    <Name>Adenocarcinoma in situ in adenomatous polyp</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8210</MaNhomGPB>
+    <MaGPB>8210/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến trong pôlíp tuyến</TenGPB>
+    <Name>Adenocarcinoma in adenomatous polyp</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8211</MaNhomGPB>
+    <MaGPB>8211/0</MaGPB>
+    <TenGPB>U tuyến ống nhỏ nói chung</TenGPB>
+    <Name>Tubular adenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8211</MaNhomGPB>
+    <MaGPB>8211/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến ống nhỏ</TenGPB>
+    <Name>Tubular adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8212</MaNhomGPB>
+    <MaGPB>8212/0</MaGPB>
+    <TenGPB>U tuyến phẳng</TenGPB>
+    <Name>Flat adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8213</MaNhomGPB>
+    <MaGPB>8213/0</MaGPB>
+    <TenGPB>U tuyến dạng răng cưa</TenGPB>
+    <Name>Serrated adenoma (C18._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8214</MaNhomGPB>
+    <MaGPB>8214/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào thành</TenGPB>
+    <Name>Parietal cell carcinoma (C16._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8215</MaNhomGPB>
+    <MaGPB>8215/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến của tuyến hậu môn</TenGPB>
+    <Name>Adenocarcinoma of anal glands (C21.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8220</MaNhomGPB>
+    <MaGPB>8220/0</MaGPB>
+    <TenGPB>Bệnh đa pôlíp tuyến đại tràng</TenGPB>
+    <Name>Adenomatous polyposis coli (C18._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8220</MaNhomGPB>
+    <MaGPB>8220/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến trên bệnh đa pôlíp tuyến đại tràng</TenGPB>
+    <Name>Adenocarcinoma in adenomatous polyposis coli (C18._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8221</MaNhomGPB>
+    <MaGPB>8221/0</MaGPB>
+    <TenGPB>Đa pôlíp tuyến</TenGPB>
+    <Name>Multiple adenomatous polyps</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8221</MaNhomGPB>
+    <MaGPB>8221/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến trong đa polyp tuyến</TenGPB>
+    <Name>Adenocarcinoma in multiple adenomatous polyps</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8230</MaNhomGPB>
+    <MaGPB>8230/2</MaGPB>
+    <TenGPB>Ung thư biểu mô ống tại chỗ thể đặc</TenGPB>
+    <Name>Ductal carcinoma in situ, solid type (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8230</MaNhomGPB>
+    <MaGPB>8230/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể đặc nói chung</TenGPB>
+    <Name>Solid carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8231</MaNhomGPB>
+    <MaGPB>8231/3</MaGPB>
+    <TenGPB>Ung thư biểu mô đơn giản</TenGPB>
+    <Name>Carcinoma simplex</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8240</MaNhomGPB>
+    <MaGPB>8240/1</MaGPB>
+    <TenGPB>U carcinoid không xác định khả năng ác tính.</TenGPB>
+    <Name>Carcinoid tumor of uncertain malignant potential</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8240</MaNhomGPB>
+    <MaGPB>8240/3</MaGPB>
+    <TenGPB>U carcinoid nói chung</TenGPB>
+    <Name>Carcinoid tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8241</MaNhomGPB>
+    <MaGPB>8241/3</MaGPB>
+    <TenGPB>Carcinoid tế bào ruột ưa crôm</TenGPB>
+    <Name>Enterochromaffin cell carcinoid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8242</MaNhomGPB>
+    <MaGPB>8242/1</MaGPB>
+    <TenGPB>Carcinoid tế bào giống tế bào ruột ưa crôm nói chung </TenGPB>
+    <Name>Enterochromaffin- like cell carcinoid, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8242</MaNhomGPB>
+    <MaGPB>8242/3</MaGPB>
+    <TenGPB>Carcinoid tế bào giống tế bào ruột ưa crôm ác tính</TenGPB>
+    <Name>Enterochromaffin- like cell tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8243</MaNhomGPB>
+    <MaGPB>8243/3</MaGPB>
+    <TenGPB>Carcinoid tế bào đài</TenGPB>
+    <Name>Goblet cell carcinoid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8244</MaNhomGPB>
+    <MaGPB>8244/3</MaGPB>
+    <TenGPB>Carcinoid hỗn hợp</TenGPB>
+    <Name>Composite carcinoid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8245</MaNhomGPB>
+    <MaGPB>8245/1</MaGPB>
+    <TenGPB>Carcinoid ống nhỏ</TenGPB>
+    <Name>Tubular carcinoid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8245</MaNhomGPB>
+    <MaGPB>8245/3</MaGPB>
+    <TenGPB>U carcinoid tuyến</TenGPB>
+    <Name>Adenocarcinoid tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8246</MaNhomGPB>
+    <MaGPB>8246/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thần kinh nội tiết nói chung</TenGPB>
+    <Name>Neuroendocrine carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8247</MaNhomGPB>
+    <MaGPB>8247/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào Merkel</TenGPB>
+    <Name>Merkel cell carcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8248</MaNhomGPB>
+    <MaGPB>8248/1</MaGPB>
+    <TenGPB>U APUD</TenGPB>
+    <Name>Apudoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8249</MaNhomGPB>
+    <MaGPB>8249/3</MaGPB>
+    <TenGPB>U carcinoid không điển hình</TenGPB>
+    <Name>Atypical carcinoid tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8250</MaNhomGPB>
+    <MaGPB>8250/1</MaGPB>
+    <TenGPB>Bệnh đa u tuyến phổi</TenGPB>
+    <Name>Pulmonary adenomatosis (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8250</MaNhomGPB>
+    <MaGPB>8250/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến hốc- tiểu phế quản nói chung</TenGPB>
+    <Name>Bronchiolo- alveolar adenocarcinoma, NOS (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8251</MaNhomGPB>
+    <MaGPB>8251/0</MaGPB>
+    <TenGPB>U tuyến thể hốc</TenGPB>
+    <Name>Alveolar adenoma C(34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8251</MaNhomGPB>
+    <MaGPB>8251/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến thể hốc</TenGPB>
+    <Name>Alveolar adenocarcinoma C(34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8252</MaNhomGPB>
+    <MaGPB>8252/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tiểu phế quản- hốc, không nhầy</TenGPB>
+    <Name>Bronchiolo- alveolar carcinoma, non- mucinous (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8253</MaNhomGPB>
+    <MaGPB>8253/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tiểu phế quản- hốc nhầy</TenGPB>
+    <Name>Bronchiolo- alveolar carcinoma, mucinous (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8254</MaNhomGPB>
+    <MaGPB>8254/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tiểu phế quản hốc, hỗn hợp nhầy và không nhày</TenGPB>
+    <Name>Bronchiolo- alveolar carcinoma, mixed mucinous and non- mucinous (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8255</MaNhomGPB>
+    <MaGPB>8255/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến có nhiều phân típ</TenGPB>
+    <Name>Adenocarcinoma with mixed subtypes</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8260</MaNhomGPB>
+    <MaGPB>8260/0</MaGPB>
+    <TenGPB>U tuyến nhú nói chung</TenGPB>
+    <Name>Papillary adenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8260</MaNhomGPB>
+    <MaGPB>8260/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhú nói chung</TenGPB>
+    <Name>Papillary adenocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8261</MaNhomGPB>
+    <MaGPB>8261/0</MaGPB>
+    <TenGPB>U tuyến nhung mao nói chung</TenGPB>
+    <Name>Villous adenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8261</MaNhomGPB>
+    <MaGPB>8261/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tại chỗ trong u tuyến nhung mao</TenGPB>
+    <Name>Adenocarcinoma in situ in villous adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8261</MaNhomGPB>
+    <MaGPB>8261/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến trong u tuyến nhung mao</TenGPB>
+    <Name>Adenocarcinoma in villous adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8262</MaNhomGPB>
+    <MaGPB>8262/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhung mao</TenGPB>
+    <Name>Villous adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8263</MaNhomGPB>
+    <MaGPB>8263/0</MaGPB>
+    <TenGPB>U tuyến nhung mao ống nhỏ</TenGPB>
+    <Name>Tubulovillous adenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8263</MaNhomGPB>
+    <MaGPB>8263/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tại chỗ trong u tuyến nhung mao ống nhỏ</TenGPB>
+    <Name>Adenocarcinoma in situ in tubulovillous</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8263</MaNhomGPB>
+    <MaGPB>8263/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến trong u tuyến nhung mao ống nhỏ</TenGPB>
+    <Name>Adenocarcinoma in tubulovillous adenoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8264</MaNhomGPB>
+    <MaGPB>8264/0</MaGPB>
+    <TenGPB>Bệnh u nhú tuyến</TenGPB>
+    <Name>Papillomatosis, glandular</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8270</MaNhomGPB>
+    <MaGPB>8270/0</MaGPB>
+    <TenGPB>U tuyến kỵ màu</TenGPB>
+    <Name>Chromophobe adenoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8270</MaNhomGPB>
+    <MaGPB>8270/3</MaGPB>
+    <TenGPB>Ung thư biểu mô kỵ màu</TenGPB>
+    <Name>Chromophobe carcinoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8271</MaNhomGPB>
+    <MaGPB>8271/0</MaGPB>
+    <TenGPB>U prolactin</TenGPB>
+    <Name>Prolactinoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8272</MaNhomGPB>
+    <MaGPB>8272/0</MaGPB>
+    <TenGPB>U tuyến tuyến yên nói chung</TenGPB>
+    <Name>Pituitary adenoma, NOS (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8272</MaNhomGPB>
+    <MaGPB>8272/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến yên nói chung</TenGPB>
+    <Name>Pituitary carcinoma, NOS (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8280</MaNhomGPB>
+    <MaGPB>8280/0</MaGPB>
+    <TenGPB>U tuyến ưa axít</TenGPB>
+    <Name>Acidophil adenoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8280</MaNhomGPB>
+    <MaGPB>8280/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ưa axít</TenGPB>
+    <Name>Acidophil carcinoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8281</MaNhomGPB>
+    <MaGPB>8281/0</MaGPB>
+    <TenGPB>U tuyến hỗn hợp ưa kiềm và axít</TenGPB>
+    <Name>Mixed acidophil- basophil adenoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8281</MaNhomGPB>
+    <MaGPB>8281/3</MaGPB>
+    <TenGPB>Ung thư biểu mô hỗn hợp ưa kiềm và axít</TenGPB>
+    <Name>Mixed acidophi- basophil carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8290</MaNhomGPB>
+    <MaGPB>8290/0</MaGPB>
+    <TenGPB>U tuyến tế bào ái toan</TenGPB>
+    <Name>Oxyphilic adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8290</MaNhomGPB>
+    <MaGPB>8290/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào ái toan</TenGPB>
+    <Name>Oxyphilic adenocarcinoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8300</MaNhomGPB>
+    <MaGPB>8300/0</MaGPB>
+    <TenGPB>U tuyến tế bào ưa kiềm</TenGPB>
+    <Name>Basophil adenoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8300</MaNhomGPB>
+    <MaGPB>8300/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào ưa kiềm</TenGPB>
+    <Name>Basophil carcinoma (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8310</MaNhomGPB>
+    <MaGPB>8310/0</MaGPB>
+    <TenGPB>U tuyến tế bào sáng</TenGPB>
+    <Name>Clear cell adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8310</MaNhomGPB>
+    <MaGPB>8310/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào sáng nói chung</TenGPB>
+    <Name>Clear cell adenocarcinoma , NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8311</MaNhomGPB>
+    <MaGPB>8311/1</MaGPB>
+    <TenGPB>U dạng tuyến thượng thận</TenGPB>
+    <Name>Hypernephroid tumor </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8312</MaNhomGPB>
+    <MaGPB>8312/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thận nói chung</TenGPB>
+    <Name>Renal cell carcinoma, NOS (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8313</MaNhomGPB>
+    <MaGPB>8313/0</MaGPB>
+    <TenGPB>U xơ tuyến tế bào sáng</TenGPB>
+    <Name>Clear cell adenofibroma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8313</MaNhomGPB>
+    <MaGPB>8313/1</MaGPB>
+    <TenGPB>U xơ tuyến tế bào sáng giáp biên ác tính</TenGPB>
+    <Name>Clear cell adenofibroma of borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8313</MaNhomGPB>
+    <MaGPB>8313/3</MaGPB>
+    <TenGPB>U xơ ung thư biểu mô tuyến tế bào sáng</TenGPB>
+    <Name>Clear cell adenocarcinofibroma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8314</MaNhomGPB>
+    <MaGPB>8314/3</MaGPB>
+    <TenGPB>Ung thư biểu mô giàu lipid</TenGPB>
+    <Name>Lipid- rich carcinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8315</MaNhomGPB>
+    <MaGPB>8315/3</MaGPB>
+    <TenGPB>Ung thư biểu mô giàu glycogen</TenGPB>
+    <Name>Glycogen- rich carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8316</MaNhomGPB>
+    <MaGPB>8316/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào thận kết hợp nang</TenGPB>
+    <Name>Cyst- associated renal cell carcinoma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8317</MaNhomGPB>
+    <MaGPB>8317/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào thận , típ tế bào kị sắc</TenGPB>
+    <Name>Renal cell carcinoma, chromophobe type (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8318</MaNhomGPB>
+    <MaGPB>8318/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào thận dạng saccôm</TenGPB>
+    <Name>Renal cell carcinoma, sarcomatoid (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8319</MaNhomGPB>
+    <MaGPB>8319/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống góp</TenGPB>
+    <Name>Collecting duct carcinoma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8320</MaNhomGPB>
+    <MaGPB>8320/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào hạt</TenGPB>
+    <Name>Granular cell carcinoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8321</MaNhomGPB>
+    <MaGPB>8321/0</MaGPB>
+    <TenGPB>U tuyến tế bào chính</TenGPB>
+    <Name>Chief cell adenoma (C75.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8322</MaNhomGPB>
+    <MaGPB>8322/0</MaGPB>
+    <TenGPB>U tuyến tế bào nước- sáng</TenGPB>
+    <Name>Water- clear cell adenoma (C75.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8322</MaNhomGPB>
+    <MaGPB>8322/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào nước- sáng</TenGPB>
+    <Name>Water- clear cell adenocarcinoma (C75.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8323</MaNhomGPB>
+    <MaGPB>8323/0</MaGPB>
+    <TenGPB>U tuyến tế bào hỗn hợp</TenGPB>
+    <Name>Mixed cell adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8323</MaNhomGPB>
+    <MaGPB>8323/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tế bào hỗn hợp</TenGPB>
+    <Name>Mixed cell adenocarcinoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8324</MaNhomGPB>
+    <MaGPB>8324/0</MaGPB>
+    <TenGPB>U tuyến mỡ</TenGPB>
+    <Name>Lipoadenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8325</MaNhomGPB>
+    <MaGPB>8325/0</MaGPB>
+    <TenGPB>U tuyến hậu thận</TenGPB>
+    <Name>Metanephric adenoma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8330</MaNhomGPB>
+    <MaGPB>8330/0</MaGPB>
+    <TenGPB>U tuyến nang</TenGPB>
+    <Name>Follicular adenoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8330</MaNhomGPB>
+    <MaGPB>8330/1</MaGPB>
+    <TenGPB>U tuyến nang không điển hình</TenGPB>
+    <Name>Atypical follicular adenoma, (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8330</MaNhomGPB>
+    <MaGPB>8330/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nói chung</TenGPB>
+    <Name>Follicular adenocarcinoma, NOS (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8331</MaNhomGPB>
+    <MaGPB>8331/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang biệt hoá cao</TenGPB>
+    <Name>Follicular adenocarcinoma, well differentiated (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8332</MaNhomGPB>
+    <MaGPB>8332/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang thể bè</TenGPB>
+    <Name>Follicular adenocarcinoma, trabecular (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8333</MaNhomGPB>
+    <MaGPB>8333/0</MaGPB>
+    <TenGPB>U tuyến vi nang nói chung</TenGPB>
+    <Name>Microfollicular adenoma, NOS (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8333</MaNhomGPB>
+    <MaGPB>8333/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến bào thai</TenGPB>
+    <Name>Fetal adenocarcinoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8334</MaNhomGPB>
+    <MaGPB>8334/0</MaGPB>
+    <TenGPB>U tuyến nang lớn</TenGPB>
+    <Name>Macrofollicular adenoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8335</MaNhomGPB>
+    <MaGPB>8335/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể nang, xâm nhập tối thiểu</TenGPB>
+    <Name>Follicular carcinoma, minimally invasive (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8336</MaNhomGPB>
+    <MaGPB>8336/0</MaGPB>
+    <TenGPB>U tuyến thể bè thoái hoá trong</TenGPB>
+    <Name>Hyalinizing trabecular adenoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8337</MaNhomGPB>
+    <MaGPB>8337/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thuỳ đảo</TenGPB>
+    <Name>Insular carcinoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8340</MaNhomGPB>
+    <MaGPB>8340/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể nhú biến thể nang</TenGPB>
+    <Name>Papillary carcinoma, follicular variant (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8341</MaNhomGPB>
+    <MaGPB>8341/3</MaGPB>
+    <TenGPB>Vi ung thư biểu mô nhú</TenGPB>
+    <Name>Papillary microcarcinoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8342</MaNhomGPB>
+    <MaGPB>8342/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú tế bào ưa axit</TenGPB>
+    <Name>Papillary carcinoma, oxyphilic cell (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8343</MaNhomGPB>
+    <MaGPB>8343/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú, có vỏ</TenGPB>
+    <Name>Papillary carcinoma, encapsulated (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8344</MaNhomGPB>
+    <MaGPB>8344/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú, tế bào trụ</TenGPB>
+    <Name>Papillary carcinoma, columnar cell (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8345</MaNhomGPB>
+    <MaGPB>8345/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể tuỷ có mô đệm thoái hoá dạng tinh bột</TenGPB>
+    <Name>Medullary carcinoma with amyloid stroma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8346</MaNhomGPB>
+    <MaGPB>8346/3</MaGPB>
+    <TenGPB>Ung thư biểu mô hỗn hợp thể tuỷ- nang</TenGPB>
+    <Name>Mixed medullary- follicular carcinoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8347</MaNhomGPB>
+    <MaGPB>8347/3</MaGPB>
+    <TenGPB>Ung thư biểu mô hỗn hợp thể tuỷ- nhú</TenGPB>
+    <Name>Mixed medullary- papillary carcinoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8350</MaNhomGPB>
+    <MaGPB>8350/3</MaGPB>
+    <TenGPB>Ung thư biểu mô xơ hoá không vỏ</TenGPB>
+    <Name>Nonencapsulated sclerosing carcinoma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8360</MaNhomGPB>
+    <MaGPB>8360/1</MaGPB>
+    <TenGPB>U tuyến nội tiết nhiều ổ</TenGPB>
+    <Name>Multiple endocrine adenomas</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8361</MaNhomGPB>
+    <MaGPB>8361/0</MaGPB>
+    <TenGPB>U tế bào cận tiểu cầu thận</TenGPB>
+    <Name>Juxtaglomerular tumor (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8370</MaNhomGPB>
+    <MaGPB>8370/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận nói chung</TenGPB>
+    <Name>Adrenal cortical adenoma, NOS (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8370</MaNhomGPB>
+    <MaGPB>8370/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến vỏ thượng thận </TenGPB>
+    <Name>Adrenal cortical carcinoma (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8371</MaNhomGPB>
+    <MaGPB>8371/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận, tế bào đặc</TenGPB>
+    <Name>Adrenal cortical adenoma, compact cell (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8372</MaNhomGPB>
+    <MaGPB>8372/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận, có sắc tố</TenGPB>
+    <Name>Adrenal cortical adenoma, pigmented (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8373</MaNhomGPB>
+    <MaGPB>8373/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận, tế bào sáng</TenGPB>
+    <Name>Adrenal cortical adenoma, clear cell (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8374</MaNhomGPB>
+    <MaGPB>8374/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận tế bào tiểu cầu</TenGPB>
+    <Name>Adrenal cortical adenoma, glomerulosa cell (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8375</MaNhomGPB>
+    <MaGPB>8375/0</MaGPB>
+    <TenGPB>U tuyến vỏ thượng thận tế bào hỗn hợp</TenGPB>
+    <Name>Adrenal cortical adenoma, mixed cell (C74.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8380</MaNhomGPB>
+    <MaGPB>8380/0</MaGPB>
+    <TenGPB>U tuyến dạng nội mạc nói chung</TenGPB>
+    <Name>Endometrioid adenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8380</MaNhomGPB>
+    <MaGPB>8380/1</MaGPB>
+    <TenGPB>U tuyến dạng nội mạc giáp biên ác</TenGPB>
+    <Name>Endometrioid adenoma, borderline malignancy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8380</MaNhomGPB>
+    <MaGPB>8380/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dạng nội mạc nói chung</TenGPB>
+    <Name>Endometrioid adenocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8381</MaNhomGPB>
+    <MaGPB>8381/0</MaGPB>
+    <TenGPB>U xơ tuyến dạng nội mạc nói chung</TenGPB>
+    <Name>Endometrioid adenofibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8381</MaNhomGPB>
+    <MaGPB>8381/1</MaGPB>
+    <TenGPB>U xơ tuyến dạng nội mạc giáp biên ác</TenGPB>
+    <Name>Endometrioid adenofibroma, borderline malignancy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8381</MaNhomGPB>
+    <MaGPB>8381/3</MaGPB>
+    <TenGPB>U xơ tuyến dạng nội mạc ác tính</TenGPB>
+    <Name>Endometrioid adenofibroma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8382</MaNhomGPB>
+    <MaGPB>8382/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dạng nội mạc chế tiết</TenGPB>
+    <Name>Endometrioid adenocarcinoma, secretory variant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8383</MaNhomGPB>
+    <MaGPB>8383/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dạng nội mạc, biến thể tế bào có lông chuyển</TenGPB>
+    <Name>Endometrioid adenocarcinoma, ciliated cell variant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8384</MaNhomGPB>
+    <MaGPB>8384/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến típ cổ trong</TenGPB>
+    <Name>Adenocarcinoma, endocervical type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8390</MaNhomGPB>
+    <MaGPB>8390/0</MaGPB>
+    <TenGPB>U tuyến phụ thuộc da</TenGPB>
+    <Name>Skin appendage adenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8390</MaNhomGPB>
+    <MaGPB>8390/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến phụ thuộc da</TenGPB>
+    <Name>Skin appendage carcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8391</MaNhomGPB>
+    <MaGPB>8391/0</MaGPB>
+    <TenGPB>U xơ nang</TenGPB>
+    <Name>Follicular fibroma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8392</MaNhomGPB>
+    <MaGPB>8392/0</MaGPB>
+    <TenGPB>U xơ tuyến mồ hôi</TenGPB>
+    <Name>Syringofibroadenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8400</MaNhomGPB>
+    <MaGPB>8400/0</MaGPB>
+    <TenGPB>U tuyến tuyến mồ hôi</TenGPB>
+    <Name>Sweat gland adenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8400</MaNhomGPB>
+    <MaGPB>8400/1</MaGPB>
+    <TenGPB>U tuyến mồ hôi</TenGPB>
+    <Name>Sweat gland tumor, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8400</MaNhomGPB>
+    <MaGPB>8400/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến mồ hôi</TenGPB>
+    <Name>Sweat gland adenocarcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8401</MaNhomGPB>
+    <MaGPB>8401/0</MaGPB>
+    <TenGPB>U tuyến bán huỷ</TenGPB>
+    <Name>Apocrine adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8401</MaNhomGPB>
+    <MaGPB>8401/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến bán huỷ</TenGPB>
+    <Name>Apocrine adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8402</MaNhomGPB>
+    <MaGPB>8402/0</MaGPB>
+    <TenGPB>U tuyến mồ hôi thể cục</TenGPB>
+    <Name>Nodular hidradenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8402</MaNhomGPB>
+    <MaGPB>8402/3</MaGPB>
+    <TenGPB>U tuyến mồ hôi thể cục ác tính</TenGPB>
+    <Name>Nodular hidradenoma, malignant (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8403</MaNhomGPB>
+    <MaGPB>8403/0</MaGPB>
+    <TenGPB>U cuộn tuyến xuất tiết</TenGPB>
+    <Name>Eccrine spiradenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8403</MaNhomGPB>
+    <MaGPB>8403/3</MaGPB>
+    <TenGPB>U cuộn tuyến xuất tiết ác tính</TenGPB>
+    <Name>Malignant eccrine spiradenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8404</MaNhomGPB>
+    <MaGPB>8404/0</MaGPB>
+    <TenGPB>U nang dịch mồ hôi</TenGPB>
+    <Name>Hidrocystoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8405</MaNhomGPB>
+    <MaGPB>8405/0</MaGPB>
+    <TenGPB>U tuyến mồ hôi thể nhú</TenGPB>
+    <Name>Papillary hidradenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8406</MaNhomGPB>
+    <MaGPB>8406/0</MaGPB>
+    <TenGPB>U cuộn tuyến thể nhú</TenGPB>
+    <Name>Papillary syringadenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8407</MaNhomGPB>
+    <MaGPB>8407/0</MaGPB>
+    <TenGPB>U ống mồ hôi</TenGPB>
+    <Name>Syringoma, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8407</MaNhomGPB>
+    <MaGPB>8407/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống tuyến mồ hôi xơ cứng</TenGPB>
+    <Name>Sclerosing sweat duct carcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8408</MaNhomGPB>
+    <MaGPB>8408/0</MaGPB>
+    <TenGPB>U tuyến nhú xuất tiết</TenGPB>
+    <Name>Eccrine papillary adenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8408</MaNhomGPB>
+    <MaGPB>8408/1</MaGPB>
+    <TenGPB>U tuyến nhú da xâm nhập</TenGPB>
+    <Name>Aggressive digital papillary adenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8408</MaNhomGPB>
+    <MaGPB>8408/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhú xuất tiết</TenGPB>
+    <Name>Eccrine papillary adenocarcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8409</MaNhomGPB>
+    <MaGPB>8409/0</MaGPB>
+    <TenGPB>U lỗ chân lông xuất tiết</TenGPB>
+    <Name>Eccrine poroma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8409</MaNhomGPB>
+    <MaGPB>8409/3</MaGPB>
+    <TenGPB>U lỗ chân lông xuất tiết ác tính</TenGPB>
+    <Name>Eccrine poroma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8410</MaNhomGPB>
+    <MaGPB>8410/0</MaGPB>
+    <TenGPB>U tuyến tuyến bã</TenGPB>
+    <Name>Sebaceous adenoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8410</MaNhomGPB>
+    <MaGPB>8410/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến bã</TenGPB>
+    <Name>Sebaceous adenocarcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8413</MaNhomGPB>
+    <MaGPB>8413/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến xuất tiết tiết</TenGPB>
+    <Name>Eccrine adenocarcinoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8420</MaNhomGPB>
+    <MaGPB>8420/0</MaGPB>
+    <TenGPB>U tuyến tuyến ráy tai</TenGPB>
+    <Name>Ceruminous adenoma (C44.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8420</MaNhomGPB>
+    <MaGPB>8420/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến tuyến ráy tai</TenGPB>
+    <Name>Ceruminous adenocarcinoma(C44.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8430</MaNhomGPB>
+    <MaGPB>8430/1</MaGPB>
+    <TenGPB>U dạng thượng bì nhày</TenGPB>
+    <Name>Mucoepidermoid tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8430</MaNhomGPB>
+    <MaGPB>8430/3</MaGPB>
+    <TenGPB>Ung thư biểu mô dạng thượng bì nhày </TenGPB>
+    <Name>Mucoepidermoid carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8440</MaNhomGPB>
+    <MaGPB>8440/0</MaGPB>
+    <TenGPB>U tuyến nang nói chung</TenGPB>
+    <Name>Cystadenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8440</MaNhomGPB>
+    <MaGPB>8440/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nói chung</TenGPB>
+    <Name>Cystadenocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8441</MaNhomGPB>
+    <MaGPB>8441/0</MaGPB>
+    <TenGPB>U nang tuyến thanh dịch nói chung</TenGPB>
+    <Name>Serous cytadenoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8441</MaNhomGPB>
+    <MaGPB>8441/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang thanh dịch nói chung</TenGPB>
+    <Name>Serous cytadenocarcinoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8442</MaNhomGPB>
+    <MaGPB>8442/1</MaGPB>
+    <TenGPB>U tuyến nang thanh dịch giáp biên ác</TenGPB>
+    <Name>Serous cystadenoma, borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8443</MaNhomGPB>
+    <MaGPB>8443/0</MaGPB>
+    <TenGPB>U tuyến nang tế bào sáng</TenGPB>
+    <Name>Clear cell cystadenoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8444</MaNhomGPB>
+    <MaGPB>8444/1</MaGPB>
+    <TenGPB>U nang tế bào sáng giáp biên ác</TenGPB>
+    <Name>Clear cell cystic tumor of borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8450</MaNhomGPB>
+    <MaGPB>8450/0</MaGPB>
+    <Name>Papillary cystadenoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8450</MaNhomGPB>
+    <MaGPB>8450/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nhú nói chung</TenGPB>
+    <Name>Papillary cystadenocarcinoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8451</MaNhomGPB>
+    <MaGPB>8451/1</MaGPB>
+    <TenGPB>U tuyến nang nhú giáp biên ác</TenGPB>
+    <Name>Papillary cystadenoma, borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8452</MaNhomGPB>
+    <MaGPB>8452/1</MaGPB>
+    <TenGPB>U giả nhú thể đặc</TenGPB>
+    <Name>Solid pseudopapillary tumor (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8452</MaNhomGPB>
+    <MaGPB>8452/3</MaGPB>
+    <TenGPB>Ung thư biểu mô giả nhú đặc</TenGPB>
+    <Name>Solid pseudopapillary carcinoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8453</MaNhomGPB>
+    <MaGPB>8453/0</MaGPB>
+    <TenGPB>U tuyến nhày- nhú nội ống</TenGPB>
+    <Name>Intraductal papillary- mucinous adenoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8453</MaNhomGPB>
+    <MaGPB>8453/1</MaGPB>
+    <TenGPB>U nhày- nhú nội ống loạn sản vừa</TenGPB>
+    <Name>Intraductal papillary- mucinous tumor with moderate dysplasia (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8453</MaNhomGPB>
+    <MaGPB>8453/2</MaGPB>
+    <TenGPB>Ung thư biểu mô nhày nhú nội ống không xâm lấn</TenGPB>
+    <Name>Intraductal papillary- Mucinous carcinoma, non- invasive (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8453</MaNhomGPB>
+    <MaGPB>8453/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhày nhú nội ống xâm lấn</TenGPB>
+    <Name>Intraductal papillary- Mucinous carcinoma, invasive (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8454</MaNhomGPB>
+    <MaGPB>8454/0</MaGPB>
+    <TenGPB>U nang nút nhĩ- thất</TenGPB>
+    <Name>Cystic tumor of atrio- ventricular node (C38.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8460</MaNhomGPB>
+    <MaGPB>8460/0</MaGPB>
+    <TenGPB>U tuyến nang nhú thanh dịch</TenGPB>
+    <Name>Papillary serous cystadenoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8460</MaNhomGPB>
+    <MaGPB>8460/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nhú thanh dịch</TenGPB>
+    <Name>Papillary serous cystadenocarcinoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8461</MaNhomGPB>
+    <MaGPB>8461/0</MaGPB>
+    <TenGPB>U nhú thanh dịch bề mặt</TenGPB>
+    <Name>Serous surface papilloma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8461</MaNhomGPB>
+    <MaGPB>8461/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nhú thanh dịch bề mặt</TenGPB>
+    <Name>Serous surface papillary carcinoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8462</MaNhomGPB>
+    <MaGPB>8462/1</MaGPB>
+    <TenGPB>U nang nhú thanh dịch giáp biên ác tính</TenGPB>
+    <Name>Serous papillary cystic tumor of borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8463</MaNhomGPB>
+    <MaGPB>8463/1</MaGPB>
+    <TenGPB>U nhú thanh dịch bề mặt giáp biên ác tính</TenGPB>
+    <Name>Serous surface papillary tumor of borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8470</MaNhomGPB>
+    <MaGPB>8470/0</MaGPB>
+    <TenGPB>U tuyến nang nhầy nói chung</TenGPB>
+    <Name>Mucinous cystadenoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8470</MaNhomGPB>
+    <MaGPB>8470/1</MaGPB>
+    <TenGPB>U nang nhầy có loạn sản vừa</TenGPB>
+    <Name>Mucinous cystic tumor with moderate dysplasia (C25.)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8470</MaNhomGPB>
+    <MaGPB>8470/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nhầy không xâm lấn</TenGPB>
+    <Name>Mucinous cystadenocarcinoma, non- invasive (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8470</MaNhomGPB>
+    <MaGPB>8470/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nhầy nói chung</TenGPB>
+    <Name>Mucinous cystadenocarcinoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8471</MaNhomGPB>
+    <MaGPB>8471/0</MaGPB>
+    <TenGPB>U tuyến nang nhầy nhú nói chung</TenGPB>
+    <Name>Papillary mucinous cystadenoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8471</MaNhomGPB>
+    <MaGPB>8471/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang nhày nhú</TenGPB>
+    <Name>Papillary mucinous cystadenocarcinoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8472</MaNhomGPB>
+    <MaGPB>8472/1</MaGPB>
+    <TenGPB>U nang nhầy giáp biên ác tính</TenGPB>
+    <Name>Mucinous cystic tumor of  borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8473</MaNhomGPB>
+    <MaGPB>8473/1</MaGPB>
+    <TenGPB>U tuyến nang nhầy nhú giáp biên ác tính</TenGPB>
+    <Name>Papillary mucinous cystadenoma, borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8480</MaNhomGPB>
+    <MaGPB>8480/0</MaGPB>
+    <TenGPB>U tuyến nhầy</TenGPB>
+    <Name>Mucinous adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8480</MaNhomGPB>
+    <MaGPB>8480/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhầy</TenGPB>
+    <Name>Mucinous adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8480</MaNhomGPB>
+    <MaGPB>8480/6</MaGPB>
+    <TenGPB>Giả u nhầy màng bụng</TenGPB>
+    <Name>Pseudomyxoma peritonei</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8481</MaNhomGPB>
+    <MaGPB>8481/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến chế nhầy</TenGPB>
+    <Name>Mucin- producing adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8482</MaNhomGPB>
+    <MaGPB>8482/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhày típ cổ trong</TenGPB>
+    <Name>Mucinous adenocarcinoma, endocervical type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8490</MaNhomGPB>
+    <MaGPB>8490/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhẫn</TenGPB>
+    <Name>Signet ring cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8490</MaNhomGPB>
+    <MaGPB>8490/6</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào nhẫn di căn</TenGPB>
+    <Name>Metastatic signet ring cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8500</MaNhomGPB>
+    <MaGPB>8500/2</MaGPB>
+    <TenGPB>Ung thư biểu mô nội ống không xâm nhập nói chung</TenGPB>
+    <Name>Intraductal carcinoma, noninfiltrating, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8500</MaNhomGPB>
+    <MaGPB>8500/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống xâm lấn nói chung</TenGPB>
+    <Name>Infiltrating duct carcinoma, NOS (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8501</MaNhomGPB>
+    <MaGPB>8501/2</MaGPB>
+    <TenGPB>Ung thư biểu mô trứng cá không xâm lấn</TenGPB>
+    <Name>Comedocarcinoma, noninfiltrating (C50.)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8501</MaNhomGPB>
+    <MaGPB>8501/3</MaGPB>
+    <TenGPB>Ung thư biểu mô trứng cá nói chung</TenGPB>
+    <Name>Comedocarcinoma, NOS (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8502</MaNhomGPB>
+    <MaGPB>8502/3</MaGPB>
+    <TenGPB>Ung thư biểu mô chế tiết của tuyến vú</TenGPB>
+    <Name>Secretory carcinoma of breast (C50_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8503</MaNhomGPB>
+    <MaGPB>8503/0</MaGPB>
+    <TenGPB>U nhú nội ống</TenGPB>
+    <Name>Intraductal papilloma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8503</MaNhomGPB>
+    <MaGPB>8503/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhú nội ống không xâm lấn</TenGPB>
+    <Name>Noninfiltrating intraductal papillary adenocarcinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8503</MaNhomGPB>
+    <MaGPB>8503/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nhú nội ống xâm nhập</TenGPB>
+    <Name>Intraductal papillary adenocarcinoma with invasion (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8504</MaNhomGPB>
+    <MaGPB>8504/0</MaGPB>
+    <TenGPB>U tuyến nhú nội nang</TenGPB>
+    <Name>Intracystic papillary adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8504</MaNhomGPB>
+    <MaGPB>8504/2</MaGPB>
+    <TenGPB>Ung thư biểu mô nội nang không xâm lấn</TenGPB>
+    <Name>Noninfiltrating intracystic carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8504</MaNhomGPB>
+    <MaGPB>8504/3</MaGPB>
+    <TenGPB>Ung thư biểu mô nội nang nói chung</TenGPB>
+    <Name>Intracystic carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8505</MaNhomGPB>
+    <MaGPB>8505/0</MaGPB>
+    <TenGPB>Bệnh u nhú nội ống nói chung</TenGPB>
+    <Name>Intraductal papillomatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8506</MaNhomGPB>
+    <MaGPB>8506/0</MaGPB>
+    <TenGPB>U tuyến của núm vú</TenGPB>
+    <Name>Adenoma of nipple (C50.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8507</MaNhomGPB>
+    <MaGPB>8507/2</MaGPB>
+    <TenGPB>Ung thư biểu mô vi nhú nội ống</TenGPB>
+    <Name>Intraductal micropapillary carcinoma (C50.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8508</MaNhomGPB>
+    <MaGPB>8508/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tăng chế tiết nang hóa</TenGPB>
+    <Name>Cystic hypersecretory carcinoma (C50.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8510</MaNhomGPB>
+    <MaGPB>8510/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuỷ nói chung</TenGPB>
+    <Name>Medullary carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8512</MaNhomGPB>
+    <MaGPB>8512/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuỷ có mô đệm limphô</TenGPB>
+    <Name>Medullary carcinoma with lymphoid stroma (C73.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8513</MaNhomGPB>
+    <MaGPB>8513/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thể tuỷ không điển hình</TenGPB>
+    <Name>Atypical medullary carcinoma (C50.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8514</MaNhomGPB>
+    <MaGPB>8514/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống típ tạo xơ</TenGPB>
+    <Name>Duct carcinoma, desmoplastic type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8520</MaNhomGPB>
+    <MaGPB>8520/2</MaGPB>
+    <TenGPB>Ung thư biểu mô tiểu thuỳ tại chỗ nói chung</TenGPB>
+    <Name>Lobular carcinoma in situ, NOS (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8520</MaNhomGPB>
+    <MaGPB>8520/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thuỳ nói chung</TenGPB>
+    <Name>Lobular carcinoma, NOS (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8521</MaNhomGPB>
+    <MaGPB>8521/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tiểu ống xâm lấn</TenGPB>
+    <Name>Infiltrating ductular carcinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8522</MaNhomGPB>
+    <MaGPB>8522/2</MaGPB>
+    <TenGPB>Ung thư biểu mô nội ống và tiểu thuỳ tại chỗ</TenGPB>
+    <Name>Intraductal carcinoma and lobular carcinoma in situ (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8522</MaNhomGPB>
+    <MaGPB>8522/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống xâm lấn và thuỳ</TenGPB>
+    <Name>Infiltrating duct and lobular carcinoma (C50.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8523</MaNhomGPB>
+    <MaGPB>8523/3</MaGPB>
+    <TenGPB>Ung thư biểu mô ống xâm lấn phối hợp với các típ khác</TenGPB>
+    <Name>Infiltrating duct mixed with other types of carcinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8524</MaNhomGPB>
+    <MaGPB>8524/3</MaGPB>
+    <TenGPB>Ung thư biểu mô thuỳ xâm lấn phối hợp với các típ khác</TenGPB>
+    <Name>Infiltrating lobular mixed with other types of carinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8525</MaNhomGPB>
+    <MaGPB>8525/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến đa hình độ ác tính thấp</TenGPB>
+    <Name>Polymorphous low grade adenocarcinoma.</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8530</MaNhomGPB>
+    <MaGPB>8530/3</MaGPB>
+    <TenGPB>Ung thư biểu mô viêm</TenGPB>
+    <Name>Inflammatory carcinoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8540</MaNhomGPB>
+    <MaGPB>8540/3</MaGPB>
+    <TenGPB>Bệnh Paget của vú</TenGPB>
+    <Name>Paget disease, mammary (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8541</MaNhomGPB>
+    <MaGPB>8541/3</MaGPB>
+    <TenGPB>Bệnh Paget và ung thư biểu mô ống xâm lấn của vú</TenGPB>
+    <Name>Paget disease and infiltrating duct carcinoma of breast (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8542</MaNhomGPB>
+    <MaGPB>8542/3</MaGPB>
+    <TenGPB>Bệnh Paget ngoài vú</TenGPB>
+    <Name>Paget disease, extramammary</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8543</MaNhomGPB>
+    <MaGPB>8543/3</MaGPB>
+    <TenGPB>Bệnh Paget và ung thư nội ống của vú</TenGPB>
+    <Name>Paget disease and intraductal carcinoma of breast (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8550</MaNhomGPB>
+    <MaGPB>8550/0</MaGPB>
+    <TenGPB>U tuyến tế bào túi tuyến</TenGPB>
+    <Name>Acinar cell adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8550</MaNhomGPB>
+    <MaGPB>8550/1</MaGPB>
+    <TenGPB>U tế bào túi tuyến</TenGPB>
+    <Name>Acinar cell tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8550</MaNhomGPB>
+    <MaGPB>8550/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào túi tuyến</TenGPB>
+    <Name>Acinar cell carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8551</MaNhomGPB>
+    <MaGPB>8551/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến nang tế bào túi tuyến</TenGPB>
+    <Name>Acinar cell cystadenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8560</MaNhomGPB>
+    <MaGPB>8560/0</MaGPB>
+    <TenGPB>U nhú hỗn hợp tế bào tuyến và vảy</TenGPB>
+    <Name>Mixed squamous cell and glandular papilloma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8560</MaNhomGPB>
+    <MaGPB>8560/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến vảy</TenGPB>
+    <Name>Adenosquamous carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8561</MaNhomGPB>
+    <MaGPB>8561/0</MaGPB>
+    <TenGPB>U limphô tuyến</TenGPB>
+    <Name>Adenolymphoma (C07._, C08._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8562</MaNhomGPB>
+    <MaGPB>8562/3</MaGPB>
+    <TenGPB>Ung thư biểu mô- cơ biểu mô</TenGPB>
+    <Name>Epithelial- myoepithelial carcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8570</MaNhomGPB>
+    <MaGPB>8570/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến có dị sản vảy</TenGPB>
+    <Name>Adenocarcinoma with squamous metaplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8571</MaNhomGPB>
+    <MaGPB>8571/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến có dị sản sụn và sương</TenGPB>
+    <Name>Adenocarcinoma with cartilaginous and osseous metaplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8572</MaNhomGPB>
+    <MaGPB>8572/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dị sản tế bào hình thoi</TenGPB>
+    <Name>Adenocarcinoma with spindle cell metaplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8573</MaNhomGPB>
+    <MaGPB>8573/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dị sản bán huỷ</TenGPB>
+    <Name>Adenocarcinoma with apocrine metaplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8574</MaNhomGPB>
+    <MaGPB>8574/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến có biệt hoá thần kinh nội tiết</TenGPB>
+    <Name>Adenocarcinoma with neuroendocrine differentiation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8575</MaNhomGPB>
+    <MaGPB>8575/3</MaGPB>
+    <TenGPB>Ung thư biểu mô dị sản nói chung</TenGPB>
+    <Name>Metaplastic carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8576</MaNhomGPB>
+    <MaGPB>8576/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến dạng tế bào gan</TenGPB>
+    <Name>Hepatoid adenocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8580</MaNhomGPB>
+    <MaGPB>8580/0</MaGPB>
+    <TenGPB>U tuyến ức lành tính</TenGPB>
+    <Name>Thymoma, benign (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8580</MaNhomGPB>
+    <MaGPB>8580/1</MaGPB>
+    <TenGPB> U tuyến ức nói chung</TenGPB>
+    <Name>Thymoma, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8580</MaNhomGPB>
+    <MaGPB>8580/3</MaGPB>
+    <TenGPB>U tuyến ức ác tính nói chung</TenGPB>
+    <Name>Thymoma, malignant, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8581</MaNhomGPB>
+    <MaGPB>8581/1</MaGPB>
+    <TenGPB>U tuyến ức típ A nói chung</TenGPB>
+    <Name>Thymoma, type A, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8581</MaNhomGPB>
+    <MaGPB>8581/3</MaGPB>
+    <TenGPB>U tuyến ức típ A ác tính</TenGPB>
+    <Name>Thymoma, type A, malignant (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8582</MaNhomGPB>
+    <MaGPB>8582/1</MaGPB>
+    <TenGPB>U tuyến ức típ AB nói chung</TenGPB>
+    <Name>Thymoma, type AB, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8582</MaNhomGPB>
+    <MaGPB>8582/3</MaGPB>
+    <TenGPB>U tuyến ức típ AB ác tính</TenGPB>
+    <Name>Thymoma, type AB, malignant (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8583</MaNhomGPB>
+    <MaGPB>8583/1</MaGPB>
+    <TenGPB>U tuyến ức típ B1 nói chung</TenGPB>
+    <Name>Thymoma, type B1, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8583</MaNhomGPB>
+    <MaGPB>8583/3</MaGPB>
+    <TenGPB>U tuyến ức típ B1 ác tính</TenGPB>
+    <Name>Thymoma, type B1, malignant (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8584</MaNhomGPB>
+    <MaGPB>8584/1</MaGPB>
+    <TenGPB>U tuyến ức típ B2 nói chung</TenGPB>
+    <Name>Thymoma, type B2, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8584</MaNhomGPB>
+    <MaGPB>8584/3</MaGPB>
+    <TenGPB>U tuyến ức típ B2 ác tính</TenGPB>
+    <Name>Thymoma, type B2, malignant (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8585</MaNhomGPB>
+    <MaGPB>8585/1</MaGPB>
+    <TenGPB>U tuyến ức típ B3 nói chung</TenGPB>
+    <Name>Thymoma, type B3, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8585</MaNhomGPB>
+    <MaGPB>8585/3</MaGPB>
+    <TenGPB>U tuyến ức típ B3 ác tính</TenGPB>
+    <Name>Thymoma, type B3, malignant (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8586</MaNhomGPB>
+    <MaGPB>8586/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tuyến ức nói chung</TenGPB>
+    <Name>Thymic carcinoma, NOS (C37.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8587</MaNhomGPB>
+    <MaGPB>8587/0</MaGPB>
+    <TenGPB>U tuyến ức lạc chỗ</TenGPB>
+    <Name>Ectopic hamartomatous thymoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8588</MaNhomGPB>
+    <MaGPB>8588/3</MaGPB>
+    <TenGPB>U biểu mô tế bào hình thoi có thành phần giống tuyến ức</TenGPB>
+    <Name>Spindle epithelial tumor with thymus- like element</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8589</MaNhomGPB>
+    <MaGPB>8589/3</MaGPB>
+    <TenGPB>Ung thư biểu mô có thành phần giống tuyến ức</TenGPB>
+    <Name>Carcinoma showing thymus- like element</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8590</MaNhomGPB>
+    <MaGPB>8590/1</MaGPB>
+    <TenGPB>U mô đệm dây tuyến sinh dục nói chung</TenGPB>
+    <Name>Sex cord- gonadal stromal tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8591</MaNhomGPB>
+    <MaGPB>8591/1</MaGPB>
+    <TenGPB>U mô đệm dây tuyến sinh dục biệt hoá không hoàn toàn</TenGPB>
+    <Name>Sex cord- gonadal stromal tumor, incompletely diferentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8592</MaNhomGPB>
+    <MaGPB>8592/1</MaGPB>
+    <TenGPB>U mô đệm dây tuyến sinh dục thể hỗn hợp</TenGPB>
+    <Name>Sex cord- gonadal stromal tumor, mixed form</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8593</MaNhomGPB>
+    <MaGPB>8593/1</MaGPB>
+    <TenGPB>U mô đệm có thành phần dây sinh dục tối thiểu</TenGPB>
+    <Name>Stromal tumor with minor sex cord elements (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8600</MaNhomGPB>
+    <MaGPB>8600/0</MaGPB>
+    <TenGPB>U tế bào vỏ nói chung</TenGPB>
+    <Name>Thecoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8600</MaNhomGPB>
+    <MaGPB>8600/3</MaGPB>
+    <TenGPB>U tế bào vỏ ác tính</TenGPB>
+    <Name>Thecoma, malignant (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8601</MaNhomGPB>
+    <MaGPB>8601/0</MaGPB>
+    <TenGPB>U tế bào vỏ noãn hoàng</TenGPB>
+    <Name>Thecoma, luteinized (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8602</MaNhomGPB>
+    <MaGPB>8602/0</MaGPB>
+    <TenGPB>U mô đệm xơ cứng</TenGPB>
+    <Name>Sclerosing stromal tumor (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8610</MaNhomGPB>
+    <MaGPB>8610/0</MaGPB>
+    <TenGPB>U noãn hoàng nói chung</TenGPB>
+    <Name>Luteoma, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8620</MaNhomGPB>
+    <MaGPB>8620/1</MaGPB>
+    <TenGPB>U tế bào hạt, típ trưởng thành</TenGPB>
+    <Name>Granulosa cell tumor, adult type (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8620</MaNhomGPB>
+    <MaGPB>8620/3</MaGPB>
+    <TenGPB>U tế bào hạt ác tính</TenGPB>
+    <Name>Granulosa cell tumor, malignant (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8621</MaNhomGPB>
+    <MaGPB>8621/1</MaGPB>
+    <TenGPB>U tế bào hạt- tế bào vỏ</TenGPB>
+    <Name>Granulosa cell- theca cell tumor (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8622</MaNhomGPB>
+    <MaGPB>8622/1</MaGPB>
+    <TenGPB>U tế bào hạt thiếu niên</TenGPB>
+    <Name>Granulosa cell tumor, juvenile (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8623</MaNhomGPB>
+    <MaGPB>8623/1</MaGPB>
+    <TenGPB>U dây sinh dục có ống tuyến vòng</TenGPB>
+    <Name>Sex cord tumor with annular tubules (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8630</MaNhomGPB>
+    <MaGPB>8630/0</MaGPB>
+    <TenGPB>U nguyên bào nam tính lành</TenGPB>
+    <Name>Androblastoma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8630</MaNhomGPB>
+    <MaGPB>8630/1</MaGPB>
+    <TenGPB>U nguyên bào nam tính nói chung</TenGPB>
+    <Name>Androblastoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8630</MaNhomGPB>
+    <MaGPB>8630/3</MaGPB>
+    <TenGPB>U nguyên bào nam tính ác tính</TenGPB>
+    <Name>Androblastoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8631</MaNhomGPB>
+    <MaGPB>8631/0</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig biệt hoá cao</TenGPB>
+    <Name>Sertoli- Leydig cell tumor, well differentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8631</MaNhomGPB>
+    <MaGPB>8631/1</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig biệt hoá vừa</TenGPB>
+    <Name>Sertoli- Leydig cell tumor of intermediate differentiation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8631</MaNhomGPB>
+    <MaGPB>8631/3</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig ít biệt hoá </TenGPB>
+    <Name>Sertoli- Leydig cell tumor, poorly differentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8632</MaNhomGPB>
+    <MaGPB>8632/1</MaGPB>
+    <TenGPB>U nguyên bào lưỡng tính</TenGPB>
+    <Name>Gynandroblastoma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8633</MaNhomGPB>
+    <MaGPB>8633/1</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig biệt hoá dạng lưới</TenGPB>
+    <Name>Sertoli- Leydig cell tumor, well differentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8634</MaNhomGPB>
+    <MaGPB>8634/1</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig biệt hoá vừa với thành phần không đồng nhất</TenGPB>
+    <Name>Sertoli- Leydig cell tumor, intermediate differentiated, with heterologous elements</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8634</MaNhomGPB>
+    <MaGPB>8634/3</MaGPB>
+    <TenGPB>U tế bào Sertoli- Leydig ít biệt hoá với thành phần không đồng nhất </TenGPB>
+    <Name>Sertoli- Leydig cell tumor, poorly differentiated, with heterologous elements</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8640</MaNhomGPB>
+    <MaGPB>8640/1</MaGPB>
+    <TenGPB>U tế bào Sertoli nói chung </TenGPB>
+    <Name>Sertoli cell tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8640</MaNhomGPB>
+    <MaGPB>8640/3</MaGPB>
+    <TenGPB>Ung thư biểu mô tế bào Sertoli</TenGPB>
+    <Name>Sertoli cell carcinoma (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8641</MaNhomGPB>
+    <MaGPB>8641/0</MaGPB>
+    <TenGPB>U tế bào Sertoli chứa mỡ</TenGPB>
+    <Name>Sertoli cell tumor with lipid storage</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8642</MaNhomGPB>
+    <MaGPB>8642/1</MaGPB>
+    <TenGPB>U tế bào Sertoli canxi hoá tế bào lớn</TenGPB>
+    <Name>Large cell calcifying Sertoli cell tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8650</MaNhomGPB>
+    <MaGPB>8650/0</MaGPB>
+    <TenGPB>U tế bào Leydig lành</TenGPB>
+    <Name>Leydig cell tumor, benign (C26._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8650</MaNhomGPB>
+    <MaGPB>8650/1</MaGPB>
+    <TenGPB>U tế bào Leydig nói chung</TenGPB>
+    <Name>Leydig cell tumor, NOS (C26._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8650</MaNhomGPB>
+    <MaGPB>8650/3</MaGPB>
+    <TenGPB>U tế bào Leydig ác tính</TenGPB>
+    <Name>Leydig cell tumor, malignant(C26._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8660</MaNhomGPB>
+    <MaGPB>8660/0</MaGPB>
+    <TenGPB>U tế bào rốn</TenGPB>
+    <Name>Hilus cell tumor (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8670</MaNhomGPB>
+    <MaGPB>8670/0</MaGPB>
+    <TenGPB>U tế bào mỡ của buồng trứng</TenGPB>
+    <Name>Lipid cell tumor of ovary (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8670</MaNhomGPB>
+    <MaGPB>8670/3</MaGPB>
+    <TenGPB>U tế bào Steroid ác tính</TenGPB>
+    <Name>Steroid cell tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8671</MaNhomGPB>
+    <MaGPB>8671/0</MaGPB>
+    <TenGPB>U mảnh sót tuyến thượng thận</TenGPB>
+    <Name>Adrenal rest tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8680</MaNhomGPB>
+    <MaGPB>8680/0</MaGPB>
+    <TenGPB>U cận hạch lành</TenGPB>
+    <Name>Paraganglioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8680</MaNhomGPB>
+    <MaGPB>8680/1</MaGPB>
+    <TenGPB>U cận hạch nói chung</TenGPB>
+    <Name>Paraganglioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8680</MaNhomGPB>
+    <MaGPB>8680/3</MaGPB>
+    <TenGPB>U cận hạch ác tính</TenGPB>
+    <Name>Paraganglioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8681</MaNhomGPB>
+    <MaGPB>8681/1</MaGPB>
+    <TenGPB>U cận hạch giao cảm</TenGPB>
+    <Name>Sympathetic paraganglioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8682</MaNhomGPB>
+    <MaGPB>8682/1</MaGPB>
+    <TenGPB>U cận hạch phó giao cảm</TenGPB>
+    <Name>Parasympathetic paraganglioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8683</MaNhomGPB>
+    <MaGPB>8683/0</MaGPB>
+    <TenGPB>U cận hạch tế bào hạch</TenGPB>
+    <Name>Gangliocytic paraganglioma (C17.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8690</MaNhomGPB>
+    <MaGPB>8690/1</MaGPB>
+    <TenGPB>U cuộn mạch cổ nói chung</TenGPB>
+    <Name>Glomus jugulare tumor, NOS (C75.5)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8691</MaNhomGPB>
+    <MaGPB>8691/1</MaGPB>
+    <TenGPB>U thể động mạch chủ</TenGPB>
+    <Name>Aortic body tumor (C75.5)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8692</MaNhomGPB>
+    <MaGPB>8692/1</MaGPB>
+    <TenGPB>U thể cảnh</TenGPB>
+    <Name>Carotid body tumor (C75.4)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8693</MaNhomGPB>
+    <MaGPB>8693/1</MaGPB>
+    <TenGPB>U cận hạch ngoài thượng thận nói chung</TenGPB>
+    <Name>Extra- adrenal paraganglioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8693</MaNhomGPB>
+    <MaGPB>8693/3</MaGPB>
+    <TenGPB>U cận hạch ngoài thượng thận ác tính</TenGPB>
+    <Name>Extra- adrenal paraganglioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8700</MaNhomGPB>
+    <MaGPB>8700/0</MaGPB>
+    <TenGPB>U sắc bào nói chung</TenGPB>
+    <Name>Pheochromocytoma, NOS (C74.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8700</MaNhomGPB>
+    <MaGPB>8700/3</MaGPB>
+    <TenGPB>U sắc bào ác tính</TenGPB>
+    <Name>Pheochromocytoma, malignant (C74.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8710</MaNhomGPB>
+    <MaGPB>8710/3</MaGPB>
+    <TenGPB>Saccôm cuộn mạch</TenGPB>
+    <Name>Glomangiosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8711</MaNhomGPB>
+    <MaGPB>8711/0</MaGPB>
+    <TenGPB>U cuộn mạch nói chung</TenGPB>
+    <Name>Glomus tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8711</MaNhomGPB>
+    <MaGPB>8711/3</MaGPB>
+    <TenGPB>U cuộn mạch ác tính</TenGPB>
+    <Name>Glomus tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8712</MaNhomGPB>
+    <MaGPB>8712/0</MaGPB>
+    <TenGPB>U cuộn mạch</TenGPB>
+    <Name>Glomangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8713</MaNhomGPB>
+    <MaGPB>8713/0</MaGPB>
+    <TenGPB>U cuộn mạch cơ</TenGPB>
+    <Name>Glomangiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8720</MaNhomGPB>
+    <MaGPB>8720/0</MaGPB>
+    <TenGPB>Nơ vi nhiễm sắc tố nói chung</TenGPB>
+    <Name>Pigmented nevus, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8720</MaNhomGPB>
+    <MaGPB>8720/2</MaGPB>
+    <TenGPB>U hắc tố tại chỗ</TenGPB>
+    <Name>Melanoma in situ</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8720</MaNhomGPB>
+    <MaGPB>8720/3</MaGPB>
+    <TenGPB>U hắc tố ác tính nói chung</TenGPB>
+    <Name>Malignant melanoma, NOS </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8721</MaNhomGPB>
+    <MaGPB>8721/3</MaGPB>
+    <TenGPB>U hắc tố thể cục</TenGPB>
+    <Name>Nodular melanoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8722</MaNhomGPB>
+    <MaGPB>8722/0</MaGPB>
+    <TenGPB>Nơ vi tế bào phồng</TenGPB>
+    <Name>Balloon cell nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8722</MaNhomGPB>
+    <MaGPB>8722/3</MaGPB>
+    <TenGPB>U hắc tố tế bào phồng</TenGPB>
+    <Name>Balloon cell melanoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8723</MaNhomGPB>
+    <MaGPB>8723/0</MaGPB>
+    <TenGPB>Nơ vi quầng</TenGPB>
+    <Name>Halo nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8723</MaNhomGPB>
+    <MaGPB>8723/3</MaGPB>
+    <TenGPB>U hắc tố ác tính thoái triển</TenGPB>
+    <Name>Malignant melanoma, regressing (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8725</MaNhomGPB>
+    <MaGPB>8725/0</MaGPB>
+    <TenGPB>Nơ vi thần kinh</TenGPB>
+    <Name>Neuronevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8726</MaNhomGPB>
+    <MaGPB>8726/0</MaGPB>
+    <TenGPB>Nơ vi tế bào lớn</TenGPB>
+    <Name>Magnocellular nevus (C69.4)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8727</MaNhomGPB>
+    <MaGPB>8727/0</MaGPB>
+    <TenGPB>Nơ vi loạn sản</TenGPB>
+    <Name>Dysplastic nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8728</MaNhomGPB>
+    <MaGPB>8728/0</MaGPB>
+    <TenGPB>Bệnh hắc tố bào lan toả</TenGPB>
+    <Name>Diffuse melanocytosis (C70.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8728</MaNhomGPB>
+    <MaGPB>8728/1</MaGPB>
+    <TenGPB>U hắc tố bào màng não</TenGPB>
+    <Name>Meningeal melanocytoma (C70.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8728</MaNhomGPB>
+    <MaGPB>8728/3</MaGPB>
+    <TenGPB>Bệnh hắc tố bào màng não</TenGPB>
+    <Name>Meningeal melanocytosis (C70.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8730</MaNhomGPB>
+    <MaGPB>8730/0</MaGPB>
+    <TenGPB>Nơ vi không nhiễm sắc tố</TenGPB>
+    <Name>Nonpigmented nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8730</MaNhomGPB>
+    <MaGPB>8730/3</MaGPB>
+    <TenGPB>U hắc tố không hắc tố</TenGPB>
+    <Name>Amelanotic melanoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8740</MaNhomGPB>
+    <MaGPB>8740/0</MaGPB>
+    <TenGPB>Nơ vi bì- biểu bì nói chung</TenGPB>
+    <Name>Junctional nevus, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8740</MaNhomGPB>
+    <MaGPB>8740/3</MaGPB>
+    <TenGPB>U hắc tố ác tính trong nơ vi bì- biểu bì</TenGPB>
+    <Name>Malignant melanoma in junctional nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8741</MaNhomGPB>
+    <MaGPB>8741/2</MaGPB>
+    <TenGPB>Bệnh hắc tố tiền ung thư nói chung</TenGPB>
+    <Name>Precancerous melanosis, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8741</MaNhomGPB>
+    <MaGPB>8741/3</MaGPB>
+    <TenGPB>U hắc tố ác tính trong bệnh hắc tố tiền ung thư</TenGPB>
+    <Name>Malignant melanoma in precancerous melanosis (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8742</MaNhomGPB>
+    <MaGPB>8742/2</MaGPB>
+    <TenGPB>Nốt ruồi son ác tính</TenGPB>
+    <Name>Lentigo maligna (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8742</MaNhomGPB>
+    <MaGPB>8742/3</MaGPB>
+    <TenGPB>U hắc tố ác tính nốt ruồi son</TenGPB>
+    <Name>Lentigo maligna melanoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8743</MaNhomGPB>
+    <MaGPB>8743/3</MaGPB>
+    <TenGPB>U hắc tố lan rộng nông</TenGPB>
+    <Name>Superficial spreading melanoma (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8744</MaNhomGPB>
+    <MaGPB>8744/3</MaGPB>
+    <TenGPB>U hắc tố đỉnh nốt ruồi son ác tính</TenGPB>
+    <Name>Acral lentiginous melanoma, malignant (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8745</MaNhomGPB>
+    <MaGPB>8745/3</MaGPB>
+    <TenGPB>U hắc tố tạo xơ ác tính</TenGPB>
+    <Name>Desmoplastic melanoma, malignant (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8746</MaNhomGPB>
+    <MaGPB>8746/3</MaGPB>
+    <TenGPB>U hắc tố nốt ruồi son niêm mạc</TenGPB>
+    <Name>Mucosal lentiginous melanoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8750</MaNhomGPB>
+    <MaGPB>8750/0</MaGPB>
+    <TenGPB>Nơ vi nội bì</TenGPB>
+    <Name>Intradermal nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8757</MaNhomGPB>
+    <MaGPB>8757/3</MaGPB>
+    <TenGPB>U enteroglucagon ác tính</TenGPB>
+    <Name>Enteroglucagonoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8760</MaNhomGPB>
+    <MaGPB>8760/0</MaGPB>
+    <TenGPB>Nơ vi hỗn hợp</TenGPB>
+    <Name>Compound nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8761</MaNhomGPB>
+    <MaGPB>8761/0</MaGPB>
+    <TenGPB>Nơ vi bẩm sinh nhỏ</TenGPB>
+    <Name>Small congenital nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8761</MaNhomGPB>
+    <MaGPB>8761/1</MaGPB>
+    <TenGPB>Nơ vi nhiễm sắc tố khổng lồ</TenGPB>
+    <Name>Giant pigmented nevus, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8761</MaNhomGPB>
+    <MaGPB>8761/3</MaGPB>
+    <TenGPB>U hắc tố ác tính trên nơ vi nhiễm sắc tố khổng lồ</TenGPB>
+    <Name>Malignant melanoma in giant pigmented nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8762</MaNhomGPB>
+    <MaGPB>8762/1</MaGPB>
+    <TenGPB>Tổn thương bì tăng sinh trên nơ vi bẩm sinh</TenGPB>
+    <Name>Proliferative dermal lesion in congenital nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8770</MaNhomGPB>
+    <MaGPB>8770/0</MaGPB>
+    <TenGPB>Nơ vi tế bào thoi và dạng biểu mô</TenGPB>
+    <Name>Epithelioid and spindle cell nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8770</MaNhomGPB>
+    <MaGPB>8770/3</MaGPB>
+    <TenGPB>U hắc tố tế bào thoi và dạng biểu mô hỗn hợp</TenGPB>
+    <Name>Mixed epithelioid and spindle cell melanoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8771</MaNhomGPB>
+    <MaGPB>8771/0</MaGPB>
+    <TenGPB>Nơ vi tế bào dạng biểu mô</TenGPB>
+    <Name>Epithelioid cell nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8771</MaNhomGPB>
+    <MaGPB>8771/3</MaGPB>
+    <TenGPB>U hắc tố tế bào dạng biểu mô</TenGPB>
+    <Name>Epithelioid cell melanoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8772</MaNhomGPB>
+    <MaGPB>8772/0</MaGPB>
+    <TenGPB>Nơ vi tế bào thoi nói chung</TenGPB>
+    <Name>Spindle cell nevus, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8772</MaNhomGPB>
+    <MaGPB>8772/3</MaGPB>
+    <TenGPB>U hắc tố tế bào thoi nói chung</TenGPB>
+    <Name>Spindle cell melanoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8773</MaNhomGPB>
+    <MaGPB>8773/3</MaGPB>
+    <TenGPB>U hắc tố tế bào thoi típ A</TenGPB>
+    <Name>Spindle cell melanoma, type  A(C69._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8774</MaNhomGPB>
+    <MaGPB>8774/3</MaGPB>
+    <TenGPB>U hắc tố tế bào thoi típ B</TenGPB>
+    <Name>Spindle cell melanoma, type B (C69._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8780</MaNhomGPB>
+    <MaGPB>8780/0</MaGPB>
+    <TenGPB>Nơ vi xanh nói chung</TenGPB>
+    <Name>Blue nevus, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8780</MaNhomGPB>
+    <MaGPB>8780/3</MaGPB>
+    <TenGPB>Nơ vi xanh ác tính</TenGPB>
+    <Name>Blue nevus, malignants (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8790</MaNhomGPB>
+    <MaGPB>8790/0</MaGPB>
+    <TenGPB>Nơ vi xanh giàu tế bào</TenGPB>
+    <Name>Cellular blue nevus (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8800</MaNhomGPB>
+    <MaGPB>8800/0</MaGPB>
+    <TenGPB>U mô mềm lành</TenGPB>
+    <Name>Soft tissue tumor, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8800</MaNhomGPB>
+    <MaGPB>8800/3</MaGPB>
+    <TenGPB>Saccôm nói chung</TenGPB>
+    <Name>Sarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8800</MaNhomGPB>
+    <MaGPB>8800/9</MaGPB>
+    <TenGPB>Bệnh saccôm nói chung</TenGPB>
+    <Name>Sarcomatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8801</MaNhomGPB>
+    <MaGPB>8801/3</MaGPB>
+    <TenGPB>Saccôm tế bào thoi</TenGPB>
+    <Name>Spindle cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8802</MaNhomGPB>
+    <MaGPB>8802/3</MaGPB>
+    <TenGPB>Saccôm tế bào khổng lồ</TenGPB>
+    <Name>Giant cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8803</MaNhomGPB>
+    <MaGPB>8803/3</MaGPB>
+    <TenGPB>Saccôm tế bào nhỏ</TenGPB>
+    <Name>Small cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8804</MaNhomGPB>
+    <MaGPB>8804/3</MaGPB>
+    <TenGPB>Saccôm dạng biểu mô</TenGPB>
+    <Name>Epithelioid sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8805</MaNhomGPB>
+    <MaGPB>8805/3</MaGPB>
+    <TenGPB>Saccôm không biệt hoá</TenGPB>
+    <Name>Undifferentiated sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8806</MaNhomGPB>
+    <MaGPB>8806/3</MaGPB>
+    <TenGPB>U tế bào tròn nhỏ tạo xơ</TenGPB>
+    <Name>Desmoplastic small round cell tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8810</MaNhomGPB>
+    <MaGPB>8810/0</MaGPB>
+    <TenGPB>U xơ nói chung</TenGPB>
+    <Name>Fibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8810</MaNhomGPB>
+    <MaGPB>8810/1</MaGPB>
+    <TenGPB>U xơ giàu tế bào</TenGPB>
+    <Name>Cellular fibroma (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8810</MaNhomGPB>
+    <MaGPB>8810/3</MaGPB>
+    <TenGPB>Sarcom xơ nói chung</TenGPB>
+    <Name>Fibromyxoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8811</MaNhomGPB>
+    <MaGPB>8811/0</MaGPB>
+    <TenGPB>U xơ nhày</TenGPB>
+    <Name>Fibromyxoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8811</MaNhomGPB>
+    <MaGPB>8811/3</MaGPB>
+    <TenGPB>Saccôm  xơ nhày</TenGPB>
+    <Name>Fibromyxosarcoma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8812</MaNhomGPB>
+    <MaGPB>8812/0</MaGPB>
+    <TenGPB>U xơ màng xương</TenGPB>
+    <Name>Periosteal fibroma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8812</MaNhomGPB>
+    <MaGPB>8812/3</MaGPB>
+    <TenGPB>Saccôm xơ màng xương</TenGPB>
+    <Name>Periosteal fibrosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8813</MaNhomGPB>
+    <MaGPB>8813/0</MaGPB>
+    <TenGPB>U xơ cân</TenGPB>
+    <Name>Fascial fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8813</MaNhomGPB>
+    <MaGPB>8813/3</MaGPB>
+    <TenGPB>Saccôm xơ cân</TenGPB>
+    <Name>Fascial fibrosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8814</MaNhomGPB>
+    <MaGPB>8814/3</MaGPB>
+    <TenGPB>Saccôm xơ trẻ em</TenGPB>
+    <Name>Infantile fibrosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8815</MaNhomGPB>
+    <MaGPB>8815/0</MaGPB>
+    <TenGPB>U xơ đơn độc</TenGPB>
+    <Name>Solitary fibrous tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8815</MaNhomGPB>
+    <MaGPB>8815/3</MaGPB>
+    <TenGPB>U xơ đơn độc ác tính</TenGPB>
+    <Name>Solitary fibrous tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8820</MaNhomGPB>
+    <MaGPB>8820/0</MaGPB>
+    <TenGPB>U xơ chun</TenGPB>
+    <Name>Elastofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8821</MaNhomGPB>
+    <MaGPB>8821/1</MaGPB>
+    <TenGPB>Bệnh u xơ xâm nhập</TenGPB>
+    <Name>Aggressive fibromatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8822</MaNhomGPB>
+    <MaGPB>8822/1</MaGPB>
+    <TenGPB>Bệnh u xơ bụng</TenGPB>
+    <Name>Abdominal fibromatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8823</MaNhomGPB>
+    <MaGPB>8823/0</MaGPB>
+    <TenGPB>U xơ tạo xơ</TenGPB>
+    <Name>Desmoplastic fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8824</MaNhomGPB>
+    <MaGPB>8824/0</MaGPB>
+    <TenGPB>U xơ cơ</TenGPB>
+    <Name>Myofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8824</MaNhomGPB>
+    <MaGPB>8824/1</MaGPB>
+    <TenGPB>Bệnh u xơ cơ</TenGPB>
+    <Name>Myofibromatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8825</MaNhomGPB>
+    <MaGPB>8825/0</MaGPB>
+    <TenGPB>U nguyên bào xơ cơ</TenGPB>
+    <Name>Myofibroblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8825</MaNhomGPB>
+    <MaGPB>8825/1</MaGPB>
+    <TenGPB>U nguyên bào xơ cơ nói chung</TenGPB>
+    <Name>Myofibroblastic tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8826</MaNhomGPB>
+    <MaGPB>8826/0</MaGPB>
+    <TenGPB>U nguyên bào xơ cơ huyết quản</TenGPB>
+    <Name>Angiomyofibroblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8827</MaNhomGPB>
+    <MaGPB>8827/1</MaGPB>
+    <TenGPB>U nguyên bào xơ cơ quanh phế quản</TenGPB>
+    <Name>Myofibroblastic tumor, peribronchial (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8830</MaNhomGPB>
+    <MaGPB>8830/0</MaGPB>
+    <TenGPB>U mô bào xơ lành</TenGPB>
+    <Name>Benign fibrous histiocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8830</MaNhomGPB>
+    <MaGPB>8830/1</MaGPB>
+    <TenGPB>U mô bào xơ không điển hình</TenGPB>
+    <Name>Atypical fibrous histiocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8830</MaNhomGPB>
+    <MaGPB>8830/3</MaGPB>
+    <TenGPB>U mô bào xơ ác tính</TenGPB>
+    <Name>Malignant fibrous histiocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8831</MaNhomGPB>
+    <MaGPB>8831/0</MaGPB>
+    <TenGPB>U mô bào nói chung</TenGPB>
+    <Name>Histiocytoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8832</MaNhomGPB>
+    <MaGPB>8832/0</MaGPB>
+    <TenGPB>U xơ bì nói chung</TenGPB>
+    <Name>Dermatofibroma, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8832</MaNhomGPB>
+    <MaGPB>8832/3</MaGPB>
+    <TenGPB>Saccôm xơ bì nói chung </TenGPB>
+    <Name>Dermatofibrosarcoma, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8833</MaNhomGPB>
+    <MaGPB>8833/3</MaGPB>
+    <TenGPB>Saccôm xơ bì lồi nhiễm sắc tố</TenGPB>
+    <Name>Pigmented dermatofibrosarcoma protuberans (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8834</MaNhomGPB>
+    <MaGPB>8834/1</MaGPB>
+    <TenGPB>U nguyên bào xơ tế bào khổng lồ</TenGPB>
+    <Name>Giant cell fibroblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8835</MaNhomGPB>
+    <MaGPB>8835/1</MaGPB>
+    <TenGPB>U xơ mô bào dạng đám rối</TenGPB>
+    <Name>Plexiform fibrohistiocytic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8836</MaNhomGPB>
+    <MaGPB>8836/1</MaGPB>
+    <TenGPB>U mô bào xơ dạng u mạch</TenGPB>
+    <Name>Angiomatoid fibrous histiocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8840</MaNhomGPB>
+    <MaGPB>8840/0</MaGPB>
+    <TenGPB>U nhầy nói chung</TenGPB>
+    <Name>Myxoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8840</MaNhomGPB>
+    <MaGPB>8840/3</MaGPB>
+    <TenGPB>Saccôm nhầy</TenGPB>
+    <Name>Myxosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8841</MaNhomGPB>
+    <MaGPB>8841/1</MaGPB>
+    <TenGPB>U nhầy mạch</TenGPB>
+    <Name>Angiomyxoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8842</MaNhomGPB>
+    <MaGPB>8842/0</MaGPB>
+    <TenGPB>U dạng xơ nhầy xương hóa</TenGPB>
+    <Name>Ossifying fibromyxoid tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8850</MaNhomGPB>
+    <MaGPB>8850/0</MaGPB>
+    <TenGPB>U mỡ nói chung</TenGPB>
+    <Name>Lipoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8850</MaNhomGPB>
+    <MaGPB>8850/1</MaGPB>
+    <TenGPB>U mỡ không điển hình</TenGPB>
+    <Name>Atypical lipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8850</MaNhomGPB>
+    <MaGPB>8850/3</MaGPB>
+    <TenGPB>Saccôm mỡ nói chung</TenGPB>
+    <Name>Liposarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8851</MaNhomGPB>
+    <MaGPB>8851/0</MaGPB>
+    <TenGPB>U xơ mỡ</TenGPB>
+    <Name>Fibrolipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8851</MaNhomGPB>
+    <MaGPB>8851/3</MaGPB>
+    <TenGPB>Saccôm mỡ biệt hoá cao</TenGPB>
+    <Name>Liposarcoma, well differentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8852</MaNhomGPB>
+    <MaGPB>8852/0</MaGPB>
+    <TenGPB>U xơ nhầy mỡ</TenGPB>
+    <Name>Fibromyxolipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8852</MaNhomGPB>
+    <MaGPB>8852/3</MaGPB>
+    <TenGPB>Saccôm mỡ dạng nhầy</TenGPB>
+    <Name>Myxoid liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8853</MaNhomGPB>
+    <MaGPB>8853/3</MaGPB>
+    <TenGPB>Saccôm mỡ tế bào tròn</TenGPB>
+    <Name>Round cell liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8854</MaNhomGPB>
+    <MaGPB>8854/0</MaGPB>
+    <TenGPB>U mỡ đa dạng</TenGPB>
+    <Name>Pleomorphic lipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8854</MaNhomGPB>
+    <MaGPB>8854/3</MaGPB>
+    <TenGPB>Saccôm mỡ đa dạng</TenGPB>
+    <Name>Pleomorphic liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8855</MaNhomGPB>
+    <MaGPB>8855/3</MaGPB>
+    <TenGPB>Saccôm mỡ hỗn hợp</TenGPB>
+    <Name>Mixed liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8856</MaNhomGPB>
+    <MaGPB>8856/0</MaGPB>
+    <TenGPB>U mỡ trong cơ</TenGPB>
+    <Name>Intramuscular lipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8857</MaNhomGPB>
+    <MaGPB>8857/0</MaGPB>
+    <TenGPB>U mỡ tế bào thoi</TenGPB>
+    <Name>Spindle cell lipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8857</MaNhomGPB>
+    <MaGPB>8857/3</MaGPB>
+    <TenGPB>Saccôm mỡ nguyên bào xơ</TenGPB>
+    <Name>Fibroblastic liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8858</MaNhomGPB>
+    <MaGPB>8858/3</MaGPB>
+    <TenGPB>Saccôm mỡ không biệt hoá</TenGPB>
+    <Name>Dedifferentiated liposarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8860</MaNhomGPB>
+    <MaGPB>8860/0</MaGPB>
+    <TenGPB>U huyết quản cơ mỡ</TenGPB>
+    <Name>Angiomyolipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8861</MaNhomGPB>
+    <MaGPB>8861/0</MaGPB>
+    <TenGPB>U huyết quản mỡ nói chung</TenGPB>
+    <Name>Angiolipoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8862</MaNhomGPB>
+    <MaGPB>8862/0</MaGPB>
+    <TenGPB>U mỡ dạng sụn</TenGPB>
+    <Name>Chondroid lipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8870</MaNhomGPB>
+    <MaGPB>8870/0</MaGPB>
+    <TenGPB>U mỡ tuỷ</TenGPB>
+    <Name>Myelolipoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8880</MaNhomGPB>
+    <MaGPB>8880/0</MaGPB>
+    <TenGPB>U tế bào mỡ phôi</TenGPB>
+    <Name>Hibernoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8881</MaNhomGPB>
+    <MaGPB>8881/0</MaGPB>
+    <TenGPB>Bệnh u nguyên bào mỡ</TenGPB>
+    <Name>Lipoblastomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8890</MaNhomGPB>
+    <MaGPB>8890/0</MaGPB>
+    <TenGPB>U cơ trơn nói chung</TenGPB>
+    <Name>Leiomyoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8890</MaNhomGPB>
+    <MaGPB>8890/1</MaGPB>
+    <TenGPB>Bệnh u cơ trơn nói chung</TenGPB>
+    <Name>Leiomyomatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8890</MaNhomGPB>
+    <MaGPB>8890/3</MaGPB>
+    <TenGPB>Saccôm cơ trơn nói chung</TenGPB>
+    <Name>Leiomyosarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8891</MaNhomGPB>
+    <MaGPB>8891/0</MaGPB>
+    <TenGPB>U cơ trơn dạng biểu mô</TenGPB>
+    <Name>Epithelioid leiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8891</MaNhomGPB>
+    <MaGPB>8891/3</MaGPB>
+    <TenGPB>Saccôm cơ trơn dạng biểu mô</TenGPB>
+    <Name>Epithelioid leiomyosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8892</MaNhomGPB>
+    <MaGPB>8892/0</MaGPB>
+    <TenGPB>U cơ trơn giàu tế bào</TenGPB>
+    <Name>Cellular leiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8893</MaNhomGPB>
+    <MaGPB>8893/0</MaGPB>
+    <TenGPB>U cơ trơn đa dạng</TenGPB>
+    <Name>Bizarre leiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8894</MaNhomGPB>
+    <MaGPB>8894/0</MaGPB>
+    <TenGPB>U cơ mạch</TenGPB>
+    <Name>Angiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8894</MaNhomGPB>
+    <MaGPB>8894/3</MaGPB>
+    <TenGPB>Saccôm cơ mạch</TenGPB>
+    <Name>Angiomyosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8895</MaNhomGPB>
+    <MaGPB>8895/0</MaGPB>
+    <TenGPB>U cơ </TenGPB>
+    <Name>Myoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8895</MaNhomGPB>
+    <MaGPB>8895/3</MaGPB>
+    <TenGPB>Saccôm  cơ</TenGPB>
+    <Name>Myosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8896</MaNhomGPB>
+    <MaGPB>8896/3</MaGPB>
+    <TenGPB>Saccôm cơ trơn dạng nhầy</TenGPB>
+    <Name>Myxoid leiomyosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8897</MaNhomGPB>
+    <MaGPB>8897/1</MaGPB>
+    <TenGPB>U cơ trơn tiềm năng ác tính không rõ</TenGPB>
+    <Name>Smooth mucle tumor of uncertain malignant potential</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8898</MaNhomGPB>
+    <MaGPB>8898/1</MaGPB>
+    <TenGPB>U cơ trơn di căn</TenGPB>
+    <Name>Metastasizing leiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8900</MaNhomGPB>
+    <MaGPB>8900/0</MaGPB>
+    <TenGPB>U cơ vân nói chung</TenGPB>
+    <Name>Rhabdomyosarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8900</MaNhomGPB>
+    <MaGPB>8900/3</MaGPB>
+    <TenGPB>Saccôm cơ vân nói chung</TenGPB>
+    <Name>Rhabdomyosarcosarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8901</MaNhomGPB>
+    <MaGPB>8901/3</MaGPB>
+    <TenGPB>Saccôm cơ vân thể đa dạng, típ trưởng thành</TenGPB>
+    <Name>Pleomorphic rhabdomyosarcoma, adult type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8902</MaNhomGPB>
+    <MaGPB>8902/3</MaGPB>
+    <TenGPB>Saccôm cơ vân típ hỗn hợp</TenGPB>
+    <Name>Mixed type rhabdomyosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8903</MaNhomGPB>
+    <MaGPB>8903/0</MaGPB>
+    <TenGPB>U cơ vân thể thai</TenGPB>
+    <Name>Fetal rhabdomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8904</MaNhomGPB>
+    <MaGPB>8904/0</MaGPB>
+    <TenGPB>U cơ vân thể trưởng thành</TenGPB>
+    <Name>Adult  rhabdomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8905</MaNhomGPB>
+    <MaGPB>8905/0</MaGPB>
+    <TenGPB>U cơ vân sinh dục</TenGPB>
+    <Name>Genital rhabdomyoma (C51- C52.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8910</MaNhomGPB>
+    <MaGPB>8910/3</MaGPB>
+    <TenGPB>Saccôm cơ vân thể phôi nói chung</TenGPB>
+    <Name>Embryonal rhabdomyosarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8912</MaNhomGPB>
+    <MaGPB>8912/3</MaGPB>
+    <TenGPB>Saccôm cơ vân tế bào thoi</TenGPB>
+    <Name>Spindle cell rhabdomyosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8920</MaNhomGPB>
+    <MaGPB>8920/3</MaGPB>
+    <TenGPB>Saccôm cơ vân thể hốc</TenGPB>
+    <Name>Alvelar rhabdomyosarcomma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8921</MaNhomGPB>
+    <MaGPB>8921/3</MaGPB>
+    <TenGPB>Saccôm cơ vân kèm biệt hoá hạch</TenGPB>
+    <Name>Rhabdomyosarcoma with ganglionic differentiation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8930</MaNhomGPB>
+    <MaGPB>8930/0</MaGPB>
+    <TenGPB>Cục đệm nội mạc tử cung</TenGPB>
+    <Name>Endometrial stromal nodule (C54.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8930</MaNhomGPB>
+    <MaGPB>8930/3</MaGPB>
+    <TenGPB>Saccôm đệm nội mạc nói chung</TenGPB>
+    <Name>Endometrial stromal sarcoma, NOS (C54.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8931</MaNhomGPB>
+    <MaGPB>8931/3</MaGPB>
+    <TenGPB>Saccôm đệm nội mạc độ ác tính thấp</TenGPB>
+    <Name>Endometrial stromal sarcoma, low grade (C54.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8932</MaNhomGPB>
+    <MaGPB>8932/0</MaGPB>
+    <TenGPB>U tuyến cơ</TenGPB>
+    <Name>Adenomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8933</MaNhomGPB>
+    <MaGPB>8933/3</MaGPB>
+    <TenGPB>Saccôm tuyến</TenGPB>
+    <Name>Adenosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8934</MaNhomGPB>
+    <MaGPB>8934/3</MaGPB>
+    <TenGPB>U xơ ung thư biểu mô</TenGPB>
+    <Name>Carcinofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8935</MaNhomGPB>
+    <MaGPB>8935/0</MaGPB>
+    <TenGPB>U đệm lành</TenGPB>
+    <Name>Stromal tumor, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8935</MaNhomGPB>
+    <MaGPB>8935/1</MaGPB>
+    <TenGPB>U đệm nói chung</TenGPB>
+    <Name>Stromal tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8935</MaNhomGPB>
+    <MaGPB>8935/3</MaGPB>
+    <TenGPB>Saccôm đệm nói chung</TenGPB>
+    <Name>Stromal sarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8936</MaNhomGPB>
+    <MaGPB>8936/0</MaGPB>
+    <TenGPB>U đệm dạ dày ruột lành tính</TenGPB>
+    <Name>Gastrointestinal stromal tumor, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8936</MaNhomGPB>
+    <MaGPB>8936/1</MaGPB>
+    <TenGPB>U đệm dạ dày ruột nói chung</TenGPB>
+    <Name>Gastrointestinal stromal tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8936</MaNhomGPB>
+    <MaGPB>8936/3</MaGPB>
+    <TenGPB>Saccôm đệm dạ dày ruột nói chung</TenGPB>
+    <Name>Gastrointestinal stromal sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8940</MaNhomGPB>
+    <MaGPB>8940/0</MaGPB>
+    <TenGPB>U tuyến đa dạng</TenGPB>
+    <Name>Pleomorphic adenoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8940</MaNhomGPB>
+    <MaGPB>8940/3</MaGPB>
+    <TenGPB>U hỗn hợp ác tính nói chung</TenGPB>
+    <Name>Mixed tumor, malignant, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8941</MaNhomGPB>
+    <MaGPB>8941/3</MaGPB>
+    <TenGPB>Ung thư biểu mô trên u tuyến đa dạng</TenGPB>
+    <Name>Carcinoma in pleomorphic adenoma (C07._, C08_)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8950</MaNhomGPB>
+    <MaGPB>8950/3</MaGPB>
+    <TenGPB>U hỗn hợp ống Muller</TenGPB>
+    <Name>Mullerian mixed tumor (C54._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8951</MaNhomGPB>
+    <MaGPB>8951/3</MaGPB>
+    <TenGPB>U hỗn hợp trung bì phôi </TenGPB>
+    <Name>Mesodermal mixed tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8959</MaNhomGPB>
+    <MaGPB>8959/0</MaGPB>
+    <TenGPB>U thận nang lành</TenGPB>
+    <Name>Benign cystic nephroma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8959</MaNhomGPB>
+    <MaGPB>8959/1</MaGPB>
+    <TenGPB>U nguyên bào thận biệt hoá tạo nang bán phần</TenGPB>
+    <Name>Cystic partially differentiated nephroblastoma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8959</MaNhomGPB>
+    <MaGPB>8959/3</MaGPB>
+    <TenGPB>U thận nang ác tính</TenGPB>
+    <Name>Malignant cystic nephroma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8960</MaNhomGPB>
+    <MaGPB>8960/1</MaGPB>
+    <TenGPB>U thận trung bì phôi</TenGPB>
+    <Name>Mesoblastic nephroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8960</MaNhomGPB>
+    <MaGPB>8960/3</MaGPB>
+    <TenGPB>U nguyên bào thận phôi</TenGPB>
+    <Name>Nephroblastoma, NOS (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8963</MaNhomGPB>
+    <MaGPB>8963/3</MaGPB>
+    <TenGPB>U dạng cơ vân ác tính</TenGPB>
+    <Name>Malignant rhabdoid tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8964</MaNhomGPB>
+    <MaGPB>8964/3</MaGPB>
+    <TenGPB>Saccôm tế bào sáng của thận</TenGPB>
+    <Name>Clear cell sarcoma of kidney (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8965</MaNhomGPB>
+    <MaGPB>8965/0</MaGPB>
+    <TenGPB>U xơ tuyến tạo mô thận</TenGPB>
+    <Name>Nephrogenic adenofibroma (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8966</MaNhomGPB>
+    <MaGPB>8966/0</MaGPB>
+    <TenGPB>U tế bào kẽ tuỷ thận</TenGPB>
+    <Name>Renomedullary interstitial cell tumor (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8967</MaNhomGPB>
+    <MaGPB>8967/0</MaGPB>
+    <TenGPB>U thận tạo xương</TenGPB>
+    <Name>Ossifying renal tumor (C64.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8970</MaNhomGPB>
+    <MaGPB>8970/3</MaGPB>
+    <TenGPB>U nguyên bào gan</TenGPB>
+    <Name>Hepatoblastoma (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8971</MaNhomGPB>
+    <MaGPB>8971/3</MaGPB>
+    <TenGPB>U nguyên bào tuỵ</TenGPB>
+    <Name>Pancreatoblastoma (C25._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8972</MaNhomGPB>
+    <MaGPB>8972/3</MaGPB>
+    <TenGPB>U nguyên bào phổi</TenGPB>
+    <Name>Pulmonary blastoma (C34._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8973</MaNhomGPB>
+    <MaGPB>8973/3</MaGPB>
+    <TenGPB>U nguyên bào màng phổi- phổi</TenGPB>
+    <Name>Pleuropulmonary blastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8974</MaNhomGPB>
+    <MaGPB>8974/1</MaGPB>
+    <TenGPB>U nguyên bào tuyến nước bọt</TenGPB>
+    <Name>Sialoblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8980</MaNhomGPB>
+    <MaGPB>8980/3</MaGPB>
+    <TenGPB>Ung thư biểu mô saccôm nói chung</TenGPB>
+    <Name>Carcinosarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8981</MaNhomGPB>
+    <MaGPB>8981/3</MaGPB>
+    <TenGPB>Ung thư biểu mô saccôm thể phôi</TenGPB>
+    <Name>Carcinosarcoma, embryonal</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8982</MaNhomGPB>
+    <MaGPB>8982/0</MaGPB>
+    <TenGPB>U cơ biểu mô</TenGPB>
+    <Name>Myoepithelioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8982</MaNhomGPB>
+    <MaGPB>8982/3</MaGPB>
+    <TenGPB>U cơ biểu mô ác tính</TenGPB>
+    <Name>Malignant myoepithelioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8983</MaNhomGPB>
+    <MaGPB>8983/0</MaGPB>
+    <TenGPB>U tuyến cơ biểu mô</TenGPB>
+    <Name>Adenomyoepithelioma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8990</MaNhomGPB>
+    <MaGPB>8990/0</MaGPB>
+    <TenGPB>U trung mô mô lành</TenGPB>
+    <Name>Mesenchymoma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8990</MaNhomGPB>
+    <MaGPB>8990/1</MaGPB>
+    <TenGPB>U trung mô nói chung</TenGPB>
+    <Name>Mesenchymoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8990</MaNhomGPB>
+    <MaGPB>8990/3</MaGPB>
+    <TenGPB>U trung mô ác tính</TenGPB>
+    <Name>Mesenchymoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>8991</MaNhomGPB>
+    <MaGPB>8991/3</MaGPB>
+    <TenGPB>Saccôm phôi</TenGPB>
+    <Name>Embryonal sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9000</MaNhomGPB>
+    <MaGPB>9000/0</MaGPB>
+    <TenGPB>U Brenner nói chung</TenGPB>
+    <Name>Brenner tumor, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9000</MaNhomGPB>
+    <MaGPB>9000/1</MaGPB>
+    <TenGPB>U Brenner ác tính giáp biên</TenGPB>
+    <Name>Brenner tumor, borderline malignancy (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9000</MaNhomGPB>
+    <MaGPB>9000/3</MaGPB>
+    <TenGPB>U Brenner ác tính</TenGPB>
+    <Name>Brenner tumor, malignant (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9010</MaNhomGPB>
+    <MaGPB>9010/0</MaGPB>
+    <TenGPB>U xơ tuyến nói chung</TenGPB>
+    <Name>Fibroadenoma, NOS (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9011</MaNhomGPB>
+    <MaGPB>9011/0</MaGPB>
+    <TenGPB>U xơ tuyến nội ống</TenGPB>
+    <Name>Intracanalicular fibroadenoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9012</MaNhomGPB>
+    <MaGPB>9012/0</MaGPB>
+    <TenGPB>U xơ tuyến quanh ống</TenGPB>
+    <Name>Pericanalicular fibroadenoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9013</MaNhomGPB>
+    <MaGPB>9013/0</MaGPB>
+    <TenGPB>U xơ tuyến nói chung</TenGPB>
+    <Name>Adenofibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9014</MaNhomGPB>
+    <MaGPB>9014/0</MaGPB>
+    <TenGPB>U xơ tuyến thanh dịch nói chung</TenGPB>
+    <Name>Serous adenofibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9014</MaNhomGPB>
+    <MaGPB>9014/1</MaGPB>
+    <TenGPB>U xơ tuyến thanh dịch ác tính giáp biên</TenGPB>
+    <Name>Serous adenofibroma of borderline malignancy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9014</MaNhomGPB>
+    <MaGPB>9014/3</MaGPB>
+    <TenGPB>U xơ ung thư biểu mô tuyến thanh dịch</TenGPB>
+    <Name>Serous adenocarcinofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9015</MaNhomGPB>
+    <MaGPB>9015/1</MaGPB>
+    <TenGPB>U xơ tuyến nhầy ác tính giáp biên</TenGPB>
+    <Name>Mucinous adenocarcinoma of borderline malignancy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9015</MaNhomGPB>
+    <MaGPB>9015/3</MaGPB>
+    <TenGPB>U xơ tuyến nhầy nói chung</TenGPB>
+    <Name>Mucinous adenocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9016</MaNhomGPB>
+    <MaGPB>9016/0</MaGPB>
+    <TenGPB>U xơ tuyến khổng lồ</TenGPB>
+    <Name>Giant fibroadenoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9020</MaNhomGPB>
+    <MaGPB>9020/0</MaGPB>
+    <TenGPB>U dạng lá lành</TenGPB>
+    <Name>Phyllodes tumor, benign (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9020</MaNhomGPB>
+    <MaGPB>9020/1</MaGPB>
+    <TenGPB>U dạng lá ác tính giáp biên</TenGPB>
+    <Name>Phyllodes tumor, borderline  (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9020</MaNhomGPB>
+    <MaGPB>9020/3</MaGPB>
+    <TenGPB>U dạng lá ác tính</TenGPB>
+    <Name>Phyllodes tumor, malignant (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9030</MaNhomGPB>
+    <MaGPB>9030/0</MaGPB>
+    <TenGPB>U xơ tuyến thiếu niên</TenGPB>
+    <Name>Juvenile fibroadenoma (C50._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9040</MaNhomGPB>
+    <MaGPB>9040/0</MaGPB>
+    <TenGPB>U hoạt dịch lành</TenGPB>
+    <Name>Synovioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9040</MaNhomGPB>
+    <MaGPB>9040/3</MaGPB>
+    <TenGPB>Saccôm hoạt dịch nói chung</TenGPB>
+    <Name>Synovial sarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9041</MaNhomGPB>
+    <MaGPB>9041/3</MaGPB>
+    <TenGPB>Saccôm hoạt dịch tế bào thoi</TenGPB>
+    <Name>Synovial sarcoma, spindle cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9042</MaNhomGPB>
+    <MaGPB>9042/3</MaGPB>
+    <TenGPB>Saccôm hoạt dịch tế bào dạng biểu mô</TenGPB>
+    <Name>Synovial sarcoma, epithelioid cell</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9043</MaNhomGPB>
+    <MaGPB>9043/3</MaGPB>
+    <TenGPB>Saccôm hoạt dịch hai thành phần</TenGPB>
+    <Name>Synovial sarcoma, biphasic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9044</MaNhomGPB>
+    <MaGPB>9044/3</MaGPB>
+    <TenGPB>Saccôm tế bào sáng nói chung</TenGPB>
+    <Name>Clear cell sarcoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9050</MaNhomGPB>
+    <MaGPB>9050/0</MaGPB>
+    <TenGPB>U trung biểu mô lành</TenGPB>
+    <Name>Mesothelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9050</MaNhomGPB>
+    <MaGPB>9050/3</MaGPB>
+    <TenGPB>U trung biểu mô ác tính</TenGPB>
+    <Name>Mesothelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9051</MaNhomGPB>
+    <MaGPB>9051/0</MaGPB>
+    <TenGPB>U trung biểu mô xơ lành </TenGPB>
+    <Name>Fibrous mesothelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9051</MaNhomGPB>
+    <MaGPB>9051/3</MaGPB>
+    <TenGPB>U trung biểu mô xơ ác tính</TenGPB>
+    <Name>Fibrous mesothelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9052</MaNhomGPB>
+    <MaGPB>9052/0</MaGPB>
+    <TenGPB>U trung biểu mô dạng biểu mô lành</TenGPB>
+    <Name>Epithelioid mesothelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9052</MaNhomGPB>
+    <MaGPB>9052/3</MaGPB>
+    <TenGPB>U trung biểu mô dạng biểu mô ác tính</TenGPB>
+    <Name>Epithelioid mesothelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9053</MaNhomGPB>
+    <MaGPB>9053/3</MaGPB>
+    <TenGPB>U trung biểu mô hai thành phần ác tính</TenGPB>
+    <Name>Mesothelioma, biphasic, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9054</MaNhomGPB>
+    <MaGPB>9054/0</MaGPB>
+    <TenGPB>U dạng u tuyến nói chung</TenGPB>
+    <Name>Adenomatoid tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9055</MaNhomGPB>
+    <MaGPB>9055/0</MaGPB>
+    <TenGPB>U trung biểu mô đa nang lành</TenGPB>
+    <Name>Multicystic mesothelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9055</MaNhomGPB>
+    <MaGPB>9055/1</MaGPB>
+    <TenGPB>U trung biểu mô nang nói chung</TenGPB>
+    <Name>Cystic mesothelioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9060</MaNhomGPB>
+    <MaGPB>9060/3</MaGPB>
+    <TenGPB>U loạn mầm</TenGPB>
+    <Name>Dysgerminoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9061</MaNhomGPB>
+    <MaGPB>9061/3</MaGPB>
+    <TenGPB>U tinh nói chung</TenGPB>
+    <Name>Seminoma, NOS (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9062</MaNhomGPB>
+    <MaGPB>9062/3</MaGPB>
+    <TenGPB>U tinh bất thục sản</TenGPB>
+    <Name>Seminoma, anaplastic (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9063</MaNhomGPB>
+    <MaGPB>9063/3</MaGPB>
+    <TenGPB>U tinh tinh bào</TenGPB>
+    <Name>Spermatocytic seminoma (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9064</MaNhomGPB>
+    <MaGPB>9064/2</MaGPB>
+    <TenGPB>Tế bào mầm ác tính nội ống</TenGPB>
+    <Name>Intratubular malignant germ cells (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9064</MaNhomGPB>
+    <MaGPB>9064/3</MaGPB>
+    <TenGPB>U mầm</TenGPB>
+    <Name>Germinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9065</MaNhomGPB>
+    <MaGPB>9065/3</MaGPB>
+    <TenGPB>U tế bào mầm không u tinh</TenGPB>
+    <Name>Germ cell tumor, nonseminomatous (C62._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9070</MaNhomGPB>
+    <MaGPB>9070/3</MaGPB>
+    <TenGPB>Ung thư biểu mô phôi nói chung</TenGPB>
+    <Name>Embryonal carcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9071</MaNhomGPB>
+    <MaGPB>9071/3</MaGPB>
+    <TenGPB>U túi noãn hoàng</TenGPB>
+    <Name>Yolk sac tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9072</MaNhomGPB>
+    <MaGPB>9072/3</MaGPB>
+    <TenGPB>Đa u phôi</TenGPB>
+    <Name>Polyembryoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9073</MaNhomGPB>
+    <MaGPB>9073/1</MaGPB>
+    <TenGPB>U nguyên bào tuyến sinh dục</TenGPB>
+    <Name>Gonadoblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9080</MaNhomGPB>
+    <MaGPB>9080/0</MaGPB>
+    <TenGPB>U quái lành</TenGPB>
+    <Name>Teratoma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9080</MaNhomGPB>
+    <MaGPB>9080/1</MaGPB>
+    <TenGPB>U quái nói chung</TenGPB>
+    <Name>Teratoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9080</MaNhomGPB>
+    <MaGPB>9080/3</MaGPB>
+    <TenGPB>U quái ác tính nói chung</TenGPB>
+    <Name>Teratoma, malignant, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9081</MaNhomGPB>
+    <MaGPB>9081/3</MaGPB>
+    <TenGPB>Ung thư biểu mô quái</TenGPB>
+    <Name>Teratocarcinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9082</MaNhomGPB>
+    <MaGPB>9082/3</MaGPB>
+    <TenGPB>U quái ác tính không biệt hoá</TenGPB>
+    <Name>Malignant teratoma, undifferentiated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9083</MaNhomGPB>
+    <MaGPB>9083/3</MaGPB>
+    <TenGPB>U quái ác tính trung gian</TenGPB>
+    <Name>Malignant teratoma, intermediate</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9084</MaNhomGPB>
+    <MaGPB>9084/0</MaGPB>
+    <TenGPB>U nang dạng bì nói chung</TenGPB>
+    <Name>Dermoid cyst, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9084</MaNhomGPB>
+    <MaGPB>9084/3</MaGPB>
+    <TenGPB>U quái có biến đổi ác tính</TenGPB>
+    <Name>Teratoma with malignant transformation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9085</MaNhomGPB>
+    <MaGPB>9085/3</MaGPB>
+    <TenGPB>U tế bào mầm hỗn hợp</TenGPB>
+    <Name>Mixed germ cell tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9090</MaNhomGPB>
+    <MaGPB>9090/0</MaGPB>
+    <TenGPB>U quái giáp buồng trứng nói chung</TenGPB>
+    <Name>Struma ovarii, NOS (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9090</MaNhomGPB>
+    <MaGPB>9090/3</MaGPB>
+    <TenGPB>U quái giáp buồng trứng ác tính</TenGPB>
+    <Name>Struma ovarii, malignant (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9091</MaNhomGPB>
+    <MaGPB>9091/1</MaGPB>
+    <TenGPB>Carcinoid quái giáp buồng trứng</TenGPB>
+    <Name>Struma carcinoid (C56.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9100</MaNhomGPB>
+    <MaGPB>9100/0</MaGPB>
+    <TenGPB>Chửa trứng nói chung</TenGPB>
+    <Name>Hydatidiform mole, NOS (C58.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9100</MaNhomGPB>
+    <MaGPB>9100/1</MaGPB>
+    <TenGPB>Chửa trứng xâm nhập</TenGPB>
+    <Name>Invasive hydatidiform mole (C58.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9100</MaNhomGPB>
+    <MaGPB>9100/3</MaGPB>
+    <TenGPB>Ung thư biểu mô màng đệm nói chung</TenGPB>
+    <Name>Choriocarcinoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9101</MaNhomGPB>
+    <MaGPB>9101/3</MaGPB>
+    <TenGPB>Ung thư biểu mô màng đệm phối hợp với các thành phần tế bào mầm khác</TenGPB>
+    <Name>Choriocarcinoma combined with other germ cell elements</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9102</MaNhomGPB>
+    <MaGPB>9102/3</MaGPB>
+    <TenGPB>U quái ác tính nguyên bào nuôi</TenGPB>
+    <Name>Malignant teratoma, trophoblastic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9103</MaNhomGPB>
+    <MaGPB>9103/0</MaGPB>
+    <TenGPB>Chửa trứng bán phần</TenGPB>
+    <Name>Partial hydatidiform mole (C58.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9104</MaNhomGPB>
+    <MaGPB>9104/1</MaGPB>
+    <TenGPB>U nguyên bào nuôi tại rau thai</TenGPB>
+    <Name>Placental site trophoblastic tumor (C58.9)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9105</MaNhomGPB>
+    <MaGPB>9105/3</MaGPB>
+    <TenGPB>U nguyên bào nuôi dạng biểu mô</TenGPB>
+    <Name>Trophoblastic tumor, epithelioid</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9110</MaNhomGPB>
+    <MaGPB>9110/0</MaGPB>
+    <TenGPB>U trung thận lành</TenGPB>
+    <Name>Mesonephromas, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9110</MaNhomGPB>
+    <MaGPB>9110/1</MaGPB>
+    <TenGPB>U trung thận nói chung</TenGPB>
+    <Name>Mesonephromas, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9110</MaNhomGPB>
+    <MaGPB>9110/3</MaGPB>
+    <TenGPB>U trung thận ác tính</TenGPB>
+    <Name>Mesonephromas, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9120</MaNhomGPB>
+    <MaGPB>9120/0</MaGPB>
+    <TenGPB>U máu nói chung</TenGPB>
+    <Name>Hemangioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9120</MaNhomGPB>
+    <MaGPB>9120/3</MaGPB>
+    <TenGPB>Saccôm huyết quản</TenGPB>
+    <Name>Hemangiosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9121</MaNhomGPB>
+    <MaGPB>9121/0</MaGPB>
+    <TenGPB>U máu thể hang</TenGPB>
+    <Name>Cavernous hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9122</MaNhomGPB>
+    <MaGPB>9122/0</MaGPB>
+    <TenGPB>U máu tĩnh mạch</TenGPB>
+    <Name>Venous hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9123</MaNhomGPB>
+    <MaGPB>9123/0</MaGPB>
+    <TenGPB>U máu hình chùm</TenGPB>
+    <Name>Racemose hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9124</MaNhomGPB>
+    <MaGPB>9124/0</MaGPB>
+    <TenGPB>Saccôm tế bào Kupffer</TenGPB>
+    <Name>Kupffer cell sarcoma (C22.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9125</MaNhomGPB>
+    <MaGPB>9125/0</MaGPB>
+    <TenGPB>U máu dạng biểu mô</TenGPB>
+    <Name>Epithelioid hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9130</MaNhomGPB>
+    <MaGPB>9130/0</MaGPB>
+    <TenGPB>U máu nội mô lành</TenGPB>
+    <Name>Hemangioendothelioma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9130</MaNhomGPB>
+    <MaGPB>9130/1</MaGPB>
+    <TenGPB>U máu nội mô nói chung</TenGPB>
+    <Name>Hemangioendothelioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9130</MaNhomGPB>
+    <MaGPB>9130/3</MaGPB>
+    <TenGPB>U máu nội mô ác tính</TenGPB>
+    <Name>Hemangioendothelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9131</MaNhomGPB>
+    <MaGPB>9131/0</MaGPB>
+    <TenGPB>U máu thể mao mạch</TenGPB>
+    <Name>Capillary hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9132</MaNhomGPB>
+    <MaGPB>9132/0</MaGPB>
+    <TenGPB>U máu trong cơ</TenGPB>
+    <Name>Intramuscular hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9133</MaNhomGPB>
+    <MaGPB>9133/1</MaGPB>
+    <TenGPB>U máu nội mô dạng biểu mô nói chung</TenGPB>
+    <Name>Epithelioid hemangioendothelioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9133</MaNhomGPB>
+    <MaGPB>9133/3</MaGPB>
+    <TenGPB>U máu nội mô dạng biểu mô ác tính</TenGPB>
+    <Name>Epithelioid hemangioendothelioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9135</MaNhomGPB>
+    <MaGPB>9135/1</MaGPB>
+    <TenGPB>U máu nội mô nhú nội mạch</TenGPB>
+    <Name>Endovascular papillary angioendothelioma </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9136</MaNhomGPB>
+    <MaGPB>9136/1</MaGPB>
+    <TenGPB>U máu nội mô tế bào thoi</TenGPB>
+    <Name>Spindle cell hemangioendothelioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9140</MaNhomGPB>
+    <MaGPB>9140/3</MaGPB>
+    <TenGPB>Saccôm Kaposi</TenGPB>
+    <Name>Kaposi sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9141</MaNhomGPB>
+    <MaGPB>9141/0</MaGPB>
+    <TenGPB>U mạch sừng</TenGPB>
+    <Name>Angiokeratoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9142</MaNhomGPB>
+    <MaGPB>9142/0</MaGPB>
+    <TenGPB>U máu sừng thể sần</TenGPB>
+    <Name>Verrucous keratotic hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9150</MaNhomGPB>
+    <MaGPB>9150/0</MaGPB>
+    <TenGPB>U chu mạch lành</TenGPB>
+    <Name>Hemangiopericytoma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9150</MaNhomGPB>
+    <MaGPB>9150/1</MaGPB>
+    <TenGPB>U chu mạch nói chung</TenGPB>
+    <Name>Hemangiopericytoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9150</MaNhomGPB>
+    <MaGPB>9150/3</MaGPB>
+    <TenGPB>U chu mạch ác tính</TenGPB>
+    <Name>Hemangiopericytoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9160</MaNhomGPB>
+    <MaGPB>9160/0</MaGPB>
+    <TenGPB>U xơ huyết quản nói chung</TenGPB>
+    <Name>Angiofibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9161</MaNhomGPB>
+    <MaGPB>9161/0</MaGPB>
+    <TenGPB>U máu thể búi mắc phải</TenGPB>
+    <Name>Acquired tufted hemangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9161</MaNhomGPB>
+    <MaGPB>9161/1</MaGPB>
+    <TenGPB>U nguyên bào huyết quản</TenGPB>
+    <Name>Hemangioblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9170</MaNhomGPB>
+    <MaGPB>9170/0</MaGPB>
+    <TenGPB>U bạch mạch nói chung</TenGPB>
+    <Name>Lymphangioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9170</MaNhomGPB>
+    <MaGPB>9170/3</MaGPB>
+    <TenGPB>Saccôm bạch mạch</TenGPB>
+    <Name>Lymphangiosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9171</MaNhomGPB>
+    <MaGPB>9171/0</MaGPB>
+    <TenGPB>U bạch mạch mao mạch</TenGPB>
+    <Name>Capillary lymphangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9172</MaNhomGPB>
+    <MaGPB>9172/0</MaGPB>
+    <TenGPB>U bạch mạch thể hang</TenGPB>
+    <Name>Cavernous lymphangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9173</MaNhomGPB>
+    <MaGPB>9173/0</MaGPB>
+    <TenGPB>U bạch mạch thể nang</TenGPB>
+    <Name>Cystic lymphangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9174</MaNhomGPB>
+    <MaGPB>9174/0</MaGPB>
+    <TenGPB>U cơ bạch mạch</TenGPB>
+    <Name>Lymphangiomyoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9174</MaNhomGPB>
+    <MaGPB>9174/1</MaGPB>
+    <TenGPB>Bệnh u cơ bạch mạch</TenGPB>
+    <Name>Lymphangiomyomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9175</MaNhomGPB>
+    <MaGPB>9175/0</MaGPB>
+    <TenGPB>U huyết quản- bạch mạch</TenGPB>
+    <Name>Hemolymphangioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9180</MaNhomGPB>
+    <MaGPB>9180/0</MaGPB>
+    <TenGPB>U xương nói chung</TenGPB>
+    <Name>Osteoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9180</MaNhomGPB>
+    <MaGPB>9180/3</MaGPB>
+    <TenGPB>Saccôm xương nói chung</TenGPB>
+    <Name>Osteosarcoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9181</MaNhomGPB>
+    <MaGPB>9181/3</MaGPB>
+    <TenGPB>Saccôm xương nguyên bào sụn</TenGPB>
+    <Name>Chondroblastic osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9182</MaNhomGPB>
+    <MaGPB>9182/3</MaGPB>
+    <TenGPB>Saccôm xương nguyên bào xơ</TenGPB>
+    <Name>Fibroblastic osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9183</MaNhomGPB>
+    <MaGPB>9183/3</MaGPB>
+    <TenGPB>Saccôm xương rãn mao mạch</TenGPB>
+    <Name>Telangiectatic osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9184</MaNhomGPB>
+    <MaGPB>9184/3</MaGPB>
+    <TenGPB>Saccôm xương trong bệnh Paget  của xương</TenGPB>
+    <Name>Osteosarcoma in Paget disease of bone (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9185</MaNhomGPB>
+    <MaGPB>9185/3</MaGPB>
+    <TenGPB>Saccôm xương tế bào nhỏ</TenGPB>
+    <Name>Small cell osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9186</MaNhomGPB>
+    <MaGPB>9186/3</MaGPB>
+    <TenGPB>Saccôm xương trung tâm</TenGPB>
+    <Name>Central osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9187</MaNhomGPB>
+    <MaGPB>9187/3</MaGPB>
+    <TenGPB>Saccôm xương  biệt hoá trong xương</TenGPB>
+    <Name>Intraosseous well differentiated osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9191</MaNhomGPB>
+    <MaGPB>9191/0</MaGPB>
+    <TenGPB>U xương dạng tạo xương</TenGPB>
+    <Name>Osteoid osteoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9192</MaNhomGPB>
+    <MaGPB>9192/3</MaGPB>
+    <TenGPB>Saccôm xương cận vỏ</TenGPB>
+    <Name>Parosteal osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9194</MaNhomGPB>
+    <MaGPB>9194/3</MaGPB>
+    <TenGPB>Saccôm xương bề mặt ác tính cao</TenGPB>
+    <Name>High grade surface osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9195</MaNhomGPB>
+    <MaGPB>9195/3</MaGPB>
+    <TenGPB>Saccôm xương trong vỏ xương</TenGPB>
+    <Name>Intracortical osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9200</MaNhomGPB>
+    <MaGPB>9200/0</MaGPB>
+    <TenGPB>U nguyên bào xương nói chung</TenGPB>
+    <Name>Osteoblastoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9200</MaNhomGPB>
+    <MaGPB>9200/1</MaGPB>
+    <TenGPB>U nguyên bào xương xâm nhập</TenGPB>
+    <Name>Aggressive osteoblastoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9210</MaNhomGPB>
+    <MaGPB>9210/0</MaGPB>
+    <TenGPB>U xương sụn</TenGPB>
+    <Name>Osteochondroma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9210</MaNhomGPB>
+    <MaGPB>9210/1</MaGPB>
+    <TenGPB>Bệnh u xương sụn nói chung</TenGPB>
+    <Name>Osteochondromatosis, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9220</MaNhomGPB>
+    <MaGPB>9220/0</MaGPB>
+    <TenGPB>U sụn nói chung</TenGPB>
+    <Name>Chondroma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9220</MaNhomGPB>
+    <MaGPB>9220/1</MaGPB>
+    <TenGPB>Bệnh u sụn nói chung</TenGPB>
+    <Name>Chondromatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9220</MaNhomGPB>
+    <MaGPB>9220/3</MaGPB>
+    <TenGPB>Saccôm sụn nói chung</TenGPB>
+    <Name>Chondrosarcoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9221</MaNhomGPB>
+    <MaGPB>9221/0</MaGPB>
+    <TenGPB>U sụn kề vỏ xường</TenGPB>
+    <Name>Juxtacortical chondroma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9221</MaNhomGPB>
+    <MaGPB>9221/3</MaGPB>
+    <TenGPB>Saccôm sụn kề vỏ xương</TenGPB>
+    <Name>Juxtacortical chondrosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9230</MaNhomGPB>
+    <MaGPB>9230/0</MaGPB>
+    <TenGPB>U nguyên bào sụn nói chung</TenGPB>
+    <Name>Chondroblastoma, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9230</MaNhomGPB>
+    <MaGPB>9230/3</MaGPB>
+    <TenGPB>U nguyên bào sụn ác tính</TenGPB>
+    <Name>Chondroblastoma, malignant (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9231</MaNhomGPB>
+    <MaGPB>9231/3</MaGPB>
+    <TenGPB>Saccôm sụn dạng nhầy</TenGPB>
+    <Name>Myxoid chondrosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9240</MaNhomGPB>
+    <MaGPB>9240/3</MaGPB>
+    <TenGPB>Saccôm sụn thể trung mô</TenGPB>
+    <Name>Mesenchymal chondrosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9241</MaNhomGPB>
+    <MaGPB>9241/0</MaGPB>
+    <TenGPB>U xơ dạng sụn nhầy</TenGPB>
+    <Name>Chondromyxoid fibroma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9242</MaNhomGPB>
+    <MaGPB>9242/3</MaGPB>
+    <TenGPB>Saccôm sụn tế bào sáng</TenGPB>
+    <Name>Clear cell chondrosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9243</MaNhomGPB>
+    <MaGPB>9243/3</MaGPB>
+    <TenGPB>Saccôm sụn biệt hoá</TenGPB>
+    <Name>Dedifferentiated chondrosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9250</MaNhomGPB>
+    <MaGPB>9250/1</MaGPB>
+    <TenGPB>U tế bào khổng lồ của xương</TenGPB>
+    <Name>Giant cell tumor of bone, NOS (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9250</MaNhomGPB>
+    <MaGPB>9250/3</MaGPB>
+    <TenGPB>U tế bào khổng lồ của xương ác tính</TenGPB>
+    <Name>Giant cell tumor of bone, malignant (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9251</MaNhomGPB>
+    <MaGPB>9251/1</MaGPB>
+    <TenGPB>U tế bào khổng lồ mô mềm nói chung</TenGPB>
+    <Name>Giant cell tumor of soft parts, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9251</MaNhomGPB>
+    <MaGPB>9251/3</MaGPB>
+    <TenGPB>U tế bào khổng lồ mô mềm ác tính</TenGPB>
+    <Name>Malignant giant cell tumor of soft parts</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9252</MaNhomGPB>
+    <MaGPB>9252/0</MaGPB>
+    <TenGPB>U tế bào khổng lồ gân hoạt dịch</TenGPB>
+    <Name>Tenosynovial giant cell tumor (C49._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9252</MaNhomGPB>
+    <MaGPB>9252/3</MaGPB>
+    <TenGPB>U tế bào khổng lồ gân hoạt dịch ác tính</TenGPB>
+    <Name>Malignant tenosynovial giant cell tumor (C49._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9260</MaNhomGPB>
+    <MaGPB>9260/3</MaGPB>
+    <TenGPB>Saccôm Ewing</TenGPB>
+    <Name>Ewing sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9261</MaNhomGPB>
+    <MaGPB>9261/3</MaGPB>
+    <TenGPB>U men răng của xương dài</TenGPB>
+    <Name>Adamantinoma of long bones (C40._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9262</MaNhomGPB>
+    <MaGPB>9262/0</MaGPB>
+    <TenGPB>U xơ tạo xương</TenGPB>
+    <Name>Ossifying fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9270</MaNhomGPB>
+    <MaGPB>9270/0</MaGPB>
+    <TenGPB>U tạo răng lành</TenGPB>
+    <Name>Odontogenic tumor, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9270</MaNhomGPB>
+    <MaGPB>9270/1</MaGPB>
+    <TenGPB>U tạo răng nói chung</TenGPB>
+    <Name>Odontogenic tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9270</MaNhomGPB>
+    <MaGPB>9270/3</MaGPB>
+    <TenGPB>U tạo răng ác tính</TenGPB>
+    <Name>Odontogenic tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9271</MaNhomGPB>
+    <MaGPB>9271/0</MaGPB>
+    <TenGPB>U xơ ngà răng nguyên bào men</TenGPB>
+    <Name>Ameloblastic fibrodentinoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9272</MaNhomGPB>
+    <MaGPB>9272/0</MaGPB>
+    <TenGPB>U xương răng nói chung</TenGPB>
+    <Name>Cementoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9273</MaNhomGPB>
+    <MaGPB>9273/0</MaGPB>
+    <TenGPB>U nguyên bào xương răng lành</TenGPB>
+    <Name>Cementoblastoma, benign</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9274</MaNhomGPB>
+    <MaGPB>9274/0</MaGPB>
+    <TenGPB>U xơ tạo xương răng</TenGPB>
+    <Name>Cementifying fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9275</MaNhomGPB>
+    <MaGPB>9275/0</MaGPB>
+    <TenGPB>U xương răng thể khổng lồ</TenGPB>
+    <Name>Gigantiform cementoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9280</MaNhomGPB>
+    <MaGPB>9280/0</MaGPB>
+    <TenGPB>U răng nói chung</TenGPB>
+    <Name>Odontoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9281</MaNhomGPB>
+    <MaGPB>9281/0</MaGPB>
+    <TenGPB>U răng kết hợp</TenGPB>
+    <Name>Compound odontoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9282</MaNhomGPB>
+    <MaGPB>9282/0</MaGPB>
+    <TenGPB>U răng phức hợp</TenGPB>
+    <Name>Complex odontoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9290</MaNhomGPB>
+    <MaGPB>9290/0</MaGPB>
+    <TenGPB>U xơ răng nguyên bào men</TenGPB>
+    <Name>Ameloblastic fibro- odontoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9290</MaNhomGPB>
+    <MaGPB>9290/3</MaGPB>
+    <TenGPB>Saccôm răng nguyên bào men</TenGPB>
+    <Name>Ameloblastic odontosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9300</MaNhomGPB>
+    <MaGPB>9300/0</MaGPB>
+    <TenGPB>U tạo răng dạng u tuyến</TenGPB>
+    <Name>Adenomatoid odontogenic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9301</MaNhomGPB>
+    <MaGPB>9301/0</MaGPB>
+    <TenGPB>U nang tạo răng canxi hoá</TenGPB>
+    <Name>Calcifying odontogenic cyst</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9302</MaNhomGPB>
+    <MaGPB>9302/0</MaGPB>
+    <TenGPB>U tế bào bóng ma tạo răng</TenGPB>
+    <Name>Odontogenic ghost cell tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9310</MaNhomGPB>
+    <MaGPB>9310/0</MaGPB>
+    <TenGPB>U nguyên bào men nói chung</TenGPB>
+    <Name>Ameloblastoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9310</MaNhomGPB>
+    <MaGPB>9310/3</MaGPB>
+    <TenGPB>U nguyên bào men ác tính</TenGPB>
+    <Name>Ameloblastoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9311</MaNhomGPB>
+    <MaGPB>9311/0</MaGPB>
+    <TenGPB>U răng nguyên bào men</TenGPB>
+    <Name>Odontoameloblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9312</MaNhomGPB>
+    <MaGPB>9312/0</MaGPB>
+    <TenGPB>U tạo răng tế bào vảy</TenGPB>
+    <Name>Squamous odontogenic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9320</MaNhomGPB>
+    <MaGPB>9320/0</MaGPB>
+    <TenGPB>U nhầy tạo răng</TenGPB>
+    <Name>Odontogenic myxoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9321</MaNhomGPB>
+    <MaGPB>9321/0</MaGPB>
+    <TenGPB>U xơ tạo răng trung tâm</TenGPB>
+    <Name>Central odontogenic fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9322</MaNhomGPB>
+    <MaGPB>9322/0</MaGPB>
+    <TenGPB>U xơ tạo răng ngoại vi</TenGPB>
+    <Name>Peripheral odontogenic fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9330</MaNhomGPB>
+    <MaGPB>9330/0</MaGPB>
+    <TenGPB>U xơ nguyên bào men</TenGPB>
+    <Name>Ameloblastic fibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9330</MaNhomGPB>
+    <MaGPB>9330/3</MaGPB>
+    <TenGPB>Saccôm xơ nguyên bào men</TenGPB>
+    <Name>Ameloblastic fibrosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9340</MaNhomGPB>
+    <MaGPB>9340/0</MaGPB>
+    <TenGPB>U tạo răng biểu mô canxi hoá</TenGPB>
+    <Name>Calcifying epithelial odontogenic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9341</MaNhomGPB>
+    <MaGPB>9341/1</MaGPB>
+    <TenGPB>U tạo răng tế bào sáng</TenGPB>
+    <Name>Clear cell odontogenic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9342</MaNhomGPB>
+    <MaGPB>9342/3</MaGPB>
+    <TenGPB>Ung thư biểu mô saccôm tạo răng</TenGPB>
+    <Name>Odontogenic carcinosarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9350</MaNhomGPB>
+    <MaGPB>9350/1</MaGPB>
+    <TenGPB>U sọ hầu</TenGPB>
+    <Name>Craniopharyngioma (C75.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9351</MaNhomGPB>
+    <MaGPB>9351/1</MaGPB>
+    <TenGPB>U sọ hầu dạng u men răng</TenGPB>
+    <Name>Craniopharyngioma, adamantinomatous (C75.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9352</MaNhomGPB>
+    <MaGPB>9352/1</MaGPB>
+    <TenGPB>U sọ hầu thể nhú</TenGPB>
+    <Name>Craniopharyngioma, papillary (C75.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9360</MaNhomGPB>
+    <MaGPB>9360/1</MaGPB>
+    <TenGPB>U tuyến tùng</TenGPB>
+    <Name>Pinealoma (C75.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9361</MaNhomGPB>
+    <MaGPB>9361/1</MaGPB>
+    <TenGPB>U tế bào tuyến tùng</TenGPB>
+    <Name>Pineocytoma (C75.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9362</MaNhomGPB>
+    <MaGPB>9362/3</MaGPB>
+    <TenGPB>U nguyên bào tuyến tùng</TenGPB>
+    <Name>Pineoblastoma (C75.3)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9363</MaNhomGPB>
+    <MaGPB>9363/0</MaGPB>
+    <TenGPB>U thần kinh ngoại bì hắc tố</TenGPB>
+    <Name>Melanotic neuroectodermal tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9364</MaNhomGPB>
+    <MaGPB>9364/3</MaGPB>
+    <TenGPB>U thần kinh ngoại bì ngoại vi</TenGPB>
+    <Name>Peripheral neuroectodermal tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9365</MaNhomGPB>
+    <MaGPB>9365/3</MaGPB>
+    <TenGPB>U Askin</TenGPB>
+    <Name>Askin tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9370</MaNhomGPB>
+    <MaGPB>9370/3</MaGPB>
+    <TenGPB>U dây sống nói chung</TenGPB>
+    <Name>Chordoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9371</MaNhomGPB>
+    <MaGPB>9371/3</MaGPB>
+    <TenGPB>U dây sống dạng sụn</TenGPB>
+    <Name>Chordroid chordoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9372</MaNhomGPB>
+    <MaGPB>9372/3</MaGPB>
+    <TenGPB>U dây sống không biệt hoá</TenGPB>
+    <Name>Dedifferentiated chordoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9373</MaNhomGPB>
+    <MaGPB>9373/0</MaGPB>
+    <TenGPB>U cận dây sống</TenGPB>
+    <Name>Parachordoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9380</MaNhomGPB>
+    <MaGPB>9380/3</MaGPB>
+    <TenGPB>U thần kinh đệm ác tính</TenGPB>
+    <Name>Glioma, malignant (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9381</MaNhomGPB>
+    <MaGPB>9381/3</MaGPB>
+    <TenGPB>Bệnh u thần kinh đệm não</TenGPB>
+    <Name>Gliomatosis cerebri (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9382</MaNhomGPB>
+    <MaGPB>9382/3</MaGPB>
+    <TenGPB>U thần kinh đệm hỗn hợp</TenGPB>
+    <Name>Mixed glioma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9383</MaNhomGPB>
+    <MaGPB>9383/1</MaGPB>
+    <TenGPB>U dưới ống nội tuỷ</TenGPB>
+    <Name>Subependymoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9384</MaNhomGPB>
+    <MaGPB>9384/1</MaGPB>
+    <TenGPB>U sao bào tế bào khổng lồ dưới ống nội tuỷ</TenGPB>
+    <Name>Subependymal giant cell astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9390</MaNhomGPB>
+    <MaGPB>9390/0</MaGPB>
+    <TenGPB>U nhú đám rối màng mạch nói chung</TenGPB>
+    <Name>Choroid plexus papilloma, NOS (C71.5)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9390</MaNhomGPB>
+    <MaGPB>9390/1</MaGPB>
+    <TenGPB>U nhú đám rối màng mạch không điển hình</TenGPB>
+    <Name>Atypical choroid plexus papilloma (C71.5)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9390</MaNhomGPB>
+    <MaGPB>9390/3</MaGPB>
+    <TenGPB>Ung thư biểu mô đám rối màng mạch</TenGPB>
+    <Name>Choroid plexus carcinoma (C71.5)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9391</MaNhomGPB>
+    <MaGPB>9391/3</MaGPB>
+    <TenGPB>U ống nội tuỷ nói chung</TenGPB>
+    <Name>Ependymoma, NOS (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9392</MaNhomGPB>
+    <MaGPB>9392/3</MaGPB>
+    <TenGPB>U ống nội tuỷ bất thục sản</TenGPB>
+    <Name>Ependymoma, anaplastic (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9393</MaNhomGPB>
+    <MaGPB>9393/3</MaGPB>
+    <TenGPB>U ống nội tuỷ nhú</TenGPB>
+    <Name>Papillary ependymoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9394</MaNhomGPB>
+    <MaGPB>9394/1</MaGPB>
+    <TenGPB>U ống nội tuỷ nhầy nhú</TenGPB>
+    <Name>Myxopapillary ependymoma (C72.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9400</MaNhomGPB>
+    <MaGPB>9400/3</MaGPB>
+    <TenGPB>U sao bào nói chung</TenGPB>
+    <Name>Astrocytoma, NOS (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9401</MaNhomGPB>
+    <MaGPB>9401/3</MaGPB>
+    <TenGPB>U sao bào bất thục sản</TenGPB>
+    <Name>Astrocytoma, anaplastic (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9410</MaNhomGPB>
+    <MaGPB>9410/3</MaGPB>
+    <TenGPB>U sao bào nguyên sinh chất</TenGPB>
+    <Name>Protoplasmic astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9411</MaNhomGPB>
+    <MaGPB>9411/3</MaGPB>
+    <TenGPB>U sao bào tế bào phình to</TenGPB>
+    <Name>Gemistocytic astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9412</MaNhomGPB>
+    <MaGPB>9412/1</MaGPB>
+    <TenGPB>U sao bào thiếu niên tạo xơ</TenGPB>
+    <Name>Desmoplastic infantile astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9413</MaNhomGPB>
+    <MaGPB>9413/0</MaGPB>
+    <TenGPB>U thần kinh biểu mô loạn sản phôi</TenGPB>
+    <Name>Dysembryoplastic neuroepithelial tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9420</MaNhomGPB>
+    <MaGPB>9420/3</MaGPB>
+    <TenGPB>U sao bào thể sợi</TenGPB>
+    <Name>Fibrillary astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9421</MaNhomGPB>
+    <MaGPB>9421/1</MaGPB>
+    <TenGPB>U sao bào thể lông</TenGPB>
+    <Name>Pilocytic astrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9423</MaNhomGPB>
+    <MaGPB>9423/3</MaGPB>
+    <TenGPB>U nguyên bào xốp cực</TenGPB>
+    <Name>Polar spongioblastoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9424</MaNhomGPB>
+    <MaGPB>9424/3</MaGPB>
+    <TenGPB>U sao bào vàng đa dạng</TenGPB>
+    <Name>Pleomorphic xanthoastrocytoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9430</MaNhomGPB>
+    <MaGPB>9430/3</MaGPB>
+    <TenGPB>U nguyên sao bào</TenGPB>
+    <Name>Astroblastoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9440</MaNhomGPB>
+    <MaGPB>9440/3</MaGPB>
+    <TenGPB>U nguyên bào thần kinh đệm nói chung</TenGPB>
+    <Name>Glioblastoma, NOS (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9441</MaNhomGPB>
+    <MaGPB>9441/3</MaGPB>
+    <TenGPB>U nguyên bào thần kinh đệm tế bào khổng lồ </TenGPB>
+    <Name>Giant cell glioblastoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9442</MaNhomGPB>
+    <MaGPB>9442/1</MaGPB>
+    <TenGPB>U xơ thần kinh đệm</TenGPB>
+    <Name>Gliofibroma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9442</MaNhomGPB>
+    <MaGPB>9442/3</MaGPB>
+    <TenGPB>Saccôm thần kinh đệm</TenGPB>
+    <Name>Gliosarcoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9444</MaNhomGPB>
+    <MaGPB>9444/1</MaGPB>
+    <TenGPB>U thần kinh đệm dạng dây sống</TenGPB>
+    <Name>Chordoid glioma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9450</MaNhomGPB>
+    <MaGPB>9450/3</MaGPB>
+    <TenGPB>U thần kinh đệm ít gai nói chung</TenGPB>
+    <Name>Oligodendroglioma, NOS (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9451</MaNhomGPB>
+    <MaGPB>9451/3</MaGPB>
+    <TenGPB>U thần kinh đệm ít gai bất thục sản</TenGPB>
+    <Name>Oligodendroglioma, anaplastic (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9460</MaNhomGPB>
+    <MaGPB>9460/3</MaGPB>
+    <TenGPB>U nguyên bào thần kinh đệm ít gai</TenGPB>
+    <Name>Oligodendroblastoma (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9470</MaNhomGPB>
+    <MaGPB>9470/3</MaGPB>
+    <TenGPB>U nguyên tuỷ bào nói chung</TenGPB>
+    <Name>Medulloblastoma, NOS (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9471</MaNhomGPB>
+    <MaGPB>9471/3</MaGPB>
+    <TenGPB>U nguyên tuỷ bào cục tạo xơ</TenGPB>
+    <Name>Desmoplastic nodular medulloblastoma (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9472</MaNhomGPB>
+    <MaGPB>9472/3</MaGPB>
+    <TenGPB>U nguyên tuỷ bào cơ</TenGPB>
+    <Name>Medullomyoblastoma (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9473</MaNhomGPB>
+    <MaGPB>9473/3</MaGPB>
+    <TenGPB>U thần kinh ngoại bì nguyên phát nói chung</TenGPB>
+    <Name>Primitive neuroectodermal tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9474</MaNhomGPB>
+    <MaGPB>9474/3</MaGPB>
+    <TenGPB>U nguyên tuỷ bào tế bào lớn</TenGPB>
+    <Name>Large cell medulloblastoma (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9480</MaNhomGPB>
+    <MaGPB>9480/3</MaGPB>
+    <TenGPB>Saccôm tiểu não nói chung</TenGPB>
+    <Name>Cerebellar sarcoma, NOS (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9490</MaNhomGPB>
+    <MaGPB>9490/0</MaGPB>
+    <TenGPB>U hạch thần kinh</TenGPB>
+    <Name>Ganglioneuroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9490</MaNhomGPB>
+    <MaGPB>9490/3</MaGPB>
+    <TenGPB>U nguyên bào hạch thần kinh</TenGPB>
+    <Name>Ganglioneuroblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9491</MaNhomGPB>
+    <MaGPB>9491/0</MaGPB>
+    <TenGPB>Bệnh u hạch thần kinh</TenGPB>
+    <Name>Ganglioneuromatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9492</MaNhomGPB>
+    <MaGPB>9492/0</MaGPB>
+    <TenGPB>U tế bào hạch</TenGPB>
+    <Name>Gangliocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9493</MaNhomGPB>
+    <MaGPB>9493/0</MaGPB>
+    <TenGPB>U tế bào hạch loạn sản của tiểu não</TenGPB>
+    <Name>Dysplastic gangliocytoma of cerebellum (Lhermitte- Duclos) (C71.6)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9500</MaNhomGPB>
+    <MaGPB>9500/3</MaGPB>
+    <TenGPB>U nguyên bào thần kinh nói chung</TenGPB>
+    <Name>Neuroblastoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9501</MaNhomGPB>
+    <MaGPB>9501/0</MaGPB>
+    <TenGPB>U biểu mô tuỷ lành</TenGPB>
+    <Name>Medulloepithelioma, benign (C69.4)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9501</MaNhomGPB>
+    <MaGPB>9501/3</MaGPB>
+    <TenGPB>U biểu mô tuỷ nói chung</TenGPB>
+    <Name>Medulloepithelioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9502</MaNhomGPB>
+    <MaGPB>9502/0</MaGPB>
+    <TenGPB>U biểu mô tuỷ dạng u quái lành tính</TenGPB>
+    <Name>Teratoid medulloepithelioma, benign (C69._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9502</MaNhomGPB>
+    <MaGPB>9502/3</MaGPB>
+    <TenGPB>U biểu mô tuỷ dạng u quái</TenGPB>
+    <Name>Teratoid medulloepithelioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9503</MaNhomGPB>
+    <MaGPB>9503/3</MaGPB>
+    <TenGPB>U thần kinh biểu mô nói chung</TenGPB>
+    <Name>Neuroepithelioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9504</MaNhomGPB>
+    <MaGPB>9504/3</MaGPB>
+    <TenGPB>U nguyên bào xốp thần kinh</TenGPB>
+    <Name>Spongioneuroblastoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9505</MaNhomGPB>
+    <MaGPB>9505/1</MaGPB>
+    <TenGPB>U hạch thần kinh đệm nói chung</TenGPB>
+    <Name>Ganglioglioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9505</MaNhomGPB>
+    <MaGPB>9505/3</MaGPB>
+    <TenGPB>U hạch thần kinh đệm bất thục sản</TenGPB>
+    <Name>Ganglioglioma, anaplastic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9506</MaNhomGPB>
+    <MaGPB>9506/1</MaGPB>
+    <TenGPB>U tế bào thần kinh trung ương</TenGPB>
+    <Name>Central neurocytoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9507</MaNhomGPB>
+    <MaGPB>9507/0</MaGPB>
+    <TenGPB>U pacơni</TenGPB>
+    <Name>Pacinian tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9508</MaNhomGPB>
+    <MaGPB>9508/3</MaGPB>
+    <TenGPB>U dạng cơ vân hoặc dạng u quái không điển hình</TenGPB>
+    <Name>Atypical teratoid/ rhabdoid tumor (C71._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9510</MaNhomGPB>
+    <MaGPB>9510/0</MaGPB>
+    <TenGPB>U tế bào võng mạc</TenGPB>
+    <Name>Retinocytoma (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9510</MaNhomGPB>
+    <MaGPB>9510/3</MaGPB>
+    <TenGPB>U nguyên bào võng mạc nói chung</TenGPB>
+    <Name>Retinoblastoma, NOS (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9511</MaNhomGPB>
+    <MaGPB>9511/3</MaGPB>
+    <TenGPB>U nguyên bào võng mạc biệt hoá</TenGPB>
+    <Name>Retinoblastoma, differentiated (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9512</MaNhomGPB>
+    <MaGPB>9512/3</MaGPB>
+    <TenGPB>U nguyên bào võng mạc không biệt hoá</TenGPB>
+    <Name>Retinoblastoma, undifferentiated (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9513</MaNhomGPB>
+    <MaGPB>9513/3</MaGPB>
+    <TenGPB>U nguyên bào võng mạc lan toả</TenGPB>
+    <Name>Retinoblastoma, diffuse (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9514</MaNhomGPB>
+    <MaGPB>9514/1</MaGPB>
+    <TenGPB>U nguyên bào võng mạc thoái triển tự nhiên</TenGPB>
+    <Name>Retinoblastoma, spontaneously regressed (C69.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9520</MaNhomGPB>
+    <MaGPB>9520/3</MaGPB>
+    <TenGPB>U thần kinh khứu giác</TenGPB>
+    <Name>Olfactory neurogenic tumor</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9521</MaNhomGPB>
+    <MaGPB>9521/3</MaGPB>
+    <TenGPB>U tế bào thần kinh khứu giác</TenGPB>
+    <Name>Olfactory neurocytoma (C30.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9522</MaNhomGPB>
+    <MaGPB>9522/3</MaGPB>
+    <TenGPB>U nguyên bào thần kinh khứu giác</TenGPB>
+    <Name>Olfactory neuroblastoma (C30.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9523</MaNhomGPB>
+    <MaGPB>9523/3</MaGPB>
+    <TenGPB>U biểu mô thần kinh khứu giác</TenGPB>
+    <Name>Olfactory neuroepithelioma (C30.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9530</MaNhomGPB>
+    <MaGPB>9530/0</MaGPB>
+    <TenGPB>U màng não nói chung</TenGPB>
+    <Name>Meningioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9530</MaNhomGPB>
+    <MaGPB>9530/1</MaGPB>
+    <TenGPB>Bệnh u màng não nói chung</TenGPB>
+    <Name>Meningiomatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9530</MaNhomGPB>
+    <MaGPB>9530/3</MaGPB>
+    <TenGPB>U màng não ác tính</TenGPB>
+    <Name>Meningioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9531</MaNhomGPB>
+    <MaGPB>9531/0</MaGPB>
+    <TenGPB>U màng não biểu mô màng não</TenGPB>
+    <Name>Meningothelial meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9532</MaNhomGPB>
+    <MaGPB>9532/0</MaGPB>
+    <TenGPB>U màng não xơ</TenGPB>
+    <Name>Fibrous meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9533</MaNhomGPB>
+    <MaGPB>9533/0</MaGPB>
+    <TenGPB>U màng não thể cát</TenGPB>
+    <Name>Psammomatous meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9534</MaNhomGPB>
+    <MaGPB>9534/0</MaGPB>
+    <TenGPB>U màng não thể huyết quản</TenGPB>
+    <Name>Angiomatous meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9535</MaNhomGPB>
+    <MaGPB>9535/0</MaGPB>
+    <TenGPB>U màng não thể nguyên bào huyết quản</TenGPB>
+    <Name>Hemangioblastic meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9537</MaNhomGPB>
+    <MaGPB>9537/0</MaGPB>
+    <TenGPB>U màng não thể chuyển tiếp</TenGPB>
+    <Name>Transitional meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9538</MaNhomGPB>
+    <MaGPB>9538/1</MaGPB>
+    <TenGPB>U màng não tế bào sáng</TenGPB>
+    <Name>Clear cell meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9538</MaNhomGPB>
+    <MaGPB>9538/3</MaGPB>
+    <TenGPB>U màng não thể nhú</TenGPB>
+    <Name>Papillary meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9539</MaNhomGPB>
+    <MaGPB>9539/1</MaGPB>
+    <TenGPB>U màng não không điển hình</TenGPB>
+    <Name>Atypical meningioma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9539</MaNhomGPB>
+    <MaGPB>9539/3</MaGPB>
+    <TenGPB>Bệnh saccôm màng não</TenGPB>
+    <Name>Meningeal sarcomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9540</MaNhomGPB>
+    <MaGPB>9540/0</MaGPB>
+    <TenGPB>U xơ thần kinh nói chung</TenGPB>
+    <Name>Neurofibroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9540</MaNhomGPB>
+    <MaGPB>9540/1</MaGPB>
+    <TenGPB>Bệnh u xơ thần kinh nói chung</TenGPB>
+    <Name>Neurofibromatosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9540</MaNhomGPB>
+    <MaGPB>9540/3</MaGPB>
+    <TenGPB>Sarcom xơ thần kinh</TenGPB>
+    <Name>Malignant peripheral nerve sheath tumor </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9541</MaNhomGPB>
+    <MaGPB>9541/0</MaGPB>
+    <TenGPB>U xơ thần kinh hắc tố</TenGPB>
+    <Name>Melanotic neurofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9550</MaNhomGPB>
+    <MaGPB>9550/0</MaGPB>
+    <TenGPB>U xơ thần kinh dạng đám rối</TenGPB>
+    <Name>Plexiform neurofibroma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9560</MaNhomGPB>
+    <MaGPB>9560/0</MaGPB>
+    <TenGPB>U bao thần kinh nói chung</TenGPB>
+    <Name>Neurilemoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9560</MaNhomGPB>
+    <MaGPB>9560/1</MaGPB>
+    <TenGPB>Bệnh u thần kinh đệm não</TenGPB>
+    <Name>Neurilemomatosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9560</MaNhomGPB>
+    <MaGPB>9560/3</MaGPB>
+    <TenGPB>U bao thần kinh ác tính</TenGPB>
+    <Name>Neurilemoma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9561</MaNhomGPB>
+    <MaGPB>9561/3</MaGPB>
+    <TenGPB>U xơ dây thần kinh ngoại vi ác tính với biệt hoá nguyên bào cơ vân</TenGPB>
+    <Name>Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9562</MaNhomGPB>
+    <MaGPB>9562/0</MaGPB>
+    <TenGPB>U ác thần kinh</TenGPB>
+    <Name>Neurothekeoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9570</MaNhomGPB>
+    <MaGPB>9570/0</MaGPB>
+    <TenGPB>U thần kinh nói chung</TenGPB>
+    <Name>Neuroma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9571</MaNhomGPB>
+    <MaGPB>9571/0</MaGPB>
+    <TenGPB>U quanh dây thần kinh nói chung</TenGPB>
+    <Name>Perineurioma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9571</MaNhomGPB>
+    <MaGPB>9571/3</MaGPB>
+    <TenGPB>U quanh dây thần kinh ác tính</TenGPB>
+    <Name>Perineurioma, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9580</MaNhomGPB>
+    <MaGPB>9580/0</MaGPB>
+    <TenGPB>U tế bào hạt nói chung</TenGPB>
+    <Name>Granular cell tumor, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9580</MaNhomGPB>
+    <MaGPB>9580/3</MaGPB>
+    <TenGPB>U tế bào hạt ác tính</TenGPB>
+    <Name>Granular cell tumor, malignant</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9581</MaNhomGPB>
+    <MaGPB>9581/3</MaGPB>
+    <TenGPB>Saccôm phần mềm hốc</TenGPB>
+    <Name>Alveolar soft part sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9582</MaNhomGPB>
+    <MaGPB>9582/0</MaGPB>
+    <TenGPB>U tế bào hạt vùng hố yên</TenGPB>
+    <Name>Granular cell tumor of the sellar region (C75.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9590</MaNhomGPB>
+    <MaGPB>9590/3</MaGPB>
+    <TenGPB>U limphô ác tính nói chung</TenGPB>
+    <Name>Malignant lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9591</MaNhomGPB>
+    <MaGPB>9591/3</MaGPB>
+    <TenGPB>U limphô ác tính không Hodgkin nói chung</TenGPB>
+    <Name>Malignant lymphoma, non- Hodgkin, NOS]</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9596</MaNhomGPB>
+    <MaGPB>9596/3</MaGPB>
+    <TenGPB>Hodgkin phối hợp và u limphô không Hodgkin</TenGPB>
+    <Name>Composite Hodgkin and non- hodgkin lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9650</MaNhomGPB>
+    <MaGPB>9650/3</MaGPB>
+    <TenGPB>U limphô Hodgkin nói chung</TenGPB>
+    <Name>Hodgkin lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9651</MaNhomGPB>
+    <MaGPB>9651/3</MaGPB>
+    <TenGPB>U limphô Hodgkin giàu limphô bào</TenGPB>
+    <Name>Hodgkin lymphoma, lymphocyte- rich</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9652</MaNhomGPB>
+    <MaGPB>9652/3</MaGPB>
+    <TenGPB>U limphô Hodgkin tế bào hỗn hợp nói chung</TenGPB>
+    <Name>Hodgkin lymphoma, mixed cellularity, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9653</MaNhomGPB>
+    <MaGPB>9653/3</MaGPB>
+    <TenGPB>U limphô Hodgkin không có limphô bào nói chung</TenGPB>
+    <Name>Hodgkin lymphoma, lymphocyte depletion, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9654</MaNhomGPB>
+    <MaGPB>9654/3</MaGPB>
+    <TenGPB>U limpho Hodgkin không có limphô bào, xơ lan toả</TenGPB>
+    <Name>Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9655</MaNhomGPB>
+    <MaGPB>9655/3</MaGPB>
+    <TenGPB>U limphô Hodgkin không có limphô bào, giàu tế bào lưới</TenGPB>
+    <Name>Hodgkin lymphoma,  lymphocyte depletion, reticular</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9659</MaNhomGPB>
+    <MaGPB>9659/3</MaGPB>
+    <TenGPB>U limpho Hodgkin thể cục, trội limphô bào</TenGPB>
+    <Name>Hodgkin lymphoma, nodular lymphocyte predominance</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9661</MaNhomGPB>
+    <MaGPB>9661/3</MaGPB>
+    <TenGPB>U hạt Hodgkin</TenGPB>
+    <Name>Hodgkin granuloma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9662</MaNhomGPB>
+    <MaGPB>9662/3</MaGPB>
+    <TenGPB>Saccôm Hodgkin</TenGPB>
+    <Name>Hodgkin sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9663</MaNhomGPB>
+    <MaGPB>9663/3</MaGPB>
+    <TenGPB>U limphô Hodgkin, xơ cục nói chung</TenGPB>
+    <Name>Hodgkin lymphoma, nodular sclerosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9664</MaNhomGPB>
+    <MaGPB>9664/3</MaGPB>
+    <TenGPB>U limphô Hodgkin, xơ cục , pha tế bào</TenGPB>
+    <Name>Hodgkin lymphoma, nodular sclerosis, cellular phase</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9665</MaNhomGPB>
+    <MaGPB>9665/3</MaGPB>
+    <TenGPB>U limphô Hodgkin, xơ cục độ I</TenGPB>
+    <Name>Hodgkin lymphoma, nodular sclerosis, grade 1</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9667</MaNhomGPB>
+    <MaGPB>9667/3</MaGPB>
+    <TenGPB>U limphô Hodgkin, xơ cục độ II</TenGPB>
+    <Name>Hodgkin lymphoma, nodular sclerosis, grade 2</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9670</MaNhomGPB>
+    <MaGPB>9670/3</MaGPB>
+    <TenGPB>U limphô ác tính, limphô bào B nhỏ nói chung</TenGPB>
+    <Name>Malignant lymphoma, small B lymphocytic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9671</MaNhomGPB>
+    <MaGPB>9671/3</MaGPB>
+    <TenGPB>U limphô ác tính, limphô tương bào</TenGPB>
+    <Name>Malignant lymphoma, lymphoplasmacytic</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9673</MaNhomGPB>
+    <MaGPB>9673/3</MaGPB>
+    <TenGPB>U limphô tế bào vùng vỏ nang</TenGPB>
+    <Name>Mantle cell lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9675</MaNhomGPB>
+    <MaGPB>9675/3</MaGPB>
+    <TenGPB>U limphô ác tính, lan toả, hỗn hợp tế bào nhỏ và lớn</TenGPB>
+    <Name>Malignant lymphoma, mixed small and large cell, diffuse [obs]</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9678</MaNhomGPB>
+    <MaGPB>9678/3</MaGPB>
+    <TenGPB>U limphô lan tràn nguyên phát</TenGPB>
+    <Name>Primary effusion lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9679</MaNhomGPB>
+    <MaGPB>9679/3</MaGPB>
+    <TenGPB>U limphô tế bào lớn B trung thất</TenGPB>
+    <Name>Mediastinal large B- cell lymphoma (C38.3)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9680</MaNhomGPB>
+    <MaGPB>9680/3</MaGPB>
+    <TenGPB>Ulimphô ác tính tế bào lớn B, lan toả nói chung</TenGPB>
+    <Name>Malignant lymphoma, large B-cell, diffuse NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9684</MaNhomGPB>
+    <MaGPB>9684/3</MaGPB>
+    <TenGPB>U limphô ác tính tế bào lớn B, lan tảo nguyên bào miễn dịch nói chung</TenGPB>
+    <Name>Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9687</MaNhomGPB>
+    <MaGPB>9687/3</MaGPB>
+    <TenGPB>U limphô Burkitt nói chung</TenGPB>
+    <Name>Burkitt lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9689</MaNhomGPB>
+    <MaGPB>9689/3</MaGPB>
+    <TenGPB>U limphô tế bào B vùng vỏ lách</TenGPB>
+    <Name>Splenic marginal zone B-cell lymphoma (C42.2)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9690</MaNhomGPB>
+    <MaGPB>9690/3</MaGPB>
+    <TenGPB>U limphô thể nang nói chung</TenGPB>
+    <Name>Follicular lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9691</MaNhomGPB>
+    <MaGPB>9691/3</MaGPB>
+    <TenGPB>U limphô thể nang độ 2</TenGPB>
+    <Name>Follicular lymphoma, grade 2</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9695</MaNhomGPB>
+    <MaGPB>9695/3</MaGPB>
+    <TenGPB>U limphô thể nang độ 1</TenGPB>
+    <Name>Follicular lymphoma, grade 1</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9698</MaNhomGPB>
+    <MaGPB>9698/3</MaGPB>
+    <TenGPB>U limphô thể nang độ 3</TenGPB>
+    <Name>Follicular lymphoma, grade 3</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9699</MaNhomGPB>
+    <MaGPB>9699/3</MaGPB>
+    <TenGPB>U limphô tế bào B vùng vỏ nói chung</TenGPB>
+    <Name>Marginal zone B-cell lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9700</MaNhomGPB>
+    <MaGPB>9700/3</MaGPB>
+    <TenGPB>U sùi dạng nấm</TenGPB>
+    <Name>Mycosis fungoides (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9701</MaNhomGPB>
+    <MaGPB>9701/3</MaGPB>
+    <TenGPB>Hội chứng Sezary</TenGPB>
+    <Name>Sezary syndrome</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9702</MaNhomGPB>
+    <MaGPB>9702/3</MaGPB>
+    <TenGPB>U limphô tế bào trưởng thành nói chung</TenGPB>
+    <Name>Mature T- cell lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9705</MaNhomGPB>
+    <MaGPB>9705/3</MaGPB>
+    <TenGPB>U limphô tế bào T nguyên bào miễn dịch mạch</TenGPB>
+    <Name>Angioimmunoblastic T- cell lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9708</MaNhomGPB>
+    <MaGPB>9708/3</MaGPB>
+    <TenGPB>U limphô tế bào T giống viêm mô mỡ dưới da</TenGPB>
+    <Name>Subcutaneous panniculitis- like T- cell lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9709</MaNhomGPB>
+    <MaGPB>9709/3</MaGPB>
+    <TenGPB>U limphô tế bào T của da nói chung </TenGPB>
+    <Name>Cutaneous T- cell lymphoma, NOS (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9714</MaNhomGPB>
+    <MaGPB>9714/3</MaGPB>
+    <TenGPB>U limphô tế bào lớn nhất thục sản, tế bào T và loại tế bào Null</TenGPB>
+    <Name>Anaplastic large cell lyphoma, T cell and Null cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9716</MaNhomGPB>
+    <MaGPB>9716/3</MaGPB>
+    <TenGPB>U limphô tế bào gamma- delta thuộc gan lách</TenGPB>
+    <Name>Hepatosplenic    ( gamma- delta) cell lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9717</MaNhomGPB>
+    <MaGPB>9717/3</MaGPB>
+    <TenGPB>U limphô tế bào T của ruột</TenGPB>
+    <Name>Intestinal T- cell lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9718</MaNhomGPB>
+    <MaGPB>9718/3</MaGPB>
+    <TenGPB>Rối loạn tăng sinh limphô tế bào T CD30+ của da nguyên phát</TenGPB>
+    <Name>Primary cutaneous CD30+T- cell lymphoproliferative disorder (C44._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9719</MaNhomGPB>
+    <MaGPB>9719/3</MaGPB>
+    <TenGPB>U limphô tế bào NK/T của mũi và loại mũi</TenGPB>
+    <Name>NK/T- cell lymphoma, nasal and nasal- type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9727</MaNhomGPB>
+    <MaGPB>9727/3</MaGPB>
+    <TenGPB>U limphô nguyên bào limphô tế bào tiền thân nói chung </TenGPB>
+    <Name>Precursor cell lymphoblastic lymphoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9728</MaNhomGPB>
+    <MaGPB>9728/3</MaGPB>
+    <TenGPB>U limphô nguyên bào limphô tế bào tiền thân B</TenGPB>
+    <Name>Precursor B- cell lymphoblastic lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9729</MaNhomGPB>
+    <MaGPB>9729/3</MaGPB>
+    <TenGPB>U limphô nguyên bào limphô tế bào tiền thân T</TenGPB>
+    <Name>Precursor T-cell lymphoblastic lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9731</MaNhomGPB>
+    <MaGPB>9731/3</MaGPB>
+    <TenGPB>U tương bào nói chung</TenGPB>
+    <Name>Plasmacytoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9732</MaNhomGPB>
+    <MaGPB>9732/3</MaGPB>
+    <TenGPB>Đa u tuỷ</TenGPB>
+    <Name>Multiple myeloma (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9733</MaNhomGPB>
+    <MaGPB>9733/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tương bào</TenGPB>
+    <Name>Plasma cell leukemia (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9734</MaNhomGPB>
+    <MaGPB>9734/3</MaGPB>
+    <TenGPB>U tương bào ngoài tuỷ</TenGPB>
+    <Name>Plasmacytoma, extramedullary</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9740</MaNhomGPB>
+    <MaGPB>9740/1</MaGPB>
+    <TenGPB>U dưỡng bào nói chung</TenGPB>
+    <Name>Mastocytoma, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9740</MaNhomGPB>
+    <MaGPB>9740/3</MaGPB>
+    <TenGPB>Saccôm dưỡng bào</TenGPB>
+    <Name>Mast cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9741</MaNhomGPB>
+    <MaGPB>9741/3</MaGPB>
+    <TenGPB>Bệnh u dưỡng bào ác tính</TenGPB>
+    <Name>Malignant mastocytosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9742</MaNhomGPB>
+    <MaGPB>9742/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu dưỡng bào</TenGPB>
+    <Name>Mast cell leukemia (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9750</MaNhomGPB>
+    <MaGPB>9750/3</MaGPB>
+    <TenGPB>Bệnh tăng mô bào ác tính</TenGPB>
+    <Name>Malignant histiocytosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9751</MaNhomGPB>
+    <MaGPB>9751/1</MaGPB>
+    <TenGPB>Bệnh tăng mô bào tế bào langerhans nói chung</TenGPB>
+    <Name>Langerhans cell histiocytosis, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9752</MaNhomGPB>
+    <MaGPB>9752/1</MaGPB>
+    <TenGPB>Bệnh tăng mô bào tế bào langerhans một ổ</TenGPB>
+    <Name>Langerhans cell histiocytosis, unifocal</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9753</MaNhomGPB>
+    <MaGPB>9753/1</MaGPB>
+    <TenGPB>Bệnh tăng mô bào tế bào langerhans nhiều ổ</TenGPB>
+    <Name>Langerhans cell histiocytosis, multifocal</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9754</MaNhomGPB>
+    <MaGPB>9754/3</MaGPB>
+    <TenGPB>Bệnh tăng mô bào tế bào Langerhans lan tràn</TenGPB>
+    <Name>Langerhans cell histiocytosis, disseminated</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9755</MaNhomGPB>
+    <MaGPB>9755/3</MaGPB>
+    <TenGPB>Saccôm mô bào</TenGPB>
+    <Name>Histiocytic sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9756</MaNhomGPB>
+    <MaGPB>9756/3</MaGPB>
+    <TenGPB>Saccôm tế bào langerhans</TenGPB>
+    <Name>Langerhans cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9757</MaNhomGPB>
+    <MaGPB>9757/3</MaGPB>
+    <TenGPB>Saccôm tế bào nhiều đuôi gian nang</TenGPB>
+    <Name>Interdigitating dendritic cell sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9758</MaNhomGPB>
+    <MaGPB>9758/3</MaGPB>
+    <TenGPB>Saccôm tế bào nhiều đuôi nang</TenGPB>
+    <Name>Follicular dendritic cell  sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9760</MaNhomGPB>
+    <MaGPB>9760/3</MaGPB>
+    <TenGPB>Bệnh mô dịch tăng sinh nói chung</TenGPB>
+    <Name>Immunoproliferative diseases, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9761</MaNhomGPB>
+    <MaGPB>9761/3</MaGPB>
+    <TenGPB>Macroglobulin huyết Waldenstrom</TenGPB>
+    <Name>Waldenstrom macroglobulinemia (C42.0)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9762</MaNhomGPB>
+    <MaGPB>9762/3</MaGPB>
+    <TenGPB>Bệnh chuỗi nặng nói chung</TenGPB>
+    <Name>Heavy chain disease, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9764</MaNhomGPB>
+    <MaGPB>9764/3</MaGPB>
+    <TenGPB>Bệnh ruột non tăng sinh miễn dịch</TenGPB>
+    <Name>Immunoproliferative small intestinal disease (C17._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9765</MaNhomGPB>
+    <MaGPB>9765/1</MaGPB>
+    <TenGPB>Y nghĩa không xác định của bệnh Gamma đơn dòng</TenGPB>
+    <Name>Monoclonal gammopathy of undetermined significance</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9766</MaNhomGPB>
+    <MaGPB>9766/1</MaGPB>
+    <TenGPB>Tổn thương tăng sinh miễn dịch hướng mạch</TenGPB>
+    <Name>Angiocentric immunoproliferative lesion </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9767</MaNhomGPB>
+    <MaGPB>9767/1</MaGPB>
+    <TenGPB>Bệnh to hạch nguyên bào miễn dịch mạch</TenGPB>
+    <Name>Angioimmunoblastic lymphadenopathy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9768</MaNhomGPB>
+    <MaGPB>9768/1</MaGPB>
+    <TenGPB>Bệnh limphô tăng sinh Gamma T</TenGPB>
+    <Name>T- gamma lymphoproliferative disease</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9769</MaNhomGPB>
+    <MaGPB>9769/1</MaGPB>
+    <TenGPB>Bệnh lắng đọng globulin miễn dịch</TenGPB>
+    <Name>Immunoglobulin deposition disease</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9800</MaNhomGPB>
+    <MaGPB>9800/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu nói chung</TenGPB>
+    <Name>Leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9801</MaNhomGPB>
+    <MaGPB>9801/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu cấp nói chung</TenGPB>
+    <Name>Acute leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9805</MaNhomGPB>
+    <MaGPB>9805/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu hai kiểu hình miễn dịch cấp</TenGPB>
+    <Name>Acute biphenotypic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9820</MaNhomGPB>
+    <MaGPB>9820/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu limphô nói chung</TenGPB>
+    <Name>Lymphoid leukemias, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9823</MaNhomGPB>
+    <MaGPB>9823/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu limphô bào mạn tế bào B/ u limphô limphô bào nhỏ</TenGPB>
+    <Name>B- cell chronic lymphocytic leukemia/ small lymphocytic lymphoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9826</MaNhomGPB>
+    <MaGPB>9826/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào Burkitt</TenGPB>
+    <Name>Burkitt cell leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9827</MaNhomGPB>
+    <MaGPB>9827/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào T trưởng thành/ u limphô (HTLV-1, dương tính)</TenGPB>
+    <Name>Adult T- cell leukemia/ lymphoma (HTLV-1 positive)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9831</MaNhomGPB>
+    <MaGPB>9831/1</MaGPB>
+    <TenGPB>Bệnh bạch cầu limphô bào hạt lớn tế bào T</TenGPB>
+    <Name>T- cell large granular lymphocytic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9832</MaNhomGPB>
+    <MaGPB>9832/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tiền limphô bào nói chung</TenGPB>
+    <Name>Prolymphocytic leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9833</MaNhomGPB>
+    <MaGPB>9833/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tiền limphô bào, típ tế bào B</TenGPB>
+    <Name>Prolymphocytic leukemia, B-cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9834</MaNhomGPB>
+    <MaGPB>9834/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tiền limphô bào, típ tế bào T</TenGPB>
+    <Name>Prolymphocytic leukemia, T-cell type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9835</MaNhomGPB>
+    <MaGPB>9835/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu nguyên bào limphô tế bào tiền thân nói chung</TenGPB>
+    <Name>Precursor cell lymphoblastic leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9836</MaNhomGPB>
+    <MaGPB>9836/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu limphô tế bào B tiền thân</TenGPB>
+    <Name>Precursor B - cell lymphoblastic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9837</MaNhomGPB>
+    <MaGPB>9837/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu limphô tế bào T tiền thân</TenGPB>
+    <Name>Precursor T- cell lymphoblastic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9840</MaNhomGPB>
+    <MaGPB>9840/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ nói chung</TenGPB>
+    <Name>Acute myeloid leukemia, M6 type</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9860</MaNhomGPB>
+    <MaGPB>9860/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ nói chung</TenGPB>
+    <Name>Myeloid leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9861</MaNhomGPB>
+    <MaGPB>9861/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp nói chung</TenGPB>
+    <Name>Acute myeloid leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9863</MaNhomGPB>
+    <MaGPB>9863/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ mạn nói chung</TenGPB>
+    <Name>Chronic myeloid leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9866</MaNhomGPB>
+    <MaGPB>9866/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tiền tuỷ bào cấp</TenGPB>
+    <Name>Acute promyelocytic leukemia </Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9867</MaNhomGPB>
+    <MaGPB>9867/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào đơn nhân tuỷ cấp</TenGPB>
+    <Name>Acute myclomonocytic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9870</MaNhomGPB>
+    <MaGPB>9870/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào ưa bazơ cấp</TenGPB>
+    <Name>Acute basophilic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9871</MaNhomGPB>
+    <MaGPB>9871/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp với bạch cầu ái toan tuỷ bất thường</TenGPB>
+    <Name>Acute mucloid leukemia with abnormal marrow eosinophils</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9872</MaNhomGPB>
+    <MaGPB>9872/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp, biệt hoá tối thiểu</TenGPB>
+    <Name>Acute mucloid leukemia, minimal differentiation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9873</MaNhomGPB>
+    <MaGPB>9873/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp không biệt hoá</TenGPB>
+    <Name>Acute mucloid leukemia without maturation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9874</MaNhomGPB>
+    <MaGPB>9874/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp biệt hoá</TenGPB>
+    <Name>Acute mucloid leukemia with maturation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9875</MaNhomGPB>
+    <MaGPB>9875/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ mạn BCR/ABL dương tính</TenGPB>
+    <Name>Chronic myelogenous leukemia, BCR/ABL positive</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9876</MaNhomGPB>
+    <MaGPB>9876/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu không điển hình BCR/ABL âm tính</TenGPB>
+    <Name>Atypical chroic myeloid leukemia, BCR/ABL negative</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9891</MaNhomGPB>
+    <MaGPB>9891/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu đơn nhân cấp</TenGPB>
+    <Name>Acute monocytic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9895</MaNhomGPB>
+    <MaGPB>9895/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp với loạn sản đa dòng</TenGPB>
+    <Name>Acute myeloid leukemia with multilineage dysplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9896</MaNhomGPB>
+    <MaGPB>9896/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp</TenGPB>
+    <Name>Acute myeloid leukemia, t(8;21)(q22;q22)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9897</MaNhomGPB>
+    <MaGPB>9897/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp, bất thường 11q23</TenGPB>
+    <Name>Acute myeloid leukemia, 11q23 abnormalities</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9910</MaNhomGPB>
+    <MaGPB>9910/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu nguyên bào nhân to cấp</TenGPB>
+    <Name>Acute megakaryoblastic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9920</MaNhomGPB>
+    <MaGPB>9920/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tuỷ cấp liên quan điều trị nói chung</TenGPB>
+    <Name>Therapy- related acute myeloid leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>993/</MaNhomGPB>
+    <MaGPB>993/3</MaGPB>
+    <TenGPB>Saccôm xương màng xương</TenGPB>
+    <Name>Periosteal osteosarcoma (C40._, C41._)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9930</MaNhomGPB>
+    <MaGPB>9930/0</MaGPB>
+    <TenGPB>Saccôm tuỷ</TenGPB>
+    <Name>Myeloid sarcoma</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9931</MaNhomGPB>
+    <MaGPB>9931/3</MaGPB>
+    <TenGPB>Bệnh toàn tuỷ cấp với xơ tuỷ</TenGPB>
+    <Name>Acute pammyclosis with myclofibrosis (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9940</MaNhomGPB>
+    <MaGPB>9940/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào tóc</TenGPB>
+    <Name>Hairy cell leukemia (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9945</MaNhomGPB>
+    <MaGPB>9945/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào tuỷ đơn nhân mạn nói chung</TenGPB>
+    <Name>Chornic myelomonocytic leukemia, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9946</MaNhomGPB>
+    <MaGPB>9946/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào tuỷ đơn nhân thiếu niên</TenGPB>
+    <Name>Juvenile myelomonocytic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9948</MaNhomGPB>
+    <MaGPB>9948/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu tế bào NK xâm nhập</TenGPB>
+    <Name>Aggressive NK - cell leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9950</MaNhomGPB>
+    <MaGPB>9950/3</MaGPB>
+    <TenGPB>Bệnh tăng hồng cầu vô căn</TenGPB>
+    <Name>Polycythemia vera</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9960</MaNhomGPB>
+    <MaGPB>9960/3</MaGPB>
+    <TenGPB>Bệnh tăng sinh tuỷ mạn nói chung</TenGPB>
+    <Name>Chronic myeloproliferative disease (C42.1)</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9961</MaNhomGPB>
+    <MaGPB>9961/3</MaGPB>
+    <TenGPB>Bệnh xơ tuỷ với dị sản tuỷ</TenGPB>
+    <Name>Myelosclerosis with myeloid metaplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9962</MaNhomGPB>
+    <MaGPB>9962/3</MaGPB>
+    <TenGPB>Bệnh tăng tiểu cầu vô căn</TenGPB>
+    <Name>Essential thrombocythemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9963</MaNhomGPB>
+    <MaGPB>9963/3</MaGPB>
+    <TenGPB>Bệnh bạch cầu trung tính mạn</TenGPB>
+    <Name>Chronic neutrophilic leukemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9964</MaNhomGPB>
+    <MaGPB>9964/3</MaGPB>
+    <TenGPB>Hội chứng tăng bạch cầu ái toan</TenGPB>
+    <Name>Hypereosinophilic syndrome</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9970</MaNhomGPB>
+    <MaGPB>9970/1</MaGPB>
+    <TenGPB>Rối loạn tăng sinh limphô nói chung</TenGPB>
+    <Name>Lymphoproliferative disorder, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9975</MaNhomGPB>
+    <MaGPB>9975/1</MaGPB>
+    <TenGPB>Bệnh tăng sinh tuỷ nói chung</TenGPB>
+    <Name>Myeloproliferative disease, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9980</MaNhomGPB>
+    <MaGPB>9980/3</MaGPB>
+    <TenGPB>Thiếu máu kháng điều trị</TenGPB>
+    <Name>Refratory anemia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9982</MaNhomGPB>
+    <MaGPB>9982/3</MaGPB>
+    <TenGPB>Thiếu máu kháng điều trị với nguyên bào sắt</TenGPB>
+    <Name>Refratory anemia with sideroblasts</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9983</MaNhomGPB>
+    <MaGPB>9983/3</MaGPB>
+    <TenGPB>Thiếu máu kháng điều trị với quá nhiều tế bào non</TenGPB>
+    <Name>Refratory anemia with excess blasts</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9984</MaNhomGPB>
+    <MaGPB>9984/3</MaGPB>
+    <TenGPB>Thiếu máu kháng điều trị với quá nhiều tế bào non đang hình thành</TenGPB>
+    <Name>Refratory anemia with excess blasts in transformation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9985</MaNhomGPB>
+    <MaGPB>9985/3</MaGPB>
+    <TenGPB>Giảm tế bào kháng đ+C1426iều trị với loạn sản đa dòng</TenGPB>
+    <Name>Refratory cytopenia with multilineage dysplasia</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9986</MaNhomGPB>
+    <MaGPB>9986/3</MaGPB>
+    <TenGPB>Hội chứng loạn sản tuỷ với hội chứng thiếu 5q</TenGPB>
+    <Name>Myelodysplastic syndrome with 5 q deletion (5q-) syndrome</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9987</MaNhomGPB>
+    <MaGPB>9987/3</MaGPB>
+    <TenGPB>Hội chứng loạn sản tuỷ liên quan điều trị nói chung</TenGPB>
+    <Name>Therapy- related myelodysplastic syndrome, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9989</MaNhomGPB>
+    <MaGPB>9989/3</MaGPB>
+    <TenGPB>Hội chứng loạn sản tuỷ nói chung</TenGPB>
+    <Name>Myelodysplastic syndrome, NOS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9990</MaNhomGPB>
+    <MaGPB>9990/1</MaGPB>
+    <TenGPB>Nghi ngờ, không xác định</TenGPB>
+    <Name>Suspect, undetermined</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9991</MaNhomGPB>
+    <MaGPB>9991/0</MaGPB>
+    <TenGPB>Sinh thiết không đạt yêu cầu</TenGPB>
+    <Name>Invalid biopsy</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9992</MaNhomGPB>
+    <MaGPB>9992/0</MaGPB>
+    <TenGPB>Viêm không đặc hiệu</TenGPB>
+    <Name>Inespecific inflammation</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9993</MaNhomGPB>
+    <MaGPB>9993/0</MaGPB>
+    <TenGPB>Các giả u không viêm</TenGPB>
+    <Name>No inflammatory pseudotumors</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9994</MaNhomGPB>
+    <MaGPB>9994/0</MaGPB>
+    <TenGPB>Viêm lao</TenGPB>
+    <Name>Tuberculosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9995</MaNhomGPB>
+    <MaGPB>9995/0</MaGPB>
+    <TenGPB>Bệnh saccoid</TenGPB>
+    <Name>Sarcoidosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9996</MaNhomGPB>
+    <MaGPB>9996/0</MaGPB>
+    <TenGPB>HIV-AIDS</TenGPB>
+    <Name>HIV-AIDS</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9997</MaNhomGPB>
+    <MaGPB>9997/0</MaGPB>
+    <TenGPB>Nấm</TenGPB>
+    <Name>Mycosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9998</MaNhomGPB>
+    <MaGPB>9998/0</MaGPB>
+    <TenGPB>Ký sinh trùng</TenGPB>
+    <Name> Parasitosis</Name>
+  </Table>
+  <Table>
+    <MaNhomGPB>9999</MaNhomGPB>
+    <MaGPB>9999/0</MaGPB>
+    <TenGPB>Tổn thương không xếp </TenGPB>
+    <Name>Unclassified lesions</Name>
+  </Table>
+</NewDataSet>

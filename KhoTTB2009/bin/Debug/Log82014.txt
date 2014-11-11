@@ -1,0 +1,40 @@
+
+08:22:49 AM Monday, August 11, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+08:25:03 AM Monday, August 11, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+08:29:05 AM Monday, August 11, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+08:42:44 AM Tuesday, August 12, 2014
+Oracle.DataAccess.Client.OracleException ORA-00942: table or view does not exist    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at LTCAccessdata.LTCDataAdapter.Fill(DataSet ds)ORA-00942: table or view does not exist
+
+08:42:48 AM Tuesday, August 12, 2014
+Oracle.DataAccess.Client.OracleException ORA-00942: table or view does not exist    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at LTCAccessdata.LTCDataAdapter.Fill(DataSet ds)ORA-00942: table or view does not exist
+
+02:47:31 PM Thursday, August 28, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery()create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))

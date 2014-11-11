@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DVT" type="xs:string" minOccurs="0" />
+								<xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+								<xs:element name="vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>1841</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>1</STT>
+		<MA>C321</MA>
+		<TEN>Cấy huyết trắng</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>45000</GIA_TH>
+		<GIA_BH>45000</GIA_BH>
+		<GIA_DV>45000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Gram stain</vanh>
+	</Table>
+	<Table>
+		<ID>1842</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>2</STT>
+		<MA>C322</MA>
+		<TEN>IDR</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>8000</GIA_TH>
+		<GIA_BH>8000</GIA_BH>
+		<GIA_DV>8000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>IDR</vanh>
+	</Table>
+	<Table>
+		<ID>1843</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>3</STT>
+		<MA>C323</MA>
+		<TEN>Nhuộm soi trực tiếp Gr (-)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>12000</GIA_TH>
+		<GIA_BH>12000</GIA_BH>
+		<GIA_DV>12000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Gram stain -</vanh>
+	</Table>
+	<Table>
+		<ID>1844</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>4</STT>
+		<MA>C324</MA>
+		<TEN>Nhuộm soi trực tiếp BK</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>10000</GIA_TH>
+		<GIA_BH>10000</GIA_BH>
+		<GIA_DV>10000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Gram stain for Tuberculosis</vanh>
+	</Table>
+	<Table>
+		<ID>1845</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>5</STT>
+		<MA>C325</MA>
+		<TEN>Kháng sinh đồ vi trùng kỵ khí</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>50000</GIA_TH>
+		<GIA_BH>50000</GIA_BH>
+		<GIA_DV>50000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Antibiogram</vanh>
+	</Table>
+	<Table>
+		<ID>1846</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>6</STT>
+		<MA>C326</MA>
+		<TEN>Soi tươi các chất tiết dịch: Nữ TV + CA + Gono</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>15000</GIA_TH>
+		<GIA_BH>15000</GIA_BH>
+		<GIA_DV>15000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Biopsy</vanh>
+	</Table>
+	<Table>
+		<ID>1847</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>7</STT>
+		<MA>C327</MA>
+		<TEN>Xét nghiệm đàm tìm BK</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>20000</GIA_TH>
+		<GIA_BH>20000</GIA_BH>
+		<GIA_DV>20000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Sputum</vanh>
+	</Table>
+	<Table>
+		<ID>1848</ID>
+		<ID_LOAI>7</ID_LOAI>
+		<STT>8</STT>
+		<MA>C328</MA>
+		<TEN>Tìm tế bào Tzank</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>6000</GIA_TH>
+		<GIA_BH>6000</GIA_BH>
+		<GIA_DV>6000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Tzank cell</vanh>
+	</Table>
+</NewDataSet>

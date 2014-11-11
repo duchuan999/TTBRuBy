@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>License</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>License :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thông số máy :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Ngày làm việc :</Vviet>
+    <Vanh>Date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đăng nhập</Vviet>
+    <Vanh>Ok</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mật khẩu :</Vviet>
+    <Vanh>Password :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tên đăng nhập :</Vviet>
+    <Vanh>User name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đăng ký sử dụng</Vviet>
+    <Vanh>Login</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

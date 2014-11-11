@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Trung bình :</Vviet>
+    <Vanh>Everage :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng chi phí :</Vviet>
+    <Vanh>Total expenses :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số ca :</Vviet>
+    <Vanh>Number of cases :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ra viện</Vviet>
+    <Vanh>Discharged patients</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đang điều trị</Vviet>
+    <Vanh>Current patients</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cả hai</Vviet>
+    <Vanh>Both</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Tổng hợp</Vviet>
+    <Vanh>Create report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>5</Vviet>
+    <Vanh>5</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Vị trí :</Vviet>
+    <Vanh>Place :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ :</Vviet>
+    <Vanh>SSN # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept. :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chi phí điều trị theo người bệnh</Vviet>
+    <Vanh>Payment/patient</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

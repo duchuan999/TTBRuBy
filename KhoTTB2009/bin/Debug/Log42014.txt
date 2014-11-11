@@ -1,0 +1,30 @@
+
+13:18:12 01 April 2014
+Oracle.DataAccess.Client.OracleException ORA-12541: TNS:no listener    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12541: TNS:no listener
+
+13:18:14 01 April 2014
+Oracle.DataAccess.Client.OracleException ORA-12541: TNS:no listener    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12541: TNS:no listener
+
+13:18:15 01 April 2014
+Oracle.DataAccess.Client.OracleException ORA-12541: TNS:no listener    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12541: TNS:no listener
+
+13:19:55 01 April 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12170: TNS:Connect timeout occurred
+
+13:20:28 01 April 2014
+Oracle.DataAccess.Client.OracleException ORA-12170: TNS:Connect timeout occurred    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12170: TNS:Connect timeout occurred

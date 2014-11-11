@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Bản thân</Vviet>
+		<Vanh>ersonal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>9:Bệnh tuyến giáp(bản thân)</Vviet>
+		<Vanh>9: Thyroid roblem</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>8:Hẹn</Vviet>
+		<Vanh>8: Appointment</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>7:Bản thân</Vviet>
+		<Vanh>7: Personal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh tuyến giáp:</Vviet>
+		<Vanh>Thyroid disease</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hen:</Vviet>
+		<Vanh>Appointment</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dị ứng:</Vviet>
+		<Vanh>Allergy:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Gia đình</Vviet>
+		<Vanh>Family</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>11:Bệnh tuyến giáp(gia đình)</Vviet>
+		<Vanh>11. Thyroid (Family)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>10:Đái tháo đường</Vviet>
+		<Vanh>10: Diabetis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh tuyến giáp:</Vviet>
+		<Vanh>Thyroid disease</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đái tháo đường:</Vviet>
+		<Vanh>Diabetis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh án</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

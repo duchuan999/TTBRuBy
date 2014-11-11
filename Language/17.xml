@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>1919</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>1</STT>
+    <MA>G21</MA>
+    <TEN>Quặm mi mắt (Cắt cơ vòm mi) 1 bên</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>50000</GIA_TH>
+    <GIA_BH>50000</GIA_BH>
+    <GIA_DV>50000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1920</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>2</STT>
+    <MA>G22</MA>
+    <TEN>U bì hốc mắt (Cắt bỏ u bì)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>90000</GIA_TH>
+    <GIA_BH>90000</GIA_BH>
+    <GIA_DV>90000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1921</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>3</STT>
+    <MA>G23</MA>
+    <TEN>U mở kết mạc (Cắt bỏ u)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>70000</GIA_TH>
+    <GIA_BH>70000</GIA_BH>
+    <GIA_DV>70000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1922</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>4</STT>
+    <MA>G24</MA>
+    <TEN>Bướu máu mi mắt (Cắt bỏ u)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>70000</GIA_TH>
+    <GIA_BH>70000</GIA_BH>
+    <GIA_DV>70000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1923</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>5</STT>
+    <MA>G25</MA>
+    <TEN>Sẹo sấu mi (Tạo hình mi)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>90000</GIA_TH>
+    <GIA_BH>90000</GIA_BH>
+    <GIA_DV>90000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1924</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>6</STT>
+    <MA>G26</MA>
+    <TEN>U bì giác mạc (Cắt bỏ u)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>70000</GIA_TH>
+    <GIA_BH>70000</GIA_BH>
+    <GIA_DV>70000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1925</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>7</STT>
+    <MA>G27</MA>
+    <TEN>Dính mí mắt nhãn cầu (Cắt dính)</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>25000</GIA_TH>
+    <GIA_BH>25000</GIA_BH>
+    <GIA_DV>25000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1926</ID>
+    <ID_LOAI>17</ID_LOAI>
+    <STT>8</STT>
+    <MA>G28</MA>
+    <TEN>Hẹp khe mi</TEN>
+    <DVT>Lần</DVT>
+    <GIA_TH>90000</GIA_TH>
+    <GIA_BH>90000</GIA_BH>
+    <GIA_DV>90000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

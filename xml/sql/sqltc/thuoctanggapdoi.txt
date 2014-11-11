@@ -1,0 +1,30 @@
+select * from medibv1150210.d_dutrull where mabn='10811607'
+
+select * from medibv1150210.d_dutruct  where id in(100225000001212180,100225000001213180,100225000001214180,100226000002140361,100226000002141361,100226000002142361) and mabd=6205
+
+select * from medibv1150210.d_duyet where id in (100224000000101179,100226000000038457,100226000000037457,100225000000075180,100225000000197456,100226000000036457)
+
+select * from medibv115.d_loaiphieu where id  in (110,108,109)
+
+select a.done,a.ngay,c.* from medibv1150210.d_duyet a,medibv1150210.d_xtutrucll b,medibv1150210.d_xtutrucct c where a.id=b.idduyet and b.id=c.id and 
+mabd in(select id from d_dmbd where ma='LOV002')  order by done
+
+select * from medibv1150310.d_xuatsdll a,medibv1150310.d_thucxuat b where a.id=b.id and mabn='10811607' and mabd=6205
+select * from medibv1150210.d_hoantrall where mabn='10811607'
+select * from medibv1150210.d_xtutrucll where mabn='10811607'
+select * from medibv1150310.d_xtutrucll where mabn='10811607'
+
+select * from medibv1150210.d_xuatsdll where mabn='10811607' and phieu in (110,108,109)
+select * from medibv1150210.d_xuatsdct where id=100225000053657344 and mabd=6205
+
+select * from medibv1150310.v_thvpll where mabn='10811607'
+
+
+select * from medibv1150210.d_tienthuoc where mabn='10811607' and mabd=6205
+
+select * from medibv115.btdkp where id=24
+select a.mavaovien, c.hoten,b.* from medibv1150310.v_ttrvds a left join medibv1150310.v_ttrvll b on a.id=b.id left join medibv115.btdbn c on a.mabn=c.mabn where a.mabn='10811607'
+select * from medibv115.dmdiemthu where id=6
+select * from medibv115.v_dlogin where id=854
+select * from medibv1150310.v_ttrvds where mabn='10811607'
+select * from medibv1150310.v_ttrvct where id=100301150001935539 and mavp=6205

@@ -1,0 +1,167 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>2200</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>1</STT>
+    <MA>BK1</MA>
+    <TEN>Syringe 10cc + Kim 23G</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>615</GIA_TH>
+    <GIA_BH>615</GIA_BH>
+    <GIA_DV>615</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2201</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>2</STT>
+    <MA>BK2</MA>
+    <TEN>Syringe 5cc + Kim 23G</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>374</GIA_TH>
+    <GIA_BH>374</GIA_BH>
+    <GIA_DV>374</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2202</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>3</STT>
+    <MA>BK3</MA>
+    <TEN>Syringe 1cc + Kim 25G</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>615</GIA_TH>
+    <GIA_BH>615</GIA_BH>
+    <GIA_DV>615</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2203</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>4</STT>
+    <MA>BK4</MA>
+    <TEN>Syringe 5cc</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>4400</GIA_TH>
+    <GIA_BH>4400</GIA_BH>
+    <GIA_DV>4400</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2204</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>5</STT>
+    <MA>BK5</MA>
+    <TEN>Syringe 1cc + Kim 26G</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>410</GIA_TH>
+    <GIA_BH>410</GIA_BH>
+    <GIA_DV>410</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2205</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>6</STT>
+    <MA>BK6</MA>
+    <TEN>Kim 26, 18, 20, 25</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>242</GIA_TH>
+    <GIA_BH>242</GIA_BH>
+    <GIA_DV>242</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2206</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>7</STT>
+    <MA>BK7</MA>
+    <TEN>Kim 22 (Brawn)</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>163</GIA_TH>
+    <GIA_BH>163</GIA_BH>
+    <GIA_DV>163</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2207</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>8</STT>
+    <MA>BK8</MA>
+    <TEN>Kim cánh bướm TE 26</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>1365</GIA_TH>
+    <GIA_BH>1365</GIA_BH>
+    <GIA_DV>1365</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2258</ID>
+    <ID_LOAI>26</ID_LOAI>
+    <STT>9</STT>
+    <MA>BK9</MA>
+    <TEN>Kim 23</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>614</GIA_TH>
+    <GIA_BH>614</GIA_BH>
+    <GIA_DV>614</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

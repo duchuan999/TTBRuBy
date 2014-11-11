@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Kết quả chẩn đoán</Vviet>
+		<Vanh>Result</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết luận</Vviet>
+		<Vanh>Conclusion </Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mô tả</Vviet>
+		<Vanh>Description </Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày chẩn đoán hình ảnh</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>---</Vviet>
+		<Vanh>---</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hình nội soi đã chọn</Vviet>
+		<Vanh>Selected images</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet> HÌNH NỘI SOI</Vviet>
+		<Vanh>Endoscopy Image</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xóa hình</Vviet>
+		<Vanh>Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem hình</Vviet>
+		<Vanh>View</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chọn</Vviet>
+		<Vanh>Select</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>PHIM NỘI SOI</Vviet>
+		<Vanh>ENDOSCOPY MOVIES</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xóa phim</Vviet>
+		<Vanh>Delete movie</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem phim</Vviet>
+		<Vanh>Watch movie</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lưu đĩa</Vviet>
+		<Vanh>Save to disk</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>picCapturePro</Vviet>
+		<Vanh>picCapturePro</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MÀN HÌNH NỘI SOI</Vviet>
+		<Vanh>ENDOSCOPY SCREEN</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>30</Vviet>
+		<Vanh>30</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lưu phim</Vviet>
+		<Vanh>Save movie</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chụp hình</Vviet>
+		<Vanh>Capture image</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết nối</Vviet>
+		<Vanh>Connect</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BN ĐƯỢC CHỈ ĐỊNH NỘI SOI</Vviet>
+		<Vanh>Endoscopy patients</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày</Vviet>
+		<Vanh>Between</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mới</Vviet>
+		<Vanh>&amp;New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Hủy</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán</Vviet>
+		<Vanh>Diagnosis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Điều trị</Vviet>
+		<Vanh>Physician</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Loại bệnh</Vviet>
+		<Vanh>Type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh</Vviet>
+		<Vanh>Y.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phòng</Vviet>
+		<Vanh>Room</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BHYT</Vviet>
+		<Vanh>SSN</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cấp cứu</Vviet>
+		<Vanh>Urgent</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoa phòng</Vviet>
+		<Vanh>Dept.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN</Vviet>
+		<Vanh>ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Trong giờ</Vviet>
+		<Vanh>Routine</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS thực hiện</Vviet>
+		<Vanh>Doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi chú</Vviet>
+		<Vanh>Comments</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Địa chỉ</Vviet>
+		<Vanh>Address</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng</Vviet>
+		<Vanh>Pat. class</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày sinh</Vviet>
+		<Vanh>D.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới</Vviet>
+		<Vanh>Gender</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Danh sách</Vviet>
+		<Vanh>&amp;List</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phim</Vviet>
+		<Vanh>Film</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mô tả</Vviet>
+		<Vanh>&amp;Description</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đã thanh toán viện phí</Vviet>
+		<Vanh>Paid</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>1</Vviet>
+		<Vanh>1</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lần</Vviet>
+		<Vanh>Times</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kỹ thuật :</Vviet>
+		<Vanh>Technique</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>T&amp;hêm KT</Vviet>
+		<Vanh>Add technique</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ KT</Vviet>
+		<Vanh>Dele technique</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Endoscopy</Vviet>
+		<Vanh>Endoscopy</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

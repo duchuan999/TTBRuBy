@@ -1,0 +1,290 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>toolStrip1</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đông y</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Gói</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tương tác</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn</Vviet>
+    <Vanh>OK</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>viên</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>lần , lần :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>0</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cấp :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ngày</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>1</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nguồn :</Vviet>
+    <Vanh>Source :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dấu sinh tồn</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mạch :</Vviet>
+    <Vanh>Pulse:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>lần/phút</Vviet>
+    <Vanh>/min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhiệt độ :</Vviet>
+    <Vanh>Temperature :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C°</Vviet>
+    <Vanh>C°</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp :</Vviet>
+    <Vanh>BP :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>mmHg</Vviet>
+    <Vanh>mmHg</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>lần/phút</Vviet>
+    <Vanh>/min</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>gram</Vviet>
+    <Vanh>gram</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhịp thở :</Vviet>
+    <Vanh>RR :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cân nặng :</Vviet>
+    <Vanh>Weight :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chuyển</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kho :</Vviet>
+    <Vanh>Stock :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng :</Vviet>
+    <Vanh>Status:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giường :</Vviet>
+    <Vanh>Bed:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng :</Vviet>
+    <Vanh>Room:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Cho lại</Vviet>
+    <Vanh>&amp;Refill</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xóa</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thêm</Vviet>
+    <Vanh>&amp;Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng :</Vviet>
+    <Vanh>Pat. class :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cách dùng :</Vviet>
+    <Vanh>Adm.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lượng :</Vviet>
+    <Vanh>Quantity :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ĐVT :</Vviet>
+    <Vanh>unit :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hoạt chất :</Vviet>
+    <Vanh>Generic :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên :</Vviet>
+    <Vanh>Drug :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã :</Vviet>
+    <Vanh>Code :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>ĐDV :</Vviet>
+    <Vanh>Nurse :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ :</Vviet>
+    <Vanh>Docto r:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên :</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN :</Vviet>
+    <Vanh>ID:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phân bổ chi tiết</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dự trù thuốc, vật tư y tế</Vviet>
+    <Vanh>Drug and disposable material ordering</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

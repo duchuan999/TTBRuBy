@@ -1,0 +1,24 @@
+select * from medibv1150310.v_chidinh where mabn='10813168'
+maql=100304064754595434
+mavv=100304064754595434
+idttrv=100315130022245341
+
+select * from medibv1150310.d_tienthuoc  where mabn='10813168'
+idttrv=100315130022245341
+----truogn hop co bien lai nhung bangke khong co
+tim id trong v_ttrdds
+select * from medibv1150310.v_ttrvds  where mabn=
+select * from medibv1150310.v_ttrvll  where id=10031513002224534
+
+select * from medibv1150310.v_ttrvct  where id=10031513002224534
+select * from medibv1150310.v_ttrvdv  where id=100315130022245341
+---insert tung fied
+insert into medibv1150310.v_ttrvds select  -id,mabn,mavaovien,maql,idkhoa,giuong,ngayvao,ngayra,chandoan,maicd,ngayud from medibv1150310.v_ttrvds where id=100315130022245341
+
+insert into medibv1150310.v_ttrvll select  -id,stt,ngay,makp,madoituong,mavp,soluong,dongia,vat,vattu,sotien,sothe,giamua,tra,ngaytra,bhytduyet,bhyttra,idtonghop,makpthuchien,ngayud from medibv1150310.v_ttrvll where id=100315130022245341
+
+insert into medibv1150310.v_ttrvct select  -id,stt,ngay,makp,madoituong,mavp,soluong,dongia,vat,vattu,sotien,sothe,giamua,tra,ngaytra,bhytduyet,bhyttra,idtonghop,makpthuchien,ngayud from medibv1150310.v_ttrvct where id=100315130022245341
+
+insert into medibv1150310.v_ttrvdv select  -id,stt,ngay,makp,madoituong,mavp,soluong,dongia,vat,vattu,sotien,sothe,giamua,tra,ngaytra,bhytduyet,bhyttra,idtonghop,makpthuchien,ngayud from medibv1150310.v_ttrvdv where id=100315130022245341
+
+insert into medibv1150310.v_ttrvdv select  -id,stt,ngay,makp,madoituong,mavp,soluong,dongia,vat,vattu,sotien,sothe,giamua,tra,ngaytra,bhytduyet,bhyttra,idtonghop,makpthuchien,ngayud from medibv1150310.v_ttrvdv where id=100315130022245341

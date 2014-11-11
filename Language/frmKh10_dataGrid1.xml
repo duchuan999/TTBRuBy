@@ -1,0 +1,185 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>ma</Vviet>
+    <Vanh>Code</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>STT</Vviet>
+    <Vanh>#</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cơ sở, trạm y tế thuộc TTYT huyện</Vviet>
+    <Vanh>Medical resources, medical wards</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C01</Vviet>
+    <Vanh>C01</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C02</Vviet>
+    <Vanh>C02</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C03</Vviet>
+    <Vanh>C03</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C04</Vviet>
+    <Vanh>C04</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C05</Vviet>
+    <Vanh>C05</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C06</Vviet>
+    <Vanh>C06</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C07</Vviet>
+    <Vanh>C07</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C08</Vviet>
+    <Vanh>C08</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C09</Vviet>
+    <Vanh>C09</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C10</Vviet>
+    <Vanh>C10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C11</Vviet>
+    <Vanh>C11</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C12</Vviet>
+    <Vanh>C12</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C13</Vviet>
+    <Vanh>C13</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C14</Vviet>
+    <Vanh>C14</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C15</Vviet>
+    <Vanh>C15</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C16</Vviet>
+    <Vanh>C16</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C17</Vviet>
+    <Vanh>C17</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C18</Vviet>
+    <Vanh>C18</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C19</Vviet>
+    <Vanh>C19</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C20</Vviet>
+    <Vanh>C20</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C21</Vviet>
+    <Vanh>C21</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C22</Vviet>
+    <Vanh>C22</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C23</Vviet>
+    <Vanh>C23</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C24</Vviet>
+    <Vanh>C24</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C25</Vviet>
+    <Vanh>C25</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C26</Vviet>
+    <Vanh>C26</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C27</Vviet>
+    <Vanh>C27</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C28</Vviet>
+    <Vanh>C28</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C29</Vviet>
+    <Vanh>C29</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>C30</Vviet>
+    <Vanh>C30</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

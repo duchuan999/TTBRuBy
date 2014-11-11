@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giờ ăn</Vviet>
+		<Vanh>Meal time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thực đơn</Vviet>
+		<Vanh>Menu</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>E (kcal)</Vviet>
+		<Vanh>E (kcal)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>P (%)</Vviet>
+		<Vanh>P (%)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>L (%)</Vviet>
+		<Vanh>L (%)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>G (%)</Vviet>
+		<Vanh>G (%)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>SL</Vviet>
+		<Vanh>Qty</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đơn giá</Vviet>
+		<Vanh>Unit price</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

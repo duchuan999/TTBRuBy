@@ -1,0 +1,145 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mổ lại miễn phí</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mổ nội soi</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng mỗ :</Vviet>
+    <Vanh>OP Room:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã pttt :</Vviet>
+    <Vanh>Code :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng hợp</Vviet>
+    <Vanh>Report</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phương pháp</Vviet>
+    <Vanh>Procedure</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính</Vviet>
+    <Vanh>Gender</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Độ tuổi</Vviet>
+    <Vanh>Group of age</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa phương</Vviet>
+    <Vanh>Address</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa</Vviet>
+    <Vanh>Department</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phòng mỗ</Vviet>
+    <Vanh>OP room</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>PTV chính</Vviet>
+    <Vanh>Surgeon</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Theo trẻ em</Vviet>
+    <Vanh>Children</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp</Vviet>
+    <Vanh>Occupation</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng</Vviet>
+    <Vanh>Patient class</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên thủ thuật</Vviet>
+    <Vanh>Minor surgery</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên phẫu thuật</Vviet>
+    <Vanh>Surgery</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Theo loại phẫu thủ thuật</Vviet>
+    <Vanh>Surgery type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phẫu thuật - thủ thuật</Vviet>
+    <Vanh>Surgical procedure</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Truy vấn thông tin phẫu thủ thuật</Vviet>
+    <Vanh>Surgery data querry</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

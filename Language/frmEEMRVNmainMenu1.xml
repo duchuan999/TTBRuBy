@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Tiện ích</Vviet>
+    <Vanh>Utility</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phân quyền sử dụng</Vviet>
+    <Vanh>User rights</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khai báo nội dung</Vviet>
+    <Vanh>Contain</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khai báo form</Vviet>
+    <Vanh>Forms</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khai báo bệnh án</Vviet>
+    <Vanh>Charts</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khai báo phòng khám</Vviet>
+    <Vanh>OP units</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khai báo bình thường</Vviet>
+    <Vanh>Normal signs</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

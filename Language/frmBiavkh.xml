@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>&amp;Xem</Vviet>
+    <Vanh>&amp;View</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội dung :</Vviet>
+    <Vanh>Title :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trung tâm y tế :</Vviet>
+    <Vanh>Medical resource :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ủy ban nhân dân :</Vviet>
+    <Vanh>Send to :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In trang bìa báo cáo</Vviet>
+    <Vanh>Print cover page</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

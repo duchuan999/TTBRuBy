@@ -1,0 +1,36 @@
+B?nh án ngo?i trú : F3 BA ngo?i trú :BHYTKB
+b?nh án ngo?i trú:
+select * from benhanngtr where mabn='09778899'       mavv:91226094557573211,maql:91226094557737211
+
+toa f3 benhan ngtr
+select * from medibv1151209.bhytkb where mabn='09778899'  :mavv=mavv benhanngtr,maql=maql benhanngtr,id=id bhytthuoc (d_bhytthuocll id=id d_bhytthuocct)
+
+F10 tai kham,
+select * from medibv1151209.benhanpk where mabn='09778899'     mavv=mangtr=maql benhanngtr,   maql benhanpk=maql bhytkb
+toa f3:
+select * from medibv1151209.bhytkb where mabn='09778899', mavv=maql benhanngtr,(n?u done=1.idttrv=..:dã thanh toán) ,maql benhanpk=maql bhytkb
+
+du tru linh:
+select * from medibv1151209.d_dutrull where mabn=09778899  ,mavv,maql=mavv,maql benhanngtr
+
+select * from medibv1151209.d_xuatsdll where mabn=09778899   (mavv,maql=mavv,maql benhanngtr)
+
+select * from medibv1151209.d_tienthuoc where mabn=09778899  (mavv,maql=mavv,maql benhanngtr)
+
+mavv benhan pk=mavv v_chidinh
+>>>>>>>>>>>>>>>>>>>>>>>>>
+benh an noi tru
+select * from medibv115.benhandt where mabn='98049242'     mvv:91231102308198130    maql:91231102308973130
+select * from medibv115.benhandt where mabn='09769127'    mvv:91217064709657069   maql:91224105928632181
+
+select * from medibv115.hiendien where mabn='09772016'
+
+select * from medibv1151209.d_dutrull where mabn=09769127
+update medibv1151209.d_dutrull set mavaovien=100101011348556179,maql=100101011348198179 where mabn=98050204
+select * from medibv1150110.d_xuatsdll where mabn=09769127
+update medibv1150110.d_xuatsdll set mavaovien=91231102308198130,maql=91231102308973130,mabn='98049242' where mabn=09769127
+select * from medibv1150110.d_tienthuoc where mabn=98050204
+update medibv1150110.d_tienthuoc set mavaovien=100101011348556179,maql=100101011348198179 where mabn=98050204
+
+select * from medibv1150110.v_chidinh where mabn='09769127'
+update medibv1150110.v_chidinh set mavaovien=91231102308198130,maql=91231102308973130,mabn='98049242' where mabn='09769127'

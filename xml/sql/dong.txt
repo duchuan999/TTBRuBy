@@ -1,0 +1,35 @@
+
+select * from medibv1150310.
+id= select id from medibv1150410.v_ttrvds where mabn='10000425'
+select * from medibv1150410.v_ttrvll where id=100402140000203196
+update medibv1150110.v_tamung set done=0, idttrv=0 where idttrv = 100402140000203196
+update medibv1150110.v_chidinh set paid=0, idttrv=0 where idttrv = 100402140000203196
+update medibv1150110.d_tienthuoc set done=0, idttrv=0 where idttrv = 100402140000203196
+update medibv1150110.bhytkb set quyenso=0, sobienlai=0,idttrv=0 where idttrv = 100402140000203196;
+commit
+update medibv1150210.bhytkb set quyenso=0, sobienlai=0,idttrv=0 where idttrv = 100402140000203196;
+update medibv1150310.bhytkb set quyenso=0, sobienlai=0,idttrv=0 where idttrv = 100402140000203196;
+update medibv1150410.bhytkb set quyenso=0, sobienlai=0,idttrv=0 where idttrv = 100402140000203196;
+select * from medibv1150110.bhytkb a,medibv1150110.bhytthuoc b where a.id=b.id and mabn='10000425'
+
+delete medibv1150410.v_ttrvct where id = 100402140000203196;
+delete medibv1150410.v_ttrvdv where id = 100402140000203196;
+delete medibv1150410.v_ttrvbhyt where id = 100402140000203196;
+delete medibv1150410.v_ttrvll where id = 100402140000203196;
+delete medibv1150410.v_ttrvds where id = 100402140000203196;
+commit
+
+select * from medibv1150110.d_tienthuoc where mabn='10000425'
+select * from medibv1150210.d_tienthuoc where mabn='10000425'
+select * from medibv1150310.d_tienthuoc where mabn='10000425'
+select * from medibv1150410.d_tienthuoc where mabn='10000425'
+select * from medibv1150110.v_chidinh where mabn='10000425'
+select * from medibv1150210.v_chidinh where mabn='10000425'
+select * from medibv1150310.v_chidinh where mabn='10000425'
+select * from medibv1150410.v_chidinh where mabn='10000425'
+select * from medibv1150410.v_ttrvds where mabn='10000425'
+update medibv1150410.v_ttrvds set maql=- maql,mavaovien=-mavaovien where mabn='10000425'
+update medibv1150410.v_thvpll set done=0 where mabn='10000425'
+commit
+select * from medibv1150110.d_tienthuoc where mabn='10000425'
+select * from medibv1150210.bhytkb a,medibv1150210.bhytthuoc b where a.id=b.id and mabn='10000425'

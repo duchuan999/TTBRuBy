@@ -1,0 +1,696 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NHOMDUOC" type="xs:string" minOccurs="0" />
+                <xs:element name="MALOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TENLOAI" type="xs:string" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MANHOM" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TENNHOM" type="xs:string" minOccurs="0" />
+                <xs:element name="MABD" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHC" type="xs:string" minOccurs="0" />
+                <xs:element name="DANG" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHANG" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNUOC" type="xs:string" minOccurs="0" />
+                <xs:element name="DONGIA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONDAU" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SLNHAP" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SLXUAT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SLTRA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SLNHAP_CK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SLXUAT_CK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STTONDAU" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STNHAP" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STXUAT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STTRA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STNHAP_CK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STXUAT_CK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SORT" type="xs:string" minOccurs="0" />
+                <xs:element name="HANDUNG" type="xs:string" minOccurs="0" />
+                <xs:element name="LOSX" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MANHOM>1</MANHOM>
+    <TENNHOM>KHTH</TENNHOM>
+    <MABD>1</MABD>
+    <MA>BEN001</MA>
+    <TEN>Bệnh án chấn thương chỉnh hình bỏng </TEN>
+    <TENHC />
+    <DANG>Quyển</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>0</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1056</MABD>
+    <MA>BAN068</MA>
+    <TEN>Bàn ép huyết tương </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>3</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1006</MABD>
+    <MA>BEC001</MA>
+    <TEN>Bể cách thủy (Babozi) WMB 14</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Memmet</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1032</MABD>
+    <MA>BEC002</MA>
+    <TEN>Bể cách thủy WNB7-45</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Memmet</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1054</MABD>
+    <MA>CAN010</MA>
+    <TEN>Cân và lắc túi máu PAG Makich</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>994</MABD>
+    <MA>DAN002</MA>
+    <TEN>Dàn ELISA + Máy đọc 680</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Biorad</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1016</MABD>
+    <MA>KIN009</MA>
+    <TEN>Kính hiển vi CX41RF</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Olympus</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1030</MABD>
+    <MA>KIN010</MA>
+    <TEN>Kính hiển vi Ema</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1009</MABD>
+    <MA>KIN008</MA>
+    <TEN>Kính hiển vi XS100</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Nikon</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1003</MABD>
+    <MA>MAY240</MA>
+    <TEN>Máy cất nước 2 lần 2102</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>GEL</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1045</MABD>
+    <MA>MAY262</MA>
+    <TEN>Máy đếm tế bào Beckman coulter</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>993</MABD>
+    <MA>MAY236</MA>
+    <TEN>Máy đếm tế bào CD8</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Cyflow</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1027</MABD>
+    <MA>MAY251</MA>
+    <TEN>Máy đếm tế bào KX 21</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Sysmex</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1018</MABD>
+    <MA>MAY245</MA>
+    <TEN>Máy đếm tế bào XT 1800I</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Sysmex</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1024</MABD>
+    <MA>MAY248</MA>
+    <TEN>Máy đếm tế bào XT 2000I</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Sysmex</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1025</MABD>
+    <MA>MAY249</MA>
+    <TEN>Máy đếm tế bào XT 4000I</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Sysmex</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1004</MABD>
+    <MA>MAY241</MA>
+    <TEN>Máy đo Hematocrit 20 D78532</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Helltich</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1026</MABD>
+    <MA>MAY250</MA>
+    <TEN>Máy đông máu bán tự động ST4</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1020</MABD>
+    <MA>MAY246</MA>
+    <TEN>Máy đông máu ST Compact</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1023</MABD>
+    <MA>MAY247</MA>
+    <TEN>Máy đông máu ST Compact</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1058</MABD>
+    <MA>MAY271</MA>
+    <TEN>Máy hàn dây di động </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1031</MABD>
+    <MA>MAY254</MA>
+    <TEN>Máy hàn dây lấy máu Ae 155</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Terumo</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1037</MABD>
+    <MA>MAY258</MA>
+    <TEN>Máy hàn dây lấy máu SE 250</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1051</MABD>
+    <MA>MAY268</MA>
+    <TEN>Máy lắc có cân </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1053</MABD>
+    <MA>MAY270</MA>
+    <TEN>Máy lắc lấy máu </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>2</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1050</MABD>
+    <MA>MAY267</MA>
+    <TEN>Máy lắc máu hiện trường </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1047</MABD>
+    <MA>MAY264</MA>
+    <TEN>Máy lắc tiểu cầu có tủ giữ nhiệt </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1049</MABD>
+    <MA>MAY266</MA>
+    <TEN>Máy lắc tiểu cầu EC-ERL</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1033</MABD>
+    <MA>MAY255</MA>
+    <TEN>Máy Lắc tiểu cầu RL 45-B</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1012</MABD>
+    <MA>MAY243</MA>
+    <TEN>Máy lắng ESR3000</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>SFRI</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1028</MABD>
+    <MA>MAY252</MA>
+    <TEN>Máy lắng Vesmatic 20</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Diesse</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1013</MABD>
+    <MA>MAY244</MA>
+    <TEN>Máy ly tâm Kubota</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Kubota</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1029</MABD>
+    <MA>MAY253</MA>
+    <TEN>Máy ly tâm Kubota 2420</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Kubota</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1036</MABD>
+    <MA>MAY257</MA>
+    <TEN>Máy ly tâm lạnh CR402</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1035</MABD>
+    <MA>MAY256</MA>
+    <TEN>Máy ly tâm lạnh ROTIXA 50 RS</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Helltich</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1007</MABD>
+    <MA>MAY242</MA>
+    <TEN>Máy ly tâm Rotofix 32</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Helltich</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>997</MABD>
+    <MA>MAY239</MA>
+    <TEN>Máy rửa SAGA</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Liner</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1046</MABD>
+    <MA>MAY263</MA>
+    <TEN>Máy rửa siêu âm 500HD</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1044</MABD>
+    <MA>MAY261</MA>
+    <TEN>Máy rửa siêu âm Soniclean 500 HT</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>995</MABD>
+    <MA>MAY237</MA>
+    <TEN>Máy rửa( thuộc dàn eliasa) PW40</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Biorad</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>996</MABD>
+    <MA>MAY238</MA>
+    <TEN>Máy ủ ( thuộc dàn elisa) </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Biorad</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1041</MABD>
+    <MA>NOI008</MA>
+    <TEN>Nồi hấp BK 75</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>999</MABD>
+    <MA>TUA003</MA>
+    <TEN>Tủ âm sâu -35 độ </TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Không xác định</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1039</MABD>
+    <MA>TUA004</MA>
+    <TEN>Tủ âm sâu -35 độ MDF 436</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Sanyo</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>998</MABD>
+    <MA>TUA002</MA>
+    <TEN>Tủ an toàn sinh học Class II BSK</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>ECO</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1005</MABD>
+    <MA>TUS010</MA>
+    <TEN>Tủ sấy DX 31</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Yamato</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1042</MABD>
+    <MA>TUS011</MA>
+    <TEN>Tủ sấy UNB 500</TEN>
+    <TENHC />
+    <DANG />
+    <TENHANG>Memmet</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1000</MABD>
+    <MA>TUT013</MA>
+    <TEN>Tủ trữ máu KN120</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Nuve</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1001</MABD>
+    <MA>TUT014</MA>
+    <TEN>Tủ trữ máu KN121</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Nuve</TENHANG>
+    <TONDAU>1</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+  <Table>
+    <MANHOM>2</MANHOM>
+    <TENNHOM>VTKT</TENNHOM>
+    <MABD>1034</MABD>
+    <MA>TUT016</MA>
+    <TEN>Tủ trữ máu MBR 304D</TEN>
+    <TENHC />
+    <DANG>Cái</DANG>
+    <TENHANG>Sanyo</TENHANG>
+    <TONDAU>2</TONDAU>
+    <SLNHAP>0</SLNHAP>
+    <SLXUAT>0</SLXUAT>
+  </Table>
+</NewDataSet>

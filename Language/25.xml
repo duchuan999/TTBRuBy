@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>2185</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>1</STT>
+    <MA>DC1</MA>
+    <TEN>Gants</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>1680</GIA_TH>
+    <GIA_BH>1680</GIA_BH>
+    <GIA_DV>1680</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2186</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>2</STT>
+    <MA>DC2</MA>
+    <TEN>Băng keo lụa</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>9274</GIA_TH>
+    <GIA_BH>9274</GIA_BH>
+    <GIA_DV>9274</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2187</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>3</STT>
+    <MA>DC3</MA>
+    <TEN>Băng keo cá nhân</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>185</GIA_TH>
+    <GIA_BH>185</GIA_BH>
+    <GIA_DV>185</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2188</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>4</STT>
+    <MA>DC4</MA>
+    <TEN>Gạc</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>3412</GIA_TH>
+    <GIA_BH>3412</GIA_BH>
+    <GIA_DV>3412</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2189</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>5</STT>
+    <MA>DC5</MA>
+    <TEN>Lancet</TEN>
+    <DVT>Cái</DVT>
+    <GIA_TH>489</GIA_TH>
+    <GIA_BH>489</GIA_BH>
+    <GIA_DV>489</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2190</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>6</STT>
+    <MA>DC6</MA>
+    <TEN>Dây O2</TEN>
+    <DVT>Sợi</DVT>
+    <GIA_TH>5252</GIA_TH>
+    <GIA_BH>5252</GIA_BH>
+    <GIA_DV>5252</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>2191</ID>
+    <ID_LOAI>25</ID_LOAI>
+    <STT>7</STT>
+    <MA>DC7</MA>
+    <TEN>Dây truyền máu</TEN>
+    <DVT>Sợi</DVT>
+    <GIA_TH>6300</GIA_TH>
+    <GIA_BH>6300</GIA_BH>
+    <GIA_DV>6300</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

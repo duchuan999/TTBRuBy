@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Danh sách bệnh nhân</Vviet>
+		<Vanh>Patient list</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết quả chi tiết</Vviet>
+		<Vanh>Result in detail</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kỹ thuật</Vviet>
+		<Vanh>Technique</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Truy &amp;vấn</Vviet>
+		<Vanh>Querry</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng</Vviet>
+		<Vanh>Patient class</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Loại bệnh</Vviet>
+		<Vanh>Patient type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tìm</Vviet>
+		<Vanh>&amp;Search</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ</Vviet>
+		<Vanh>Last name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ 7h sáng hôm trước đến 7h sáng hôm sau</Vviet>
+		<Vanh>7:AM to 7 AM the day after</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tổng:</Vviet>
+		<Vanh>Total</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Trong giờ</Vviet>
+		<Vanh>Service type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày</Vviet>
+		<Vanh>Between</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới</Vviet>
+		<Vanh>Gender</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh</Vviet>
+		<Vanh>Y.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đến ngày</Vviet>
+		<Vanh>and</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tên BN</Vviet>
+		<Vanh>First name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS CĐHA</Vviet>
+		<Vanh>Doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhóm KT</Vviet>
+		<Vanh>Group</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoa phòng</Vviet>
+		<Vanh>Dept.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN</Vviet>
+		<Vanh>ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Điều trị</Vviet>
+		<Vanh>Treat. doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Loại CĐHA</Vviet>
+		<Vanh>Radio. type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tìm bệnh nhân chẩn đoán hình ảnh</Vviet>
+		<Vanh>Search</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

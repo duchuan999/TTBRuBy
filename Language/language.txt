@@ -1,0 +1,12 @@
+Language lan = new Language();
+lan.Read_Language_to_Xml(this.Name.ToString(),this);
+lan.Changelanguage_to_English(this.Name.ToString(),this);
+
+lan.Read_dtgrid_to_Xml(dataGrid1, this.Name.ToString()+"_"+dataGrid1.Name.ToString());
+lan.Change_dtgrid_HeaderText_to_English(dataGrid1, this.Name.ToString()+"_"+dataGrid1.Name.ToString());
+
+
+Phai co khong kham de yeu cau CLS
+Di ung thuoc khong dien thong tin hanh chanh
+
+Language lan = new Language();

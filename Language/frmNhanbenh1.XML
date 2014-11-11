@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>diungthuoc</Vviet>
+		<Vanh>diungthuoc</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tìm Bệnh nhân</Vviet>
+		<Vanh>Search patient</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dị ứng thuốc</Vviet>
+		<Vanh>Allergy</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh kèm theo</Vviet>
+		<Vanh>Associated diseases</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tai nạn,thương tích</Vviet>
+		<Vanh>Accident, Injury</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>(Sinh,Sớm,Sẩy,Sống)</Vviet>
+		<Vanh>PARA</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tiền thai (Para) :</Vviet>
+		<Vanh>PARA :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhóm máu mẹ :</Vviet>
+		<Vanh>Mother blood gr.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới tính :</Vviet>
+		<Vanh>Gender :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quốc tịch :</Vviet>
+		<Vanh>Nationality :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phường/Xã :</Vviet>
+		<Vanh>Commune :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quận/H :</Vviet>
+		<Vanh>District :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/TP :</Vviet>
+		<Vanh>Province :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>T/Q/PXã :</Vviet>
+		<Vanh>Abbrev.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi làm việc :</Vviet>
+		<Vanh>Employer :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thôn, phố :</Vviet>
+		<Vanh>Street :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số nhà :</Vviet>
+		<Vanh>House#:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dân tộc :</Vviet>
+		<Vanh>Ethnic :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp :</Vviet>
+		<Vanh>Occupation :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp của mẹ :</Vviet>
+		<Vanh>Mother's occ. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Trình độ VH của mẹ :</Vviet>
+		<Vanh>Mother's edu. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp của bố :</Vviet>
+		<Vanh>Father's occ. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Trình độ VH của bố :</Vviet>
+		<Vanh>Father's edu. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên mẹ :</Vviet>
+		<Vanh>Mot. name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên bố :</Vviet>
+		<Vanh>Fat. name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lưu trữ :</Vviet>
+		<Vanh>Storing #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>ĐKKCB :</Vviet>
+		<Vanh>Reg. hosp.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tên :</Vviet>
+		<Vanh>By :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh kèm theo :</Vviet>
+		<Vanh>Associated diseases :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ nhận bệnh :</Vviet>
+		<Vanh>Received by :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TG bỏng :</Vviet>
+		<Vanh>Burn time :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TĐVH :</Vviet>
+		<Vanh>Edu. lev. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>CÁC LẦN VÀO VIỆN :</Vviet>
+		<Vanh>Previous admissions</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>CĐ KKB, Cấp cứu :</Vviet>
+		<Vanh>Diagnosis :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>CĐ Nơi chuyển đến :</Vviet>
+		<Vanh>Referring diag.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số vào viện :</Vviet>
+		<Vanh>Adm. No :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điện thoại :</Vviet>
+		<Vanh>Phone :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Địa chỉ :</Vviet>
+		<Vanh>Address :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Người nhà, quan hệ :</Vviet>
+		<Vanh>Next of kin :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đến ngày :</Vviet>
+		<Vanh>valid to :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số thẻ :</Vviet>
+		<Vanh>SSN:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng :</Vviet>
+		<Vanh>Class :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lần thứ :</Vviet>
+		<Vanh>Adm. times :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi giới thiệu :</Vviet>
+		<Vanh>Referred by :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhận từ :</Vviet>
+		<Vanh>Pat. type :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày giờ &amp;vào viện :</Vviet>
+		<Vanh>Adm. date time:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoa :</Vviet>
+		<Vanh>Dept.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>II. THÔNG TIN VÀO VIỆN :</Vviet>
+		<Vanh>II. ADMISSION  DATA</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết thúc</Vviet>
+		<Vanh>Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tiếp</Vviet>
+		<Vanh>&amp;Cont'</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ qua</Vviet>
+		<Vanh>Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã mẹ :</Vviet>
+		<Vanh>Mother's ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh/tuổi :</Vviet>
+		<Vanh>Y.O.B./Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp của bố :</Vviet>
+		<Vanh>Father's occ. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên bố :</Vviet>
+		<Vanh>Fat. name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đẻ lần mấy :</Vviet>
+		<Vanh>Child.Order No:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh :</Vviet>
+		<Vanh>Y.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nghề nghiệp :</Vviet>
+		<Vanh>Occupation :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>I. HÀNH CHÍNH :</Vviet>
+		<Vanh>I. DEMOGRAPHICS</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi :</Vviet>
+		<Vanh>Age</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh :</Vviet>
+		<Vanh>Y.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Sinh ngày :</Vviet>
+		<Vanh>D.O.B. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ và tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mã BN :</Vviet>
+		<Vanh>&amp;ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bệnh án :</Vviet>
+		<Vanh>&amp;Chart :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>ttme</Vviet>
+		<Vanh>ttme</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Medisoft</Vviet>
+		<Vanh>Medisoft 2007</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

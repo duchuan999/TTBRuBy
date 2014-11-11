@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Quản Lý Phim XQ</Vviet>
+    <Vanh>Film management</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quản Lý Thuốc XQ</Vviet>
+    <Vanh>Xray drug management</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhập theo DS chỉ định</Vviet>
+    <Vanh>Ordering</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhập BN mới</Vviet>
+    <Vanh>New patient</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cập nhật Viện phí khoa</Vviet>
+    <Vanh>Update hospital fee</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện Não</Vviet>
+    <Vanh>&amp;EEG</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điện tim</Vviet>
+    <Vanh>EKG</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nội soi</Vviet>
+    <Vanh>Endoscopy</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Siêu Âm</Vviet>
+    <Vanh>Ultrasound</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CT Scanner</Vviet>
+    <Vanh>CT Scanner</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>X Quang</Vviet>
+    <Vanh>Xray</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán hình ảnh - Option</Vviet>
+    <Vanh>Radiology - Options</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

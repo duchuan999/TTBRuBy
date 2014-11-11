@@ -1,0 +1,165 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán:</Vviet>
+    <Vanh>Diagnosis</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ:</Vviet>
+    <Vanh>Doctor</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú:</Vviet>
+    <Vanh>Comments</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số phiếu:</Vviet>
+    <Vanh>Sheet #</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa/PK:</Vviet>
+    <Vanh>Dept.:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày:</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Cho lại đơn</Vviet>
+    <Vanh>Refill</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>&amp;new</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xoá đơn</Vviet>
+    <Vanh>&amp;Delete presc.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dạng:</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thêm</Vviet>
+    <Vanh>&amp;Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xoá</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Biệt dược:</Vviet>
+    <Vanh>Brand name:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hoạt chất:</Vviet>
+    <Vanh>Generic name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cách dùng:</Vviet>
+    <Vanh>Administration</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lượng:</Vviet>
+    <Vanh>Qty :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cho thuốc tự do</Vviet>
+    <Vanh>Free medication</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh án</Vviet>
+    <Vanh>Chart</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

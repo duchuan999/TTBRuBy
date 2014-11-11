@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>WWW.TOANCAUSOFT.COM.VN</Vviet>
+		<Vanh>WWW.TOANCAUSOFT.COM.VN</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Exit</Vviet>
+		<Vanh>Exit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mobile : 090 3937066</Vviet>
+		<Vanh>Mobile : 090 3937066</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phone : 08.7155019</Vviet>
+		<Vanh>Phone : 08.7155019</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Copyright © 1994-2006 Links Co., Ltd</Vviet>
+		<Vanh>Copyright © 1994-2006 Links Co., Ltd</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Links ® Medisoft 2007</Vviet>
+		<Vanh>Links ® Medisoft 2007</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>This product is licensed to :</Vviet>
+		<Vanh>This product is licensed to :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán hình ảnh 2007</Vviet>
+		<Vanh>Radiology information system</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Loại PTTT :</Vviet>
+		<Vanh>Surgery:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tử vong PT :</Vviet>
+		<Vanh>Surgical dead:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tình hình PT :</Vviet>
+		<Vanh>Status</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tai biến :</Vviet>
+		<Vanh>Accident:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>PP Vô cảm :</Vviet>
+		<Vanh>Anest.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>PTTT :</Vviet>
+		<Vanh>Procedure:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Vẽ theo :</Vviet>
+		<Vanh>Draw by:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi :</Vviet>
+		<Vanh>Age:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã ICD :</Vviet>
+		<Vanh>ICD:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tình trạng :</Vviet>
+		<Vanh>Status:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết quả :</Vviet>
+		<Vanh>Result:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới tính :</Vviet>
+		<Vanh>Gender:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xử trí :</Vviet>
+		<Vanh>Treat:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi G thiệu :</Vviet>
+		<Vanh>Ref. by:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhận từ :</Vviet>
+		<Vanh>Pat. type:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kh/Phòng :</Vviet>
+		<Vanh>Dept.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng :</Vviet>
+		<Vanh>Pat. class :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dân tộc :</Vviet>
+		<Vanh>Ethnic:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>N. nghề :</Vviet>
+		<Vanh>Occu. :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>P.xã :</Vviet>
+		<Vanh>Commune :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Q/Huyện :</Vviet>
+		<Vanh>District:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/TP :</Vviet>
+		<Vanh>Prov.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số liệu :</Vviet>
+		<Vanh>Data:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>đến :</Vviet>
+		<Vanh>to:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày :</Vviet>
+		<Vanh>Between :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Biểu đồ :</Vviet>
+		<Vanh>&amp;Chart`:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Biểu đồ</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thống kê số liệu theo biểu đồ</Vviet>
+		<Vanh>Statistics by chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

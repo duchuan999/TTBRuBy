@@ -1,0 +1,24 @@
+select * from medibv1150110.d_tienthuoc where mabn='98049242' and maql=91231102308973130
+select * from medibv1150110.d_tienthuoc where mabn='09769127' and maql=91224105928632181
+
+select * from medibv1150110.v_chidinh where mabn='98049242' 
+select * from medibv1150110.v_chidinh where mabn='09769127' 
+
+select * from medibv1150110.v_tamung where mabn='98049242' 
+select * from medibv115.hiendien where mabn='99037955'
+update medibv115.hiendien set nhapkhoa=0 where mabn='99037955'
+
+select * from medibv115.nhapkhoa where mabn='99037955'
+
+select b.id,b.giamua
+from medibv1151209.d_tutrucct a, medibv1151209.d_theodoi b,d_dmbd c
+where a.stt=b.id and b.mabd=c.id
+and c.nhom=1
+and a.mabd=5538
+
+
+
+
+select distinct a.stt,a.mabd,c.giamua,c.giaban,c.giaban2,c.gianovat 
+from medibv1151209.d_tutrucct a, medibv1151209.d_tonkhoct b,medibv1151209.d_theodoi c 
+where a.mabd=b.mabd and b.stt=c.id and a.makp=32 and a.makho=b.makho and a.makho=12

@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên</Vviet>
+    <Vanh>Name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Năm sinh</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa chỉ</Vviet>
+    <Vanh>Address</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nghề nghiệp</Vviet>
+    <Vanh>Occupation</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày giờ</Vviet>
+    <Vanh>Date/time</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi xảy ra tai nạn</Vviet>
+    <Vanh>Accident place</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã</Vviet>
+    <Vanh>Commune</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/Huyện</Vviet>
+    <Vanh>District</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/Thành phố</Vviet>
+    <Vanh>Province</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Địa điểm</Vviet>
+    <Vanh>Place</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bộ phận</Vviet>
+    <Vanh>art of the body</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nguyên nhân</Vviet>
+    <Vanh>Cause</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngộ độc</Vviet>
+    <Vanh>Intoxicated</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Diễn biến</Vviet>
+    <Vanh>Evolution</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xử trí</Vviet>
+    <Vanh>Treatment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lý do</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chẩn đoán</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điều trị</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng lúc vào</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng lúc ra</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+</NewDataSet>

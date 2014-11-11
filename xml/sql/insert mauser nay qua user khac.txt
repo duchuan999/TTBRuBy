@@ -1,0 +1,7 @@
+select * from medibv115.cdha_btdvt where userid=2083
+select max(id) from medibv115.cdha_btdvt 1179
+select id+1179,stt,1576,makt,matat,daydu from medibv115.cdha_btdvt where userid=2083
+
+
+insert into medibv115.cdha_btdvt (id,stt,userid,makt,matat,daydu) select id+1179,stt,1576,makt,matat,daydu from medibv115.cdha_btdvt where userid=2083
+select * from medibv115.cdha_dlogin where id in (1576,1067,2083)

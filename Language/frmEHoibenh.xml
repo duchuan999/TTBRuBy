@@ -1,0 +1,185 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Ngày:</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bác sĩ:</Vviet>
+    <Vanh>Doctor:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian:</Vviet>
+    <Vanh>Duration:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>105:Thói quen khác</Vviet>
+    <Vanh>105:Habits</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khác:</Vviet>
+    <Vanh>Others:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dị ứng khác</Vviet>
+    <Vanh>Other allergy</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dị ứng thức ăn</Vviet>
+    <Vanh>Food allergy</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Dị ứng thuốc</Vviet>
+    <Vanh>Drug allergy</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian:</Vviet>
+    <Vanh>Duration:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>103:Ma túy</Vviet>
+    <Vanh>103:Heroin</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ma túy:</Vviet>
+    <Vanh>Heroin:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian:</Vviet>
+    <Vanh>Duration:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>101:Rựơu bia</Vviet>
+    <Vanh>101:Alcohol</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Rượu bia:</Vviet>
+    <Vanh>Alcohol</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>DỊ ỨNG</Vviet>
+    <Vanh>ALLERGY</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>THÓI QUEN</Vviet>
+    <Vanh>HABITS</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>99 :Thuốc lá</Vviet>
+    <Vanh>99:Smoking</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thời gian:</Vviet>
+    <Vanh>Duration:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc lá:</Vviet>
+    <Vanh>Smoking</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>43 :Tiền sử gia đình</Vviet>
+    <Vanh>43:Family history</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>42 :Tiền sử cá nhân</Vviet>
+    <Vanh>42:History</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiền sử gia đình:</Vviet>
+    <Vanh>Family history</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tiền sử cá nhân:</Vviet>
+    <Vanh>History</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh sử:</Vviet>
+    <Vanh>History</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Lý do vào viện:</Vviet>
+    <Vanh>Chief complains</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xoá</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh án</Vviet>
+    <Vanh>Chart</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

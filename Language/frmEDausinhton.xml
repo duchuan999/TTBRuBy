@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Lấy 3 Lần huyết áp</Vviet>
+    <Vanh>Take blood pressure 3 times</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem biểu đồ</Vviet>
+    <Vanh>Charts</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày:</Vviet>
+    <Vanh>Date:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>...</Vviet>
+    <Vanh>...</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Điều dưỡng:</Vviet>
+    <Vanh>Nurse:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>92:Đều/không đều</Vviet>
+    <Vanh>92:regular/Irregular</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú #3:</Vviet>
+    <Vanh>Comment #3</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú #2:</Vviet>
+    <Vanh>Comment #2</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú:</Vviet>
+    <Vanh>Comment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đều/không đều:</Vviet>
+    <Vanh>Regular/Irregular</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp #3:</Vviet>
+    <Vanh>Blood pressure #3</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp #2:</Vviet>
+    <Vanh>Blood pressure #2</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Huyết áp:</Vviet>
+    <Vanh>Blood pressure</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mạch:</Vviet>
+    <Vanh>Pulse:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nơi lấy nhiệt độ:</Vviet>
+    <Vanh>Temperature at:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhịp thở:</Vviet>
+    <Vanh>Resp. frequency</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Cân nặng:</Vviet>
+    <Vanh>Weight</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Nhiệt độ:</Vviet>
+    <Vanh>Temperature</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chiều cao:</Vviet>
+    <Vanh>Height:</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú:</Vviet>
+    <Vanh>Comment</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>&amp;Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Xoá</Vviet>
+    <Vanh>&amp;Delete</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Mới</Vviet>
+    <Vanh>&amp;New</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Bệnh án</Vviet>
+    <Vanh>Chart</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

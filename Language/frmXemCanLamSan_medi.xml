@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>button1</Vviet>
+		<Vanh>Button</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>G:\benhvien\AnGiang\Sieuam\media\noisoi\imageXQ502000055551.jpg</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết thúc</Vviet>
+		<Vanh>Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem kết quả cận lâm sàng</Vviet>
+		<Vanh>Lab and radiology report</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem cận lâm sàng</Vviet>
+		<Vanh>Lab and radiology report</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tất cả</Vviet>
+		<Vanh>All</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hiện tại</Vviet>
+		<Vanh>Current visit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Địa chỉ :</Vviet>
+		<Vanh>Address :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi :</Vviet>
+		<Vanh>Age :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN :</Vviet>
+		<Vanh>Patient ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem cận lâm sàng</Vviet>
+		<Vanh>Lab and radiology report</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

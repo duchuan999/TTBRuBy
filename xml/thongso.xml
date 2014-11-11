@@ -1,0 +1,187 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <c14>300</c14>
+    <c17>1</c17>
+    <c18>1</c18>
+    <c21>1</c21>
+    <c22>1</c22>
+    <c23>0</c23>
+    <c25>0</c25>
+    <c26>0</c26>
+    <c27>0</c27>
+    <c28>0</c28>
+    <c29>0</c29>
+    <c30>0</c30>
+    <c31>0</c31>
+    <c32>0</c32>
+    <c33>0</c33>
+    <c34>1</c34>
+    <c35>1</c35>
+    <c36>0</c36>
+    <c38>0</c38>
+    <c39 />
+    <c40 />
+    <c41 />
+    <c44>0</c44>
+    <c45>1</c45>
+    <c46>1</c46>
+    <c47>0</c47>
+    <c48>0</c48>
+    <c51>1</c51>
+    <c52>0</c52>
+    <c53>0</c53>
+    <c55>0</c55>
+    <c56>2</c56>
+    <c57>1</c57>
+    <c58>0</c58>
+    <c59>2</c59>
+    <c60>2</c60>
+    <c61>1</c61>
+    <unicode>1</unicode>
+    <tcvn3>0</tcvn3>
+    <sql>select * from medibv115.error where to_char(ngayud,'dd/mm/yyyy')='01/10/2012'</sql>
+    <c105>1</c105>
+    <c116>0</c116>
+    <c125>0</c125>
+    <c126>0</c126>
+    <c127>0</c127>
+    <c134>1</c134>
+    <c135>1</c135>
+    <c140>0</c140>
+    <c177>0</c177>
+    <c178>0</c178>
+    <c195>1</c195>
+    <c196>1</c196>
+    <c206>0</c206>
+    <c207>0</c207>
+    <c208>0</c208>
+    <Ngonngu>0</Ngonngu>
+    <xemthuoc>1</xemthuoc>
+    <version>Version 27/08/2008 21:28</version>
+    <file>medisoft</file>
+    <verxml>0</verxml>
+    <verreport>0</verreport>
+    <smartcard>0</smartcard>
+    <c345>0</c345>
+    <sms_phone>0989109711</sms_phone>
+    <sms_message />
+    <hiendienthuoc>1</hiendienthuoc>
+    <vaopltime>0</vaopltime>
+    <rapltime>0</rapltime>
+    <ckexcel>1</ckexcel>
+    <ckthuoc>0</ckthuoc>
+    <tttiepdon>1</tttiepdon>
+    <ctcapdon>0</ctcapdon>
+    <ctdutru>1</ctdutru>
+    <banin_7>1</banin_7>
+    <banin_1>2</banin_1>
+    <bhluuin>0</bhluuin>
+    <hinh>D:\Medisoft200911g\hinhnen\medisoft.jpg</hinh>
+    <pktoathuoc />
+    <chidinhdong>0</chidinhdong>
+    <cdtraiphai>0</cdtraiphai>
+    <pllist>1</pllist>
+    <ravienth>0</ravienth>
+    <ravienct>1</ravienct>
+    <ckall>1</ckall>
+    <choncdten>0</choncdten>
+    <huychonin>1</huychonin>
+    <chidinhv>1</chidinhv>
+    <thanntaoxem />
+    <treothanx>1</treothanx>
+    <tdlcd>0</tdlcd>
+    <thantso>0</thantso>
+    <goithanincls>0</goithanincls>
+    <lichthanx>1</lichthanx>
+    <lichthanxt />
+    <duyetluu>1</duyetluu>
+    <plravien />
+    <iphieuhc />
+    <ravienxoa />
+    <tsodutruphieu>26</tsodutruphieu>
+    <dtdausinhton>1</dtdausinhton>
+    <dtsolan>0</dtsolan>
+    <dtallngay />
+    <dutruhc>1</dutruhc>
+    <tsodutrumatutruc>32</tsodutrumatutruc>
+    <duyetclslvp />
+    <pkbangdien />
+    <pkbangdienmabn />
+    <c296>0</c296>
+    <ckylenh>0</ckylenh>
+    <ckchkvienphi />
+    <chkCachdung>0</chkCachdung>
+    <ckhandung />
+    <donthuoca5 />
+    <scrtheoten />
+    <lcdtheoten />
+    <Inchidinh_donthuoc />
+    <report />
+    <solanin>1</solanin>
+    <khoadieutringoaitru>018</khoadieutringoaitru>
+    <chidinh_solanin>1</chidinh_solanin>
+    <inkembangtonghop>0</inkembangtonghop>
+    <ttrv_indathanhtoan />
+    <chkTinhcongnokhiin>0</chkTinhcongnokhiin>
+    <chkTinhchitrongdotchidinh>0</chkTinhchitrongdotchidinh>
+    <chkInkemdausinhton>0</chkInkemdausinhton>
+    <chkLoctheokhothuoccholai>1</chkLoctheokhothuoccholai>
+    <chkGiaychuyenviennhapchitiet>1</chkGiaychuyenviennhapchitiet>
+    <chkIngiaychuyenvienkhiluuxutrichuyenvien>1</chkIngiaychuyenvienkhiluuxutrichuyenvien>
+    <chkIngiaychuyenvienkhicoxutrichuyenvien>0</chkIngiaychuyenvienkhicoxutrichuyenvien>
+    <InKemChiDinhTamUngKhiInPhieuKham />
+    <chkInphieuthanhtoanravienkhiluuxuatkhoa>1</chkInphieuthanhtoanravienkhiluuxuatkhoa>
+    <chkCachdunglaytudanhmuc>1</chkCachdunglaytudanhmuc>
+    <chkTinhcongnokhiluu>0</chkTinhcongnokhiluu>
+    <chkChihiennhungdichvuconsudung>1</chkChihiennhungdichvuconsudung>
+    <tolTudongchongoithuocvattudikem>1</tolTudongchongoithuocvattudikem>
+    <cbKhu>1</cbKhu>
+    <chkXuatdskbralcd>0</chkXuatdskbralcd>
+    <tkbnbhyt_pl>1</tkbnbhyt_pl>
+    <mnuCanhBaoCongNo>0</mnuCanhBaoCongNo>
+    <chkXuatSTTRaBangDien>0</chkXuatSTTRaBangDien>
+    <chkBangDienGoiDocLapTheoTungQuay>0</chkBangDienGoiDocLapTheoTungQuay>
+    <chkBangDienGoiDocLapTheoTungKhu>0</chkBangDienGoiDocLapTheoTungKhu>
+    <txtQuayBangDien>0</txtQuayBangDien>
+    <chkXuatDanhSachChoRaLCD>0</chkXuatDanhSachChoRaLCD>
+    <chkXuatDanhSachNoiTru>0</chkXuatDanhSachNoiTru>
+    <chkXuatBenhNhanBHYTPhongKham>0</chkXuatBenhNhanBHYTPhongKham>
+    <chkNhapthuoc>0</chkNhapthuoc>
+    <chkDonThuocNhapSoNgay>0</chkDonThuocNhapSoNgay>
+    <chkXuatDanhSachChoMoRaLCD>0</chkXuatDanhSachChoMoRaLCD>
+    <chkThongBaoKhiBenhNhanDaInThe>0</chkThongBaoKhiBenhNhanDaInThe>
+    <chkChiGoiBenhNhanChuaDuocKham>0</chkChiGoiBenhNhanChuaDuocKham>
+    <chkInChuKiScan>0</chkInChuKiScan>
+    <chkInHoaDonKhongDong>1</chkInHoaDonKhongDong>
+    <chkInDonThuocKemChuKyScan>0</chkInDonThuocKemChuKyScan>
+    <chkLocDoiTungTruocKhiInKhiThanhToanRaVien>0</chkLocDoiTungTruocKhiInKhiThanhToanRaVien>
+    <chkInGiayHenKemChuKyScan>1</chkInGiayHenKemChuKyScan>
+    <chkThongBaoSTTKhamKhiChuyenKham>0</chkThongBaoSTTKhamKhiChuyenKham>
+    <chkChonNgayKhiChiDinhDichVu>0</chkChonNgayKhiChiDinhDichVu>
+    <chkGhiChuLayTuDanhMucGoiY>1</chkGhiChuLayTuDanhMucGoiY>
+    <mnBLChitiet>1</mnBLChitiet>
+    <mnBLTonghop>0</mnBLTonghop>
+    <mnMau38_nt_mavaovien>1</mnMau38_nt_mavaovien>
+    <mnMau38_nt>0</mnMau38_nt>
+    <mnuLocDanhSachBenhNhanNoiTru>0</mnuLocDanhSachBenhNhanNoiTru>
+    <mnuLocDanhSachBenhNhanNgoaiTru>1</mnuLocDanhSachBenhNhanNgoaiTru>
+    <chkChiLayBHYTCaDotDieuTri>0</chkChiLayBHYTCaDotDieuTri>
+    <chkKhongTuLoadChiPhiCuaBenhNhan>0</chkKhongTuLoadChiPhiCuaBenhNhan>
+    <chkHienTatCaCacKhoaKhiDuyet>0</chkHienTatCaCacKhoaKhiDuyet>
+    <chkChiHienCacKhoaTrongNgayKhiDuyet>1</chkChiHienCacKhoaTrongNgayKhiDuyet>
+    <chkInCachDungTrongTongHopYLenh>0</chkInCachDungTrongTongHopYLenh>
+    <numSoLeTrongBaoCaoSuDung>2</numSoLeTrongBaoCaoSuDung>
+    <txtSoTienTamUngMacDinh>700000</txtSoTienTamUngMacDinh>
+    <cboSoQuyenToan>29514</cboSoQuyenToan>
+  </Row>
+  <Table1>
+    <ckyhandung>1</ckyhandung>
+  </Table1>
+  <Table2>
+    <ckyhandung>0</ckyhandung>
+  </Table2>
+  <Table3>
+    <ckyhandung>1</ckyhandung>
+  </Table3>
+</Import>

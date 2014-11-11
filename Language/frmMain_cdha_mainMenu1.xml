@@ -1,0 +1,190 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Cập nhật</Vviet>
+		<Vanh>&amp;Radiology</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>X Quang</Vviet>
+		<Vanh>X ray</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Siêu âm trắng đen</Vviet>
+		<Vanh>Ultra sound (BW)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Siêu âm màu</Vviet>
+		<Vanh>Ultrasound (color)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nội soi</Vviet>
+		<Vanh>Endoscopy</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điện Tim</Vviet>
+		<Vanh>EKG</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điện não</Vviet>
+		<Vanh>EEG</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Báo cáo</Vviet>
+		<Vanh>&amp;Report</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;1. Tìm bệnh nhân chẩn đoán hình ảnh</Vviet>
+		<Vanh>&amp;1. Find</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;2. Báo cáo</Vviet>
+		<Vanh>&amp;2. Report</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>X Quang</Vviet>
+		<Vanh>X ray</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Siêu âm trắng đen</Vviet>
+		<Vanh>Ultra sound (BW)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Siêu âm màu</Vviet>
+		<Vanh>Ultrasound (color)</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nội soi</Vviet>
+		<Vanh>Endoscopy</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điện tim</Vviet>
+		<Vanh>EKG</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Điện não</Vviet>
+		<Vanh>EEG</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Tiện ích</Vviet>
+		<Vanh>&amp;Utility</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo Loại chẩn đoán hình ảnh</Vviet>
+		<Vanh>Radiology type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo nhóm kỹ thuật CĐHA</Vviet>
+		<Vanh>Group of radiology</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo danh mục kỹ thuật CĐHA</Vviet>
+		<Vanh>Radiology technique classification</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo danh mục Phim CĐHA</Vviet>
+		<Vanh>Film classification</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo danh mục Thuốc CĐHA</Vviet>
+		<Vanh>Drugs using in radiology</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo mô tả chi tiết nôi soi</Vviet>
+		<Vanh>Endoscopy report template</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tùy chọn nội soi</Vviet>
+		<Vanh>Endoscopy setting</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chọn thiết bị nội soi</Vviet>
+		<Vanh>Endoscopy configuration</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo mô tả chi tiết siêu âm</Vviet>
+		<Vanh>Ultrasound report template</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tùy chọn siêu âm</Vviet>
+		<Vanh>Ultrasound file setting</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chọn thiết bị siêu âm</Vviet>
+		<Vanh>Ultrasound configuration</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khai báo người dùng</Vviet>
+		<Vanh>User rights</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tùy chọn</Vviet>
+		<Vanh>Option</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Log off</Vviet>
+		<Vanh>Log off</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Cửa sổ</Vviet>
+		<Vanh>&amp;Windows</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;1. Đóng tất cả các cửa sổ</Vviet>
+		<Vanh>&amp;1. Close all windows</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

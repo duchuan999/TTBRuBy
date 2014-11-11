@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Kết quả chẩn đoán</Vviet>
+		<Vanh>Radio. diag.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết luận</Vviet>
+		<Vanh>Conclusion</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mô tả</Vviet>
+		<Vanh>Description</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày chẩn đoán hình ảnh</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>---</Vviet>
+		<Vanh>---</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hình siêu âm đã chọn</Vviet>
+		<Vanh>Photo</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet> HÌNH SIÊU ÂM</Vviet>
+		<Vanh>Photo</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xóa hình</Vviet>
+		<Vanh>Delete photo</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem hình</Vviet>
+		<Vanh>View</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chọn</Vviet>
+		<Vanh>Ok</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>PHIM SIÊM ÂM</Vviet>
+		<Vanh>Film</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xóa phim</Vviet>
+		<Vanh>Delete Film</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xem phim</Vviet>
+		<Vanh>View</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lưu đĩa</Vviet>
+		<Vanh>Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>picCapturePro</Vviet>
+		<Vanh>picCapturePro</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>MÀN HÌNH SIÊU ÂM</Vviet>
+		<Vanh>Screen</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>30</Vviet>
+		<Vanh>30</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lưu phim</Vviet>
+		<Vanh>Save Film</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chụp hình</Vviet>
+		<Vanh>Take picture</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết nối</Vviet>
+		<Vanh>Connect</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BN ĐƯỢC CHỈ ĐỊNH SIÊU ÂM</Vviet>
+		<Vanh>Waiting list</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày</Vviet>
+		<Vanh>Between</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mới</Vviet>
+		<Vanh>&amp;New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Hủy</Vviet>
+		<Vanh>&amp;Del</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán</Vviet>
+		<Vanh>Diagnosis</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Điều trị</Vviet>
+		<Vanh>Doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Loại bệnh</Vviet>
+		<Vanh>Pat. type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm sinh</Vviet>
+		<Vanh>Y.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phòng</Vviet>
+		<Vanh>Dept.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BHYT</Vviet>
+		<Vanh>SSN</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cấp cứu</Vviet>
+		<Vanh>Urgent</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khoa phòng</Vviet>
+		<Vanh>Dept.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN</Vviet>
+		<Vanh>ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Trong giờ</Vviet>
+		<Vanh>Type</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BS Siêu âm</Vviet>
+		<Vanh>Ult. doctor</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi chú</Vviet>
+		<Vanh>Comments</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Địa chỉ</Vviet>
+		<Vanh>Address</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng</Vviet>
+		<Vanh>Pat. class</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày sinh</Vviet>
+		<Vanh>D.O.B.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giới</Vviet>
+		<Vanh>Gender</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Danh sách</Vviet>
+		<Vanh>&amp;List</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phim</Vviet>
+		<Vanh>Film</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mô tả</Vviet>
+		<Vanh>&amp;Description</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đã thanh toán viện phí</Vviet>
+		<Vanh>Paid</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>1</Vviet>
+		<Vanh>1</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lần</Vviet>
+		<Vanh>Times</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kỹ thuật :</Vviet>
+		<Vanh>Tech.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>T&amp;hêm KT</Vviet>
+		<Vanh>Add</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ KT</Vviet>
+		<Vanh>Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet />
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ultra sound (BW)</Vviet>
+		<Vanh>Ultra sound (BW)</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

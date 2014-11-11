@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>ID :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên</Vviet>
+    <Vanh>Name :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ</Vviet>
+    <Vanh>SSN # :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày vào</Vviet>
+    <Vanh>Adm. date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày ra</Vviet>
+    <Vanh>Disc. date :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc</Vviet>
+    <Vanh>Drugs :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Viện phí</Vviet>
+    <Vanh>Others :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chi phí</Vviet>
+    <Vanh>Expense</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

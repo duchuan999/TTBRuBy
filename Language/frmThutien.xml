@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Số bản in :</Vviet>
+    <Vanh>Number of copy :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>2</Vviet>
+    <Vanh>2</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem trước khi in</Vviet>
+    <Vanh>Preview</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>In &amp;Bảng kê</Vviet>
+    <Vanh>Print list</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Danh sách</Vviet>
+    <Vanh>List</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Khoa đã in</Vviet>
+    <Vanh>Printed</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đưa vào danh sách thu tiền</Vviet>
+    <Vanh>Send to list</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Kết thúc</Vviet>
+    <Vanh>Return</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chiều hôm qua,sáng hôm nay</Vviet>
+    <Vanh>Last evening, today morning</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa :</Vviet>
+    <Vanh>Dept :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>đến :</Vviet>
+    <Vanh>and :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ ngày :</Vviet>
+    <Vanh>Between :</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Báo cáo thu tiền hàng ngày</Vviet>
+    <Vanh>Daily billing report</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

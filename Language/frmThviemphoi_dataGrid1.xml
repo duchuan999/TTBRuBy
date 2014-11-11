@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Nhóm</Vviet>
+		<Vanh>Group</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tổng số</Vviet>
+		<Vanh>Total</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&lt;2Tháng</Vviet>
+		<Vanh>&lt;2MO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>2Th-1T</Vviet>
+		<Vanh>2MO-1YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>1-5T</Vviet>
+		<Vanh>1-5YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>5-15T</Vviet>
+		<Vanh>5-15YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&gt;=15T</Vviet>
+		<Vanh>&gt;=15YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TV:&lt;2Th</Vviet>
+		<Vanh>Death&lt;2MO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TV:2Th-1T</Vviet>
+		<Vanh>Death 2MO-1YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TV:1-5T</Vviet>
+		<Vanh>Death 1-5YO</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tổng TV</Vviet>
+		<Vanh>Total death</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tử &lt;24 giờ</Vviet>
+		<Vanh>Death &lt;24h.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ra viện</Vviet>
+		<Vanh>Disc.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xin về</Vviet>
+		<Vanh>Go home</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ về</Vviet>
+		<Vanh>QWP</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đưa về</Vviet>
+		<Vanh>Trans. home</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ch khoa</Vviet>
+		<Vanh>Dept. trans.</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ch viện</Vviet>
+		<Vanh>Hosp. trans.</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

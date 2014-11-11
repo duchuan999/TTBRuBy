@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Exit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Chuyển</Vviet>
+		<Vanh>&amp;Transferring</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xem</Vviet>
+		<Vanh>&amp;View</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>đến ngày</Vviet>
+		<Vanh>and</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Từ ngày</Vviet>
+		<Vanh>Between</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>2006</Vviet>
+		<Vanh>2007</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Năm</Vviet>
+		<Vanh>Year</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Báo cáo theo</Vviet>
+		<Vanh>Report upon</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hoạt động cận lâm sàng</Vviet>
+		<Vanh>Radiology activities</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

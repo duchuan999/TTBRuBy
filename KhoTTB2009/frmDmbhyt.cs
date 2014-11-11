@@ -1,0 +1,411 @@
+﻿using System;
+using System.Drawing;
+using System.Collections;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Data;
+using LibTTB;
+namespace TTB
+{
+	/// <summary>
+	/// Summary description for frmDm.
+	/// </summary>
+	public class frmDmbhyt : System.Windows.Forms.Form
+	{
+		private System.Windows.Forms.DataGrid dataGrid1;
+		private System.Windows.Forms.Button butKetthuc;
+        private LibTTB.AccessData ttb;
+		private DataTable dt=new DataTable();
+		private System.Windows.Forms.Button butMoi;
+		private System.Windows.Forms.Button butSua;
+		private System.Windows.Forms.Button butLuu;
+		private System.Windows.Forms.Button butBoqua;
+		private System.Windows.Forms.Button butHuy;
+		private System.Windows.Forms.Label label3;
+		private System.Windows.Forms.NumericUpDown stt;
+		private System.Windows.Forms.Label label1;
+		private System.Windows.Forms.Label label2;
+		private System.Windows.Forms.NumericUpDown chitra;
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.Container components = null;
+
+		public frmDmbhyt(AccessData acc)
+		{
+			//
+			// Required for Windows Form Designer support
+			//
+			InitializeComponent();
+			ttb=acc;
+			//
+			// TODO: Add any constructor code after InitializeComponent call
+			//
+		}
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		protected override void Dispose( bool disposing )
+		{
+			if( disposing )
+			{
+				if(components != null)
+				{
+					components.Dispose();
+				}
+			}
+			base.Dispose( disposing );
+		}
+
+		#region Windows Form Designer generated code
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+			System.Resources.ResourceManager resources = new System.Resources.ResourceManager(typeof(frmDmbhyt));
+			this.dataGrid1 = new System.Windows.Forms.DataGrid();
+			this.butKetthuc = new System.Windows.Forms.Button();
+			this.butMoi = new System.Windows.Forms.Button();
+			this.butSua = new System.Windows.Forms.Button();
+			this.butLuu = new System.Windows.Forms.Button();
+			this.butBoqua = new System.Windows.Forms.Button();
+			this.butHuy = new System.Windows.Forms.Button();
+			this.label3 = new System.Windows.Forms.Label();
+			this.stt = new System.Windows.Forms.NumericUpDown();
+			this.label1 = new System.Windows.Forms.Label();
+			this.label2 = new System.Windows.Forms.Label();
+			this.chitra = new System.Windows.Forms.NumericUpDown();
+			((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.stt)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.chitra)).BeginInit();
+			this.SuspendLayout();
+			// 
+			// dataGrid1
+			// 
+			this.dataGrid1.AlternatingBackColor = System.Drawing.Color.Lavender;
+			this.dataGrid1.BackColor = System.Drawing.Color.WhiteSmoke;
+			this.dataGrid1.BackgroundColor = System.Drawing.SystemColors.Control;
+			this.dataGrid1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.dataGrid1.CaptionBackColor = System.Drawing.SystemColors.Control;
+			this.dataGrid1.CaptionFont = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+			this.dataGrid1.CaptionForeColor = System.Drawing.Color.MidnightBlue;
+			this.dataGrid1.DataMember = "";
+			this.dataGrid1.FlatMode = true;
+			this.dataGrid1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+			this.dataGrid1.ForeColor = System.Drawing.Color.MidnightBlue;
+			this.dataGrid1.GridLineColor = System.Drawing.Color.Gainsboro;
+			this.dataGrid1.GridLineStyle = System.Windows.Forms.DataGridLineStyle.None;
+			this.dataGrid1.HeaderFont = new System.Drawing.Font("Tahoma", 8F, System.Drawing.FontStyle.Bold);
+			this.dataGrid1.HeaderForeColor = System.Drawing.Color.WhiteSmoke;
+			this.dataGrid1.LinkColor = System.Drawing.Color.Teal;
+			this.dataGrid1.Location = new System.Drawing.Point(8, -13);
+			this.dataGrid1.Name = "dataGrid1";
+			this.dataGrid1.ParentRowsBackColor = System.Drawing.Color.Gainsboro;
+			this.dataGrid1.ParentRowsForeColor = System.Drawing.Color.MidnightBlue;
+			this.dataGrid1.ReadOnly = true;
+			this.dataGrid1.RowHeaderWidth = 10;
+			this.dataGrid1.SelectionBackColor = System.Drawing.Color.CadetBlue;
+			this.dataGrid1.SelectionForeColor = System.Drawing.Color.WhiteSmoke;
+			this.dataGrid1.Size = new System.Drawing.Size(464, 373);
+			this.dataGrid1.TabIndex = 19;
+			this.dataGrid1.CurrentCellChanged += new System.EventHandler(this.dataGrid1_CurrentCellChanged);
+			// 
+			// butKetthuc
+			// 
+			this.butKetthuc.Image = ((System.Drawing.Bitmap)(resources.GetObject("butKetthuc.Image")));
+			this.butKetthuc.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butKetthuc.Location = new System.Drawing.Point(393, 398);
+			this.butKetthuc.Name = "butKetthuc";
+			this.butKetthuc.Size = new System.Drawing.Size(75, 28);
+			this.butKetthuc.TabIndex = 7;
+			this.butKetthuc.Text = "&Kết thúc";
+			this.butKetthuc.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+			this.butKetthuc.Click += new System.EventHandler(this.butKetthuc_Click);
+			// 
+			// butMoi
+			// 
+			this.butMoi.Image = ((System.Drawing.Bitmap)(resources.GetObject("butMoi.Image")));
+			this.butMoi.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butMoi.Location = new System.Drawing.Point(13, 398);
+			this.butMoi.Name = "butMoi";
+			this.butMoi.Size = new System.Drawing.Size(75, 28);
+			this.butMoi.TabIndex = 4;
+			this.butMoi.Text = "          &Mới";
+			this.butMoi.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butMoi.Click += new System.EventHandler(this.butMoi_Click);
+			// 
+			// butSua
+			// 
+			this.butSua.Image = ((System.Drawing.Bitmap)(resources.GetObject("butSua.Image")));
+			this.butSua.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butSua.Location = new System.Drawing.Point(89, 398);
+			this.butSua.Name = "butSua";
+			this.butSua.Size = new System.Drawing.Size(75, 28);
+			this.butSua.TabIndex = 5;
+			this.butSua.Text = "         &Sửa";
+			this.butSua.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butSua.Click += new System.EventHandler(this.butSua_Click);
+			// 
+			// butLuu
+			// 
+			this.butLuu.Enabled = false;
+			this.butLuu.Image = ((System.Drawing.Bitmap)(resources.GetObject("butLuu.Image")));
+			this.butLuu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butLuu.Location = new System.Drawing.Point(165, 398);
+			this.butLuu.Name = "butLuu";
+			this.butLuu.Size = new System.Drawing.Size(75, 28);
+			this.butLuu.TabIndex = 2;
+			this.butLuu.Text = "           &Lưu";
+			this.butLuu.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butLuu.Click += new System.EventHandler(this.butLuu_Click);
+			// 
+			// butBoqua
+			// 
+			this.butBoqua.Enabled = false;
+			this.butBoqua.Image = ((System.Drawing.Bitmap)(resources.GetObject("butBoqua.Image")));
+			this.butBoqua.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butBoqua.Location = new System.Drawing.Point(241, 398);
+			this.butBoqua.Name = "butBoqua";
+			this.butBoqua.Size = new System.Drawing.Size(75, 28);
+			this.butBoqua.TabIndex = 3;
+			this.butBoqua.Text = "&Bỏ qua";
+			this.butBoqua.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+			this.butBoqua.Click += new System.EventHandler(this.butBoqua_Click);
+			// 
+			// butHuy
+			// 
+			this.butHuy.Image = ((System.Drawing.Bitmap)(resources.GetObject("butHuy.Image")));
+			this.butHuy.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butHuy.Location = new System.Drawing.Point(317, 398);
+			this.butHuy.Name = "butHuy";
+			this.butHuy.Size = new System.Drawing.Size(75, 28);
+			this.butHuy.TabIndex = 6;
+			this.butHuy.Text = "          &Hủy";
+			this.butHuy.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			this.butHuy.Click += new System.EventHandler(this.butHuy_Click);
+			// 
+			// label3
+			// 
+			this.label3.Location = new System.Drawing.Point(4, 368);
+			this.label3.Name = "label3";
+			this.label3.Size = new System.Drawing.Size(32, 23);
+			this.label3.TabIndex = 24;
+			this.label3.Text = "STT :";
+			this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+			// 
+			// stt
+			// 
+			this.stt.Enabled = false;
+			this.stt.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+			this.stt.Location = new System.Drawing.Point(40, 368);
+			this.stt.Name = "stt";
+			this.stt.Size = new System.Drawing.Size(48, 21);
+			this.stt.TabIndex = 0;
+			this.stt.KeyDown += new System.Windows.Forms.KeyEventHandler(this.stt_KeyDown);
+			// 
+			// label1
+			// 
+			this.label1.Location = new System.Drawing.Point(458, 368);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(16, 23);
+			this.label1.TabIndex = 25;
+			this.label1.Text = "%";
+			this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+			// 
+			// label2
+			// 
+			this.label2.Location = new System.Drawing.Point(96, 368);
+			this.label2.Name = "label2";
+			this.label2.Size = new System.Drawing.Size(88, 23);
+			this.label2.TabIndex = 26;
+			this.label2.Text = "Bảo hiểm chi trả";
+			this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+			// 
+			// chitra
+			// 
+			this.chitra.Enabled = false;
+			this.chitra.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((System.Byte)(0)));
+			this.chitra.Location = new System.Drawing.Point(184, 368);
+			this.chitra.Name = "chitra";
+			this.chitra.Size = new System.Drawing.Size(272, 21);
+			this.chitra.TabIndex = 1;
+			this.chitra.KeyDown += new System.Windows.Forms.KeyEventHandler(this.chitra_KeyDown);
+			// 
+			// frmDmbhyt
+			// 
+			this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+			this.ClientSize = new System.Drawing.Size(480, 445);
+			this.Controls.AddRange(new System.Windows.Forms.Control[] {
+																		  this.chitra,
+																		  this.label2,
+																		  this.label1,
+																		  this.stt,
+																		  this.label3,
+																		  this.butHuy,
+																		  this.butBoqua,
+																		  this.butLuu,
+																		  this.butSua,
+																		  this.butMoi,
+																		  this.butKetthuc,
+																		  this.dataGrid1});
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+			this.Name = "frmDmbhyt";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+			this.Text = "Danh mục bảo hiểm chi trả";
+			this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmDmbhyt_KeyDown);
+			this.Load += new System.EventHandler(this.frmDmbhyt_Load);
+			((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.stt)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.chitra)).EndInit();
+			this.ResumeLayout(false);
+
+		}
+		#endregion
+
+		private void frmDmbhyt_Load(object sender, System.EventArgs e)
+		{
+			load_grid();
+			AddGridTableStyle();
+			ref_text();
+		}
+
+		private void load_grid()
+		{
+			dt=ttb.get_data("select * from ttb_dmbhyt order by stt").Tables[0];
+			dataGrid1.DataSource=dt;
+		}
+
+		private void AddGridTableStyle()
+		{
+			DataGridTableStyle ts =new DataGridTableStyle();
+			ts.MappingName = dt.TableName;
+			ts.AlternatingBackColor = Color.Beige;
+			ts.BackColor = Color.GhostWhite;
+			ts.ForeColor = Color.MidnightBlue;
+			ts.GridLineColor = Color.RoyalBlue;
+			ts.HeaderBackColor = Color.MidnightBlue;
+			ts.HeaderForeColor = Color.Lavender;
+			ts.SelectionBackColor = Color.Teal;
+			ts.SelectionForeColor = Color.PaleGreen;
+			ts.ReadOnly=false;
+			ts.RowHeaderWidth=10;
+						
+			DataGridTextBoxColumn TextCol=new DataGridTextBoxColumn();
+			TextCol.MappingName = "stt";
+			TextCol.HeaderText = "STT";
+			TextCol.Width = 30;
+			ts.GridColumnStyles.Add(TextCol);
+			dataGrid1.TableStyles.Add(ts);
+
+			TextCol=new DataGridTextBoxColumn();
+			TextCol.MappingName = "chitra";
+			TextCol.HeaderText = "Chi trả";
+			TextCol.Width = 400;
+			ts.GridColumnStyles.Add(TextCol);
+			dataGrid1.TableStyles.Add(ts);
+		}
+
+		private void butKetthuc_Click(object sender, System.EventArgs e)
+		{
+			this.Close();
+		}
+
+		private void ena_object(bool ena)
+		{
+			dataGrid1.Enabled=!ena;
+			stt.Enabled=ena;
+			chitra.Enabled=ena;
+			butMoi.Enabled=!ena;
+			butSua.Enabled=!ena;
+			butLuu.Enabled=ena;
+			butBoqua.Enabled=ena;
+			butHuy.Enabled=!ena;
+			butKetthuc.Enabled=!ena;
+		}
+
+		private void butMoi_Click(object sender, System.EventArgs e)
+		{
+			try
+			{
+				stt.Value=decimal.Parse(ttb.get_data("select max(stt) from ttb_dmbhyt").Tables[0].Rows[0][0].ToString())+1;
+			}
+			catch{stt.Value=1;}
+			chitra.Value=0;
+			ena_object(true);
+			stt.Focus();
+		}
+
+		private void butSua_Click(object sender, System.EventArgs e)
+		{
+			if (dt.Rows.Count==0) return;
+			ena_object(true);
+			stt.Focus();
+		}
+
+		private void butLuu_Click(object sender, System.EventArgs e)
+		{
+			if (!ttb.upd_dmbhyt(int.Parse(chitra.Value.ToString()),int.Parse(stt.Value.ToString())))
+			{
+				MessageBox.Show("Không cập nhật thông tin "+this.Text.Trim()+" !",ttb.Msg);
+				return;
+			}
+			if (!ttb.bDanhmuc) ttb.writeXml("ttb_thongso","c01","1");
+			load_grid();
+			ena_object(false);
+		}
+
+		private void butBoqua_Click(object sender, System.EventArgs e)
+		{
+			ena_object(false);
+		}
+
+		private void butHuy_Click(object sender, System.EventArgs e)
+		{
+			if (dt.Rows.Count==1)
+			{
+				MessageBox.Show("Không cho phép hủy ?",ttb.Msg);
+				return;
+			}	
+			if (MessageBox.Show("Đồng ý hủy thông tin này !",ttb.Msg,MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+			{
+				ttb.execute_data("delete from ttb_dmbhyt where chitra="+decimal.Parse(dataGrid1[dataGrid1.CurrentCell.RowNumber,1].ToString()));
+				if (!ttb.bDanhmuc) ttb.writeXml("ttb_thongso","c01","1");
+				load_grid();
+			}
+		}
+
+		private void ref_text()
+		{
+			try
+			{
+				int i=dataGrid1.CurrentCell.RowNumber;
+				stt.Value=decimal.Parse(dataGrid1[i,0].ToString());
+				chitra.Value=decimal.Parse(dataGrid1[i,1].ToString());
+			}
+			catch{}
+		}
+
+		private void dataGrid1_CurrentCellChanged(object sender, System.EventArgs e)
+		{
+			ref_text();
+		}
+
+		private void frmDmbhyt_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+		{
+			if (e.KeyCode==Keys.F10) butKetthuc_Click(sender,e);
+		}
+
+		private void stt_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+		{
+			if (e.KeyCode==Keys.Enter) SendKeys.Send("{Tab}");		
+		}
+
+		private void chitra_KeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+		{
+			if (e.KeyCode==Keys.Enter) SendKeys.Send("{Tab}");
+		}
+	}
+}

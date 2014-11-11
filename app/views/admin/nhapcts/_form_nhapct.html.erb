@@ -181,7 +181,7 @@
           <label for="stt" class="col-sm-4 control-label "><%= t "nhapkho.nhapct.nguongoc" %></label>
 
           <div class="col-sm-8">
-            <%= f.select(:dmnguongoc, Dmnguongoc.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
+            <%= f.select(:dmnguongoc_id, Dmnguongoc.all.collect { |c| [c.ten, c.id] }, {:prompt => "Chọn"}, {:class => "form-control"}) %>
           </div>
         </div>
       </div>

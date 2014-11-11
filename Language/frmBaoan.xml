@@ -1,0 +1,185 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Đặc biệt</Vviet>
+		<Vanh>Soecial</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mới</Vviet>
+		<Vanh>New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lượng :</Vviet>
+		<Vanh>Quantity :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chế độ :</Vviet>
+		<Vanh>Regime :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>G :            %</Vviet>
+		<Vanh>G :            %</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>L :            %</Vviet>
+		<Vanh>L :            %</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Liệt &amp;kê</Vviet>
+		<Vanh>Show all</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đơn giá :</Vviet>
+		<Vanh>Unit price :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>P :            %</Vviet>
+		<Vanh>P :            %</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giờ ăn :</Vviet>
+		<Vanh>Meal time :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán :</Vviet>
+		<Vanh>Diahnosis :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cữ :</Vviet>
+		<Vanh>In : </Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Các ngày báo ăn</Vviet>
+		<Vanh>Date</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng khi vào</Vviet>
+		<Vanh>Patient class</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chuyển số liệu nhà ăn</Vviet>
+		<Vanh>Send data to the kitchen</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Giường :</Vviet>
+		<Vanh>Bed # :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Cho lại</Vviet>
+		<Vanh>&amp;Repeat</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Exit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Hủy</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xóa</Vviet>
+		<Vanh>&amp;Erase</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Thêm</Vviet>
+		<Vanh>&amp;Add</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mới</Vviet>
+		<Vanh>&amp;New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đối tượng :</Vviet>
+		<Vanh>Patient class :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>E :                   kcal</Vviet>
+		<Vanh>E :                   kcal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thực đơn :</Vviet>
+		<Vanh>Menu :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>ĐDV :</Vviet>
+		<Vanh>Nurse :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ :</Vviet>
+		<Vanh>Doctor :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên :</Vviet>
+		<Vanh>Name :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN :</Vviet>
+		<Vanh>ID :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phiếu báo ăn</Vviet>
+		<Vanh>Food ordering</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

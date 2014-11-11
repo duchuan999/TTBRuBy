@@ -1,0 +1,272 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DVT" type="xs:string" minOccurs="0" />
+								<xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+								<xs:element name="vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>1816</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>1</STT>
+		<MA>C11</MA>
+		<TEN>Injection, Abcess excision</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>15000</GIA_TH>
+		<GIA_BH>15000</GIA_BH>
+		<GIA_DV>15000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1817</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>2</STT>
+		<MA>C13</MA>
+		<TEN>Đốt mụn cóc &lt; 3 mụn</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>30000</GIA_TH>
+		<GIA_BH>30000</GIA_BH>
+		<GIA_DV>30000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1818</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>3</STT>
+		<MA>C14</MA>
+		<TEN>Đốt mụt ruồi từ 4 - 10 mụn</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>60000</GIA_TH>
+		<GIA_BH>60000</GIA_BH>
+		<GIA_DV>60000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1819</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>4</STT>
+		<MA>C15</MA>
+		<TEN>U mềm lây</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>60000</GIA_TH>
+		<GIA_BH>60000</GIA_BH>
+		<GIA_DV>60000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1820</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>5</STT>
+		<MA>C16</MA>
+		<TEN>Đốt cắt bỏ u nhỏ, kyste, sẹo da, tổ chức dưới da lớn</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>60000</GIA_TH>
+		<GIA_BH>60000</GIA_BH>
+		<GIA_DV>60000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1821</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>6</STT>
+		<MA>C17</MA>
+		<TEN>Đốt vết chai, mụn thịt dư (ít)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>90000</GIA_TH>
+		<GIA_BH>90000</GIA_BH>
+		<GIA_DV>90000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1822</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>7</STT>
+		<MA>C171</MA>
+		<TEN>Đốt vết chai, mụn thịt dư (nhiều)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>120000</GIA_TH>
+		<GIA_BH>120000</GIA_BH>
+		<GIA_DV>120000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1823</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>8</STT>
+		<MA>C18</MA>
+		<TEN>Đốt Mồng gà thông thường</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>50000</GIA_TH>
+		<GIA_BH>50000</GIA_BH>
+		<GIA_DV>50000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1824</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>9</STT>
+		<MA>C19</MA>
+		<TEN>Đốt mắt cá chân nhỏ</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>20000</GIA_TH>
+		<GIA_BH>20000</GIA_BH>
+		<GIA_DV>20000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1825</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>10</STT>
+		<MA>C110</MA>
+		<TEN>Đốt hydradenome</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>45000</GIA_TH>
+		<GIA_BH>45000</GIA_BH>
+		<GIA_DV>45000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1826</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>11</STT>
+		<MA>C111</MA>
+		<TEN>Sinh thiết trung bình</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>50000</GIA_TH>
+		<GIA_BH>50000</GIA_BH>
+		<GIA_DV>50000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>1827</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>12</STT>
+		<MA>C112</MA>
+		<TEN>Chấm AT 80%</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>10000</GIA_TH>
+		<GIA_BH>10000</GIA_BH>
+		<GIA_DV>10000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>2279</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>13</STT>
+		<MA>C113</MA>
+		<TEN>Chấm AL</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>15000</GIA_TH>
+		<GIA_BH>0</GIA_BH>
+		<GIA_DV>0</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>2280</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>14</STT>
+		<MA>C114</MA>
+		<TEN>Chiếu UV</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>0</GIA_TH>
+		<GIA_BH>0</GIA_BH>
+		<GIA_DV>0</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>2281</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>15</STT>
+		<MA>C115</MA>
+		<TEN>Chiếu ánh sáng xanh</TEN>
+		<DVT>lần</DVT>
+		<GIA_TH>0</GIA_TH>
+		<GIA_BH>0</GIA_BH>
+		<GIA_DV>0</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+	<Table>
+		<ID>2282</ID>
+		<ID_LOAI>4</ID_LOAI>
+		<STT>16</STT>
+		<MA>C116</MA>
+		<TEN>đốt Larzer</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>0</GIA_TH>
+		<GIA_BH>0</GIA_BH>
+		<GIA_DV>0</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-15T02:51:15.0000000+07:00</NGAYUD>
+	</Table>
+</NewDataSet>

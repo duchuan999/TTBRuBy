@@ -1,0 +1,220 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán:</Vviet>
+		<Vanh>Diagnosis:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Mới</Vviet>
+		<Vanh>&amp;New</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dấu hiệu khác:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Vòng hông:</Vviet>
+		<Vanh>Waist:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Vòng eo:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chiều cao:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cân nặng:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Eo/Hông:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cân nặng hợp lý:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>cm</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>cm</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>kg</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>kg/m2</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BMI:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>kg</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>cm</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dấu sinh tồn:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhịp thở:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mạch:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Huyết áp:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>lần/phút</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nhiệt độ:</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>độ C</Vviet>
+		<Vanh>degree C</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mmHg</Vviet>
+		<Vanh>mmHg</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>lần/phút</Vviet>
+		<Vanh>/min</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ:</Vviet>
+		<Vanh>Doctor:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày:</Vviet>
+		<Vanh>Date:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán hình ảnh</Vviet>
+		<Vanh>Radiology</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Các xét nghiệm khác</Vviet>
+		<Vanh>Other exem.:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ghi chú:</Vviet>
+		<Vanh>Comments</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bàn chân:</Vviet>
+		<Vanh>Foot:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>`</Vviet>
+		<Vanh />
+		<Vphap />
+	</Language>
+</NewDataSet>

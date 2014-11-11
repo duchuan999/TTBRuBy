@@ -1,0 +1,197 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <ID>1936</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>1</STT>
+    <MA>H11</MA>
+    <TEN>Phòng BHYT</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>6000</GIA_TH>
+    <GIA_BH>6000</GIA_BH>
+    <GIA_DV>6000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1937</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>2</STT>
+    <MA>H12</MA>
+    <TEN>Phòng 07 giường</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>10000</GIA_TH>
+    <GIA_BH>10000</GIA_BH>
+    <GIA_DV>10000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1938</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>3</STT>
+    <MA>H13</MA>
+    <TEN>Phòng 04 giường, không niệm</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>15000</GIA_TH>
+    <GIA_BH>15000</GIA_BH>
+    <GIA_DV>15000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1939</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>4</STT>
+    <MA>H14</MA>
+    <TEN>Phòng 4 giường, có niệm</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>25000</GIA_TH>
+    <GIA_BH>25000</GIA_BH>
+    <GIA_DV>25000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1940</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>5</STT>
+    <MA>H15</MA>
+    <TEN>Phòng dịch vụ 02 giường</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>50000</GIA_TH>
+    <GIA_BH>50000</GIA_BH>
+    <GIA_DV>50000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1941</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>6</STT>
+    <MA>H16</MA>
+    <TEN>Phòng dịch vụ máy lạnh 02 giường</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>100000</GIA_TH>
+    <GIA_BH>100000</GIA_BH>
+    <GIA_DV>100000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1942</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>7</STT>
+    <MA>H17</MA>
+    <TEN>Phòng dịch vụ máy lạnh 01 giường</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>150000</GIA_TH>
+    <GIA_BH>150000</GIA_BH>
+    <GIA_DV>150000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1943</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>8</STT>
+    <MA>H18</MA>
+    <TEN>Tiền giường PSSĐB</TEN>
+    <DVT>Ngày/Giường</DVT>
+    <GIA_TH>20000</GIA_TH>
+    <GIA_BH>20000</GIA_BH>
+    <GIA_DV>20000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1944</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>9</STT>
+    <MA>HH19</MA>
+    <TEN>Chiếu</TEN>
+    <DVT>Chiếc</DVT>
+    <GIA_TH>16000</GIA_TH>
+    <GIA_BH>16000</GIA_BH>
+    <GIA_DV>16000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1815</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>10</STT>
+    <MA>B2</MA>
+    <TEN>Một ngày điều trị</TEN>
+    <DVT>Ngày</DVT>
+    <GIA_TH>40000</GIA_TH>
+    <GIA_BH>40000</GIA_BH>
+    <GIA_DV>40000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+  <Table>
+    <ID>1814</ID>
+    <ID_LOAI>20</ID_LOAI>
+    <STT>11</STT>
+    <MA>B1</MA>
+    <TEN>Một ngày giường bệnh</TEN>
+    <DVT>Ngày</DVT>
+    <GIA_TH>8000</GIA_TH>
+    <GIA_BH>8000</GIA_BH>
+    <GIA_DV>8000</GIA_DV>
+    <GIA_NN>1</GIA_NN>
+    <BHYT>0</BHYT>
+    <USERID>0</USERID>
+    <NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>Patient ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ tên</Vviet>
+    <Vanh>Patient name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>NS</Vviet>
+    <Vanh>D.O.B.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phái</Vviet>
+    <Vanh>Gender</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà</Vviet>
+    <Vanh>House #</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thôn,phố</Vviet>
+    <Vanh>Street</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/Thành phố</Vviet>
+    <Vanh>Province</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/Huyện</Vviet>
+    <Vanh>District</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phường/Xã</Vviet>
+    <Vanh>Commune</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

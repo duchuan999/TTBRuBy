@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Language">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Language>
+    <Vviet>Nhóm KT</Vviet>
+    <Vanh>Modality</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Th&amp;oát</Vviet>
+    <Vanh>Exit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;In</Vviet>
+    <Vanh>&amp;Print</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Bỏ qua</Vviet>
+    <Vanh>&amp;Ignore</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Hủy</Vviet>
+    <Vanh>&amp;Del</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Sửa</Vviet>
+    <Vanh>&amp;Edit</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Thêm</Vviet>
+    <Vanh>&amp;New</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>&amp;Lưu</Vviet>
+    <Vanh>&amp;Save</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mới</Vviet>
+    <Vanh>Add</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mô tả</Vviet>
+    <Vanh>Description</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mô tả</Vviet>
+    <Vanh>Description</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kết luận</Vviet>
+    <Vanh>Conclusion</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đề nghị</Vviet>
+    <Vanh>Proposal</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Hình ảnh</Vviet>
+    <Vanh>Image</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Scan</Vviet>
+    <Vanh>Scan</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Xem hình</Vviet>
+    <Vanh>View</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chọn hình</Vviet>
+    <Vanh>Select image</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tổng số hình</Vviet>
+    <Vanh>Total images</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>SL</Vviet>
+    <Vanh>#</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Thuốc</Vviet>
+    <Vanh>Drug</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>SL</Vviet>
+    <Vanh>#</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Phim</Vviet>
+    <Vanh>Film</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ghi chú</Vviet>
+    <Vanh>Comments</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Danh sách chỉ định</Vviet>
+    <Vanh>Orders</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đến</Vviet>
+    <Vanh>and</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Từ</Vviet>
+    <Vanh>Between</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số lần</Vviet>
+    <Vanh>Times</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Kỹ thuật</Vviet>
+    <Vanh>Type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>CÁC LẦN CHỤP X-QUANG</Vviet>
+    <Vanh>Xray performances</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>KTV</Vviet>
+    <Vanh>Technician</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tình trạng</Vviet>
+    <Vanh>Status</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Trong giờ</Vviet>
+    <Vanh>Type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>BS ĐT</Vviet>
+    <Vanh>Doctor in charge</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>MaICD</Vviet>
+    <Vanh>ICD 10</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Khoa/P</Vviet>
+    <Vanh>Department</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Đối tượng</Vviet>
+    <Vanh>Pat. class</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Loại BN</Vviet>
+    <Vanh>Patient type</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày TD</Vviet>
+    <Vanh>Date</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Chổ làm</Vviet>
+    <Vanh>Employer</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số nhà</Vviet>
+    <Vanh>House #</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>P/X</Vviet>
+    <Vanh>Commune</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Quận/H</Vviet>
+    <Vanh>District</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tỉnh/TP</Vviet>
+    <Vanh>State</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>T/Q/X</Vviet>
+    <Vanh>Abbrev.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Số thẻ</Vviet>
+    <Vanh>SSN</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Giới tính</Vviet>
+    <Vanh>Gender</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày sinh</Vviet>
+    <Vanh>D.O.B.</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Họ và tên</Vviet>
+    <Vanh>Name</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Mã BN</Vviet>
+    <Vanh>Pat. ID</Vanh>
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>X-QUANG</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Tên đăng nhập :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet />
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>Ngày :</Vviet>
+    <Vanh />
+    <Vphap />
+  </Language>
+  <Language>
+    <Vviet>X Quang</Vviet>
+    <Vanh>X-ray</Vanh>
+    <Vphap />
+  </Language>
+</NewDataSet>

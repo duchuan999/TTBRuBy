@@ -1,0 +1,70 @@
+
+select a.*,b.ten from medibv1150110.v_chidinh a,medibv115.v_giavp b where a.mavp=b.id and a.mabn='10805352' and mavp=4573
+
+select * from medibv115.btdkp_bv where makp=999
+select * from medibv115.benhandt where mabn='10805352'
+mavv=100124222552384434
+maql=100124222552384434
+select * from medibv1150110.v_chidinh where mabn='10805352'
+
+select * from medibv115.dmtables where tables='v_chidinh'
+select * from medibv1150110.eve_upd_del where tableid=42 and to_char(ngay,'dd/mm/yyyy')='25/01/2010' and noidung like '%10805352%4573%' 
+select * from medibv115.dlogin where id=1475  
+  makp=019,065,
+select * from medibv115.btdkp_bv where makp in('019','065')
+
+select * from medibv1150110.v_thvpll where mabn='10805352'
+
+select sum(sotien)  from medibv1150110.v_thvpct where id=100124221331244036
+
+
+
+
+
+-----------------
+select * from medibv1150310.bhytkb where mabn='10005659'
+quyeso=270
+sobienlai=31023
+idttrv=100310140015952106
+
+select * from medibv1150310.bhytthuoc where id=100310000000348603
+update medibv1150310.bhytkb set quyenso=0,sobienlai=0,idttrv=0 where mabn='10005659' and id=100310000000348603
+
+select * from medibv1150310.bhytds where mabn='10005659'
+select * from medibv1150310.v_ttrvll where quyenso=270 and sobienlai=31023
+select * from medibv115.v_dlogin where id=25
+select * from medibv115.btdkp_bv where makp=43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select * from medibv1150310.v_chidinh where mabn='10805352'
+mavv=100127205546321434
+maql=100127205546321434
+select * from medibv1150210.v_chidinh where mabn='10806024'
+mavv=100127205546321434
+maql=100127205546321434
+select * from medibv1150210.v_chidinh where mabn='10806024'
+mavv=100127205546321434
+maql=100127205546321434
+
+select * from medibv1150210.d_tienthuoc where mabn='10806024'
+id=100220000006129245
+update medibv1150210.d_tienthuoc set maql= 100127205546321434 where mabn='10806024' and id=100220000006129245
+select sum(soluong*giaban) from medibv1150210.d_tienthuoc where mabn='10806024' and id=100220000006129245
+mavv=100127205546321434
+maql=100127205546321434
+           100127205546321434
+select * from medibv115.btdkp_bv where makp=73
+select * from medibv115.benhandt where mabn='10806024'
+select sum(soluong*dongia) from medibv1150310.v_chidinh where mabn='08000112'

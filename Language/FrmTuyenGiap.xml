@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>&amp;Kết Thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bỏ qua</Vviet>
+		<Vanh>Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết luận</Vviet>
+		<Vanh>Conclusion</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Các tuyến khác:</Vviet>
+		<Vanh>Other glands</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hạch cổ:</Vviet>
+		<Vanh>Cervical lymph nodes</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày siêu âm:</Vviet>
+		<Vanh>Ultrasound date:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phái:</Vviet>
+		<Vanh>Gender:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên:</Vviet>
+		<Vanh>Name:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã bệnh nhân:</Vviet>
+		<Vanh>Patient ID:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>SIÊU ÂM TUYẾN GIÁP</Vviet>
+		<Vanh>ULTRASOUND OF THE THYROID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Kết luận</Vviet>
+		<Vanh>Conclusion</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BT</Vviet>
+		<Vanh>Normal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BT</Vviet>
+		<Vanh>Normal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuyến giáp</Vviet>
+		<Vanh>Thyroid gland</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thùy trái:</Vviet>
+		<Vanh>Left lobe</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>mm</Vviet>
+		<Vanh>mm</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thùy phải:</Vviet>
+		<Vanh>Right lobe</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Eo:</Vviet>
+		<Vanh>Isthm:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hồi âm:</Vviet>
+		<Vanh>Sound back</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>BT</Vviet>
+		<Vanh>Normal</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Siêu âm tuyến giáp</Vviet>
+		<Vanh>Ultrasound of the thyroid</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

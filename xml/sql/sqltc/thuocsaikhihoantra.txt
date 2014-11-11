@@ -1,0 +1,90 @@
+-----------**** bn dong tam ung thang 01 thanhtoan ra vien ko load tien cho bn thanh toan -->
+bn nam vien den thang 03/2010  thanh toan ra vien -->muon lay tien tam ung thang 01/2010.
+
+select * from medibv1150110.v_tamung where mabn='10000156'
+mavv=91224075330453229
+maql=91224075330258229
+select * from medibv1150110.v_ttrvll where 
+update medibv1150110.v_tamung set idttrv=0 where mabn='10000156'
+select * from medibv115.benhandt where mabn='10000156'
+mavv=91224075330453229
+maql=91224075330258229
+
+11/03/2010
+-********** Benh nhan vaovien ngay 01/01 co thuoc thuong quy.
+-********** nhap khoa ngay 29/01/2010 
+thuoc cua ngay 01/01/2010 mat -->chuyen vao ngay29/01
+
+
+select * from medibv115.benhandt where mabn='10000922'
+mavv=100101103217208369
+maql=1001011032178493693
+
+select * from medibv115.btdkp_bv where makp=005
+
+select * from medibv115.d_duockp where id=25
+select * from medibv115.d_loaiphieu where id=110
+select * from medibv1150110.d_duyet where makp=25 and to_char(ngay,'ddmmyyyy')='01012010' and phieu=110
+select * from medibv1150110.d_ngayduyet where makp=25 and phieu=110
+select * from medibv1150110.d_dutrull  where mabn='10000922'
+select * from medibv1150110.d_dutruct  where id=100101000000012303
+select * from medibv1150110.d_dutrull a, medibv1150110.d_dutruct b where a.id=b.id and a.mabn='10000922'
+
+update medibv1150110.d_dutruct set slthuc=0 where id=100101000000012303
+update medibv1150110.d_duyet set done=2 where makp=25 and to_char(ngay,'ddmmyyyy')='01012010' and phieu=110
+
+select * from medibv1150110.d_ngayduyet where makp=25 and phieu=110 and idduyet=100101000000009288
+makp=25 and to_char(ngay,'ddmmyyyy')='01012010' and phieu=110
+----
+select * from medibv115.btdkp_bv where makp=06
+select * from medibv115.d_loaiphieu where id=72
+select * from medibv115.d_dmbd where ma='CAR008'
+select * from medibv115.d_dmbd where id=6258
+select * from medibv115.d_loaiphieu where loai=3
+select * from medibv1150210.d_duyet where phieu=72  and makp=06 and to_char(ngay,'ddmmyyyy')='07022010'
+select * from medibv1150210.d_hoantract where id=100208000000185305
+select * from medibv1150210.d_duyet where id=100208000000185305
+
+select * from medibv1150210.d_thucxuat where id in(select id from medibv1150210.d_xuatsdll where loai=3 and to_char(ngay,'dd/mm/yyyy')='08/02/2010' and makp=26) and mabd=6258
+and to_char(ngay,'ddmmyyyy')='09022010'
+
+
+
+
+select * from medibv1150210.d_hoantrall where mabn='10806565' 
+select * from medibv1150210.d_xuatsdll where mabn='10806565' and idduyet=100208000002537305 and to_char(ngay,'ddmmyyyy')='09022010'
+select * from medibv115.d_dlogin where id=3084
+select * from medibv1150210.d_xuatsdct where id=100208000041232344
+soluong=0.25
+//update medibv1150210.d_xuatsdct set soluong=1 where id= 100208000041232344
+select * from medibv1150210.d_thucxuat where id=100208000041236344
+select * from medibv1150210.d_xuatsdct where id=100208000041236344
+--0702
+select * from medibv1150210.d_thucxuat where to_char(ngay,'ddmmyyyy')='08022010' and id=100209000011651118 
+
+select * from medibv1150210.d_hoantrall a, medibv1150210.d_hoantract b where a.id=b.id and a.mabn='10806565' and slthuc<slyeucau and slthuc>0  b.mabd=6258 
+select * from medibv1150210.d_hoantrall a, medibv1150210.d_hoantract b where a.id=b.id and slthuc<slyeucau and slthuc>0  and b.mabd=6258 
+
+select * from medibv1150210.d_hoantrall a, medibv1150210.d_hoantract b where a.id=b.id and a.mabn='10806565'
+------ hoan tra benh nhan so luong tra < so luong yeu cau---------
+select * from medibv1150210.d_xuatsdll a,medibv1150210.d_thucxuat b where a.id=b.id and mabn='10806565' and mabd=6258
+update medibv1150210.d_thucxuat set soluong=1 where id=100208000041232344 and mabd=6258
+commit
+select id,nhom from d_dmbd where ma='CAR008'
+
+--
+select * from medibv1150210.d_xuatsdll a,medibv1150210.d_thucxuat b where a.id=b.id and mabd=6258  and loai=3 and soluong=0.25
+
+
+
+select * from medibv1150210.d_hoantrall a, medibv1150210.d_hoantract b where a.id=b.id and mabd=6258 and slyeucau>slthuc
+
+
+
+select * from medibv1150210.d_xuatsdll
+
+
+select *from medibv1150310.d_tienthuoc where mabn='10814687'
+delete from medibv1150310.d_tienthuoc where mabn='10814687'
+
+

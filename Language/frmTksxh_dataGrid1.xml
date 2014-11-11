@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>Nhóm</Vviet>
+		<Vanh>Group</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Mã BN</Vviet>
+		<Vanh>ID</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số lưu trữ</Vviet>
+		<Vanh>Storing #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên</Vviet>
+		<Vanh>Name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tuổi</Vviet>
+		<Vanh>Age</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quan hệ</Vviet>
+		<Vanh>NOK</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên quan hệ</Vviet>
+		<Vanh>NOK name</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Nơi giới thiệu</Vviet>
+		<Vanh>Ref. resource</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Số nhà</Vviet>
+		<Vanh>House #</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thôn đường</Vviet>
+		<Vanh>Street</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Phường/Xã</Vviet>
+		<Vanh>Commune</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Quận/Huyện</Vviet>
+		<Vanh>District</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tỉnh/Thành phố</Vviet>
+		<Vanh>Province</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày giờ vào</Vviet>
+		<Vanh>Adm. time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày giờ ra</Vviet>
+		<Vanh>Disc. time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chẩn đoán</Vviet>
+		<Vanh>Diag</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>ICD</Vviet>
+		<Vanh>ICD 10</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Tình trạng</Vviet>
+		<Vanh>Status</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

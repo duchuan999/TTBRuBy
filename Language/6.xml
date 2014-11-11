@@ -1,0 +1,224 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID_LOAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DVT" type="xs:string" minOccurs="0" />
+								<xs:element name="GIA_TH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_BH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_DV" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIA_NN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="USERID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAYUD" type="xs:dateTime" minOccurs="0" />
+								<xs:element name="vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>1828</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>1</STT>
+		<MA>C311</MA>
+		<TEN>Phân tích huyết học toàn phần (14 thông số trở lện)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>25000</GIA_TH>
+		<GIA_BH>25000</GIA_BH>
+		<GIA_DV>25000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Blood analysis</vanh>
+	</Table>
+	<Table>
+		<ID>1829</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>2</STT>
+		<MA>C312</MA>
+		<TEN>Hình dạng Hồng cầu - Bạch cầu (phết máu ngoại biên)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>25000</GIA_TH>
+		<GIA_BH>25000</GIA_BH>
+		<GIA_DV>25000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>RBC-WBC morphology</vanh>
+	</Table>
+	<Table>
+		<ID>1830</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>3</STT>
+		<MA>C313</MA>
+		<TEN>SGOT-SGPT (ASt/ALT)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>15000</GIA_TH>
+		<GIA_BH>15000</GIA_BH>
+		<GIA_DV>15000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>AST/ALT</vanh>
+	</Table>
+	<Table>
+		<ID>1831</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>4</STT>
+		<MA>C314</MA>
+		<TEN>Mac Lagan</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>12000</GIA_TH>
+		<GIA_BH>12000</GIA_BH>
+		<GIA_DV>12000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Mac Lagan</vanh>
+	</Table>
+	<Table>
+		<ID>1832</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>5</STT>
+		<MA>C315</MA>
+		<TEN>Test Gros</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>12000</GIA_TH>
+		<GIA_BH>12000</GIA_BH>
+		<GIA_DV>12000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Gros test</vanh>
+	</Table>
+	<Table>
+		<ID>1833</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>6</STT>
+		<MA>C316</MA>
+		<TEN>Thử giang mai VDRL</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>30000</GIA_TH>
+		<GIA_BH>30000</GIA_BH>
+		<GIA_DV>30000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>VDRL</vanh>
+	</Table>
+	<Table>
+		<ID>1834</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>7</STT>
+		<MA>C317</MA>
+		<TEN>TPHA</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>35000</GIA_TH>
+		<GIA_BH>35000</GIA_BH>
+		<GIA_DV>35000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>TPHA</vanh>
+	</Table>
+	<Table>
+		<ID>1835</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>8</STT>
+		<MA>C318</MA>
+		<TEN>HIV</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>50000</GIA_TH>
+		<GIA_BH>50000</GIA_BH>
+		<GIA_DV>50000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>HIV</vanh>
+	</Table>
+	<Table>
+		<ID>1836</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>9</STT>
+		<MA>C319</MA>
+		<TEN>Công thức máu (NGFL)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>10000</GIA_TH>
+		<GIA_BH>10000</GIA_BH>
+		<GIA_DV>10000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Triglycerid</vanh>
+	</Table>
+	<Table>
+		<ID>1837</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>10</STT>
+		<MA>C3110</MA>
+		<TEN>Tìm tế bào Hargraves</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>15000</GIA_TH>
+		<GIA_BH>15000</GIA_BH>
+		<GIA_DV>15000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Hargraves cell</vanh>
+	</Table>
+	<Table>
+		<ID>1838</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>11</STT>
+		<MA>C3111</MA>
+		<TEN>Thời gian máu chảy, thời gian máu đông (TS-TC)</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>6000</GIA_TH>
+		<GIA_BH>6000</GIA_BH>
+		<GIA_DV>6000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Blood sugar</vanh>
+	</Table>
+	<Table>
+		<ID>1840</ID>
+		<ID_LOAI>6</ID_LOAI>
+		<STT>13</STT>
+		<MA>C3113</MA>
+		<TEN>Tìm KST sốt rét</TEN>
+		<DVT>Lần</DVT>
+		<GIA_TH>6000</GIA_TH>
+		<GIA_BH>6000</GIA_BH>
+		<GIA_DV>6000</GIA_DV>
+		<GIA_NN>1</GIA_NN>
+		<BHYT>0</BHYT>
+		<USERID>0</USERID>
+		<NGAYUD>2005-02-14T11:51:15.0000000-08:00</NGAYUD>
+		<vanh>Malaria </vanh>
+	</Table>
+</NewDataSet>

@@ -1,0 +1,246 @@
+
+01:17:17 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:19:50 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:19:57 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:20:15 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:20:15 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:20:22 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:21:29 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-01935: missing user or role name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57CREATE USER 1 IDENTIFIED BY 1 DEFAULT TABLESPACE medisoft QUOTA 100M ON medisoft
+
+01:21:52 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-01935: missing user or role name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57CREATE USER 1 IDENTIFIED BY 1 DEFAULT TABLESPACE medisoft QUOTA 100M ON medisoft
+
+01:21:53 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-01935: missing user or role name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57CREATE USER 1 IDENTIFIED BY 1 DEFAULT TABLESPACE medisoft QUOTA 100M ON medisoft
+
+01:21:53 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-01935: missing user or role name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57CREATE USER 1 IDENTIFIED BY 1 DEFAULT TABLESPACE medisoft QUOTA 100M ON medisoft
+
+01:21:53 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-01935: missing user or role name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57CREATE USER 1 IDENTIFIED BY 1 DEFAULT TABLESPACE medisoft QUOTA 100M ON medisoft
+
+01:22:02 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+01:54:22 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:54:49 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:54:49 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+01:54:55 PM Tuesday, March 18, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+09:26:54 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+09:27:01 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+09:28:46 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+09:28:47 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+09:28:52 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:19:40 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:19:40 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:19:40 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:21:03 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12532: TNS:invalid argument    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12532: TNS:invalid argument
+
+11:21:13 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12532: TNS:invalid argument    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12532: TNS:invalid argument
+
+11:21:24 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12532: TNS:invalid argument    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12532: TNS:invalid argument
+
+11:26:29 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:26:31 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:26:36 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:29:43 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+11:34:52 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:34:54 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:34:59 AM Saturday, March 22, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:34:22 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:35:05 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:35:12 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:36:45 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-00955: name is already used by an existing object    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at LTCAccessdata.LTCCommand.ExecuteNonQuery() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCCommand.cs:line 57create table q.config(id number(1),connection varchar2(50),service varchar2(50),tablespace varchar2(50), username varchar2(50),password varchar2(50),systempass varchar2(50),constraint pk_login primary key(id))
+
+11:37:13 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:37:43 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified
+
+11:37:55 AM Saturday, March 29, 2014
+Oracle.DataAccess.Client.OracleException ORA-12154: TNS:could not resolve the connect identifier specified    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at LTCAccessdata.LTCConnection.Open() in D:\CODE\VinhLong_115_11g\SOURCE_Medisoft2009_115\SOURCE_Medisoft2009_115\LTCAccessdata\LTCConnection.cs:line 83ORA-12154: TNS:could not resolve the connect identifier specified

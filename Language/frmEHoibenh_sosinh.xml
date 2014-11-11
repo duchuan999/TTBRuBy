@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Language">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="Vviet" type="xs:string" minOccurs="0" />
+								<xs:element name="Vanh" type="xs:string" minOccurs="0" />
+								<xs:element name="Vphap" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Language>
+		<Vviet>PHƯƠNG PHÁP HỒI SINH NGAY SAU ĐẺ</Vviet>
+		<Vanh>Post-partum reanimation</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bóp bóng Oxy</Vviet>
+		<Vanh>Oxy balloon</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khác</Vviet>
+		<Vanh>Others</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đặt nội khí quản</Vviet>
+		<Vanh>Intubation</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Xoa bóp tim</Vviet>
+		<Vanh>Heart massage</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Thở Oxy</Vviet>
+		<Vanh>Oxygen</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Hút dịch</Vviet>
+		<Vanh>Suction</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>1. Khóc ngay</Vviet>
+		<Vanh>1. Cry immediatly</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Khi ra đời:</Vviet>
+		<Vanh>Newborn:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Cân nặng:</Vviet>
+		<Vanh>Weight:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>3. Khác</Vviet>
+		<Vanh>3. Others</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>2. Ngạt</Vviet>
+		<Vanh>2. Choke</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>167:Dinh dưỡng sau sinh</Vviet>
+		<Vanh>167.Nutrition port-partum</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Dinh dưỡng sau sinh:</Vviet>
+		<Vanh>Nutrition post-partum</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>166:Apgar</Vviet>
+		<Vanh>166:APGAR</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Apgar:</Vviet>
+		<Vanh>Apgar</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>165:Chức danh</Vviet>
+		<Vanh>165:Title</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Chức danh:</Vviet>
+		<Vanh>Title:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Họ tên người đở đẻ:</Vviet>
+		<Vanh>Nurse</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TÌNH TRẠNG SƠ SINH KHI RA ĐỜI</Vviet>
+		<Vanh>NEWBORN STATUS</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>159:Lý do can thiệp</Vviet>
+		<Vanh>159:Reason of intervention</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lý do can thiệp:</Vviet>
+		<Vanh>Reason of intervention</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày giờ đẻ:</Vviet>
+		<Vanh>Delivery time</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Can thiệp</Vviet>
+		<Vanh>Intervention</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Đẻ thường</Vviet>
+		<Vanh>Normal delivery</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>144:Màu sắc</Vviet>
+		<Vanh>144:Color</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Màu sắc:</Vviet>
+		<Vanh>Color</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ối vở ngày:</Vviet>
+		<Vanh>Amnio. sac rupture on :</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Ngày:</Vviet>
+		<Vanh>Date:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>...</Vviet>
+		<Vanh>...</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bác sĩ:</Vviet>
+		<Vanh>Doctor:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>TÌNH HÌNH SẢN PHỤ TRONG KHI ĐẺ</Vviet>
+		<Vanh>Mother status during delivery</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Diển biến bệnh:</Vviet>
+		<Vanh>Evolution:</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Lý do vào viện:</Vviet>
+		<Vanh>Chief complains</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Bỏ qua</Vviet>
+		<Vanh>&amp;Ignore</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Lưu</Vviet>
+		<Vanh>&amp;Save</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Sửa</Vviet>
+		<Vanh>&amp;Edit</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;In</Vviet>
+		<Vanh>&amp;Print</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Kết thúc</Vviet>
+		<Vanh>&amp;Return</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>&amp;Xoá</Vviet>
+		<Vanh>&amp;Delete</Vanh>
+		<Vphap />
+	</Language>
+	<Language>
+		<Vviet>Bệnh án</Vviet>
+		<Vanh>Chart</Vanh>
+		<Vphap />
+	</Language>
+</NewDataSet>

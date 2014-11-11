@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true">
+            <xs:complexType>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element name="Language">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="Vviet" type="xs:string" minOccurs="0" />
+                                <xs:element name="Vanh" type="xs:string" minOccurs="0" />
+                                <xs:element name="Vphap" type="xs:string" minOccurs="0" />
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:choice>
+            </xs:complexType>
+        </xs:element>
+    </xs:schema>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>TRÊN NỀN MEDISOFT 2003</Vviet>
+        <Vanh>BASED ON MEDISOFT 2003</Vanh>
+        <Vphap>
+        </Vphap>
+    </Language>
+    <Language>
+        <Vviet>Hổ trợ Pocket PC</Vviet>
+        <Vanh>Pocket PC support</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Kết thúc</Vviet>
+        <Vanh>Exit</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Thông báo qua mạng</Vviet>
+        <Vanh>Send message</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Hội chẩn trên  mạng</Vviet>
+        <Vanh>Tele conference</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Bệnh án Điện tử</Vviet>
+        <Vanh>Electronic Medical Record</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Công ty Links Toàn Cầu - Số 3 nhà 4 Công viên phần mềm Quang Trung - P. Tân Chánh Hiệp - Quận 12 - TP. Hồ Chí Minh - ĐT:(08)7155019 - 0903937066</Vviet>
+        <Vanh>LINKS Company - Quangtrung software city - Vietnam</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý Nhân sự - Lương</Vviet>
+        <Vanh>Staff management</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý Kế toán</Vviet>
+        <Vanh>Finance management</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Chẩn đoán hình ảnh</Vviet>
+        <Vanh>Radiology Information System</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý Xét nghiệm</Vviet>
+        <Vanh>Lab Information System</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý Nhà thuốc</Vviet>
+        <Vanh>Drug Store</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý Dược</Vviet>
+        <Vanh>Pharmacy management</Vanh>
+        <Vphap>
+        </Vphap>
+    </Language>
+    <Language>
+        <Vviet>Quản lý Viện phí</Vviet>
+        <Vanh>Billing system</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>Quản lý bệnh nhân</Vviet>
+        <Vanh>Patient management</Vanh>
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet>...</Vviet>
+        <Vanh />
+        <Vphap />
+    </Language>
+    <Language>
+        <Vviet />
+        <Vanh />
+        <Vphap />
+    </Language>
+</NewDataSet>

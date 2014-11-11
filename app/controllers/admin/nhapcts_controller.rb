@@ -30,6 +30,7 @@ class Admin::NhapctsController < ApplicationController
   end
 
   def edit
+    @nhapcts= Nhapct.all
     @nhapct= Nhapct.find(params[:id])
   end
 

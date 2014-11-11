@@ -12,9 +12,9 @@ class Admin::NhapllsController < ApplicationController
 
   def new
     @nhaplls = Nhapll.all
-   # @nhapcts = Nhapct.all
+    @nhapcts = Nhapct.all
     @nhapll = Nhapll.new
-   # @nhapct= Nhapct.new
+    @nhapct= Nhapct.new
     respond_to do |format|
       format.html
       format.js

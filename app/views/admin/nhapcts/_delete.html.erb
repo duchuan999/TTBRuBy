@@ -1,0 +1,15 @@
+<div class="modal-header">
+  <h3></h3>
+</div>
+<div class="modal-body">
+  <ul class="errors"></ul>
+  <%= t "dmnhomins.question" %><b><%= @nhapct.dmttb.ten %></b>?
+</div>
+<div class="modal-footer">
+  <%= link_to admin_nhapct_path(@nhapct), method: :delete, :data => {remote: true}, class: "btn btn-danger" do %>
+      <i class="glyphicon glyphicon-ok-sign"></i> <%= t "yes" %>
+  <% end %>
+  <%= link_to admin_nhapcts_path, class: "btn btn-default", data: {dismiss: "modal"} do %>
+      <i class="glyphicon glyphicon-remove-sign"></i> <%= t "no" %>
+  <% end %>
+</div>

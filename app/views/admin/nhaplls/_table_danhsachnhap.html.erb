@@ -9,7 +9,7 @@
     <th><%= t "nhapkho.nhacc" %></th>
     <th><%= t "nhapkho.nguon" %></th>
     <th><%= t "nhapkho.kho" %></th>
-    <th style="width: 60px;">&nbsp;</th>
+    <th style="width: 80px;">&nbsp;</th>
   </tr>
   </thead>
   <tbody class="form-index">
@@ -22,7 +22,11 @@
         <td><%= nhapll.dmnhacc.ten %></td>
         <td><%= nhapll.dmnguon.ten %></td>
         <td><%= nhapll.dmkho.ten %></td>
-        <td><%= link_to edit_admin_nhapll_path(nhapll), data: {remote: true}, :title => t('edit') do %>
+        <td>
+          <%= link_to "nhapcts/new/", data: {remote: true}, :title => t('import') do %>
+              <i class="glyphicon glyphicon-plus"></i>
+          <% end %>
+          <%= link_to edit_admin_nhapll_path(nhapll), data: {remote: true}, :title => t('edit') do %>
               <i class="glyphicon glyphicon-edit"></i>
           <% end %>
           <%= link_to admin_nhapll_delete_path(nhapll), data: {remote: true}, :title => t('delete') do %>

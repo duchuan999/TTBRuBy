@@ -22,12 +22,15 @@ Rails.application.routes.draw do
     match '/find_ttb' => 'pages#find_ttb', :via => :get, :format => :json
     namespace :admin do
       match "/" => "general#index", :via => [:get, :post]
-
+     # match 'admin/nhapcts/:id/new'=>'admin#nhapcts#new', :via=>[:get,:post]
       resources :nhapkhos
       resources :nhaplls do
         get "delete"
+
       end
-      resources :nhapcts
+      resources :nhapcts do
+        get "delete"
+      end
 
     end
 

@@ -5,4 +5,5 @@ $("ul.errors").append($("<li />").html("<%= message.html_safe %>"))
 <% end %>
 <% else %>
 $(".form-index").html("<%= escape_javascript(render 'table_danhsachnhap') %>")
+$("#form-modal").modal("hide")
 <% end %>

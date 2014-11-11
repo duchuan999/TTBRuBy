@@ -19,7 +19,7 @@ Rails.application.routes.draw do
   scope ":locale", locale: /#{I18n.available_locales.join("|")}/ do
     root to: 'pages#home'
     match '/danhsachttb' => 'pages#danhsachttb', :via => :get, :format => :json
-    match '/find_ttb' => 'pages#find_ttb', :via => [:get, :post], :format => :json
+    match 'find_ttb/:id' => 'pages#find_ttb', :via => [:get, :post], :format => :json
     namespace :admin do
       match "/" => "general#index", :via => [:get, :post]
      # match 'admin/nhapcts/:id/new'=>'admin#nhapcts#new', :via=>[:get,:post]

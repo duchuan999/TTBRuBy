@@ -9,5 +9,5 @@ function chonttb(_ttb) {
             }
 
         });
-    $("#nhapct_dongia").html.value(curV);
+    $("#nhapct_dongia").value=curV;
 }
